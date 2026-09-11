@@ -8,7 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
     steps:
       - name: Ping Slack
         if: ${{ env.SLACK_WEBHOOK_URL != '' }}
@@ -17,14 +16,7 @@ jobs:
             -d '{"text": "✅ Test ping from job-watcher — Slack webhook is wired up correctly."}' \
             "$SLACK_WEBHOOK_URL"
 
-      # - name: Ping Discord
-      #   if: ${{ env.DISCORD_WEBHOOK_URL != '' }}
-      #   run: |
-      #     curl -sf -X POST -H 'Content-Type: application/json' \
-      #       -d '{"content": "✅ Test ping from job-watcher — Discord webhook is wired up correctly."}' \
-      #       "$DISCORD_WEBHOOK_URL"
-
-      - name: Report missing secrets
+      - name: Report missing secret
         if: ${{ env.SLACK_WEBHOOK_URL == '' }}
         run: |
           echo "::error::SLACK_WEBHOOK_URL is not set as a repo secret."

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Watch SimplifyJobs/New-Grad-Positions for new listings in selected categories
-and notify Slack + Discord. State (which listings we've already seen) is kept in
+and notify Slack. State (which listings we've already seen) is kept in
 DATA_FILE, committed back to the repo by the workflow.
 """
 import hashlib
@@ -21,7 +21,6 @@ CATEGORIES = {
 }
 
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL", "")
-DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 
 
 class RowParser(HTMLParser):
@@ -172,14 +171,6 @@ def notify_slack(listings: list) -> None:
         post_json(SLACK_WEBHOOK_URL, {"text": "\n\n".join(lines)})
 
 
-def notify_discord(listings: list) -> None:
-    if not DISCORD_WEBHOOK_URL:
-        return
-    for batch in chunked(listings, 8):
-        lines = [f"**{l['company']}** — {l['role']} ({l['location']})\n{l['apply_url']}" for l in batch]
-        post_json(DISCORD_WEBHOOK_URL, {"content": "\n\n".join(lines)})
-
-
 def main() -> None:
     readme = fetch_readme()
     all_listings = []
@@ -200,7 +191,6 @@ def main() -> None:
         for l in new_listings:
             print(f"  - [{l['category']}] {l['company']} - {l['role']} ({l['location']})")
         notify_slack(new_listings)
-        notify_discord(new_listings)
     else:
         print("no new listings")
 
