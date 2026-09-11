@@ -13,16 +13,15 @@ jobs:
           curl -sf -X POST -H 'Content-Type: application/json' \
             -d '{"text": "✅ Test ping from job-watcher — Slack webhook is wired up correctly."}' \
             "${{ secrets.SLACK_WEBHOOK_URL }}"
-
-      - name: Ping Discord
-        if: ${{ secrets.DISCORD_WEBHOOK_URL != '' }}
-        run: |
-          curl -sf -X POST -H 'Content-Type: application/json' \
-            -d '{"content": "✅ Test ping from job-watcher — Discord webhook is wired up correctly."}' \
-            "${{ secrets.DISCORD_WEBHOOK_URL }}"
+      # - name: Ping Discord
+      #   if: ${{ secrets.DISCORD_WEBHOOK_URL != '' }}
+      #   run: |
+      #     curl -sf -X POST -H 'Content-Type: application/json' \
+      #       -d '{"content": "✅ Test ping from job-watcher — Discord webhook is wired up correctly."}' \
+      #       "${{ secrets.DISCORD_WEBHOOK_URL }}"
 
       - name: Report missing secrets
-        if: ${{ secrets.SLACK_WEBHOOK_URL == '' && secrets.DISCORD_WEBHOOK_URL == '' }}
+        if: ${{ secrets.SLACK_WEBHOOK_URL == '' }}
         run: |
           echo "::error::Neither SLACK_WEBHOOK_URL nor DISCORD_WEBHOOK_URL is set as a repo secret."
           exit 1
