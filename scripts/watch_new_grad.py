@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Watch SimplifyJobs/New-Grad-Positions for new listings in selected categories
-and notify Slack. State (which listings we've already seen) is kept in
+"""Watch multiple new-grad job-listing repos for new postings and notify Slack.
+State (which listings we've already seen, namespaced per source) is kept in
 DATA_FILE, committed back to the repo by the workflow.
 """
 import hashlib
@@ -11,20 +11,41 @@ import sys
 import urllib.request
 from html.parser import HTMLParser
 
-README_URL = "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md"
 DATA_FILE = "data/new-grad-seen.json"
 
-# category label -> exact heading text as it appears in the README (without "## ")
-CATEGORIES = {
-    "Software Engineering": "💻 Software Engineering New Grad Roles",
-    "Data Science, AI & ML": "🤖 Data Science, AI & Machine Learning New Grad Roles",
-}
+# Each source is a repo README to watch. "parser" selects how its table(s) are
+# read: "html_categories" for SimplifyJobs-style repos (HTML <table>s under
+# "## <emoji> <Category>" headings), "markdown_table" for a single plain
+# markdown pipe table between the TABLE_START/TABLE_END markers.
+SOURCES = [
+    {
+        "key": "simplifyjobs-new-grad",
+        "label": "SimplifyJobs New Grad Positions",
+        "readme_url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+        "parser": "html_categories",
+        "categories": {
+            "Software Engineering": "💻 Software Engineering New Grad Roles",
+            "Data Science, AI & ML": "🤖 Data Science, AI & Machine Learning New Grad Roles",
+        },
+    },
+    {
+        "key": "jobright-swe-new-grad",
+        "label": "Jobright SWE New Grad",
+        "readme_url": "https://raw.githubusercontent.com/jobright-ai/2026-Software-Engineer-New-Grad/master/README.md",
+        "parser": "markdown_table",
+        "categories": {
+            "Software Engineering": None,
+        },
+    },
+]
 
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL", "")
 
+LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]*)\)")
 
-class RowParser(HTMLParser):
-    """Parses the <tbody> rows of the first HTML table in a chunk of the README."""
+
+class HtmlRowParser(HTMLParser):
+    """Parses the <tbody> rows of the first HTML table in a chunk of a README."""
 
     def __init__(self):
         super().__init__()
@@ -54,7 +75,7 @@ class RowParser(HTMLParser):
             self._buf += ", "
 
     def handle_endtag(self, tag):
-        # the README uses stray "</br>" (no opening "<br>") for line breaks
+        # some READMEs use stray "</br>" (no opening "<br>") for line breaks
         if tag == "br" and self.in_tbody:
             self._buf += ", "
         elif tag == "tbody":
@@ -83,12 +104,12 @@ class RowParser(HTMLParser):
             pass
 
 
-def fetch_readme() -> str:
-    with urllib.request.urlopen(README_URL, timeout=30) as resp:
+def fetch(url: str) -> str:
+    with urllib.request.urlopen(url, timeout=30) as resp:
         return resp.read().decode("utf-8")
 
 
-def slice_category(readme: str, heading: str) -> str:
+def slice_category_html(readme: str, heading: str) -> str:
     start_marker = f"## {heading}"
     start = readme.find(start_marker)
     if start == -1:
@@ -99,8 +120,18 @@ def slice_category(readme: str, heading: str) -> str:
     return readme[start:end]
 
 
-def parse_listings(chunk: str, category: str):
-    parser = RowParser()
+def slice_table_markers(readme: str) -> str:
+    start_marker = "TABLE_START (DO NOT CHANGE THIS LINE) -->"
+    end_marker = "TABLE_END (DO NOT CHANGE THIS LINE) -->"
+    start = readme.find(start_marker)
+    end = readme.find(end_marker)
+    if start == -1 or end == -1:
+        raise RuntimeError("TABLE_START/TABLE_END markers not found in README")
+    return readme[start + len(start_marker) : end]
+
+
+def parse_html_listings(chunk: str, category: str, source: dict):
+    parser = HtmlRowParser()
     parser.feed(chunk)
     listings = []
     last_company = ""
@@ -113,21 +144,83 @@ def parse_listings(chunk: str, category: str):
             continue
         if simplify_url:
             m = re.search(r"simplify\.jobs/p/([0-9a-fA-F-]+)", simplify_url)
-            listing_id = m.group(1) if m else simplify_url
+            raw_id = m.group(1) if m else simplify_url
         else:
-            listing_id = hashlib.sha1(f"{category}|{company}|{role}|{location}".encode()).hexdigest()
+            raw_id = hashlib.sha1(f"{category}|{company}|{role}|{location}".encode()).hexdigest()
         listings.append(
             {
-                "id": listing_id,
+                "id": f"{source['key']}:{raw_id}",
+                "source": source["label"],
                 "category": category,
                 "company": company,
                 "role": role,
                 "location": location,
                 "apply_url": apply_url or simplify_url,
-                "age": age,
             }
         )
     return listings
+
+
+def parse_markdown_listings(chunk: str, category: str, source: dict):
+    listings = []
+    last_company = ""
+    for line in chunk.splitlines():
+        line = line.strip()
+        if not line.startswith("|"):
+            continue
+        if re.match(r"^\|[\s:|-]+\|?$", line):
+            continue  # header separator row
+        cells = [c.strip() for c in line.strip("|").split("|")]
+        if len(cells) < 5:
+            continue
+        company_cell, role_cell, location, _work_model, posted = cells[:5]
+
+        if company_cell == "↳":
+            company = last_company
+        else:
+            m = LINK_RE.search(company_cell)
+            company = (m.group(1) if m else company_cell).strip("* ")
+            if company:
+                last_company = company
+
+        role_match = LINK_RE.search(role_cell)
+        role = (role_match.group(1) if role_match else role_cell).strip("* ")
+        apply_url = role_match.group(2) if role_match else ""
+
+        if not company or not role or company.lower() == "company" or role.lower() == "job title":
+            continue
+
+        id_match = re.search(r"info/([0-9a-fA-F]+)", apply_url)
+        raw_id = id_match.group(1) if id_match else (apply_url or f"{company}|{role}|{location}")
+        listings.append(
+            {
+                "id": f"{source['key']}:{raw_id}",
+                "source": source["label"],
+                "category": category,
+                "company": company,
+                "role": role,
+                "location": location,
+                "apply_url": apply_url,
+            }
+        )
+    return listings
+
+
+def collect_listings() -> list:
+    all_listings = []
+    for source in SOURCES:
+        readme = fetch(source["readme_url"])
+        if source["parser"] == "html_categories":
+            for category, heading in source["categories"].items():
+                chunk = slice_category_html(readme, heading)
+                all_listings.extend(parse_html_listings(chunk, category, source))
+        elif source["parser"] == "markdown_table":
+            chunk = slice_table_markers(readme)
+            for category in source["categories"]:
+                all_listings.extend(parse_markdown_listings(chunk, category, source))
+        else:
+            raise RuntimeError(f"unknown parser type: {source['parser']!r}")
+    return all_listings
 
 
 def load_seen_ids() -> set:
@@ -165,18 +258,14 @@ def notify_slack(listings: list) -> None:
         return
     for batch in chunked(listings, 15):
         lines = [
-            f"*{l['company']}* — {l['role']} ({l['location']})\n<{l['apply_url']}|Apply>"
+            f"*{l['company']}* — {l['role']} ({l['location']})\n<{l['apply_url']}|Apply> · _{l['source']}_"
             for l in batch
         ]
         post_json(SLACK_WEBHOOK_URL, {"text": "\n\n".join(lines)})
 
 
 def main() -> None:
-    readme = fetch_readme()
-    all_listings = []
-    for category, heading in CATEGORIES.items():
-        chunk = slice_category(readme, heading)
-        all_listings.extend(parse_listings(chunk, category))
+    all_listings = collect_listings()
 
     current_ids = {l["id"] for l in all_listings}
     first_run = not os.path.exists(DATA_FILE)
@@ -189,7 +278,7 @@ def main() -> None:
     elif new_listings:
         print(f"found {len(new_listings)} new listing(s)")
         for l in new_listings:
-            print(f"  - [{l['category']}] {l['company']} - {l['role']} ({l['location']})")
+            print(f"  - [{l['source']}/{l['category']}] {l['company']} - {l['role']} ({l['location']})")
         notify_slack(new_listings)
     else:
         print("no new listings")

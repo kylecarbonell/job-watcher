@@ -1,19 +1,27 @@
 # new-grad-watcher
 
-Watches [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
-for new job listings in the **Software Engineering** and **Data Science, AI & ML**
-categories, and posts new ones to Slack.
+Watches multiple new-grad job-listing repos for new postings and posts them to
+Slack. Currently configured sources:
 
-Runs on a schedule (every 30 min) via GitHub Actions, since we don't own that
-repo and can't attach a `push`-triggered workflow to it. Each run:
+- [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+  — Software Engineering + Data Science, AI & ML categories
+- [jobright-ai/2026-Software-Engineer-New-Grad](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad)
+  — Software Engineering
 
-1. Fetches their README (raw, from the `dev` branch — that's their default branch).
-2. Parses out listing rows for the selected categories.
-3. Diffs against `data/new-grad-seen.json` (committed back to this repo) to find new ones.
+Runs on a schedule (every 5 min) via GitHub Actions, since we don't own either
+repo and can't attach a `push`-triggered workflow to them. Each run:
+
+1. Fetches each source's README (raw, from that repo's own default branch).
+2. Parses out listing rows — SimplifyJobs uses HTML tables split by category
+   heading; Jobright uses a single plain markdown pipe table between
+   `TABLE_START`/`TABLE_END` markers. `scripts/watch_new_grad.py` picks the
+   right parser per source.
+3. Diffs against `data/new-grad-seen.json` (committed back to this repo,
+   IDs namespaced per source) to find new ones.
 4. Posts new listings to a Slack webhook.
 
 The **first run seeds the state file silently** (no notifications) so you don't
-get flooded with ~1,800 historical listings on day one.
+get flooded with thousands of historical listings on day one.
 
 ## Setup
 
@@ -34,8 +42,13 @@ get flooded with ~1,800 historical listings on day one.
 ## Adjusting
 
 - **Polling frequency**: edit the `cron` line in
-  `.github/workflows/watch-new-grad.yml`.
-- **Categories**: edit `CATEGORIES` in `scripts/watch_new_grad.py`. Valid
-  headings (as of writing) are Software Engineering, Product Management,
-  Data Science AI & ML, Quantitative Finance, and Hardware Engineering — check
-  the current README for exact heading text if SimplifyJobs renames a section.
+  `.github/workflows/watch-new-grad.yml`. 5 minutes is the shortest interval
+  GitHub Actions' `schedule` trigger supports.
+- **Sources / categories**: edit `SOURCES` in `scripts/watch_new_grad.py`. Each
+  entry has a `parser` (`"html_categories"` or `"markdown_table"`) and a
+  `categories` map. For an `html_categories` source, valid SimplifyJobs
+  headings (as of writing) are Software Engineering, Product Management, Data
+  Science AI & ML, Quantitative Finance, and Hardware Engineering — check the
+  live README for exact heading text if they rename a section. To add a new
+  repo, add an entry to `SOURCES`; if its README isn't in one of these two
+  formats, `collect_listings()` will need a third parser branch.
