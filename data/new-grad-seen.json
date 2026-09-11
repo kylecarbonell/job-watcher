@@ -16283,6 +16283,138 @@
       "key": "stanley black decker inc|||brand product slp",
       "location": "towson md united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa43913422289703bd65ada",
+      "key": "healthstream|||associate sdet",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa430aa8275e3a21175f52e",
+      "key": "shure|||engineer i application systems development",
+      "location": "niles il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a873fdfd34f700f87fc457b",
+      "key": "ciena|||embedded software developer new grad",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7b7516b933773d16be7753",
+      "key": "ciena|||embedded software developer new grad",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa436ac422289703bd65a04",
+      "key": "monetate|||associate software engineer",
+      "location": "plano tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a87a59d4afae74a08349c6e",
+      "key": "spacex|||full stack software engineer simulation flight systems",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa42e0f1d92e2d05d113b22",
+      "key": "raytheon|||software engineer i onsite",
+      "location": "fort wayne in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a986500af954907d65731a1",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4346ff3aa936e2cdb039b",
+      "key": "logisense|||associate solutions engineer",
+      "location": "kitchener on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a536ed38a74e077472f8581",
+      "key": "preludesys|||net developer",
+      "location": "illinois united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa441da1d92e2d05d11418e",
+      "key": "logisense|||associate solutions engineer",
+      "location": "kitchener on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4388c1d92e2d05d113e44",
+      "key": "fidelity|||co op software engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa43079f7baf881567cdaf1",
+      "key": "netrolynx ai|||net engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa43399f3aa936e2cdb0337",
+      "key": "bending spoons|||graduate software engineer",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa42d4c422289703bd6575a",
+      "key": "emerson|||software engineer",
+      "location": "shakopee mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa39f154238ea18d430cfd2",
+      "key": "rtx|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa432abf3aa936e2cdb0320",
+      "key": "bristol myers squibb|||engineer computer systems validation it compliance",
+      "location": "devens ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa1b09d2f936e4a53dad81e",
+      "key": "rtx|||software engineer i onsite",
+      "location": "woburn ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a6a6b980b42f866b6198b19",
+      "key": "genesis molecular ai|||manager new product planning",
+      "location": "san diego ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa37948cb2e99857c2704af",
+      "key": "morgan stanley|||associate platforms equityzen",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a565d9721f64463ad353f25",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "california pleasanton",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa01b26500b01124c776d75",
+      "key": "bny|||specialist product management",
+      "location": "lake mary fl united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
