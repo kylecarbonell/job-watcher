@@ -27,6 +27,7 @@ SOURCES = [
         "categories": {
             "Software Engineering": "💻 Software Engineering New Grad Roles",
             "Data Science, AI & ML": "🤖 Data Science, AI & Machine Learning New Grad Roles",
+            "Product Management": "📱 Product Management New Grad Roles",
         },
     },
     {
@@ -38,7 +39,22 @@ SOURCES = [
             "Software Engineering": None,
         },
     },
+    {
+        "key": "jobright-pm-new-grad",
+        "label": "Jobright PM New Grad",
+        "readme_url": "https://raw.githubusercontent.com/jobright-ai/2026-Product-Management-New-Grad/master/README.md",
+        "parser": "markdown_table",
+        "categories": {
+            "Product Management": None,
+        },
+    },
 ]
+
+# Which Slack webhook (env var name) a listing's category should be posted
+# to. Anything not listed here falls back to SLACK_WEBHOOK_URL.
+CATEGORY_WEBHOOK_ENV = {
+    "Product Management": "SLACK_PM_WEBHOOK_URL",
+}
 
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL", "")
 
@@ -318,15 +334,28 @@ def post_json(url: str, payload: dict) -> None:
         print(f"warning: failed to post to {url}: {e}", file=sys.stderr)
 
 
+def webhook_for_category(category: str) -> str:
+    env_name = CATEGORY_WEBHOOK_ENV.get(category)
+    if env_name:
+        return os.environ.get(env_name, "")
+    return SLACK_WEBHOOK_URL
+
+
 def notify_slack(listings: list) -> None:
-    if not SLACK_WEBHOOK_URL:
-        return
-    for batch in chunked(listings, 15):
-        lines = [
-            f"*{l['company']}* — {l['role']} ({l['location']})\n<{l['apply_url']}|Apply> · _{l['source']}_"
-            for l in batch
-        ]
-        post_json(SLACK_WEBHOOK_URL, {"text": "\n\n".join(lines)})
+    by_category: dict[str, list] = {}
+    for l in listings:
+        by_category.setdefault(l["category"], []).append(l)
+
+    for category, category_listings in by_category.items():
+        webhook_url = webhook_for_category(category)
+        if not webhook_url:
+            continue
+        for batch in chunked(category_listings, 15):
+            lines = [
+                f"*{l['company']}* — {l['role']} ({l['location']})\n<{l['apply_url']}|Apply> · _{l['source']}_"
+                for l in batch
+            ]
+            post_json(webhook_url, {"text": "\n\n".join(lines)})
 
 
 def main() -> None:

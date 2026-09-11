@@ -17,6 +17,7 @@ jobs:
       - name: Run watcher
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_PM_WEBHOOK_URL: ${{ secrets.SLACK_PM_WEBHOOK_URL }}
         run: python3 scripts/watch_new_grad.py
 
       - name: Commit updated state

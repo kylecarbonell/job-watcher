@@ -4,9 +4,14 @@ Watches multiple new-grad job-listing repos for new postings and posts them to
 Slack. Currently configured sources:
 
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
-  — Software Engineering + Data Science, AI & ML categories
+  — Software Engineering, Data Science AI & ML, and Product Management categories
 - [jobright-ai/2026-Software-Engineer-New-Grad](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad)
   — Software Engineering
+- [jobright-ai/2026-Product-Management-New-Grad](https://github.com/jobright-ai/2026-Product-Management-New-Grad)
+  — Product Management
+
+Product Management listings (from either repo) post to a **separate Slack
+channel** than everything else - see "Multiple Slack channels" below.
 
 Runs on a schedule (every 5 min) via GitHub Actions, since we don't own either
 repo and can't attach a `push`-triggered workflow to them. Each run:
@@ -43,8 +48,12 @@ get flooded with thousands of historical listings on day one.
    git commit -m "chore: initial watcher setup"
    gh repo create new-grad-watcher --private --source=. --remote=origin --push
    ```
-2. Add a repo secret (Settings → Secrets and variables → Actions):
-   - `SLACK_WEBHOOK_URL` — an [incoming webhook URL](https://api.slack.com/messaging/webhooks) for the Slack channel you want.
+2. Add repo secrets (Settings → Secrets and variables → Actions):
+   - `SLACK_WEBHOOK_URL` — an [incoming webhook URL](https://api.slack.com/messaging/webhooks) for the default channel.
+   - `SLACK_PM_WEBHOOK_URL` — a second incoming webhook, pointed at whatever
+     channel you want Product Management listings to land in instead (e.g.
+     `#new-grad-pm`). A Slack app can have multiple incoming webhooks, one per
+     channel - see "Multiple Slack channels" below.
 3. Trigger the workflow once manually (Actions tab → "Watch New-Grad-Positions" →
    Run workflow) to seed `data/new-grad-seen.json`, or just let the first
    scheduled run do it.
@@ -63,3 +72,12 @@ get flooded with thousands of historical listings on day one.
   live README for exact heading text if they rename a section. To add a new
   repo, add an entry to `SOURCES`; if its README isn't in one of these two
   formats, `collect_listings()` will need a third parser branch.
+- **Multiple Slack channels**: `CATEGORY_WEBHOOK_ENV` in
+  `scripts/watch_new_grad.py` maps a category name to an env var holding a
+  webhook URL; anything not listed falls back to `SLACK_WEBHOOK_URL`. To route
+  another category to its own channel, add an entry there, add the matching
+  secret in GitHub, and pass it through in the `env:` block of
+  `.github/workflows/watch-new-grad.yml`. Note this routes by **category**,
+  not by source repo - e.g. both Jobright's and SimplifyJobs' Product
+  Management listings share `SLACK_PM_WEBHOOK_URL`, since that's the option
+  picked when this was set up.
