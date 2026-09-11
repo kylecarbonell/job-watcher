@@ -18,7 +18,18 @@ repo and can't attach a `push`-triggered workflow to them. Each run:
    right parser per source.
 3. Diffs against `data/new-grad-seen.json` (committed back to this repo,
    IDs namespaced per source) to find new ones.
-4. Posts new listings to a Slack webhook.
+4. **Cross-source dedup**: the same real posting often shows up on both
+   SimplifyJobs and Jobright (they scrape overlapping sources). Since Jobright
+   doesn't expose the actual employer application URL (its links are its own
+   client-rendered redirect pages, not something we can resolve to a canonical
+   URL), matching is done by normalized `(company, role)` + overlapping
+   location instead. A match against a *different* source is suppressed
+   (recorded as seen, but not notified); repeats *within* the same source are
+   left alone, since SimplifyJobs legitimately reposts the same role over time
+   under a new id. This is a heuristic, not exact — false negatives (missed
+   dupes) are more likely than false positives, given the location-overlap
+   check requires normalized company+role to match exactly first.
+5. Posts new (non-duplicate) listings to a Slack webhook.
 
 The **first run seeds the state file silently** (no notifications) so you don't
 get flooded with thousands of historical listings on day one.

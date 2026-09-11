@@ -8,6 +8,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 import urllib.request
 from html.parser import HTMLParser
 
@@ -151,6 +152,7 @@ def parse_html_listings(chunk: str, category: str, source: dict):
             {
                 "id": f"{source['key']}:{raw_id}",
                 "source": source["label"],
+                "source_key": source["key"],
                 "category": category,
                 "company": company,
                 "role": role,
@@ -196,6 +198,7 @@ def parse_markdown_listings(chunk: str, category: str, source: dict):
             {
                 "id": f"{source['key']}:{raw_id}",
                 "source": source["label"],
+                "source_key": source["key"],
                 "category": category,
                 "company": company,
                 "role": role,
@@ -223,18 +226,80 @@ def collect_listings() -> list:
     return all_listings
 
 
-def load_seen_ids() -> set:
+# Different sources describe the same city differently ("SF" vs "San
+# Francisco, CA, United States") - expand common ones so location overlap
+# checks below can actually match them.
+CITY_ALIASES = {
+    "sf": "san francisco",
+    "nyc": "new york",
+    "la": "los angeles",
+    "dc": "washington",
+}
+
+
+def normalize_text(s: str) -> str:
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = re.sub(r"[^\x00-\x7f]", " ", s)  # drop emoji / non-ascii flag glyphs
+    s = s.lower()
+    s = re.sub(r"[^a-z0-9]+", " ", s).strip()
+    return s
+
+
+def normalize_location(s: str) -> str:
+    words = normalize_text(s).split()
+    words = [CITY_ALIASES.get(w, w) for w in words]
+    return " ".join(words)
+
+
+def dedupe_key(listing: dict) -> str:
+    return f"{normalize_text(listing['company'])}|||{normalize_text(listing['role'])}"
+
+
+def locations_overlap(a: str, b: str) -> bool:
+    if not a or not b:
+        return False
+    return a in b or b in a
+
+
+def load_seen_records() -> list:
     if not os.path.exists(DATA_FILE):
-        return set()
+        return []
     with open(DATA_FILE, "r") as f:
-        return set(json.load(f).get("seen_ids", []))
+        return json.load(f).get("seen", [])
 
 
-def save_seen_ids(ids: set) -> None:
+def save_seen_records(records: list) -> None:
     os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
     with open(DATA_FILE, "w") as f:
-        json.dump({"seen_ids": sorted(ids)}, f, indent=2)
+        json.dump({"seen": records}, f, indent=2)
         f.write("\n")
+
+
+def dedupe_cross_source(listings: list, seen_records: list) -> set:
+    """Return the ids that should be treated as the "real" representative of
+    their (company, role, overlapping location) cluster, considering both
+    this run's listings and everything ever recorded. Only listings from a
+    *different* source than an existing match are folded together - repeat
+    postings within the same source (which already happen legitimately, e.g.
+    a role reposted months later) are left untouched."""
+    buckets: dict[str, list] = {}
+    for r in seen_records:
+        buckets.setdefault(r["key"], []).append(r)
+
+    primary_ids = set()
+    for l in listings:
+        key = dedupe_key(l)
+        loc = normalize_location(l["location"])
+        bucket = buckets.setdefault(key, [])
+        match = next(
+            (r for r in bucket if r["source_key"] != l["source_key"] and locations_overlap(loc, r["location"])),
+            None,
+        )
+        if match is None:
+            primary_ids.add(l["id"])
+        bucket.append({"id": l["id"], "key": key, "location": loc, "source_key": l["source_key"]})
+    return primary_ids
 
 
 def chunked(items, size):
@@ -267,23 +332,44 @@ def notify_slack(listings: list) -> None:
 def main() -> None:
     all_listings = collect_listings()
 
-    current_ids = {l["id"] for l in all_listings}
     first_run = not os.path.exists(DATA_FILE)
-    seen_ids = load_seen_ids()
+    seen_records = load_seen_records()
+    seen_ids = {r["id"] for r in seen_records}
 
-    new_listings = [l for l in all_listings if l["id"] not in seen_ids]
+    primary_ids = dedupe_cross_source(all_listings, seen_records)
+    unseen_by_id = {l["id"]: l for l in all_listings if l["id"] not in seen_ids}
+    new_listings = [l for l in unseen_by_id.values() if l["id"] in primary_ids]
+    suppressed = [l for l in unseen_by_id.values() if l["id"] not in primary_ids]
 
     if first_run:
-        print(f"first run: seeding state with {len(current_ids)} existing listings, no notifications sent")
-    elif new_listings:
-        print(f"found {len(new_listings)} new listing(s)")
-        for l in new_listings:
-            print(f"  - [{l['source']}/{l['category']}] {l['company']} - {l['role']} ({l['location']})")
-        notify_slack(new_listings)
+        print(f"first run: seeding state with {len(all_listings)} existing listings, no notifications sent")
     else:
-        print("no new listings")
+        if new_listings:
+            print(f"found {len(new_listings)} new listing(s)")
+            for l in new_listings:
+                print(f"  - [{l['source']}/{l['category']}] {l['company']} - {l['role']} ({l['location']})")
+        if suppressed:
+            print(f"suppressed {len(suppressed)} as cross-source duplicate(s):")
+            for l in suppressed:
+                print(f"  - [{l['source']}] {l['company']} - {l['role']} ({l['location']})")
+        if not new_listings and not suppressed:
+            print("no new listings")
+        notify_slack(new_listings)
 
-    save_seen_ids(seen_ids | current_ids)
+    existing_ids = set(seen_ids)
+    updated_records = list(seen_records)
+    for l in all_listings:
+        if l["id"] not in existing_ids:
+            updated_records.append(
+                {
+                    "id": l["id"],
+                    "key": dedupe_key(l),
+                    "location": normalize_location(l["location"]),
+                    "source_key": l["source_key"],
+                }
+            )
+            existing_ids.add(l["id"])
+    save_seen_records(updated_records)
 
 
 if __name__ == "__main__":
