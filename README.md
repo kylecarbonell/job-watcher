@@ -39,6 +39,36 @@ repo and can't attach a `push`-triggered workflow to them. Each run:
 The **first run seeds the state file silently** (no notifications) so you don't
 get flooded with thousands of historical listings on day one.
 
+## P0 (big-company) alerts
+
+A separate workflow, `.github/workflows/watch-p0.yml`, watches the same
+sources but filters to just "big company" listings and posts them to their
+own Slack channel — for when you want to know the second Google/Meta/etc.
+posts something, not just eventually.
+
+- **Detection** (`is_big_company()` in `scripts/watch_new_grad.py`): a listing
+  counts if SimplifyJobs already tagged it 🔥 (their own FAANG+ marker), or if
+  its company name matches `BIG_COMPANY_ALLOWLIST` (a plain list of names,
+  pre-filled with FAANG+/notable tech + quant-trading companies — edit it
+  directly to add/remove companies).
+- **Not exclusive**: a big-company listing still posts to its normal category
+  channel as usual; the P0 channel is an *additional* fan-out, not a
+  replacement.
+- **Polling rate**: GitHub Actions' `schedule` trigger has a hard 5-minute
+  floor, so `watch-p0.yml` works around it by looping *inside* one
+  5-minute-triggered run — it calls `scripts/watch_p0.py`, sleeps ~60s,
+  and repeats 4 times per invocation, giving ~60–90s effective granularity
+  for this specific check.
+- **Own state file**: `data/p0-seen.json`, separate from
+  `data/new-grad-seen.json`, so the two workflows' commits never touch the
+  same file. Both workflows now retry `git pull --rebase` + `git push` a few
+  times on failure, since running two workflows against the same repo makes
+  push races (not file conflicts — just "the branch moved") more likely.
+- Requires its own secret: `SLACK_P0_WEBHOOK_URL`.
+- Uses the same cross-source dedup as the main watcher (against its own state
+  file), so the same big-company job appearing on both SimplifyJobs and
+  Jobright only pages once.
+
 ## Setup
 
 1. Create a GitHub repo and push this folder to it:
@@ -54,6 +84,8 @@ get flooded with thousands of historical listings on day one.
      channel you want Product Management listings to land in instead (e.g.
      `#new-grad-pm`). A Slack app can have multiple incoming webhooks, one per
      channel - see "Multiple Slack channels" below.
+   - `SLACK_P0_WEBHOOK_URL` — a third incoming webhook for the big-company P0
+     channel - see "P0 (big-company) alerts" below.
 3. Trigger the workflow once manually (Actions tab → "Watch New-Grad-Positions" →
    Run workflow) to seed `data/new-grad-seen.json`, or just let the first
    scheduled run do it.

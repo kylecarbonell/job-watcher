@@ -225,6 +225,71 @@ def parse_markdown_listings(chunk: str, category: str, source: dict):
     return listings
 
 
+# Companies notable enough to warrant a P0 alert, beyond whatever SimplifyJobs
+# itself already flags with 🔥 (see is_big_company below). Matched as a
+# whole word/phrase against the normalized company name, so "Meta" won't
+# false-positive on some unrelated "Metadata Corp". Edit freely.
+BIG_COMPANY_ALLOWLIST = [
+    "google",
+    "meta",
+    "amazon",
+    "apple",
+    "microsoft",
+    "netflix",
+    "nvidia",
+    "openai",
+    "anthropic",
+    "tesla",
+    "spacex",
+    "stripe",
+    "palantir",
+    "databricks",
+    "snowflake",
+    "salesforce",
+    "adobe",
+    "oracle",
+    "ibm",
+    "linkedin",
+    "bytedance",
+    "bloomberg",
+    "two sigma",
+    "jane street",
+    "citadel",
+    "d e shaw",
+    "airbnb",
+    "uber",
+    "lyft",
+    "coinbase",
+    "block",
+    "robinhood",
+    "instacart",
+    "doordash",
+    "pinterest",
+    "snap",
+    "dropbox",
+    "atlassian",
+    "datadog",
+    "mongodb",
+    "servicenow",
+    "workday",
+    "zoom",
+    "qualcomm",
+    "amd",
+    "intel",
+    "cisco",
+    "samsung",
+]
+
+def is_big_company(listing: dict) -> bool:
+    """SimplifyJobs already tags FAANG+ companies with 🔥 in the raw company
+    text (checked before any normalization strips it); anything else is
+    matched against BIG_COMPANY_ALLOWLIST as a whole word/phrase."""
+    if "🔥" in listing["company"]:
+        return True
+    padded = f" {normalize_text(listing['company'])} "
+    return any(f" {normalize_text(alias)} " in padded for alias in BIG_COMPANY_ALLOWLIST)
+
+
 def collect_listings() -> list:
     all_listings = []
     for source in SOURCES:

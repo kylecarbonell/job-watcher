@@ -1,0 +1,43 @@
+name: Watch P0 (big company)
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Poll every ~60s for big-company listings
+        env:
+          SLACK_P0_WEBHOOK_URL: ${{ secrets.SLACK_P0_WEBHOOK_URL }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # GitHub Actions' schedule trigger can't go tighter than 5 minutes,
+          # so this loop sub-polls a few times within one 5-min invocation to
+          # get closer to ~60s granularity for big-company listings only.
+          for i in 1 2 3 4; do
+            python3 scripts/watch_p0.py
+
+            git add data/p0-seen.json
+            if ! git diff --cached --quiet; then
+              git commit -m "chore: update p0 seen listings"
+              for attempt in 1 2 3; do
+                git pull --rebase origin "$GITHUB_REF_NAME" && git push && break
+                echo "push attempt $attempt failed, retrying..."
+                sleep 5
+              done
+            fi
+
+            if [ "$i" -lt 4 ]; then
+              sleep 60
+            fi
+          done

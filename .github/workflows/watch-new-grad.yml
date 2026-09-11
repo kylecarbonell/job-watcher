@@ -25,5 +25,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/new-grad-seen.json
-          git diff --cached --quiet || git commit -m "chore: update seen new-grad listings"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update seen new-grad listings"
+            for attempt in 1 2 3; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push && break
+              echo "push attempt $attempt failed, retrying..."
+              sleep 5
+            done
+          fi
