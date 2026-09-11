@@ -16415,6 +16415,96 @@
       "key": "bny|||specialist product management",
       "location": "lake mary fl united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:68c6902bbbd2604958f096a6c218c64af621839a",
+      "key": "trustpilot|||software engineer 1 trust tech",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa45228422289703bd6621f",
+      "key": "hka|||junior it infrastructure engineer",
+      "location": "las vegas nevada united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa45aa2422289703bd664b6",
+      "key": "motorola solutions|||android software engineer",
+      "location": "plantation fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4553cf7baf881567ce55e",
+      "key": "charles schwab|||full stack developer",
+      "location": "southlake tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a878e39e8b6601d12904240",
+      "key": "analog devices|||associate product applications engineer",
+      "location": "wilmington ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa455ac8275e3a21175ff2f",
+      "key": "hka|||junior it infrastructure engineer",
+      "location": "las vegas nv united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa44b69f3aa936e2cdb0a35",
+      "key": "scientific research corporation|||quality assurance analyst i",
+      "location": "saint inigoes md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5683a8efb06a45240d659d",
+      "key": "one big circle ltd|||junior application software engineer",
+      "location": "greater bristol area united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa462ecf7baf881567ce897",
+      "key": "rtx|||software engineer i gen4 tactical airborne radar",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa45ad4c1928370a285da72",
+      "key": "university of southern california|||programmer analyst i",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa44f891d92e2d05d1144ae",
+      "key": "entegris|||innovation application co op",
+      "location": "danbury ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa460281d92e2d05d1148ad",
+      "key": "demiurge studios|||2027 associate software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa44ee28275e3a21175fdb9",
+      "key": "bristol myers squibb|||engineer computer systems validation it compliance",
+      "location": "devens ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a8729d7680f314a29d373ab",
+      "key": "goldman sachs|||product manager asset wealth management private wealth management",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa45a7c8275e3a21176009b",
+      "key": "outschool|||product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
