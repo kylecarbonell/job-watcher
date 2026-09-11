@@ -15815,6 +15815,474 @@
       "key": "bny|||specialist product management",
       "location": "lake mary fl united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0d140cac-82da-463a-bbfd-a2789c5ce07b",
+      "key": "wavestone|||junior ai engineer ai data team",
+      "location": "pittsburgh pa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa42884f7baf881567cd877",
+      "key": "shure|||engineer i application systems development",
+      "location": "niles il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6920669500c9ee50eaec2f2f",
+      "key": "warp|||software engineer",
+      "location": "remote new york",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa42574f7baf881567cd781",
+      "key": "caci international inc|||configuration control data management co op spring summer 2027",
+      "location": "danbury ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a713489e2b7476e7b20d562",
+      "key": "boeing|||software engineer entry level",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f5afc1928370a285ba18",
+      "key": "argonne national laboratory|||software engineer",
+      "location": "lemont il 60439 united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a975ca5455eaf6a08c1c55e",
+      "key": "kla|||software engineer",
+      "location": "milpitas ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a87a5ab680f314a29d3a0b0",
+      "key": "spacex|||software engineer simulation flight systems",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4083df7baf881567ccdee",
+      "key": "torentify|||software engineer ii remote",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa409aef3aa936e2cdaf6b7",
+      "key": "general atomics aeronautical systems|||software developer",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4089a8275e3a21175e9cb",
+      "key": "chase|||agility senior associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa40813c1928370a285c220",
+      "key": "general atomics aeronautical systems|||software developer i",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8798e7d34f700f87fc614a",
+      "key": "seres auto usa|||embedded firmware engineer",
+      "location": "milpitas ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3cbbe3a768473c9369626",
+      "key": "lockheed martin|||software engineer e3",
+      "location": "longmont co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4273d8275e3a21175f2bc",
+      "key": "eversheds sutherland|||graduate legal technology analyst",
+      "location": "birmingham england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa427e3c1928370a285cc9f",
+      "key": "eversheds sutherland|||graduate legal technology analyst",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a6d6d2c020ee9240900a208",
+      "key": "confido|||new grad software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f7288275e3a21175e30c",
+      "key": "jpmorganchase|||agility senior associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69de2058e34484770f1a0cbf",
+      "key": "intuit|||software engineer 1",
+      "location": "atlanta ga",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:68a2ac51468ac21d6fab9e94",
+      "key": "ampa|||quality assurance associate",
+      "location": "palo alto ca",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a87a1f025fc4e7ae3dae6fd",
+      "key": "igt|||game producer i",
+      "location": "reno nv united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f2e7422289703bd64492",
+      "key": "association of american railroads|||software developer i location colorado",
+      "location": "pueblo co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3eed4f7baf881567cc304",
+      "key": "madison metropolitan school district|||programmer i doyle 1 0 fte sy 26 27",
+      "location": "madison wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f6c5c1928370a285baca",
+      "key": "spacex|||software engineer test engineering and operations",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3fbfe1d92e2d05d112b3f",
+      "key": "bristol myers squibb|||engineer computer systems validation it compliance",
+      "location": "devens ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa41a7c1d92e2d05d113543",
+      "key": "nightwing|||jr computational engineer with security clearance",
+      "location": "annapolis md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3fa10f3aa936e2cdaf13c",
+      "key": "whiteoptics llc|||specialist firmware engineering build leadership program",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa42a388275e3a21175f375",
+      "key": "mks inc|||associate it analyst",
+      "location": "andover ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa42c8c8275e3a21175f413",
+      "key": "assetmark|||associate engineer",
+      "location": "charlotte nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f1981d92e2d05d11268a",
+      "key": "finaventures|||android engineer embedded accessibility",
+      "location": "scottsdale az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa41254f3aa936e2cdaf976",
+      "key": "amentum|||c c software developer",
+      "location": "dahlgren va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3fb99422289703bd64829",
+      "key": "intramotev|||associate software engineer",
+      "location": "st louis mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f5428275e3a21175e230",
+      "key": "earthcam|||juninor full stack developer",
+      "location": "upper saddle river nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8fc66c0bd89e205d2479f9",
+      "key": "geotab|||software developer",
+      "location": "oakville on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa41653422289703bd65085",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7cf4b2a346cb6c8d5f1132",
+      "key": "tiktok|||software engineer graduate foundation platform 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3ebe6f3aa936e2cdaeb17",
+      "key": "outschool|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f0c0422289703bd643ca",
+      "key": "intel|||design verification engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4169a8275e3a21175ed92",
+      "key": "the cigna group|||technology development program tecdp software engineering track start date july 12 2027",
+      "location": "morris plains nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3fead1d92e2d05d112ca8",
+      "key": "general dynamics mission systems|||software engineer entry level top secret clearance required",
+      "location": "dedham ma 02026 united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f5c58275e3a21175e27a",
+      "key": "mgm resorts international|||engineer computer mandalay bay",
+      "location": "nevada united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa00278dbc0e60e37e0af2a",
+      "key": "soft tech consulting|||application developer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a840e7e71574661bc51f8fc",
+      "key": "uber|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9aec772cdc5958f53e8f36",
+      "key": "caci international inc|||junior peoplesoft developer",
+      "location": "herndon va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a55d222ec54dd532d814272",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "massachusetts boston",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a0ad6e8a203b1052e44f280",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "massachusetts boston",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a1d59496b135014dbc95dc8",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "california pleasanton",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a0ad6e9ef3b13362e7d6d19",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "california pleasanton",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a62e4de32abf9182432c142",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "boston ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a1e8eaab61b2c65b37abf2f",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "massachusetts boston",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a0ad6e26186f46859892bff",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "massachusetts boston",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a872f50cde3717f9e9b0aa6",
+      "key": "goldman sachs|||product manager asset wealth management private wealth management",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a7da1d7ad9ff00c26ba85f3",
+      "key": "one big circle ltd|||graduate product manager",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5d280c63a8f619507ceb97",
+      "key": "tapestry|||coordinator product development",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a7621cc7b3417772ade6dfa",
+      "key": "indigo|||product operations leader responsable des activites liees aux produits",
+      "location": "pointe claire qc canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a7c2ff4dc3dff2d1c0c6356",
+      "key": "tiktok|||analytic product operation analyst data platform",
+      "location": "san jose",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a876300d34f700f87fc51af",
+      "key": "versant media|||product specialist privacy",
+      "location": "englewood cliffs nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a52ea8fd007ee02d95f995d",
+      "key": "kla|||spares demand planner",
+      "location": "ann arbor mi united states of america",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5383c8e726ec56126a70e3",
+      "key": "kla|||spares demand planner",
+      "location": "ann arbor mi united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3f29b8275e3a21175e12b",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "greater sacramento united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3f70fc1928370a285bb18",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "arlington va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3f94c422289703bd64757",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "indianapolis in united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3fe11f7baf881567cca1f",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "stamford ct united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3ec63422289703bd641df",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3fb3b1d92e2d05d112ab4",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "tampa fl united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3f455422289703bd64542",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3ecfbf7baf881567cc22a",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "nashville tn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3ff288275e3a21175e6c1",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3ecfdf7baf881567cc22b",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "cincinnati oh united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3ea461d92e2d05d11235b",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "philadelphia pa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3ea461d92e2d05d11235d",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "pittsburgh pa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3f453422289703bd64540",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "dallas tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3f136f3aa936e2cdaed5d",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "san jose ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3f1281d92e2d05d112628",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "kansas city mo united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3f43cc1928370a285b965",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "tempe az united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3e9ecf7baf881567cc0b6",
+      "key": "deloitte|||converge life sciences gtm product strategy analyst innovation delivery transformation",
+      "location": "costa mesa ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3fe79f7baf881567cca85",
+      "key": "lululemon|||seasonal product operations lead roseville galleria 4 month",
+      "location": "roseville ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa417cec1928370a285c76c",
+      "key": "stanley black decker inc|||brand product slp",
+      "location": "towson md united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
