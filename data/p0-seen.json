@@ -2075,6 +2075,18 @@
       "key": "ibm|||entry level technical product manager austin tx 2027",
       "location": "austin tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8ce970d34f700f87fd32dd",
+      "key": "uber|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8354de1081a745e970e77c",
+      "key": "uber|||software engineer i",
+      "location": "new york city ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
