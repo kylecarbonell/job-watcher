@@ -19055,6 +19055,120 @@
       "key": "emerson|||product management engineer",
       "location": "shakopee mn united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5779d82e82a31997bdbab",
+      "key": "dynamism|||senior software engineer",
+      "location": "san francisco bay area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4720e1d92e2d05d114cb7",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa576dd42411952ff9a8c1a",
+      "key": "acuity|||specialist software engineering build leadership program",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4ce15a99523700cbff3bdb",
+      "key": "ebay|||dod skillbridge honor role",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa56e03930bff471a29eb32",
+      "key": "acuity|||specialist growth transformation software engineering build leadership program",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa57a0c42411952ff9a8caa",
+      "key": "cgi|||stage cooperatif hiver 2027 analyste fonctionnel erp 4 mois",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa56f2442411952ff9a8b03",
+      "key": "whiteoptics llc|||specialist software engineering build leadership program",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa56338654b2a9424cf415f",
+      "key": "whiteoptics llc|||specialist software engineering build leadership program",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa47432422289703bd66a99",
+      "key": "hewlett packard enterprise|||embedded software test engineer graduate",
+      "location": "spring tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa57cca82e82a31997bdca2",
+      "key": "entegris|||innovation application co op",
+      "location": "danbury ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa569d32ed333b4ea5c6ddc",
+      "key": "bending spoons|||graduate software engineer",
+      "location": "cambridge england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa565ad82e82a31997bd7de",
+      "key": "bct llc|||software engineer level 0 with ts sci w poly",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a6197e7ab9bd4676324bebe",
+      "key": "veeva systems|||associate product manager network mdm",
+      "location": "toronto on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a176a62f45c6530ce9ac4b1",
+      "key": "veeva systems|||associate product manager network mdm",
+      "location": "canada toronto",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a55576f268af95237beb0b5",
+      "key": "acosta|||product demonstrator part time",
+      "location": "san angelo tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5b279a856af468ab00c13b",
+      "key": "acosta|||product demonstrator part time",
+      "location": "wichita ks united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a628534c28982326de97427",
+      "key": "acosta|||product demonstrator part time",
+      "location": "oklahoma city ok united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a59abedc8e3a473cb8a7f50",
+      "key": "acosta|||product demonstrator part time",
+      "location": "houston tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a715d0bee751e0c793436b7",
+      "key": "siemens eda siemens digital industries software|||prototyping product manager",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
