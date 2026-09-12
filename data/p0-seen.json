@@ -2087,6 +2087,24 @@
       "key": "uber|||software engineer i",
       "location": "new york city ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa53440930bff471a29dadd",
+      "key": "amazon|||software privacy engineer trust platform automation devices services trust privacy and accessibility tpa",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a88e712e8b6601d12909211",
+      "key": "uber|||software engineer i",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8354eb3eeac101cfa9f0cd",
+      "key": "uber|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
