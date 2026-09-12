@@ -1,0 +1,2080 @@
+{
+  "seen": [
+    {
+      "id": "simplifyjobs-new-grad:14d43ff5-f113-479b-9fc2-6416dfa12f99",
+      "key": "atlassian|||software engineer new grad 2027 graduate",
+      "location": "burnaby bc canada vancouver bc canada richmond bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2be642c8-518a-4951-9ab2-d57bec820c2b",
+      "key": "spacex|||software engineer new grad software starship",
+      "location": "hawthorne ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:076b67e3-3500-43b8-9900-446ce4075cec",
+      "key": "stripe|||software engineer new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8b0c8a04-8a4d-4675-8ea4-401a27ae962f",
+      "key": "stripe|||software engineer new grad",
+      "location": "seattle wa san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4185d322-e92e-48f6-8b8c-373eaf711a48",
+      "key": "stripe|||software engineer new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b462559b-c917-4db0-a92b-9bd0c90f0f33",
+      "key": "google|||software engineer early career multiple teams",
+      "location": "12 locationsmadison wi seattle wa austin tx los angeles raleigh nc san bruno ca durham nc kirkland wa new york sunnyvale ca mountain view ca atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:20d13b00-29e6-46f7-a36c-1b045a33bc61",
+      "key": "spacex|||software engineer new grad software application software",
+      "location": "hawthorne ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:915951dd-70ca-48b8-9767-8d9541dbca43",
+      "key": "spacex|||software engineer new grad software",
+      "location": "brownsville tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:00e9ac82-474b-46a0-bc46-aa9e240f3efd",
+      "key": "amazon|||software development engineer early career",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4ac72dac-062c-4ad9-94fb-8bd0961f1d95",
+      "key": "notion|||software engineer new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1436f890-5733-4b9e-ad61-4df307e22f43",
+      "key": "spacex|||software engineer new grad software starlink",
+      "location": "bastrop tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ae31bcf5-3524-4c9f-8b9e-361d60f9fa17",
+      "key": "tiktok|||backend software engineer new grad creator strategy",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:50e97511-4f52-43a6-985d-3fc9ce92d6bb",
+      "key": "bytedance|||backend inference runtime engineer new grad aml inference",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:90326487-43c7-4181-ac71-44e331484bf4",
+      "key": "salesforce|||software engineer college grad",
+      "location": "6 locationspalo alto ca seattle wa indianapolis in san francisco dallas tx bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c92fc7de-e326-4327-8f9c-5195b90591e9",
+      "key": "salesforce|||software engineer college grad",
+      "location": "6 locationspalo alto ca seattle wa indianapolis in san francisco dallas tx bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bed7436e-6c48-4818-a11a-c314cfbf6574",
+      "key": "roblox|||software engineer early career",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:43cac478-76b4-4968-9ede-e3293fd02c28",
+      "key": "tiktok|||frontend software engineer new grad ads interface",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:46575741-75da-4faf-bcef-a1e47eb90fd2",
+      "key": "tiktok|||software engineer new grad ads infrastructure",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8cad0fcf-e891-4637-91ed-259c291121f3",
+      "key": "bytedance|||software engineer new grad ai infrastructure compute efficiency scheduling",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4ae93ef5-d293-43c9-8bb7-53f4c2e97749",
+      "key": "bytedance|||software engineer new grad ai infra compute",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:89cf07d7-dea8-45c0-bd63-f03870bf2088",
+      "key": "bytedance|||backend and infrastructure software engineer new grad dev infra",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:50d9a250-7c25-4fe5-861d-0c8ad7f9299a",
+      "key": "tiktok|||backend software engineer new grad feed safety",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:de1b7df6-c4f8-41ea-bdff-5598ed16df6d",
+      "key": "tiktok|||backend software engineer new grad trust safety",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5ae7b62f-063f-4d13-b197-9798beafa475",
+      "key": "tiktok|||backend software engineer new grad emerging products ai safety",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3bf4faa5-c7e0-48ae-bb7e-3da108f4ae3d",
+      "key": "tiktok|||backend software engineer new grad trust safety",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0327292f-07c4-467b-83c8-867fbee19266",
+      "key": "tiktok|||software engineer new grad business integrity",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:492953a8-9863-41ff-b149-9e8fa3081af9",
+      "key": "tiktok|||software engineer mobile engineer new grad ads core demonstration",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e",
+      "key": "tiktok|||software engineer new grad quality and efficiency technology",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d6849abb-e865-4cce-a9b9-a23021fc49f7",
+      "key": "tiktok|||software engineer new grad ads measurement signal technology",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7656aad8-a423-4e16-bb7e-5b487532457f",
+      "key": "tiktok|||software engineer new grad ads signal measurement",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4cbc04d5-d651-438a-81ec-b82f768a6602",
+      "key": "palantir|||software engineer new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d82267f3-cfff-4cd5-84be-fdf718c3f3d1",
+      "key": "palantir|||forward deployed software engineer new grad commercial",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7b0e9437-e5f3-4413-98c1-7ea5c125a2af",
+      "key": "palantir|||forward deployed software engineer new grad uk government",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5b94931b-c8c1-4030-94fd-b855ea4581c5",
+      "key": "amazon|||efa network software engineer 1 annapurna labs",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d0e70828-00ba-4853-8102-5a17d1cdee3e",
+      "key": "citadel securities|||software engineer university graduate",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:58e0500b-3577-4e69-9d43-b710f8155f10",
+      "key": "nvidia|||backend compiler engineer new grad",
+      "location": "canada santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f9a48e11-7815-4b71-980b-7e26e6105db7",
+      "key": "notion|||software engineer early career",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:65650b49-1680-440d-8f63-1cc74d0ba188",
+      "key": "notion|||software engineer early career ai",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:410b28b6-b357-4b72-9480-bad83701b4cb",
+      "key": "citadel|||software engineer university graduate",
+      "location": "4 locationsgreenwich ct houston tx miami fl new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:057e0386-1d1a-425c-b6a6-d6e3374a3d52",
+      "key": "palantir|||software engineer new grad defense",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:645100d8-0e6e-414b-aa7c-96ecb3ea36e4",
+      "key": "palantir|||software engineer new grad defense",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:345a57b5-fae1-45c1-8deb-5bbec4479e03",
+      "key": "palantir|||software engineer new grad defense",
+      "location": "palo alto ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:267d5473-4baf-4bba-ba9c-ccd65a1c0e30",
+      "key": "palantir|||forward deployed software engineer new grad commercial",
+      "location": "chicago il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fef271f0-0395-41e1-bc64-b0f2f454e58f",
+      "key": "palantir|||forward deployed software engineer new grad commercial",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7e134007-3fa8-4732-84ca-e7119c8f4116",
+      "key": "palantir|||software engineer new grad",
+      "location": "denver co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
+      "key": "palantir|||forward deployed software engineer new grad",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1f6bee99-9cca-467c-a0b3-899d61139a03",
+      "key": "palantir|||forward deployed software engineer new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:50390a34-333d-471c-9a4b-c2b34ecb25ad",
+      "key": "palantir|||forward deployed software engineer new grad",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fb8993b6-84c3-4607-801f-ed29b702f2f8",
+      "key": "nvidia|||software engineer new grad hardware tools and methodology",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d131f95c-8064-4b1a-9141-17335c27c794",
+      "key": "google|||software engineer early career ai ml phd",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7148dcc6d19cc44d4daa6039369b702567538901",
+      "key": "paypal|||software engineer new grad software engineering",
+      "location": "austin tx san jose ca chicago il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:060079cdfadb91ce7c0992f58d91ee2beb895bca",
+      "key": "doordash|||software engineer 1 entry level",
+      "location": "5 locationsseattle wa san francisco los angeles new york sunnyvale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7857c619ef12a6fe0ad0a27c706d41aa85e01112",
+      "key": "oracle|||application software engineer 1",
+      "location": "nashville tn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ccce5689966b256b6b20186c7dbb09af7daad16a",
+      "key": "spacex|||software security engineer new grad software security starlink",
+      "location": "hawthorne ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e2439e3164b715691f011ffaf000dfb86deadbc1",
+      "key": "oracle|||platform software engineer 1",
+      "location": "nashville tn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:297109015fe4109267c4838e9c0367cd0838ef8a",
+      "key": "apple|||software engineer is t early career opportunities",
+      "location": "cupertino ca sunnyvale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:37381cbfcf5533d7e2b1626b9d69afa462b77183",
+      "key": "apple|||software engineer information systems and technology early career",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:89d6472215186ca33e8103d01604e8a2ebf905b6",
+      "key": "microsoft|||software engineer 1 2 identity and network access",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9f54697dd2a33ac504d8d5528b7730c2e1792aa8",
+      "key": "samsara|||software engineer 1 new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:563a1fe814edfdd7472090881090771ca5e67a47",
+      "key": "tiktok|||software engineer new grad",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:399d9de26aa1d471103eef7a1ed5cd512f3947a2",
+      "key": "samsara|||software engineer 1 new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6ac699173ceb73e583516ea011f754216fd86514",
+      "key": "bytedance|||software engineer new grad traffic infrastructure",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:97eec2d014fc8feac9f07ec41bf03b6781cef766",
+      "key": "bytedance|||security engineer new grad threat detection and response",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7f9b934093a5253a90876e5db61ccb6b311a9a94",
+      "key": "palantir|||software engineer new grad infrastructure",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ec7878611284942ae3e463c5aad8f5b66757a4a3",
+      "key": "cisco|||software engineer 1",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:749f40470adc42591cf669cd0aa07dd08a38b288",
+      "key": "nvidia|||software engineer new grad physical design infrastructure",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:314e4c0b4b2eb161a2e2bb7aef28eb7000149d1a",
+      "key": "nvidia|||ai and ml infra software engineer new grad gpu clusters",
+      "location": "redmond wa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:69cf60927a701d48ae369410a005f8bbdfc4df4c",
+      "key": "nvidia|||compiler engineer new grad infrastructure",
+      "location": "4 locationsaustin tx remote in usa redmond wa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:93bc66b965002cb8ad34da0616d973d887a21b14",
+      "key": "nvidia|||systems software engineer new grad accelerated kubernetes performance and scale",
+      "location": "seattle wa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c57fce80527f4b7e675846eda6453fb128950623",
+      "key": "doordash|||software engineer 1",
+      "location": "5 locationsseattle wa san francisco los angeles new york sunnyvale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ccd0e608a37505f2d39e82dbe36af123ed156db4",
+      "key": "nvidia|||system software engineer new grad dynamo triton inference server",
+      "location": "remote in usa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b423c5413576eb78ce2818f40e7697bcfd0562cf",
+      "key": "nvidia|||compiler engineer ai inference new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3b46190c07bdce88359a74d336c0869c32977425",
+      "key": "nvidia|||systems software engineer new grad autonomous systems mapping",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:16cf347aa40a363470318e78065cc1ffb134c1c4",
+      "key": "nvidia|||compiler engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b7e9757bb7d97fc802188216175c8ca6ad68c852",
+      "key": "palantir|||software engineer new grad production infrastructure",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:345bc52f2317c864a4040a8493e3542f2355b1b1",
+      "key": "amazon|||software engineer 1 compiler annapurna labs",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:689a3c180472a3d31073881c0dcbf9ad6c645e24",
+      "key": "stripe|||software engineer new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:81351bc2cd33c908cc14a7bc9756f3ad046a7d4f",
+      "key": "snap finance|||software engineer 1",
+      "location": "arizona",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3eac5b4f62e883c058d559fd4b5109658fc32b2d",
+      "key": "cisco|||software engineer 1 devices technology group",
+      "location": "north carolina",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:92130f0c74e72030fac72ddc5a2df1c54cebab76",
+      "key": "asana|||software engineer early career product",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4fba22754cef251465817ee76383e65b52ab9e44",
+      "key": "pinterest|||software engineer 1 backend",
+      "location": "seattle wa california",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6a42e0a385e3440975c82d7e96717380bf3adf7f",
+      "key": "slack|||software engineer 1 service network slack",
+      "location": "seattle wa san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:110c4036667aa56ec2c34236298187f4ff5d535d",
+      "key": "salesforce|||software engineer 1 service network slack",
+      "location": "seattle wa san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:232cda45b67e80941868d890d10270b4cf19b02f",
+      "key": "amazon|||software engineer 1",
+      "location": "seattle wa san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1f82fa1f405b0087ac64e2b9a997fb268a47a3b8",
+      "key": "nvidia|||software engineer new grad",
+      "location": "remote in usa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c2b57483b0aadd98229259c0fcd2eafae75d0ffe",
+      "key": "uber|||software engineer 1",
+      "location": "sunnyvale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:204b7f5cd442d1eda086f3cdcb2e13cd0eec1267",
+      "key": "pinterest|||software engineer 1",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:800e3b93bf924eb8dbe1377cdfbb55eac9fab84c",
+      "key": "amazon|||software engineer 1 commerce engineering",
+      "location": "seattle wa san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c9e24f0c3c4062d46682a904d46d4557259fdb24",
+      "key": "servicenow|||associate software engineer search infrastructure moveworks",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7adc39411308e8946b4a1c1b2ae41ffbb9639760",
+      "key": "servicenow|||associate software engineer core infrastructure moveworks",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f6522a3a7fb43fb8551d4e3369496732e6f74e9a",
+      "key": "google|||forward deployed engineer i genai google cloud",
+      "location": "18 locationssan francisco ca atlanta ga austin tx boulder co cambridge ma chicago il addison tx detroit mi irvine ca kirkland wa miami fl new york ny portland or los angeles ca reston va seattle wa sunnyvale ca washington d c washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f73afd85844dbbdf899822d0ade3790307570264",
+      "key": "uber|||software engineer 1 i",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:772e25f93372783a731935cc0688fd03af7d0037",
+      "key": "airbnb|||software engineer new grad",
+      "location": "seattle wa san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f192d5330ba9045092892f91b497834784f7b9b6",
+      "key": "nvidia|||compiler engineer backend new college grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8bfcc2e9754744448eb20fb26b6a377ceff587c3",
+      "key": "snowflake|||software engineer entry level engineering infrastructure",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:de2c896facf55784308db743a9c40f1fc09c0dcf",
+      "key": "airbnb|||ios software engineer new grad",
+      "location": "seattle wa san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1a0c393f8fad00c29510f0a669687e7a6c1318cb",
+      "key": "notion|||software engineer new grad ai",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a7c48d749ee3db3c3eff95f062d6877b6826534a",
+      "key": "uber|||software engineer 1",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e75541bd38bbef6b9025e400841a599c89eb2004",
+      "key": "notion|||software engineer new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:319026e31cd6720f69f06b8a895cfb16448ae041",
+      "key": "adobe|||university graduate software development engineer",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:99a10cc2f733f33f8b4a12755fc6e66043688b6d",
+      "key": "uber|||software engineer 1",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dbe4e9e95fd56539322aac30a07e5bf41a18c200",
+      "key": "visa|||software engineer new college grad",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bae58997fe925b504cf2e9a4028f797c2e2a841e",
+      "key": "visa|||software engineer new college grad",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:694bd83b46eed35bdbb23a430ddc3577925eaeb3",
+      "key": "visa|||software engineer new college grad",
+      "location": "atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d014525c3258f98062d128d2616c7939fbec0857",
+      "key": "uber|||graduate software engineer 1 mobile ios",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fed01083d0286ae1bb4c66fe466d2f1d5cd26bdd",
+      "key": "uber|||graduate software engineer 1 mobile android",
+      "location": "seattle wa san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:27bb47a11c7ca2d9083559b96b61667f0103f3e6",
+      "key": "uber|||graduate software engineer 1",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:35b92408cd47a800360bcbb2e6cd5ec5c3962f32",
+      "key": "uber|||graduate software engineer 1",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5098b55c3482309ee192e0bde7fa82b489bcb258",
+      "key": "uber|||graduate software engineer 1",
+      "location": "4 locationsseattle wa san francisco new york sunnyvale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:61bc08e897ac5b38ed9c8f533216301bc282efe5",
+      "key": "nvidia|||software engineer new college graduate ai inference systems",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e70aa57a8f83d5aa8418a610f7cbf7bd5be89be1",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "5 locationspalo alto ca seattle wa san francisco dallas tx bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5a33c82079ac0fe506c7c7b72151fd2d8a01dcdd",
+      "key": "crowdstrike|||engineer 1 front end data visualization",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6cfdc08745a09072534ee650547a86438a6371ff",
+      "key": "microsoft|||software engineer 1 officepy",
+      "location": "redmond wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1d8a0315a761166a09bb01c5cb579f5cef85279a",
+      "key": "h r block|||associate software engineer accelerate program",
+      "location": "kansan city mo",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:047987cae819acb006358546e6fda3644423c784",
+      "key": "nvidia|||compiler engineer new college grad backend gpu",
+      "location": "7 locationscalifornia texas remote in usa redmond wa austin tx washington santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e2d4450054e9eefb4a95e9c3b707d096f4d5c0c8",
+      "key": "nvidia|||software engineer new college grad 2026 robotics isaac lab",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:690921fc0fbfe69d66bb7cec315c44e16d7ade01",
+      "key": "apple|||software development engineer applications",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e1486384f9ed4879ffaaeffbb3a4dff946dc9b48",
+      "key": "microsoft|||software engineer 1",
+      "location": "redmond wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:829c913907a18861cbc3e29af2401c885d4751cd",
+      "key": "nvidia|||research scientist a01 phd new college grad 2026 platform architecture and system software",
+      "location": "westford ma santa clara ca austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ca6390e4ebc522a81ab65a36da964c021cb4c5e2",
+      "key": "nvidia|||software engineer new college grad 2026 distributed systems",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f1ae26e5dd1c7b4a0c5f7b321bcf90866d9f4af2",
+      "key": "salesforce|||software engineering amts mts college grad",
+      "location": "4 locationspalo alto ca san francisco bellevue wa seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5b4bcfbe6ca837ebf37c83f84e42c26ca3001ffc",
+      "key": "crowdstrike|||front end engineer 1",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c94c4aa3dd538da7be968b97ff40738ee1260570",
+      "key": "nvidia|||software engineer phd new college grad 2026 agentic ai for science",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9f8ef35283b88894429a22fd42c47d4384dab6bb",
+      "key": "slack|||software engineer 1 product backend",
+      "location": "raleigh nc",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0570551cb64016ee688fcd3f601f2ca6c4b044bb",
+      "key": "salesforce|||software engineer 1 product backend",
+      "location": "raleigh nc",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dd4939155e94be34cef41fc91ef2d3ddc3f5cc12",
+      "key": "pinterest|||university grad software engineer",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:867705f6e50cd28d632efd50d6470ea8c10c386c",
+      "key": "stripe|||software engineer new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bfc8f28a8325cf894b05bc144c5fbbdba23e2141",
+      "key": "roblox|||2026 canada software engineer early career geometry",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9e7da2f42f2e3fb969b3295d7beb001f2abc4d5d",
+      "key": "roblox|||2026 software engineer early career creator",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:eedd159b19ed1343eebadc802eb963dd0c4a9030",
+      "key": "nvidia|||software engineer new college grad 2026 dl libraries infrastructure",
+      "location": "6 locationscalifornia austin tx redmond wa santa clara ca boulder co united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f7c11a745ab8dadda325fc8a921f9e8c6336a577",
+      "key": "pinterest|||mobile engineer university grad",
+      "location": "seattle wa san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f658e592-7705-4abf-9fec-d62ac98b287e",
+      "key": "qualcomm|||machine learning engineer new grad ai processors machine learning engineering",
+      "location": "markham on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:37eb8005-8ed0-4c9c-9441-4833520687dc",
+      "key": "bytedance|||large language model inference system engineer new grad applied machine learning",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:026bd529-ffe1-45ee-8845-df907c700cdc",
+      "key": "tiktok|||machine learning engineer new grad performance monetization",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0e9e78f5-653e-4e42-bda0-7183bbd7045a",
+      "key": "tiktok|||machine learning engineer new grad search ads",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6877141a-26a2-42c6-affa-8795287920b8",
+      "key": "tiktok|||machine learning engineer new grad recommendation",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e8282411-d4f1-48ee-a297-221c7660b61d",
+      "key": "tiktok|||research scientist new grad trust and safety",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a7b87475-1141-4285-a578-2143729a4704",
+      "key": "tiktok|||research scientist new grad recommendation",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3ff95d68-7985-49f9-9cd5-08275666f3d9",
+      "key": "tiktok|||machine learning scientist new grad trust and safety",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1e93d3f9-f99a-4fad-89d9-68c176cd5b89",
+      "key": "tiktok|||machine learning scientist new grad recommendation",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e5443b5b-331f-470e-b03e-f8cb378f467a",
+      "key": "tiktok|||machine learning engineer new grad trust and safety",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c6c812c9-3a93-463d-b69d-ca06233a2c82",
+      "key": "tiktok|||research scientist new grad trust and safety",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a361534e-bae9-48ea-971f-acc6566fbb47",
+      "key": "tiktok|||research engineer new grad multiple teams",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:85fa984a-bc83-4a85-867c-8fec70ac00f1",
+      "key": "bytedance|||research scientist new grad multi modal agentic databases",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:369c0634-aaf9-46d8-b511-63b4e92cba0a",
+      "key": "bytedance|||research scientist new grad computational imaging",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:191c8efe-2180-4233-88f6-7be916d9f4cf",
+      "key": "bytedance|||research scientist new grad ai for infrastructure",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b88a3852-64cb-44cf-ad65-71ede8a595e4",
+      "key": "bytedance|||research scientist new grad infrastructure system lab",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b2ed4463-96d0-44cd-b1c5-604bcce870ad",
+      "key": "bytedance|||research scientist new grad distributed nosql database systems",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d8f41f3f-586c-4f20-8868-e9832e690e61",
+      "key": "tiktok|||machine learning engineer new grad search quality",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:78f040d4-9950-46c8-93de-a0a189144450",
+      "key": "tiktok|||machine learning engineer new grad data search visual search",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:18aa6242-cd69-4aa2-999b-e8a7f5daa34f",
+      "key": "tiktok|||machine learning engineer new grad data search visual search",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:db70cc78-6903-4f3e-98df-d5eef1dabd84",
+      "key": "tiktok|||machine learning engineer new grad data global e commerce search",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b027e384-ef72-4db9-8ff3-c63ea36f4583",
+      "key": "tiktok|||machine learning engineer new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5352619a-3d75-4bd9-b7af-098751f77cad",
+      "key": "tiktok|||machine learning engineer new grad e commerce search",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:37ec2ae1-5f91-4d92-a3e5-b68b4b00bfd3",
+      "key": "tiktok|||machine learning infrastructure engineer new grad ads infra",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:08210b31-d7bd-413f-b967-222f2d005c3a",
+      "key": "nvidia|||research scientist new grad robotics research",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:24c586e2-4b8e-49a9-b78f-a304a23cfd6e",
+      "key": "snowflake|||ai research scientist new grad agents reinforcement learning",
+      "location": "bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:14a31aec-c177-4340-a706-56acffbff5aa",
+      "key": "nvidia|||research scientist new grad efficient deep learning",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5578f27b-5b7f-4d4e-892f-d9a2667a2aa6",
+      "key": "nvidia|||research scientist phd new college grad generative ai for physical ai",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:97a2ec87-bbed-4c9b-9026-c59186fd59b1",
+      "key": "waymo|||applied research scientist new grad perception large language model vision language model phd",
+      "location": "san francisco mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2184ba51-9029-4b0d-956c-e66d880ffe74",
+      "key": "nvidia|||applied machine learning engineer new college grad 2026 circuit design",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a4dc4bfef36d04200955fec3c1d13ac9a612abe1",
+      "key": "nvidia|||research engineer new grad interactive world models",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:376707a4bf4603912fabee768fd7ff8ad4c068e0",
+      "key": "nvidia|||software engineer new grad deep learning libraries",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:929ca5ce924387f45b3c0294887574ef99a0a160",
+      "key": "nvidia|||deep learning software engineer new grad inference",
+      "location": "5 locationswashington california texas new york massachusetts",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a67dd3e5998e27c51346415d52d069becb56e7e8",
+      "key": "crowdstrike|||engineer 1 new grad data scientist",
+      "location": "sunnyvale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:148201bcb4a43a26ce2ebd863bf5f5d40384d87c",
+      "key": "amazon|||data engineer 1 amazon business ops analytics",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:76c62fdd8293a91f840a0b28126f6c801135eefc",
+      "key": "meta|||data engineer university grad product analytics",
+      "location": "menlo park ca new york bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5fee76f382b1924ae0194eac9871e40033f01cbd",
+      "key": "waymo|||applied research scientist new grad multi modal perception",
+      "location": "san francisco mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5e9fb1f33f80431ef26f58c178c162fa774c9694",
+      "key": "nvidia|||machine learning applications and compiler engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:111c58e6fcf24704c56fbe9c643f9f0b15ab1853",
+      "key": "amazon|||data engineer 1 aws ww field enablement analytics and product operations",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:acfa1ee3b514b93d93a58efc8131f351da0b220b",
+      "key": "nvidia|||deep learning architect llm inference",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5d4862bcd037058c39ebc877744d73263f66df86",
+      "key": "figma|||data scientist core data",
+      "location": "new york ny san francisco ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1de9c000b48c1309fc9204f5a68e8d8146b065c7",
+      "key": "nvidia|||deep learning software engineer new college grad flashinfer",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b90fdaefeca5f96b54971d99bdc4ae8d9c48c2fb",
+      "key": "nvidia|||research scientist new college grad ai accelerator design and vlsi",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:87b024a89b757a9b30b312d1ce83625938d1802b",
+      "key": "nvidia|||deep learning software engineer new college grad tensorrt performance",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b0bf64e628b99d01785dd1740eb296cfd739b216",
+      "key": "amazon|||data engineer 1 it pnd data and analytics",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c6047be04cd22ff4e2f8f5ddfd928732c5f7f155",
+      "key": "openai|||research scientist research engineer early career cohort",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:691a2a59b82867488585cd1a61cb55a297123608",
+      "key": "nvidia|||research scientist new college grad fundamental generative ai",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:db556acb50a3fed919df55d651447df19b19825e",
+      "key": "cisco|||data engineer 1 full time united states",
+      "location": "research triangle durham nc",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c36fa2d0d538bf92d2f2a1cd9ea4693c47c40b5a",
+      "key": "oracle|||data engineer new grad",
+      "location": "san carlos ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:feee5a57369ef87a09464957f4bcdc055ac55ce3",
+      "key": "visa|||associate data scientist new college grad",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:be52785796a3bd14b893e20170adb00c260953ed",
+      "key": "nvidia|||research scientist phd new college grad 2026 human ai perception and interaction research",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8582198fde34929f879821e75fac7c72a293b9e8",
+      "key": "pinterest|||master s university grad machine learning engineer 2026 usa",
+      "location": "4 locationspalo alto ca seattle wa san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:face01f2-48c1-40a1-a54e-8cff911ad58d",
+      "key": "roblox|||associate product manager early career",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d0810d61-6cb0-4d20-af9e-d0029df899fa",
+      "key": "tiktok|||content product new grad tiktok local services",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ca23bb6b-38c7-49e5-8890-cce71a429db4",
+      "key": "databricks|||associate product manager new grad",
+      "location": "san francisco bellevue wa mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0b59866356a01c571cbfe9c45c8351a745ff95d0",
+      "key": "salesforce|||product manager early career",
+      "location": "seattle wa san francisco bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3e079f3aa936e2cdae604",
+      "key": "google|||software developer android xr system ui",
+      "location": "waterloo on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e29e175edfa11b47106c5",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8e95552808f771d52887bd",
+      "key": "uber|||software engineer i",
+      "location": "new york city ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5852203330ca6f993c3f98",
+      "key": "amazon|||software development engineer 2026 us",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a56444c53b3962b910aefc8",
+      "key": "nvidia|||software quality assurance engineer 2026 new college grad",
+      "location": "us ca santa clara united states of america",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a30399fafabbe533fb89dd8",
+      "key": "nvidia|||software quality assurance engineer 2026 new college grad",
+      "location": "santa clara ca us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4981ef3aa936e2cdb1db0",
+      "key": "linkedin|||software engineer applications",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5528b4268af95237be9ae7",
+      "key": "palantir technologies|||software engineer new grad production infrastructure",
+      "location": "washington d c united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a55b6b1ef22935f2e3f5e86",
+      "key": "palantir technologies|||software engineer new grad production infrastructure",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4298466c326942b4e835ad",
+      "key": "palantir technologies|||software engineer new grad production infrastructure",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a87a59d4afae74a08349c6e",
+      "key": "spacex|||full stack software engineer simulation flight systems",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a427c566faf756060966e30",
+      "key": "palantir technologies|||software engineer new grad",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a427c4d6a9c2774b3fa628c",
+      "key": "palantir technologies|||software engineer new grad",
+      "location": "new york ny",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e23dc2c964816f65ebcb6",
+      "key": "ibm|||associate package spcialist oracle cloud 2027",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a87a5ab680f314a29d3a0b0",
+      "key": "spacex|||software engineer simulation flight systems",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9a51851388387060593301",
+      "key": "qualcomm|||software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7597debb6ca93ae560f027",
+      "key": "google|||software developer early career campus",
+      "location": "waterloo on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f6c5c1928370a285baca",
+      "key": "spacex|||software engineer test engineering and operations",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a52db4b9fbdab22fe13d4a7",
+      "key": "amazon|||software development engineer amazon leo us",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa48dbac1928370a285e6a4",
+      "key": "cisco|||software engineer i full time united states",
+      "location": "milpitas ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa481f98275e3a2117609cb",
+      "key": "cisco|||software engineer i full time united states",
+      "location": "milpitas ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99c25f8a8b765bc55f542b",
+      "key": "linkedin|||software engineer web infrastructure",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3877c5c11cce36036492e",
+      "key": "intel|||design verification engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa37c036b9ea4538f928bf3",
+      "key": "spacex|||software engineer test engineering and operations",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa1c399500b01124c77ed59",
+      "key": "ibm|||associate software engineer",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a748ff87b3417772ade04eb",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa059deea127c3794696902",
+      "key": "ibm|||entry level qa test developer",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99a4b790a313642c651ca7",
+      "key": "oracle|||software developer 1",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a73bf7b8dc3d52d8eda1508",
+      "key": "linkedin|||software engineer android",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a6a2f38c63ba56308f51c76",
+      "key": "spacex|||software engineer telemetry starlink",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa37899e38fb65a7df533e1",
+      "key": "apple|||software quality engineer media",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9bce3cdacf777321a8d483",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a1554a3554b0e12c0581b12",
+      "key": "spacex|||full stack software engineer starlink",
+      "location": "palo alto ca",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a539d338a74e077472f8fa3",
+      "key": "spacex|||full stack software engineer starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69dda83fe34484770f19e656",
+      "key": "spacex|||full stack software engineer starlink",
+      "location": "palo alto ca",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8618704afae74a083436a4",
+      "key": "spacex|||software engineer application software",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5529bd2084cd792b4768ea",
+      "key": "palantir technologies|||software engineer new grad infrastructure",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4cb2ef35e45603c4bb1b4c",
+      "key": "palantir technologies|||software engineer new grad infrastructure",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8604262f4f0014cae278fd",
+      "key": "spacex|||new graduate engineer software application software",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a445911b156014e414bc46b",
+      "key": "spacex|||software engineer starlink enterprise",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa1e8052f936e4a53daeaee",
+      "key": "lyft|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa1c34f2f936e4a53dade2a",
+      "key": "ibm|||associate software engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa1c3712f936e4a53dade4d",
+      "key": "ibm|||associate software engineer",
+      "location": "lowell ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f0c0422289703bd643ca",
+      "key": "intel|||design verification engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa1de090ffb3d4fea6b788f",
+      "key": "apple|||software engineer apple ads",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa1d93b0ffb3d4fea6b76ff",
+      "key": "amazon|||software development engineer ios",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa1b1113272060a8e3f190f",
+      "key": "atlassian|||software engineer 2027 graduate canada",
+      "location": "burnaby bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3ae84e649fdf1629306529",
+      "key": "amazon|||software development engineer database 2026 us",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a42b46e6a9c2774b3fa6f87",
+      "key": "amazon|||software development engineer embedded systems 2026 us",
+      "location": "austin texas usa",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a0b55cc22d0d34036c8aea3",
+      "key": "amazon|||software development engineer amazon leo us",
+      "location": "redmond washington usa",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa1a4752f936e4a53dad2c2",
+      "key": "amazon web services aws|||amazon dedicated cloud engineer region reliability",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa08c69a2266b538d23109f",
+      "key": "spacex|||new graduate engineer software starship",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a564389e9b77f668bd621f3",
+      "key": "amazon|||software development engineer military veterans",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:698d1b1b78b4502f12a3a119",
+      "key": "amazon|||software development engineer military veterans",
+      "location": "sunnyvale california usa",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7fca83b56bea5779c0f404",
+      "key": "amazon|||software development engineer early career 2026",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:698c183c0f6f7e7a2ce7aad3",
+      "key": "amazon|||software development engineer 2026 us",
+      "location": "seattle washington usa",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a57938ea791c6211befedb5",
+      "key": "palantir technologies|||software engineer new grad defense",
+      "location": "washington d c united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a427c5aa5e15b1068379168",
+      "key": "palantir technologies|||software engineer new grad defense",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a427c50a5e15b1068379165",
+      "key": "palantir technologies|||software engineer new grad defense",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a6cc8ceacb0a61f9dbc6f8c",
+      "key": "amazon|||software development engineer",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8483ece12474455273ac15",
+      "key": "amazon|||software development engineer ios",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a58448f3330ca6f993c3d96",
+      "key": "amazon|||lab development engineer dedicated cloud training",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4eaed3397d8d353c289ee1",
+      "key": "amazon|||adc engineer i s3 glacier unique regions",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a51def802522b5b722ecced",
+      "key": "amazon|||dft design engineer i aws machine learning acceleration",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8481887b33d7227625658c",
+      "key": "spacex|||software engineer starlink enterprise products space lasers",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a93cbf73603630099199105",
+      "key": "spacex|||full stack engineer employee experience",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa169572f936e4a53dab89d",
+      "key": "amazon|||amazon dedicated cloud engineer region reliability",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8488457b33d722762568e0",
+      "key": "spacex|||full stack software engineer operations software starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a062c7ebc4184089f24c299",
+      "key": "amazon|||software dev engineer ii amz10108124",
+      "location": "palo alto california usa",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95ac504c22023a07934fcb",
+      "key": "google|||software engineer",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5fee3b6e0c3c7c7d3d9efe",
+      "key": "amazon|||software dev engineer i graviton software annapurna labs",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8da9d0a5639a4810326ac7",
+      "key": "bytedance|||3d graphics innovation engineer graduate pico foundation developer technology 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8da9accc0cf270685244a1",
+      "key": "bytedance|||software engineer graduate traffic infrastructure 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e29dc27c94c3d5a1cb5f6",
+      "key": "ibm|||entry level back end developer dallas 2027",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa06a51a2266b538d2302df",
+      "key": "two sigma|||software engineering full time campus hire nyc",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa0760da2266b538d230881",
+      "key": "ibm|||software engineer apprentice",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa062843b5aa83237b08b63",
+      "key": "intel|||automated material handling systems amhs software engineer",
+      "location": "phoenix az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa05a635b2d5633ef3be15e",
+      "key": "ibm|||entry level software developer",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa059eeea127c3794696907",
+      "key": "ibm|||entry level software developer rochester mn",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa059ec500b01124c77873e",
+      "key": "ibm|||entry level software developer",
+      "location": "poughkeepsie new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69baee6006c1ba00c54d4054",
+      "key": "spacex|||software engineer design software starship",
+      "location": "hawthorne ca",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e23d275edfa11b4710635",
+      "key": "ibm|||associate sap technology specialist 2027",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a840e7e71574661bc51f8fc",
+      "key": "uber|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7ccdc3dc3dff2d1c0c9280",
+      "key": "uber|||software engineer i",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8cde7dd34f700f87fd2fe2",
+      "key": "uber|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a840e8529c715662f4b5353",
+      "key": "uber|||software engineer i",
+      "location": "new york city ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a83a88e1081a745e97108b3",
+      "key": "uber|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a88e45425fc4e7ae3db2c93",
+      "key": "uber|||software engineer i",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8659f074e02153f145bacb",
+      "key": "uber|||software engineer i",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8e4f1eef981311b92fbdb6",
+      "key": "uber|||software engineer i",
+      "location": "new york city ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a864a01cc81eb647e9f25f1",
+      "key": "uber|||software engineer i",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a840ea06cd9495f310749e3",
+      "key": "uber|||software engineer i",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a2bb5e60ad4053b108ccb52",
+      "key": "qualcomm|||gpu compiler performance",
+      "location": "santa clara ca",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4fcff34649561ec08af15f",
+      "key": "qualcomm|||gpu compiler performance",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a677099d0fb4c3df393cd60",
+      "key": "intel|||system software engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6973f7fc206da320f49e014a",
+      "key": "google|||software engineer systems research phd early career",
+      "location": "sunnyvale ca",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8da9b5cc0cf270685244a9",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8863c1e8b6601d12906714",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a97e1a569d7730385d6cc55",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a79ff6d67a1ad0bc53d0f41",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8fa3dcd96ad228f125e48f",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9835a7c8ed473c5c76291d",
+      "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9835c4def18223c854dfe4",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9f336768f82b403673c722",
+      "key": "spacex|||full stack software engineer internal systems",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9b9322fe45b8490f608970",
+      "key": "spacex|||full stack software engineer",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7d1c637c52154b59f5dfeb",
+      "key": "spacex|||full stack software engineer manufacturing systems",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9ecf31f6ea002358296a1c",
+      "key": "ibm|||software developer full stack ui heavy",
+      "location": "markham ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e3cc549f4604c7894e085",
+      "key": "ibm|||en us",
+      "location": "durham nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e39332c964816f65ec034",
+      "key": "ibm|||software developer confluent cloud platform",
+      "location": "bedford canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e348a2c964816f65ebf29",
+      "key": "ibm|||qa test developer",
+      "location": "herndon va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e347aa7ba386c5d671061",
+      "key": "ibm|||qa test developer",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e2dea68f82b4036738ca1",
+      "key": "ibm|||junior application developer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e2de275edfa11b4710713",
+      "key": "ibm|||junior software developer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e2b01dacf777321a90a7e",
+      "key": "ibm|||front end software developer",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e2ada27c94c3d5a1cb603",
+      "key": "ibm|||federal associate developer 2027",
+      "location": "herndon va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e2ac52c964816f65ebd54",
+      "key": "ibm|||federal associate technical specialist rocket center wv",
+      "location": "rocket center west virginia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e2a3c75edfa11b47106cd",
+      "key": "ibm|||entry level qa test developer tucson az",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e2a042c964816f65ebd41",
+      "key": "ibm|||entry level storage client solutions engineer 2027",
+      "location": "research triangle park north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e29c168f82b4036738c50",
+      "key": "ibm|||back end software developer tucson az",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e29b7a7ba386c5d670e65",
+      "key": "ibm|||entry level back end developer 2026",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e29b62c964816f65ebd33",
+      "key": "ibm|||entry level cloud developer chicago il 2027",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e29b375edfa11b47106b5",
+      "key": "ibm|||entry level back end developer houston tx",
+      "location": "houston tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e29b375edfa11b47106b4",
+      "key": "ibm|||entry level backend developer san jose ca 2027",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e294527c94c3d5a1cb5de",
+      "key": "ibm|||digital product engineering application developer associate may or september 2027 toronto",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e23dc68f82b4036738be0",
+      "key": "ibm|||associate package specialist 2027 oracle cloud",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e237c75edfa11b471062d",
+      "key": "ibm|||associate application developer 2027 azure and microsoft",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e236d75edfa11b471062a",
+      "key": "ibm|||associate application developer oracle 2027",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e236ca7ba386c5d670df7",
+      "key": "ibm|||associate application developer oracle 2027",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e236cdacf777321a909f2",
+      "key": "ibm|||associate application developer ibm tech red hat 2027",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e236575edfa11b4710627",
+      "key": "ibm|||associate application developer salesforce 2027",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e235a2c964816f65ebca4",
+      "key": "ibm|||associate application developer oracle 2027",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e235a68f82b4036738bd5",
+      "key": "ibm|||associate application developer 2027 dpe",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e22e368f82b4036738bd3",
+      "key": "ibm|||associate application developer aws 2027",
+      "location": "baton rouge louisiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e22bf68f82b4036738bd0",
+      "key": "ibm|||associate application developer adobe 2027",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a62e67a1ed5b0056a93929c",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a53be0d8ef95364ead93254",
+      "key": "spacex|||software engineer starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4323d438fa630841050552",
+      "key": "spacex|||software engineer starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7debf70cd4a0703257c841",
+      "key": "spacex|||software engineer starlink",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8d82d125fc4e7ae3dbc21a",
+      "key": "spacex|||software engineer starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a534f5d8576ec69c014f57f",
+      "key": "the d e shaw group|||software developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:690e5b98221b890c2780d204",
+      "key": "two sigma|||software engineer modeling engineering",
+      "location": "new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8878be25fc4e7ae3db087d",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a737cf26a034212ea027d54",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9ad17bd5ff1f3f1c39b5af",
+      "key": "amazon|||software development engineer early career",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9b24bcfe45b8490f606fea",
+      "key": "amazon|||software development engineer early career",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a50f292ae4052672fe9581d",
+      "key": "spacex|||application software engineer",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a72950802d93145bf895468",
+      "key": "spacex|||application software engineer",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7f484fe2030208f276cd13",
+      "key": "spacex|||new graduate engineer software 26 27 starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a461b583dbab558e29a3c8f",
+      "key": "spacex|||full stack software engineer build reliability",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5908d5c8e3a473cb8a4916",
+      "key": "databricks|||associate product manager new grad 2027 start",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e29c7dacf777321a90a69",
+      "key": "ibm|||entry level portfolio management data science rtp 2027",
+      "location": "research triangle park north carolina united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e29bc75edfa11b47106ba",
+      "key": "ibm|||entry level product manager rtp 2027",
+      "location": "research triangle park north carolina united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e29b475edfa11b47106b6",
+      "key": "ibm|||entry level product management 2027",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e340f2c964816f65ebf25",
+      "key": "ibm|||product manager",
+      "location": "armonk ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e34142c964816f65ebf26",
+      "key": "ibm|||product manager elh rtp 2027",
+      "location": "research triangle park north carolina united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e2a3aa7ba386c5d670e80",
+      "key": "ibm|||entry level product manager infrastructure growth innovation 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e2a2bdacf777321a90a72",
+      "key": "ibm|||entry level product manager ibm power austin tx 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e2a2875edfa11b47106cc",
+      "key": "ibm|||entry level product manager infrastructure growth innovation 2027",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e29e227c94c3d5a1cb5f9",
+      "key": "ibm|||entry level technical product manager austin tx 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    }
+  ]
+}
