@@ -2105,6 +2105,12 @@
       "key": "uber|||software engineer i",
       "location": "san francisco ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a993eae50bfe8474621f4a8",
+      "key": "qualcomm|||software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
