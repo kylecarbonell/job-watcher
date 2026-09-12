@@ -16931,6 +16931,186 @@
       "key": "newell brands|||assoc technical product dev",
       "location": "south deerfield ma united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4fe1c82e82a31997bb7e8",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "overland park ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a96fc5cf5337b2cf731f131",
+      "key": "texas instruments|||software engineer career accelerator program",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a921772a27a2d3c9848b4ac",
+      "key": "vt group vtg|||associate software full stack developer",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4e47c42411952ff9a5fd1",
+      "key": "adyen|||full stack developer junior docs experience engineering team",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95f62d3843db0159908988",
+      "key": "noblis|||net software developer full stack multiple levels",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a513ab778e364789ca59f31",
+      "key": "tiktok|||ios software engineer monetization client ads core technology demonstration",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4e7d842411952ff9a60b1",
+      "key": "commure|||software engineer early career 2027",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4cd792ed333b4ea5c41c0",
+      "key": "book of the month|||associate software engineer frontend",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4e6eb930bff471a29c10e",
+      "key": "scientific research corporation|||quality assurance analyst i",
+      "location": "st inigoes md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4e904a77a53f5a156e96d",
+      "key": "publicis montreal|||associate manual qe tester 1 3years experience only",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4f9b682e82a31997bb6cb",
+      "key": "pangram labs|||software engineer customer solutions",
+      "location": "brooklyn ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4e323a77a53f5a156e7fc",
+      "key": "adyen|||full stack developer junior docs experience engineering team",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4f64f930bff471a29c4d2",
+      "key": "scientific research corporation|||quality assurance analyst i",
+      "location": "saint inigoes md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4f4da930bff471a29c456",
+      "key": "fidelity|||co op software engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4d9bf2ed333b4ea5c44d9",
+      "key": "whiteoptics llc|||specialist growth transformation software engineering build leadership program",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4f85a654b2a9424cf2057",
+      "key": "trane technologies|||associate embedded sw engineer",
+      "location": "los angeles crosse wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4fb1a2ed333b4ea5c4c4e",
+      "key": "rtx|||firmware engineer i onsite",
+      "location": "largo fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4bc6f42411952ff9a5549",
+      "key": "boeing|||entry level simulation software engineer",
+      "location": "berkeley mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5019582e82a31997bb928",
+      "key": "brivo|||software engineer new grad",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4cd2a82e82a31997bac55",
+      "key": "state farm|||software engineer ios",
+      "location": "bloomington il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4fd06a77a53f5a156ee68",
+      "key": "mgm resorts international|||engineer computer cosmopolitan",
+      "location": "las vegas nv united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a96d65de4e60e4b8da5a245",
+      "key": "lexisnexis risk solutions|||product operations coordinator",
+      "location": "duluth ga united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa4d64142411952ff9a5be9",
+      "key": "steve madden|||product development assistant temp",
+      "location": "long island city ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa4ea3ea77a53f5a156e9b8",
+      "key": "steve madden|||product development assistant temp",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa4d6fea77a53f5a156e4d2",
+      "key": "bending spoons|||graduate product manager",
+      "location": "cambridge england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa4fdff654b2a9424cf21c2",
+      "key": "bending spoons|||product manager",
+      "location": "oxford england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa4ecb682e82a31997bb3dc",
+      "key": "kyndryl|||associate product manager agentic modernization",
+      "location": "dallas tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa4d53ea77a53f5a156e44e",
+      "key": "shiseido|||analyst it digital",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa4ebe22ed333b4ea5c48dc",
+      "key": "whiteoptics llc|||build leadership program business analyst tech product management specialist",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa4f3d9930bff471a29c3f4",
+      "key": "travismathew|||product development assistant",
+      "location": "huntington beach ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
