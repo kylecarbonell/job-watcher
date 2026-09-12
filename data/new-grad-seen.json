@@ -16505,6 +16505,126 @@
       "key": "outschool|||product manager",
       "location": "united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5e9a3fb3-b8d1-440b-b8cb-3725a201cdf0",
+      "key": "commure|||software engineer early career",
+      "location": "los angeles mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:36c8b8fd-365d-4bac-aacd-9ad6d868c515",
+      "key": "chamberlain group|||software engineer 1 ai",
+      "location": "california",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bf70e269-0f0c-4ba6-9c6d-ba877510df63",
+      "key": "the boeing company|||entry level simulation software engineer",
+      "location": "hazelwood mo",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6f28959f-ed87-4de3-b9da-60e153c5463d",
+      "key": "the boeing company|||entry level simulation software engineer",
+      "location": "hazelwood mo",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3483db30-db09-486a-bdaa-16eee2551d91",
+      "key": "capital one|||data scientist new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c425d9f3f9656f88c63e0675996574d725e983fd",
+      "key": "eikon therapeutics|||software engineer 1",
+      "location": "millbrae ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa47be4c1928370a285e1ea",
+      "key": "optiver|||graduate software engineer 2027 start",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4795a1d92e2d05d114e35",
+      "key": "oneimaging|||full stack associate software engineer uf only",
+      "location": "miami fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5ad10f856af468ab009a4f",
+      "key": "nokia|||firmware engineer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a56444c53b3962b910aefc8",
+      "key": "nvidia|||software quality assurance engineer 2026 new college grad",
+      "location": "us ca santa clara united states of america",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa46ba91d92e2d05d114b29",
+      "key": "hka|||junior it infrastructure engineer",
+      "location": "phoenix az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9866de11f73b6462c8e6bd",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a74a24020b26a6e93f47e36",
+      "key": "ciro ocri|||ba and qa tester 12 month contract",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa46b95c1928370a285de12",
+      "key": "super micro computer spain s l|||test engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa477e4422289703bd66b6d",
+      "key": "medtronic|||software cloud engineer i cloud infrastructure",
+      "location": "galway county galway ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa47959f7baf881567cede2",
+      "key": "hewlett packard enterprise|||embedded software test engineer graduate",
+      "location": "spring tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa4744ff7baf881567cecc4",
+      "key": "bending spoons|||graduate software engineer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa475cb8275e3a211760709",
+      "key": "bending spoons|||graduate software engineer",
+      "location": "oxford england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a1d5934e24ef365258375c2",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "massachusetts boston",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a872456680f314a29d37172",
+      "key": "goldman sachs|||product manager asset wealth management private wealth management",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
