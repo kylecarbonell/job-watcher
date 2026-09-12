@@ -19253,6 +19253,30 @@
       "key": "acosta|||product demonstrator part time",
       "location": "san antonio tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5a0c02ed333b4ea5c77dd",
+      "key": "nascent|||quality assurance specialist",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a930ea5c12c90443efcb47b",
+      "key": "deltek|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa59ca92ed333b4ea5c772d",
+      "key": "sharp electronics corporation usa|||associate product manager",
+      "location": "memphis tn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5db467c8e3a473cb8b5542",
+      "key": "acosta|||product demonstrator part time",
+      "location": "houston tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
