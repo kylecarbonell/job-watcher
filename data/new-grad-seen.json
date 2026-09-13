@@ -19709,6 +19709,18 @@
       "key": "amazon|||product operations coordinator mgm network operations",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5002d8fc327f422fef766c",
+      "key": "sharp electronics corporation usa|||associate qa analyst developer",
+      "location": "montvale nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8826af25fc4e7ae3daf653",
+      "key": "collins aerospace|||assoc software engineer simulation",
+      "location": "binghamton ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
