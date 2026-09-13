@@ -2123,6 +2123,12 @@
       "key": "salesforce|||software engineering amts college grad",
       "location": "san francisco ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5eb5382e82a31997bf260",
+      "key": "google|||software developer android xr system ui",
+      "location": "waterloo on canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
