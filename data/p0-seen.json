@@ -2129,6 +2129,18 @@
       "key": "google|||software developer android xr system ui",
       "location": "waterloo on canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a523a538a74e077472f3a93",
+      "key": "qualcomm|||embedded software engineer",
+      "location": "san diego california united states of america",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa682892ed333b4ea5ca4bf",
+      "key": "the d e shaw group|||software developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
