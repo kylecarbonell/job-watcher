@@ -2117,6 +2117,12 @@
       "key": "uber|||software engineer i",
       "location": "san francisco ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a748ffbbb6ca93ae560a960",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
