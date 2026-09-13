@@ -19277,6 +19277,54 @@
       "key": "acosta|||product demonstrator part time",
       "location": "houston tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3353e4ce501060b5ced19b",
+      "key": "parker hannifin|||digital it associate",
+      "location": "clyde ny",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a748ffbbb6ca93ae560a960",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5bafc2ed333b4ea5c7ad7",
+      "key": "zachary piper solutions|||software engineer i secret",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5d241654b2a9424cf565e",
+      "key": "office for national statistics|||infrastructure engineer",
+      "location": "titchfield england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5bd52654b2a9424cf5321",
+      "key": "lloyds banking group|||software engineer graduate scheme bristol",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5be47930bff471a29fa36",
+      "key": "lloyds banking group|||software engineer graduate scheme halifax",
+      "location": "halifax england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5c961654b2a9424cf551e",
+      "key": "the cigna group|||technology development program tecdp software engineering track start date july 12 2027",
+      "location": "bloomington mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a4fbf4c9469c0662034eaff",
+      "key": "o m halyard|||associate product manager hybrid",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
