@@ -19565,6 +19565,78 @@
       "key": "hunter douglas architectural belgium|||product specialist",
       "location": "broomfield co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b118b8fef1594ffc8bcedaae8c5771dfa253f19f",
+      "key": "aramark|||junior data engineer",
+      "location": "rockville md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa692dd930bff471a2a2648",
+      "key": "boeing|||software quality engineer associate experienced or senior",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa68c55654b2a9424cf7eaa",
+      "key": "capgemini|||embedded integration engineer",
+      "location": "modena ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a523a538a74e077472f3a93",
+      "key": "qualcomm|||embedded software engineer",
+      "location": "san diego california united states of america",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa682892ed333b4ea5ca4bf",
+      "key": "the d e shaw group|||software developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3f83b8651404064c02ad77",
+      "key": "nuro|||software engineer autonomy visualization",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a04154b22395b6dc6d9a4cc",
+      "key": "nuro|||software engineer autonomy visualization",
+      "location": "mountain view california hq",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a22840e597131741415f0a3",
+      "key": "nuro|||software engineer autonomy visualization",
+      "location": "mountain view california hq",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a509f69f08ee8320766ab6d",
+      "key": "nintendo|||language qa tester brazilian portuguese",
+      "location": "redmond wa",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a6921fa5d01972698ee69d4",
+      "key": "yes energy|||product owner",
+      "location": "boulder co united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a501abb1544d7246c0d7b79",
+      "key": "national football league nfl|||seasonal product operations coordinator",
+      "location": "inglewood california united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa60b13930bff471a2a184f",
+      "key": "centric brands|||coordinator product development",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
