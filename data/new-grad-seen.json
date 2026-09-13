@@ -19661,6 +19661,36 @@
       "key": "new era cap|||associate product line key account",
       "location": "buffalo ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f856788a-97a4-4332-a414-c568ed12438d",
+      "key": "autostore|||entry level software engineer",
+      "location": "atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a6ce063ca1f933846601306",
+      "key": "motorola solutions|||embedded software engineer",
+      "location": "schaumburg il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a94d204a27a2d3c9848fb83",
+      "key": "mission technologies a division of hii|||software engineer 1 23832 fs poly required job details hii s mission technologies division",
+      "location": "fort meade md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a47f9b65d7b097d2df39059",
+      "key": "spacex|||software engineer special projects top secret clearance",
+      "location": "hawthorne ca",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa6d3d582e82a31997c13c6",
+      "key": "lululemon|||product operations lead hilldale temporary through january 2027",
+      "location": "madison wi united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
