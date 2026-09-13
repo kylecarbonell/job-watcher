@@ -2141,6 +2141,18 @@
       "key": "the d e shaw group|||software developer",
       "location": "new york ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a47f9b65d7b097d2df39059",
+      "key": "spacex|||software engineer special projects top secret clearance",
+      "location": "hawthorne ca",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a53bc0cc8eb0843027ad7d9",
+      "key": "nvidia|||formal verification engineer new college grad 2026",
+      "location": "us ca santa clara united states of america",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
