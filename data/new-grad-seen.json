@@ -19523,6 +19523,48 @@
       "key": "hsl chairs|||assistant product manager",
       "location": "batley england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4eb9c4a0e7d369561ac9ceca445b1366a5fee46d",
+      "key": "bank of montreal|||machine learning developer new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa62f24654b2a9424cf7829",
+      "key": "john deere|||engineer software job details john deere",
+      "location": "east moline il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa62cb542411952ff9abc86",
+      "key": "john deere|||embedded software engineer job details john deere",
+      "location": "dubuque ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5400382e82a31997bcf30",
+      "key": "pathai|||software development engineer in test sdet",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa61c30654b2a9424cf7603",
+      "key": "charles schwab|||full stack developer",
+      "location": "southlake tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5e96da77a53f5a1572923",
+      "key": "rtx|||software engineer i onsite",
+      "location": "fort wayne in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa64a15654b2a9424cf7985",
+      "key": "hunter douglas architectural belgium|||product specialist",
+      "location": "broomfield co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
