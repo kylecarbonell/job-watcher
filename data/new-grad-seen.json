@@ -19637,6 +19637,30 @@
       "key": "centric brands|||coordinator product development",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a53bc0cc8eb0843027ad7d9",
+      "key": "nvidia|||formal verification engineer new college grad 2026",
+      "location": "us ca santa clara united states of america",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa6b83842411952ff9ac4ef",
+      "key": "iterable|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6941d4ae14ee092a69ffe641",
+      "key": "tenstorrent|||gcc compiler engineer",
+      "location": "austin texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a7f4f12e51a1e18a2411854",
+      "key": "new era cap|||associate product line key account",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
