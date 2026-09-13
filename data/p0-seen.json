@@ -2153,6 +2153,12 @@
       "key": "nvidia|||formal verification engineer new college grad 2026",
       "location": "us ca santa clara united states of america",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9c9340dacf777321a8e7b8",
+      "key": "amazon|||product operations coordinator mgm network operations",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
