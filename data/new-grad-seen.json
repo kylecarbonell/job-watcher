@@ -19691,6 +19691,24 @@
       "key": "lululemon|||product operations lead hilldale temporary through january 2027",
       "location": "madison wi united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa6f43982e82a31997c1687",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "overland park ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa6f4382ed333b4ea5cad07",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9c9340dacf777321a8e7b8",
+      "key": "amazon|||product operations coordinator mgm network operations",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
