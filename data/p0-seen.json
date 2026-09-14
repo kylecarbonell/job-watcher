@@ -2195,6 +2195,12 @@
       "key": "the d e shaw group|||software developer",
       "location": "new york ny",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa854b4930bff471a2a68a4",
+      "key": "amazon|||software development engineer",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
