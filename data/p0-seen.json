@@ -2183,6 +2183,18 @@
       "key": "robinhood|||associate product manager new grad",
       "location": "menlo park ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa808192ed333b4ea5ccd27",
+      "key": "ibm|||entry level software developer tucson az",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69a819d21dfc787e9aa348fa",
+      "key": "the d e shaw group|||software developer",
+      "location": "new york ny",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
