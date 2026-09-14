@@ -19721,6 +19721,18 @@
       "key": "collins aerospace|||assoc software engineer simulation",
       "location": "binghamton ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa72db5930bff471a2a2f7d",
+      "key": "office for national statistics|||infrastructure engineer",
+      "location": "titchfield england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a0711404a0a6a7e7d822e62",
+      "key": "nuro|||software engineer autonomy visualization",
+      "location": "mountain view california hq",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
