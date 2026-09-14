@@ -2159,6 +2159,12 @@
       "key": "amazon|||product operations coordinator mgm network operations",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:68cb63c89e3a822f5d2459c7",
+      "key": "the d e shaw group|||software developer",
+      "location": "new york ny",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
