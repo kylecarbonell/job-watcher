@@ -2165,6 +2165,24 @@
       "key": "the d e shaw group|||software developer",
       "location": "new york ny",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:58384052fdd09b7a18e6a32463d8e3e1213ca078",
+      "key": "tiktok|||software engineer new grad quality and efficiency technology",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e31298c9-b0ff-4750-94e9-d167842aa42e",
+      "key": "robinhood|||associate product manager new grad",
+      "location": "menlo park ca new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa7ec82654b2a9424cf9cd6",
+      "key": "robinhood|||associate product manager new grad",
+      "location": "menlo park ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
