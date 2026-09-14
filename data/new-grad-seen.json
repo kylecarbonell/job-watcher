@@ -19733,6 +19733,66 @@
       "key": "nuro|||software engineer autonomy visualization",
       "location": "mountain view california hq",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa781dd930bff471a2a35c0",
+      "key": "office for national statistics|||infrastructure engineer",
+      "location": "titchfield england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a50a2662e2ceb72963b4293",
+      "key": "university of portland|||programmer analyst i",
+      "location": "portland or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa757542ed333b4ea5cb2e3",
+      "key": "babcock international group|||software engineering graduate programme",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa73846a77a53f5a157515f",
+      "key": "michigan medicine|||atlas platform developer",
+      "location": "ann arbor mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa7384282e82a31997c1a6d",
+      "key": "rtx|||software engineer i onsite",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa74b1042411952ff9acdbb",
+      "key": "global payments inc|||product analyst aml fraud",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa748c2930bff471a2a311c",
+      "key": "global payments inc|||product analyst aml fraud",
+      "location": "cincinnati oh united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa748bc930bff471a2a3110",
+      "key": "global payments inc|||product analyst aml fraud",
+      "location": "salt lake city ut united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa74b1742411952ff9acdca",
+      "key": "global payments inc|||product analyst aml fraud",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa756ce930bff471a2a3227",
+      "key": "worldpay|||product analyst aml fraud credit",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
