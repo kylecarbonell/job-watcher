@@ -2201,6 +2201,24 @@
       "key": "amazon|||software development engineer",
       "location": "newark nj united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:513e6d2f-18b8-4296-b39d-cd4c8b148b9b",
+      "key": "doordash|||software engineer 1 entry level",
+      "location": "5 locationsseattle wa san francisco los angeles new york sunnyvale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8771a82e82a31997c6138",
+      "key": "atlassian|||software engineer 2027 graduate u s",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8756ca77a53f5a15798fc",
+      "key": "ibm|||entry level back end developer 2027",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
