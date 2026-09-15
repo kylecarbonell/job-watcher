@@ -2261,6 +2261,18 @@
       "key": "qualcomm|||5g 6g modem software engineer",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d5626dc7a7a215057308682d3e088c581ada5339",
+      "key": "google|||software engineer early career ai ml phd",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa9021d83a6750b1adfa9a2",
+      "key": "google|||associate product manager university graduate 2027 start",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
