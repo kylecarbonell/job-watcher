@@ -21257,6 +21257,204 @@
       "key": "bain capital|||business systems analyst co op",
       "location": "boston ma united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bd56c51a-aae8-4121-98f4-cd683c6c4a85",
+      "key": "rtx|||software engineer 1",
+      "location": "tewksbury ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0daafc3788188da7e510528acbafe19c09683d7d",
+      "key": "zebra technologies|||software engineer 1",
+      "location": "kennesaw ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9882baefa248c2a69052cb5cd9c3fe64e2f62f36",
+      "key": "textron|||software engineer 1 electronic systems",
+      "location": "hunt valley cockeysville md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d5626dc7a7a215057308682d3e088c581ada5339",
+      "key": "google|||software engineer early career ai ml phd",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8c5bba25fc4e7ae3db7ccf",
+      "key": "convergint|||ses warehouse programmer on site",
+      "location": "hoffman estates il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa942cf3387a3d9b67d4204",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9412228e24cb385139682",
+      "key": "capgemini|||junior frontend developer job details capgemini",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa941203387a3d9b67d418d",
+      "key": "capgemini|||junior frontend developer job details capgemini",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9409d28e24cb38513965e",
+      "key": "saviynt|||associate principal software engineer",
+      "location": "milpitas ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa93bee3387a3d9b67d3fb8",
+      "key": "office for national statistics|||infrastructure engineer",
+      "location": "titchfield england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7649884817aa4307047b75",
+      "key": "impact com|||associate qa engineer",
+      "location": "santa barbara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7487e7bb6ca93ae560a772",
+      "key": "impact com|||associate software engineer",
+      "location": "santa barbara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7544ca7b3417772ade3dab",
+      "key": "garage|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8c53210b1cd4f41603f5b",
+      "key": "amazon|||solutions architect awsi 2027",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9325928e24cb38513931e",
+      "key": "arcfield|||entry level software engineer",
+      "location": "middletown ri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8ce36d1d96e6541c8c362e",
+      "key": "liveonny|||information technology service management itsm engineer level 1",
+      "location": "long island city ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9309ceff87f571fc9881d",
+      "key": "vt group vtg|||web developer",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a71023dee751e0c793420a1",
+      "key": "bart associates inc|||application developer programmer",
+      "location": "alexandria va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a71022f9a0ca4480c7d2944",
+      "key": "bart associates inc|||computer engineer",
+      "location": "alexandria va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa92f01eff87f571fc987f2",
+      "key": "state farm|||software engineer",
+      "location": "richardson tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa92cbf3387a3d9b67d3d20",
+      "key": "arcfield|||entry level software engineer",
+      "location": "middletown ri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa924ff17ddad6a8a47df0f",
+      "key": "torentify|||software engineer",
+      "location": "lynchburg va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a70bc6f71acd469eed9f3f2",
+      "key": "runpod|||software engineer full stack",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91a760c12c90443efc7308",
+      "key": "nightwing|||software engineer i",
+      "location": "sterling va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8bf0e64afae74a08351c5c",
+      "key": "crowdstrike|||software engineer sensor sensor performance and stability hybrid",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a70171fad0fe2053dba0467",
+      "key": "jpmorganchase|||2027 software engineer program full time united states july start",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9072aeff87f571fc98300",
+      "key": "rtx|||software engineer i onsite",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa92ed56d0edc2d91b08711",
+      "key": "the aerospace corporation|||small satellite embedded software engineer",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9301128e24cb38513929d",
+      "key": "rtx|||software modernization engineer i onsite",
+      "location": "indianapolis in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa927d8eff87f571fc98712",
+      "key": "collins aerospace|||engineer i display products onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a567a30efb06a45240d600f",
+      "key": "trumid|||integration product management",
+      "location": "new york city ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a8cabbacde3717f9e9be8d9",
+      "key": "icapital|||product manager analyst associate",
+      "location": "salt lake city ut united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a8c700325fc4e7ae3db83ec",
+      "key": "skorpios technologies inc|||associate product line manager",
+      "location": "temecula ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
