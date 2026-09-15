@@ -2219,6 +2219,48 @@
       "key": "ibm|||entry level back end developer 2027",
       "location": "poughkeepsie ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8a546e52865942acfd219",
+      "key": "linkedin|||software engineer applications",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8a543f74328685440fb0a",
+      "key": "linkedin|||fullstack engineer personalization platform",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8a2c3f74328685440f7e9",
+      "key": "intel|||software engineer datacenter",
+      "location": "phoenix az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8a23763bfd4581d7e8a63",
+      "key": "intel|||software engineer datacenter",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:68cccf42fa466330fef91b75",
+      "key": "palantir technologies|||backend software engineer infrastructure foundations",
+      "location": "new york ny",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8a58cf74328685440fb53",
+      "key": "intel|||software engineer datacenter",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8a106f74328685440f58c",
+      "key": "qualcomm|||5g 6g modem software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
