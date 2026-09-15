@@ -20603,6 +20603,150 @@
       "key": "sensorex inc|||associate product manager",
       "location": "garden grove ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8ed0dba2c2c90b1d261b7bbaf9077eee287b748a",
+      "key": "rtx|||software engineer 1 advanced products and solutions",
+      "location": "mckinney tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0e415f12c4b11ccc3854574df7eabae2d914f73c",
+      "key": "lennar corporation|||software engineer 1",
+      "location": "miami fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b1f87853-110d-4efd-8b98-5b032355c467",
+      "key": "applied materials|||product line management new grad master s",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8771a82e82a31997c6138",
+      "key": "atlassian|||software engineer 2027 graduate u s",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8756ca77a53f5a15798fc",
+      "key": "ibm|||entry level back end developer 2027",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa86e68a77a53f5a1579667",
+      "key": "defense unicorns|||associate software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa86fe7a77a53f5a1579702",
+      "key": "micron technology|||new college grad hbm soc design engineer architect",
+      "location": "folsom ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa86fd8930bff471a2a74ca",
+      "key": "university of maryland baltimore umb|||associate developer for it enterprise applications",
+      "location": "baltimore md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa85fb33a9f0a4fe6f18f4f",
+      "key": "itron inc|||software quality assurance engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8657b3a9f0a4fe6f191b7",
+      "key": "raytheon|||software engineer i onsite",
+      "location": "fort wayne in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95e7fac8763a3a87ffd1ee",
+      "key": "infosys|||java sre support engineer",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa864432ed333b4ea5cf3b3",
+      "key": "torentify|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa86285654b2a9424cfc8ba",
+      "key": "nordstrom|||engineer 1",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8602d82e82a31997c5968",
+      "key": "wabtec corporation|||firmware engineering co op january june 2027",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95e03ecabc9f6703e1a824",
+      "key": "whatnot|||software engineer 2027 new grad",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9f74dca7ba386c5d675258",
+      "key": "caterpillar inc|||software engineer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa85bf9654b2a9424cfc475",
+      "key": "caci international inc|||software developer",
+      "location": "san antonio tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa862f9930bff471a2a70cc",
+      "key": "u s bank|||associate software engineer c net core",
+      "location": "hopkins mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa86447654b2a9424cfc952",
+      "key": "lowe s companies inc|||associate software engineer launchpad",
+      "location": "charlotte nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8759f3a9f0a4fe6f19708",
+      "key": "boeing|||software engineer associate experienced or senior bixby",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa85da5930bff471a2a6dc2",
+      "key": "gesa credit union|||product owner i",
+      "location": "richland wa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa863cb2ed333b4ea5cf36c",
+      "key": "lowe s companies inc|||associate product manager launchpad",
+      "location": "charlotte nc united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa85c15930bff471a2a6ca2",
+      "key": "broadridge|||product analyst hybrid",
+      "location": "newark nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa85e4482e82a31997c57fe",
+      "key": "applied materials|||product line management ii new college grad master s santa clara ca",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
