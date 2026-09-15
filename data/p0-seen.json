@@ -2279,6 +2279,12 @@
       "key": "amazon|||solutions architect awsi 2027",
       "location": "dallas tx united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a70cd86e2b7476e7b20b02b",
+      "key": "spacex|||software engineer telemetry top secret clearance starlink",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
