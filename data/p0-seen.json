@@ -2285,6 +2285,18 @@
       "key": "spacex|||software engineer telemetry top secret clearance starlink",
       "location": "hawthorne ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9b85a09ae03adcacdea75",
+      "key": "spacex|||software engineer c top secret clearance",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa996ab28e24cb38513b1fe",
+      "key": "qualcomm|||software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
