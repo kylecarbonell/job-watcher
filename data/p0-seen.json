@@ -2303,6 +2303,24 @@
       "key": "apple|||software engineer customer feedback",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9d9466d0edc2d91b0bfb8",
+      "key": "spacex|||software engineer internal applications",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa094ea2db131437b605f4",
+      "key": "qualcomm|||software development engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a0d9cc280bf0430c7624a1e",
+      "key": "qualcomm|||embedded software engineer",
+      "location": "san diego ca",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
