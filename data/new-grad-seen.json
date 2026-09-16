@@ -22895,6 +22895,228 @@
       "key": "polar beverages|||product development associate",
       "location": "schenectady ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e6cc601203e8d0111f57ce5611e4d4816ac07b29",
+      "key": "bruno independent living aids|||junior software developer ai focus",
+      "location": "oconomowoc wi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:881cd02a8a79d829e04165f56a1caffe0d006665",
+      "key": "rtx|||software engineer 1",
+      "location": "cambridge ma arlington county arlington va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c4cecd9740f9e9a0e4f16a977ef46943c2b6694b",
+      "key": "kustomer|||software engineer early career full stack",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaec8576707040fb083192",
+      "key": "icapital|||configuration developer analyst",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaeb9376707040fb083155",
+      "key": "anduril industries|||firmware engineer space emerging talent",
+      "location": "costa mesa ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8cdd5725fc4e7ae3dbac71",
+      "key": "amazon|||software development engineer amazon leo early career 2026",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaae99676707040fb083019",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaae96940807b73bd392b44",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaae93340807b73bd392b36",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8df69bcc0cf270685264fb",
+      "key": "amazon|||application builder blink subs ai",
+      "location": "north reading ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8ddaefd34f700f87fd66ec",
+      "key": "brunswick corporation|||mercury marine systems software engineering co op",
+      "location": "fond du lac wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaad21df6bd9d2d17c19bd0",
+      "key": "attalon inc|||software engineer embedded systems",
+      "location": "bloomfield ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaad392f6bd9d2d17c19cd0",
+      "key": "d3 embedded|||embedded systems design co op",
+      "location": "west henrietta ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaad2e940807b73bd39235d",
+      "key": "office for national statistics|||infrastructure engineer",
+      "location": "titchfield england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaacf6c8e1bf0f764af6a67",
+      "key": "roblox|||software engineer discovery ux",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaacdf1f6bd9d2d17c19a6e",
+      "key": "roblox|||software engineer discovery ux",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaacb8df6bd9d2d17c198d9",
+      "key": "innovative defense technologies idt|||associate software engineer jobid 0186",
+      "location": "mount laurel nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a83ed5d6cd9495f31074571",
+      "key": "ice|||analyst infrastructure development automation",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a83e931e021cc586fb68ec6",
+      "key": "ice|||analyst infrastructure development automation",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaac5e08e1bf0f764af650f",
+      "key": "ecs group of companies|||junior software developer",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69fef4b674b5407dd4673447",
+      "key": "acceldata|||software engineering co op",
+      "location": "kitchener on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaae093c85610f4a4842375",
+      "key": "kongsberg geospatial|||web developer react typescript",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaadef48e1bf0f764af700f",
+      "key": "harris computer|||software developer",
+      "location": "texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaac8f940807b73bd391f70",
+      "key": "westinghouse electric company|||common q software engineer",
+      "location": "warrendale pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaae7954be87a72913a20b2",
+      "key": "medtronic|||software test engineer i",
+      "location": "lafayette co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaae6728e1bf0f764af72aa",
+      "key": "dexcom|||sw development engineer 1",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaad39e4be87a72913a19e3",
+      "key": "cisco|||solutions engineer splunk",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaadf71f6bd9d2d17c1a168",
+      "key": "erias ventures|||enterprise systems engineer jira agile java",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaab8ee76707040fb081b70",
+      "key": "caci international inc|||software developer",
+      "location": "san antonio tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3f390f7baf881567cc4ee",
+      "key": "amentum|||c c software developer",
+      "location": "dahlgren va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaae30b40807b73bd392929",
+      "key": "river valley power sport marine|||powersports product specialist",
+      "location": "rochester mn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a556a10268af95237beba12",
+      "key": "deutsche bank|||product solutions analyst",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaac5cef6bd9d2d17c195da",
+      "key": "bending spoons|||graduate product manager",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaac5448e1bf0f764af64cc",
+      "key": "inclusively|||technical product owner",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a7e49cfe2030208f2768bbf",
+      "key": "planetart|||associate product manager mobile",
+      "location": "calabasas ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaad4c2c85610f4a4841f22",
+      "key": "njm insurance group|||insurance product management analyst associate hybrid",
+      "location": "trenton nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaada3140807b73bd392637",
+      "key": "accenture|||technical product owner 6461714",
+      "location": "hartford ct united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
