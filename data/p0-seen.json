@@ -2327,6 +2327,24 @@
       "key": "amazon|||software development engineer amazon leo early career 2026",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8df69bcc0cf270685264fb",
+      "key": "amazon|||application builder blink subs ai",
+      "location": "north reading ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaad39e4be87a72913a19e3",
+      "key": "cisco|||solutions engineer splunk",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaf07b76707040fb0832f1",
+      "key": "cisco|||software developer",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
