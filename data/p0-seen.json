@@ -2297,6 +2297,12 @@
       "key": "qualcomm|||software engineer",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9c74528e24cb38513c2f9",
+      "key": "apple|||software engineer customer feedback",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
