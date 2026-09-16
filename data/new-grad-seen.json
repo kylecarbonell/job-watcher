@@ -22355,6 +22355,174 @@
       "key": "procter gamble|||digital product owner",
       "location": "cincinnati oh united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7360b18dc3d52d8ed9efcf",
+      "key": "deloitte|||oracle hcm cloud technical integration analyst",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa23393387a3d9b67d927f",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "webberville tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa22f83387a3d9b67d9259",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "jonestown tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa22f628e24cb38513e5f4",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "manchaca tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa22e409ae03adcace1339",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa22e1120c360b6bd4ac4b",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "manor tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa22cd10b1cd4f41609f79",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "cedar park tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa22c3120c360b6bd4ac3a",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "creedmoor tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa22bf09ae03adcace132b",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "rollingwood tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa22bfa2db131437b60b55",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "bee cave tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa22b83387a3d9b67d9240",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "lakeway tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa22b5120c360b6bd4ac2b",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "bear creek tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa229da2db131437b60b36",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "the hills tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa229809ae03adcace1309",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "west lake hills tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa229728e24cb38513e5b4",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "buda tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa229510b1cd4f41609f4d",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "sunset valley tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa2294a2db131437b60b31",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "lago vista tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa229310b1cd4f41609f4b",
+      "key": "cox automotive inc|||entry level software engineer austin tx",
+      "location": "pflugerville tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5117188d7d3e6cf1cbec98",
+      "key": "verition|||quantitative developer",
+      "location": "greenwich ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa3ca3fa268f58d71f47fd",
+      "key": "office for national statistics|||infrastructure engineer",
+      "location": "titchfield england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a983e8483fc633357630489",
+      "key": "miovision|||full stack software developer",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a97275ee4e60e4b8da5c5dc",
+      "key": "intersystems|||quality development program",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa094ea2db131437b605f4",
+      "key": "qualcomm|||software development engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8ccd1c581f2d7bfdfe5d88",
+      "key": "jacobs|||entry level software engineer",
+      "location": "nashua nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a0d9cc280bf0430c7624a1e",
+      "key": "qualcomm|||embedded software engineer",
+      "location": "san diego ca",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa2071120c360b6bd4abe1",
+      "key": "rtx|||software engineer i onsite",
+      "location": "st petersburg fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaa26ed3387a3d9b67d92e1",
+      "key": "blue origin|||avionics embedded software engineer i early career new graduate rotation 2027 starts",
+      "location": "greater seattle area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaa06b510b1cd4f41609856",
+      "key": "zynga|||rotational product manager canada",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
