@@ -2321,6 +2321,12 @@
       "key": "qualcomm|||embedded software engineer",
       "location": "san diego ca",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8cdd5725fc4e7ae3dbac71",
+      "key": "amazon|||software development engineer amazon leo early career 2026",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
