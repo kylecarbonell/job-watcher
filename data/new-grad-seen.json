@@ -23117,6 +23117,264 @@
       "key": "accenture|||technical product owner 6461714",
       "location": "hartford ct united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c26d8252-d97c-43cd-a297-d22043b04581",
+      "key": "headlands tech holdings|||c software developer new grad",
+      "location": "chicago il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:91e9b7c7-5e56-474d-ab58-0f4316d9847c",
+      "key": "relx|||software engineer 1 risk solutions technology graduate program",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9f54662f-9c26-42ce-8c7b-ffae45d00bfe",
+      "key": "lexisnexis risk solutions|||software engineer 1 risk solutions technology graduate program",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:18dded30-85da-4cf5-a07f-5f4f9aa52535",
+      "key": "general motors|||software engineer early careers",
+      "location": "seattle wa austin tx warren mi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:18dc27db-b7e3-4011-8f62-be35525277f1",
+      "key": "ciena|||asic development methodology and automation new grad",
+      "location": "ottawa on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f0decac3-42e6-41b6-8f73-a954263e1bd7",
+      "key": "rtx|||system integration software engineer 1 system integration software engineer i",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ea674b6eb91efae0064507b4cbe3b32af6a99d7f",
+      "key": "captivation|||software engineer 0 multiple teams",
+      "location": "annapolis junction md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:79570c96-34c9-437c-9d85-d35455087a23",
+      "key": "blenheim chalcot|||junior software engineer",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab01334be87a72913a2ac6",
+      "key": "rtx|||software engineer i onsite",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaf9934be87a72913a2719",
+      "key": "anduril industries|||software engineer battlespace awareness",
+      "location": "broomfield co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaf70c8e1bf0f764af78ad",
+      "key": "rtx|||receiver exciter processing architecture software engineer i onsite",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab051a40807b73bd39367d",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab04e84be87a72913a2cc9",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab02518e1bf0f764af7e07",
+      "key": "mphasis|||developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaff8840807b73bd39337a",
+      "key": "apera ai|||software developer cloud infrastructure co op",
+      "location": "vancouver british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaff7c8e1bf0f764af7c53",
+      "key": "apera ai|||software developer cloud infrastructure co op",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaf991f6bd9d2d17c1aa3a",
+      "key": "apera ai|||software developer full stack co op",
+      "location": "vancouver british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaafd3940807b73bd393261",
+      "key": "cgi|||forward deployed application engineer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaf9354be87a72913a26d2",
+      "key": "decagon|||member of technical staff new grad 2027 start",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaafa5dc85610f4a4842c94",
+      "key": "lockheed martin|||embedded software engineer asc",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95ac5e4c22023a07934fe8",
+      "key": "relx|||tech accelerate graduate program software engineer alpharetta january",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95ac58cabc9f6703e190c3",
+      "key": "relx|||tech accelerate graduate program software engineer alpharetta june",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95ac594c22023a07934fdf",
+      "key": "relx|||tech accelerate graduate program software engineer boca raton june",
+      "location": "boca raton fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaee908e1bf0f764af7603",
+      "key": "zachary piper solutions|||software engineer 174530",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a74cc6cbb6ca93ae560bf0f",
+      "key": "bank of china usa|||america data center application development department application development associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaee7740807b73bd392d71",
+      "key": "kongsberg geospatial|||web developer react typescript",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab033c8e1bf0f764af7e93",
+      "key": "cornerstone community financial credit union|||programming analyst",
+      "location": "auburn hills mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9f4279dacf777321a94602",
+      "key": "freddie mac|||single family software development analyst",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaf0c9c85610f4a4842988",
+      "key": "long building technologies|||junior business applications developer",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaff86c85610f4a4842e93",
+      "key": "metropolitan transportation authority|||application developer levels 1 5 ios",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaafdef40807b73bd393299",
+      "key": "comcast|||entry level backend software engineer python or php new york onsite 4x week",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab022bc85610f4a4843033",
+      "key": "cisco|||software developer embedded systems i full time canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaf07b76707040fb0832f1",
+      "key": "cisco|||software developer",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab02038e1bf0f764af7dd8",
+      "key": "cisco|||software developer embedded systems i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaafc00c85610f4a4842d17",
+      "key": "ciena|||asic development methodology and automation new grad",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9b6a4eff87f571fc9ae36",
+      "key": "spacex|||software engineer c top secret clearance",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaafa708e1bf0f764af7a4b",
+      "key": "john deere|||engineer software architecture",
+      "location": "waterloo ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5c03e82e82a31997be6bb",
+      "key": "emerson|||embedded firmware development engineer",
+      "location": "eden prairie mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab04aaf6bd9d2d17c1afa8",
+      "key": "prophia|||associate product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaaf49876707040fb08342a",
+      "key": "branch|||product development coordinator",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa3910a959a10d7230d26fc",
+      "key": "siemens|||product manager new graduate 12 month contract experience siemens",
+      "location": "vaughan on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab049876707040fb083af3",
+      "key": "citi|||research associate technology communications",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa9f3f728e24cb38513d833",
+      "key": "american express|||associate digital product management",
+      "location": "phoenix az united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
