@@ -2405,6 +2405,12 @@
       "key": "ibm|||entry level product manager ibm power austin tx 2027",
       "location": "austin tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:008bd1b1-83ef-4bce-b3d4-bdab9f25b76d",
+      "key": "visa|||software engineer new grad",
+      "location": "bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
