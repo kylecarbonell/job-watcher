@@ -2363,6 +2363,24 @@
       "key": "spacex|||software engineer c top secret clearance",
       "location": "hawthorne ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2b74c4c8-12dc-47b6-a08b-acc3ea0ee0be",
+      "key": "visa|||associate product manager new grad multiple teams",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab2ff14be87a72913a3a3b",
+      "key": "amazon|||software engineer aws sagemaker unified studio",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaadb7a8e1bf0f764af6ef3",
+      "key": "amazon|||software development engineer amazon leo us",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
