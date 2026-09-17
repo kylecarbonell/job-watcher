@@ -23705,6 +23705,96 @@
       "key": "capgemini|||salesforce junior business analyst",
       "location": "atlanta ga united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:84b9808908e8f946880f721587e298913f369078",
+      "key": "aiprise|||software engineer 1",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2f619c5f-1144-4c30-ab19-f057cd13aef6",
+      "key": "hiive|||junior analyst career launch program",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:85e8c02f3caf084f68a2cab231fcde007b8e629e",
+      "key": "western alliance|||engineer 1 data engineer",
+      "location": "phoenix az",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabba4076707040fb085de3",
+      "key": "sensat|||graduate software engineer graphics platform",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabb3adf6bd9d2d17c1d0c0",
+      "key": "deloitte|||cyber full stack software engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a739f9a1ce9647cdbca9509",
+      "key": "john deere|||part time student it infrastructure engineer dubuque ia",
+      "location": "dubuque ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aababcc0a5bd0a9bfaad1ff",
+      "key": "westinghouse electric company|||i c safety software developer hmi job details westinghouse electric company llc",
+      "location": "warrendale pennsylvania united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a991733dd171c7285793b6e",
+      "key": "tiktok|||general hire backend software engineer graduate trust safety 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99062583fc633357632dbf",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99a72c8a8b765bc55f4975",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab757740807b73bd39503c",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "new jersey united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab7364c85610f4a4844b83",
+      "key": "office for national statistics|||infrastructure engineer",
+      "location": "titchfield england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabab4c8e1bf0f764af9f0c",
+      "key": "visa|||software engineer new college grad bellevue 2027",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabab2ec85610f4a4845142",
+      "key": "rtx|||software engineer i onsite",
+      "location": "fort wayne in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab922af6bd9d2d17c1cc30",
+      "key": "visa|||associate product manager apm new college graduate rotational program 2027",
+      "location": "foster city ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
