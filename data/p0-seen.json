@@ -2381,6 +2381,30 @@
       "key": "amazon|||software development engineer amazon leo us",
       "location": "sunnyvale ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab573a4be87a72913a4292",
+      "key": "ibm|||software engineer confluent secure compute",
+      "location": "markham on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab551df6bd9d2d17c1c438",
+      "key": "ibm|||intern conversion software developer",
+      "location": "poughkeepsie new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab663c8e1bf0f764af976d",
+      "key": "on demand is now vubiquity http www linkedin com company vubiquity|||uipath developer",
+      "location": "edina mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab711a4be87a72913a4608",
+      "key": "ibm|||entry level product manager ibm power austin tx 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
