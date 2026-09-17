@@ -23795,6 +23795,222 @@
       "key": "visa|||associate product manager apm new college graduate rotational program 2027",
       "location": "foster city ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:62b3fe3f-1948-4119-8099-ee4fbd994b6d",
+      "key": "visa|||software engineer new grad 2027",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7e315272-a0e6-4728-be42-a49cf94df95c",
+      "key": "visa|||software engineer new grad",
+      "location": "foster city ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:008bd1b1-83ef-4bce-b3d4-bdab9f25b76d",
+      "key": "visa|||software engineer new grad",
+      "location": "bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a17433a5b0a497d5210a590",
+      "key": "mjh life sciences|||associate product engineer",
+      "location": "united states us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5527e7377f983ce8a9822f",
+      "key": "mjh life sciences|||associate product engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac06ea3e3ce93970c7b343",
+      "key": "integrated biosciences inc|||full stack software engineer",
+      "location": "redwood city ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac05fd3e3ce93970c7b2a9",
+      "key": "noblis|||software developer multiple levels cleared",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac05f7636cddf7396f1b85",
+      "key": "noblis|||software engineer",
+      "location": "philadelphia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac05d52e757fcb5c8b33d2",
+      "key": "quest diagnostics|||full stack software workflow engineer php",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac04333dbb1f8967ce846d",
+      "key": "persistent systems llc|||full stack software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac028095c707f49dfeeeea",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac027c3dbb1f8967ce8416",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabf9fd636cddf7396f1827",
+      "key": "capgemini|||sap commerce cloud junior developer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabf5152e757fcb5c8b2eee",
+      "key": "northrop grumman|||graduate software engineer",
+      "location": "new malden england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabf44a3e3ce93970c7ad95",
+      "key": "metlife|||software engineer developer",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab387c8e1bf0f764af9068",
+      "key": "lockheed martin|||software engineer",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9936ddf6de551aa0aaeec5",
+      "key": "spacexai|||software engineer ads product",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7cf5eadc3dff2d1c0ca254",
+      "key": "tiktok|||software engineer graduate media engine 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a37f5df649fdf16292fdd1b",
+      "key": "tiktok|||backend software engineer global e commerce supply chain and logistics",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7239a745b6af1c30dbd688",
+      "key": "repligen corporation|||software developer i",
+      "location": "bridgewater nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a73a1fd1ce9647cdbca9672",
+      "key": "draper|||embedded quality fielded systems intern",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabd7233e3ce93970c7a71b",
+      "key": "unity|||software engineer xr",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabd2a53dbb1f8967ce78b5",
+      "key": "office for national statistics|||infrastructure engineer",
+      "location": "titchfield england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91ac633603630099193b1d",
+      "key": "mantech|||junior cloud engineer",
+      "location": "springfield va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3fbc3dd528ac2915f95ab5",
+      "key": "gemini|||design developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a34363129c90c607e4de014",
+      "key": "eitacies inc|||android developer",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab91a176707040fb085881",
+      "key": "visa|||software engineer new college grad bellevue 2027",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a72f4f66ffeee418e5b7ea6",
+      "key": "bolt graphics|||gpu standards developer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabef413e3ce93970c7ac12",
+      "key": "general dynamics|||junior embedded software engineer",
+      "location": "dedham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabe6403dbb1f8967ce7bff",
+      "key": "visa|||software engineer new college grad 2027 austin tx",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aabe6db636cddf7396f12f6",
+      "key": "visa|||software engineer new college grad 2027 foster city ca",
+      "location": "foster city ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aabf9533e3ce93970c7af16",
+      "key": "lululemon|||seasonal product operations lead oakbrook",
+      "location": "oakbrook il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aac00252e757fcb5c8b3279",
+      "key": "kharon|||associate product manager",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aabfa0b2e757fcb5c8b3066",
+      "key": "equinix|||product management associate",
+      "location": "redwood city ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aababd7f6bd9d2d17c1cf6f",
+      "key": "visa|||associate product manager apm new college graduate rotational program 2027",
+      "location": "foster city ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a564005f7517b519ad545e1",
+      "key": "kiss beauty group|||product associate lash",
+      "location": "port washington ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
