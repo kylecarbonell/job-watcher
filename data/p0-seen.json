@@ -2465,6 +2465,18 @@
       "key": "nvidia|||software qa engineer new college grad 2026",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:73283e9c-7252-4ace-89b5-c548e7e25e82",
+      "key": "nvidia|||ai compiler engineer new grad",
+      "location": "seattle wa pennsylvania santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac43f33dbb1f8967ce9c3a",
+      "key": "nvidia ai|||software qa engineer new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
