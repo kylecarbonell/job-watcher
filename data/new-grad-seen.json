@@ -23507,6 +23507,204 @@
       "key": "walmart|||specialist product coordinator",
       "location": "bentonville ar united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:57a2bb7e-a9c4-41b0-a10a-606e7e4e9d3b",
+      "key": "lexisnexis risk solutions|||software engineer 1",
+      "location": "alpharetta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab70d740807b73bd394f8e",
+      "key": "gigfinder ai|||associate software engineer",
+      "location": "indiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9b6063387a3d9b67d63e8",
+      "key": "northrop grumman|||software engineer level 1 2",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab5554f6bd9d2d17c1c458",
+      "key": "rtx|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab573a4be87a72913a4292",
+      "key": "ibm|||software engineer confluent secure compute",
+      "location": "markham on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab551df6bd9d2d17c1c438",
+      "key": "ibm|||intern conversion software developer",
+      "location": "poughkeepsie new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab449040807b73bd3948f6",
+      "key": "lexisnexis risk solutions|||software engineer 1",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab458440807b73bd394929",
+      "key": "relx|||software engineer 1",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab45218e1bf0f764af9227",
+      "key": "nokia|||software engineer",
+      "location": "murray hill nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab448d8e1bf0f764af9210",
+      "key": "lexisnexis risk solutions|||software engineer 1",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab3033c85610f4a4843f58",
+      "key": "nokia|||eda software developer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a014d58fa1aa73213d92315",
+      "key": "conductor|||backend engineer",
+      "location": "san francisco ca us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a51c26378e364789ca5c606",
+      "key": "conductor|||backend engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99fe17551435518ebf2789",
+      "key": "yelp|||entry level full stack engineer chat platform remote canada",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab3caec85610f4a4844361",
+      "key": "eversheds sutherland|||graduate legal technology analyst job details eversheds sutherland",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab3ca740807b73bd3947fc",
+      "key": "eversheds sutherland|||graduate legal technology analyst job details eversheds sutherland",
+      "location": "birmingham england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8637c2d34f700f87fc1241",
+      "key": "freeform|||software engineer new grad summer 2027",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab2ff14be87a72913a3a3b",
+      "key": "amazon|||software engineer aws sagemaker unified studio",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaadb7a8e1bf0f764af6ef3",
+      "key": "amazon|||software development engineer amazon leo us",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab2bf176707040fb0847aa",
+      "key": "crusoe|||software engineer i network",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab2bc04be87a72913a3931",
+      "key": "selective insurance|||it early career associate hybrid",
+      "location": "short hills nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab2befc85610f4a4843e86",
+      "key": "rincon research corporation|||software engineer",
+      "location": "centennial co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab33918e1bf0f764af8db2",
+      "key": "costar group|||associate software engineer san diego ca",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab33b2f6bd9d2d17c1bda3",
+      "key": "costar group|||associate software engineer irvine ca",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab54de8e1bf0f764af94a2",
+      "key": "altamira technologies corporation|||junior algorithm developer with security clearance",
+      "location": "warrenton va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab663c8e1bf0f764af976d",
+      "key": "on demand is now vubiquity http www linkedin com company vubiquity|||uipath developer",
+      "location": "edina mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab711a4be87a72913a4608",
+      "key": "ibm|||entry level product manager ibm power austin tx 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab342540807b73bd394458",
+      "key": "lululemon|||seasonal product operations lead south coast plaza",
+      "location": "costa mesa ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab48cb8e1bf0f764af92a1",
+      "key": "tyndale house publishers|||product coordinator",
+      "location": "carol stream il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab3ac376707040fb084c53",
+      "key": "oe federal credit union|||product management jr lead lead",
+      "location": "livermore ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab48c640807b73bd39497f",
+      "key": "tyndale house publishers|||product coordinator",
+      "location": "carol stream il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab27f1f6bd9d2d17c1bb70",
+      "key": "walmart|||specialist product coordinator",
+      "location": "bentonville ar united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab737d76707040fb085550",
+      "key": "capgemini|||salesforce junior business analyst",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
