@@ -2411,6 +2411,42 @@
       "key": "visa|||software engineer new grad",
       "location": "bellevue wa",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:62b3fe3f-1948-4119-8099-ee4fbd994b6d",
+      "key": "visa|||software engineer new grad 2027",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7e315272-a0e6-4728-be42-a49cf94df95c",
+      "key": "visa|||software engineer new grad",
+      "location": "foster city ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac105e95c707f49dfef42b",
+      "key": "microsoft|||software engineer",
+      "location": "dublin ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8f2f09a10ee661e24d6f6c",
+      "key": "spacex|||satellite systems software engineer starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4ccec235e45603c4bb1d1a",
+      "key": "spacex|||embedded software engineer satellite antenna starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a39cd28649fdf1629302e59",
+      "key": "spacex|||software engineer c simulations",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
