@@ -23375,6 +23375,138 @@
       "key": "american express|||associate digital product management",
       "location": "phoenix az united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:31bd649f-d357-4816-9f4f-d991ca04c596",
+      "key": "captivation|||software engineer 0 multiple teams",
+      "location": "annapolis junction md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a9b9d8ee-e94d-4b1f-a542-48d5507be8ef",
+      "key": "relx|||software engineer 1",
+      "location": "alpharetta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:929cfe45-2ac9-4d39-80b3-b3fa750e2ceb",
+      "key": "crusoe|||software engineer 1 network",
+      "location": "san francisco sunnyvale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2b74c4c8-12dc-47b6-a08b-acc3ea0ee0be",
+      "key": "visa|||associate product manager new grad multiple teams",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab21234be87a72913a378c",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab1bd1c85610f4a4843ac6",
+      "key": "naval nuclear laboratory fmp|||software engineer entry level",
+      "location": "niskayuna ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab1b784be87a72913a3565",
+      "key": "naval nuclear laboratory fmp|||software engineer entry level",
+      "location": "west mifflin pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaafaa676707040fb083662",
+      "key": "john deere|||software developer",
+      "location": "east moline il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab10c640807b73bd393af8",
+      "key": "kato|||software engineer",
+      "location": "san francisco bay area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaee8040807b73bd392d77",
+      "key": "medtronic|||software test engineer i",
+      "location": "lafayette co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaca7a76707040fb082418",
+      "key": "sun life|||cloud engineer",
+      "location": "waterloo on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa39bdfc5a856ac7e33a6b4",
+      "key": "lockheed martin|||software engineer e2",
+      "location": "boulder co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab0f14c85610f4a4843561",
+      "key": "jbs usa|||sap mm functional analyst i",
+      "location": "greeley co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaac84ef6bd9d2d17c1979f",
+      "key": "eclipse automation|||software designer",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab0eab76707040fb083e80",
+      "key": "spectra logic|||software development engineer in test i",
+      "location": "boulder co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab23d2f6bd9d2d17c1baf4",
+      "key": "wellington management|||investment strategy technology co op",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab1f6a4be87a72913a36cd",
+      "key": "raytheon|||2026 raytheon full time software engineer i eoir advanced products and solutions onsite",
+      "location": "mckinney tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab23aa8e1bf0f764af8b1f",
+      "key": "visa|||associate product manager apm new college graduate rotational program 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a988ea2c8ed473c5c764ca7",
+      "key": "vena solutions|||associate product manager",
+      "location": "canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9886ebc8ed473c5c7648ae",
+      "key": "lululemon|||3 month contract product operations lead staten island mall pop up",
+      "location": "staten island new york united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab0e894be87a72913a3022",
+      "key": "mom s organic market|||category specialist",
+      "location": "rockville md united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab0d538e1bf0f764af826f",
+      "key": "walmart|||specialist product coordinator",
+      "location": "bentonville ar united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
