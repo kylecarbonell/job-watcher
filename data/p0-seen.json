@@ -2447,6 +2447,24 @@
       "key": "spacex|||software engineer c simulations",
       "location": "hawthorne ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a72950702d93145bf895467",
+      "key": "spacex|||full stack engineer application software",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a55634d377f983ce8a99db8",
+      "key": "nvidia|||backend compiler engineer new college grad 2026",
+      "location": "us ca santa clara united states of america",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac26332e757fcb5c8b3f69",
+      "key": "nvidia|||software qa engineer new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
