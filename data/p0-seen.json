@@ -2525,6 +2525,24 @@
       "key": "doordash|||software engineer entry level graduation date winter 2026 spring summer 2027",
       "location": "toronto on canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a511bc68d7d3e6cf1cbefff",
+      "key": "spacex|||software engineer starship",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75dfbfbb6ca93ae560fa9f",
+      "key": "google|||software engineer early career campus",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75bab8bb6ca93ae560f49d",
+      "key": "google|||software engineer early career campus",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
