@@ -2489,6 +2489,30 @@
       "key": "ibm|||associate application developer 2027 servicenow",
       "location": "dallas tx united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5f473e5a-c08d-4e76-ae09-29c68b392aea",
+      "key": "stripe|||software engineer early career immediate start",
+      "location": "seattle wa san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac9d9595c707f49dff1e33",
+      "key": "microsoft|||software engineer",
+      "location": "dublin ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a878ab0680f314a29d395f9",
+      "key": "servicenow|||assoc applications dev engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac86ad3e3ce93970c7dced",
+      "key": "apple|||firmware engineer",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
