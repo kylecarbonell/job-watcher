@@ -24785,6 +24785,132 @@
       "key": "aar|||product strategy analyst iii",
       "location": "wood dale il united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e056c429ffd436ab5722f5c963b231f1ab883687",
+      "key": "instabase|||software engineer early careers",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69813a687f40342e15da2d61",
+      "key": "accenture federal services|||sap hana developer",
+      "location": "washington washington",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a50ff34bf63b66c79977f10",
+      "key": "accenture federal services|||sap hana developer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad2f153dbb1f8967cec36a",
+      "key": "google|||product deployment engineer gtech ads",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a90317fd96ad228f125fedc",
+      "key": "ericsson|||software developer co op",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a20a40a4bdf8a5a96bd214c",
+      "key": "zoll medical corporation|||test development engineer",
+      "location": "deerfield wi us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a51c9a178e364789ca5ccd8",
+      "key": "zoll medical corporation|||test development engineer",
+      "location": "deerfield wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3aedb4649fdf162930671e",
+      "key": "hbk hottinger bruel kj r|||redhawk software engineer",
+      "location": "pompano beach us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91f3859864261ccd29fbce",
+      "key": "intuit|||software developer 1 android dynamic experiences",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a72f5016ffeee418e5b7ea8",
+      "key": "bolt graphics|||gpu driver developer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad1ee53dbb1f8967cec123",
+      "key": "doordash|||software engineer entry level graduation date winter 2026 spring summer 2027",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a73795132ebbc14ffb4f2bc",
+      "key": "whoop|||ios engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a73dc2a8dc3d52d8eda1aee",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "new jersey united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaccd583dbb1f8967ceb8ae",
+      "key": "yelp|||entry level full stack engineer chat platform remote canada",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9080257c32860d14cf9bb3",
+      "key": "manulife|||gro program technology waterloo",
+      "location": "waterloo on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad03542e757fcb5c8b6b53",
+      "key": "booz allen hamilton|||full stack software engineer junior",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a74f3a537da8525e8cdb996",
+      "key": "veeva systems|||analyst computer software validation remote",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aacfced0a4ce9becc77ac6f",
+      "key": "tulmar safety systems|||quality assurance specialist",
+      "location": "hawkesbury ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9a8ffda33d28569fb9a39e",
+      "key": "nokia|||optical firmware system integration engineer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5e6e49270e3033b045dddb",
+      "key": "centric brands|||product development assistant off price",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aad08f53dbb1f8967cebd8d",
+      "key": "accenture|||technical product owner 6461714",
+      "location": "hartford ct united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
