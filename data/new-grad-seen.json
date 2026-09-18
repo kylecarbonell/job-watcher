@@ -24587,6 +24587,156 @@
       "key": "b braun medical inc us|||associate product manager i",
       "location": "bethlehem pa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5f473e5a-c08d-4e76-ae09-29c68b392aea",
+      "key": "stripe|||software engineer early career immediate start",
+      "location": "seattle wa san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aacaac03dbb1f8967ceb44d",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aacaabf95c707f49dff1fa9",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaca8d03d96632d741ab9c1",
+      "key": "ita international|||junior power platform developer",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac81153dbb1f8967ceae4c",
+      "key": "biomerieux|||associate qa software validation engineer",
+      "location": "hazelwood mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac80d1636cddf7396f44d9",
+      "key": "starfish space|||software engineer",
+      "location": "tukwila wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac9d9595c707f49dff1e33",
+      "key": "microsoft|||software engineer",
+      "location": "dublin ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac7e9e95c707f49dff191d",
+      "key": "fortinet|||software development engineer gui",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac90ae3e3ce93970c7de5c",
+      "key": "skyworks solutions inc|||qa software development co op jan dec 2027",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a878ab0680f314a29d395f9",
+      "key": "servicenow|||assoc applications dev engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a55f46bf7517b519ad522dd",
+      "key": "mapjects|||c or c developers us citizen and gc 80 to 110k interview start in 1 week",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac86ad3e3ce93970c7dced",
+      "key": "apple|||firmware engineer",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac85a53dbb1f8967ceaf01",
+      "key": "seakr|||embedded software engineer ii",
+      "location": "centennial co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac7fdf2e757fcb5c8b5c17",
+      "key": "paul mueller company|||software developer i",
+      "location": "springfield missouri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac7d353dbb1f8967cead9a",
+      "key": "sharkninja france|||engineering technology co op opportunities",
+      "location": "needham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a53ce6a8a74e077472f9ac3",
+      "key": "peraton|||software engineer",
+      "location": "blacksburg va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac7bd02e757fcb5c8b5b34",
+      "key": "quanta manufacturing fremont|||test engineer",
+      "location": "fremont ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac799595c707f49dff1814",
+      "key": "office for national statistics|||infrastructure engineer",
+      "location": "titchfield england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac853295c707f49dff1a4d",
+      "key": "all metals processing of orange county|||1770 quality assurance analyst 1st shift",
+      "location": "santa ana ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac85ba3dbb1f8967ceaf08",
+      "key": "ns2 mission|||java developer junior mid level",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac7a7a3d96632d741ab20f",
+      "key": "biz technology solutions inc managed it services|||junior software qa tester",
+      "location": "mooresville nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac95c83d96632d741ab6df",
+      "key": "safeway|||front end entry level",
+      "location": "lake stevens wa 98258 united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaca436636cddf7396f4a6e",
+      "key": "persistent systems|||full stack software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac9d193dbb1f8967ceb2fb",
+      "key": "general dynamics mission systems|||embedded software engineer entry level",
+      "location": "boise id united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a4becec4f64ba41dcb5dc02",
+      "key": "zayo group|||product management specialist",
+      "location": "co denver united states of america",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
