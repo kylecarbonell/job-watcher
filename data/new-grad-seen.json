@@ -24473,6 +24473,120 @@
       "key": "dzyne technologies|||product configuration specialist autonomous systems",
       "location": "irvine ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7c4e05df-01fe-4e75-a327-5d36ebba397e",
+      "key": "meow|||software engineer new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8c96054c-ba8c-46ff-95ab-037dea56cee8",
+      "key": "radiant|||software engineer new grad",
+      "location": "el segundo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:61dd5c237e1c44a9c096b60755f48af080585a75",
+      "key": "ciena|||asic development methodology and automation new grad",
+      "location": "ottawa on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:746ded8d4337890ccb60aeea6a107c20586e09a8",
+      "key": "hitachi|||junior condition monitoring and analytics engineer",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac72b33d96632d741ab12a",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99df8390a313642c653605",
+      "key": "wolfe llc|||qa engineer",
+      "location": "pittsburgh pennsylvania united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9ba7d6dacf777321a8d176",
+      "key": "bae systems inc|||software engineer i on site",
+      "location": "nashua nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac70912e757fcb5c8b5905",
+      "key": "rocket lab|||flight software engineer i",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8f4865f841e649a71918f8",
+      "key": "seakr|||embedded software engineer ii",
+      "location": "centennial co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac6bfa3e3ce93970c7d755",
+      "key": "ibm|||associate application developer 2027 servicenow",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac6b993e3ce93970c7d737",
+      "key": "ibm|||associate application developer 2027 servicenow",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac66082e757fcb5c8b564d",
+      "key": "digi international|||software test engineer i infrastructure management hybrid hopkins mn",
+      "location": "hopkins mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a87484a4afae74a08347a7e",
+      "key": "kiewit|||document controls specialist kiewit infrastructure engineers",
+      "location": "lone tree co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac632e3dbb1f8967cea6d8",
+      "key": "radiant|||2027 new graduate software engineer",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac63103e3ce93970c7d468",
+      "key": "digi international|||software test engineer i infrastructure management hybrid hopkins mn",
+      "location": "hopkins mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac3ecf3e3ce93970c7c885",
+      "key": "new charter|||junior software qa tester",
+      "location": "mooresville nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac64053dbb1f8967cea75b",
+      "key": "treehouse foods|||application developer business applications process automation",
+      "location": "oak brook il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aac69bb2e757fcb5c8b5724",
+      "key": "lululemon|||contract product operations lead mall at green hills",
+      "location": "nashville tn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aac63272e757fcb5c8b54d4",
+      "key": "b braun medical inc us|||associate product manager i",
+      "location": "bethlehem pa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
