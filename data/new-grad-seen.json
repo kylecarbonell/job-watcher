@@ -24737,6 +24737,54 @@
       "key": "zayo group|||product management specialist",
       "location": "co denver united states of america",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d16f889c-c0de-4b1a-a9e1-c11315ada6be",
+      "key": "accordience|||junior ai automation specialist",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aacc91c95c707f49dff23f1",
+      "key": "motion control|||software engineer i",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aacbe39636cddf7396f4d04",
+      "key": "ukcp|||regulation and quality assurance administrator",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3442eb649fdf16292f4eed",
+      "key": "ita international|||junior power platform developer",
+      "location": "us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aacc0bb3dbb1f8967ceb6fa",
+      "key": "cgi|||mobile developer entry level",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aacb1652e757fcb5c8b6304",
+      "key": "clera|||founding product engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac7a592e757fcb5c8b5ac4",
+      "key": "biz technology solutions inc managed it services|||junior software qa tester",
+      "location": "mooresville nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aacb6130a4ce9becc77a543",
+      "key": "aar|||product strategy analyst iii",
+      "location": "wood dale il united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
