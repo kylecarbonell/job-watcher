@@ -24911,6 +24911,108 @@
       "key": "accenture|||technical product owner 6461714",
       "location": "hartford ct united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a511bc68d7d3e6cf1cbefff",
+      "key": "spacex|||software engineer starship",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7f81e319ce4e6e9d938bdd",
+      "key": "wolverine trading|||entry level c software engineer spring 2027 graduates",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7f8203e2030208f276eefd",
+      "key": "wolverine trading|||entry level c software engineer december 2026 graduates",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad54242e757fcb5c8b7b61",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad46732e757fcb5c8b7643",
+      "key": "american systems|||software engineer mid level",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad539c3dbb1f8967cecdce",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7ec70db56bea5779c06fc2",
+      "key": "matillion|||software engineer",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad4838de327d3e210d1854",
+      "key": "welocalize|||german localization qa tester proofreader in austin tx",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3fd8c6d528ac2915f95ca7",
+      "key": "accenture federal services|||servicenow tester",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad402d6956574eac8b49af",
+      "key": "pioneering evolution llc|||junior software engineer net angular",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9866ddc8ed473c5c763d78",
+      "key": "boeing|||software systems engineer associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75dfbfbb6ca93ae560fa9f",
+      "key": "google|||software engineer early career campus",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad49360ebc8fb2313e899f",
+      "key": "fairwinds technologies|||entry level front end software engineer onsite aberdeen md",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad34c02e757fcb5c8b7309",
+      "key": "vituity|||software engineer i remote nationwide",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad4c890ebc8fb2313e8ac1",
+      "key": "renishaw usa|||software engineer",
+      "location": "wotton under edge england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aad53de0ebc8fb2313e8d6d",
+      "key": "plymouth rock assurance|||product analyst",
+      "location": "woodbridge nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a90d7657c32860d14cfb9fc",
+      "key": "victoria s secret co|||associate product developer lingerie apparel",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
