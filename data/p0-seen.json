@@ -2513,6 +2513,18 @@
       "key": "apple|||firmware engineer",
       "location": "cupertino ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad2f153dbb1f8967cec36a",
+      "key": "google|||product deployment engineer gtech ads",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad1ee53dbb1f8967cec123",
+      "key": "doordash|||software engineer entry level graduation date winter 2026 spring summer 2027",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
