@@ -2549,6 +2549,12 @@
       "key": "snap inc|||software engineer ios level 3",
       "location": "palo alto ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad9aa7de327d3e210d3717",
+      "key": "amazon|||quality assurance engineer prime video ads",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
