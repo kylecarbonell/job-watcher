@@ -2477,6 +2477,18 @@
       "key": "nvidia ai|||software qa engineer new college grad 2026",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac6bfa3e3ce93970c7d755",
+      "key": "ibm|||associate application developer 2027 servicenow",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac6b993e3ce93970c7d737",
+      "key": "ibm|||associate application developer 2027 servicenow",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
