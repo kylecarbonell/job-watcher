@@ -2579,6 +2579,30 @@
       "key": "google|||software engineer early career campus",
       "location": "kirkland wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75baac6b9def3e9e1f8c81",
+      "key": "google|||software engineer early career campus",
+      "location": "pittsburgh pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91ea1bd18f75674827aae9",
+      "key": "qualcomm|||wireless software engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadbe29de327d3e210d42b1",
+      "key": "qualcomm|||display software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae839e6956574eac8b8f62",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
