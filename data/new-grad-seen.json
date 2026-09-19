@@ -25967,6 +25967,36 @@
       "key": "raydar|||software engineer",
       "location": "new york ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaefc3e3dbb1f8967cf14ff",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaef9836956574eac8b981f",
+      "key": "relativity space|||software engineer i",
+      "location": "long beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaef1ad2e757fcb5c8bc2b2",
+      "key": "raydar|||forward deployed engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaef1af6956574eac8b97b5",
+      "key": "raydar|||founding engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaf05262e757fcb5c8bc388",
+      "key": "linkedin|||software engineer systems and infrastructure",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
