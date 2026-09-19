@@ -2621,6 +2621,12 @@
       "key": "google|||software engineer early career campus",
       "location": "los angeles ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaf05262e757fcb5c8bc388",
+      "key": "linkedin|||software engineer systems and infrastructure",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
