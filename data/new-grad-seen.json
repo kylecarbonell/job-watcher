@@ -25613,6 +25613,84 @@
       "key": "johnson johnson|||product management co op",
       "location": "danvers ma united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae347c3dbb1f8967cf03f4",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae34752e757fcb5c8bb212",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae11262e757fcb5c8baf6c",
+      "key": "northrop grumman uk|||graduate software engineer",
+      "location": "cheltenham england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8f5d7ed7c91d0cf446ef12",
+      "key": "johnson johnson medtech|||software engineering co op spring 2027",
+      "location": "cincinnati oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae33a32e757fcb5c8bb1f6",
+      "key": "indeed|||software engineer i",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae328f3dbb1f8967cf03b0",
+      "key": "ns2 mission|||java developer junior mid level",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae36f43d96632d741b0959",
+      "key": "kongsberg geospatial|||web developer react typescript",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae1159de327d3e210d4fe4",
+      "key": "corgi|||software engineer",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aae0720de327d3e210d4e26",
+      "key": "johnson johnson medtech|||product management co op",
+      "location": "danvers ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aae32833dbb1f8967cf03a7",
+      "key": "fdh aero|||associate product manager",
+      "location": "valencia ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a2a4b28d3ec8317fe1430d5",
+      "key": "delta galil industries|||product development assistant",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aae0d422e757fcb5c8bae81",
+      "key": "roche|||associate international product manager sequencing systems software",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aae0a1a3dbb1f8967cf001c",
+      "key": "brand influence group big|||csr",
+      "location": "invercargill southland new zealand",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
