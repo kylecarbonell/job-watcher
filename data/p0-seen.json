@@ -2603,6 +2603,24 @@
       "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91acf73603630099193b50",
+      "key": "lyft|||android software engineer lyft urban solutions",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75b48f7b3417772ade4ef2",
+      "key": "google|||software engineer early career campus",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75b6bdbb6ca93ae560f413",
+      "key": "google|||software engineer early career campus",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
