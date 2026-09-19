@@ -25931,6 +25931,42 @@
       "key": "7 brew coffee|||it product manager finance",
       "location": "nashville tn united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7605d07b3417772ade6369",
+      "key": "costar group|||matterport software engineer i",
+      "location": "irvine california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaec3b12e757fcb5c8bbecc",
+      "key": "bae systems inc|||software engineer react",
+      "location": "nashua nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69e74c903aa0c4796439928e",
+      "key": "hexagon mining|||software qa technician co 0p",
+      "location": "hybrid in toronto canada canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a59b56563a8f619507c376c",
+      "key": "hexagon mining|||software qa technician co 0p",
+      "location": "hybrid in toronto canada canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91acf73603630099193b50",
+      "key": "lyft|||android software engineer lyft urban solutions",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaed6562e757fcb5c8bc0d7",
+      "key": "raydar|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
