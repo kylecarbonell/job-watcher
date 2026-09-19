@@ -25343,6 +25343,114 @@
       "key": "roche|||associate international product manager sequencing system",
       "location": "pleasanton ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0206c139696447a108c6f04b1c94b27068ba67a5",
+      "key": "deliveroo|||software engineer new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:be8f48af-afec-4526-b45e-02be58ea5388",
+      "key": "wtw|||data scientist new grad insurance consulting",
+      "location": "london uk reigate uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0dc73614-450c-4591-9cc6-2527c420ff41",
+      "key": "chewy|||category analyst new grad",
+      "location": "plantation fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e750b9b5-dda4-440f-a574-33bb25d575af",
+      "key": "aon|||data analytics associate early careers",
+      "location": "montreal qc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadbc11de327d3e210d410c",
+      "key": "apple|||mac architecture design engineer",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadb5713dbb1f8967cef136",
+      "key": "linkedin|||software engineer systems and infrastructure",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadae272e757fcb5c8b9dd1",
+      "key": "contentful|||solution engineer",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadb051de327d3e210d3e8d",
+      "key": "rtc|||applications developer",
+      "location": "rolling meadows il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a872d34cde3717f9e9b094d",
+      "key": "peraton|||cobol software developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aada7dc3dbb1f8967ceedcb",
+      "key": "steampunk inc|||salesforce application developer",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aada3833dbb1f8967ceebba",
+      "key": "northrop grumman|||2026 associate embedded software engineer rolling meadows il",
+      "location": "rolling meadows il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad9aca6956574eac8b6b21",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aadbc6d3dbb1f8967cef349",
+      "key": "tiktok|||product manager business integrity",
+      "location": "san jose ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aadbbfb2e757fcb5c8ba0d9",
+      "key": "fastenal|||product data specialist",
+      "location": "winona mn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aad9f07de327d3e210d3890",
+      "key": "lululemon|||product operations lead liberty center pop up 3 month contract",
+      "location": "liberty township oh united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aadaac23dbb1f8967ceeed6",
+      "key": "habitat health|||product operations associate",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aada2166956574eac8b6d4e",
+      "key": "habitat health|||product operations associate",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aada42b6956574eac8b6e56",
+      "key": "njm insurance group|||insurance product management analyst associate hybrid",
+      "location": "trenton nj united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
