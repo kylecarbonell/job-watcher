@@ -25691,6 +25691,78 @@
       "key": "brand influence group big|||csr",
       "location": "invercargill southland new zealand",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a74b2f4bb6ca93ae560b521",
+      "key": "imagen technologies|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aade07c6956574eac8b7e11",
+      "key": "rivian|||early career cloud engineer cloud operations",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91f03cd18f75674827ac8b",
+      "key": "booz allen hamilton|||software tester",
+      "location": "king george va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75baa86b9def3e9e1f8c7e",
+      "key": "google|||software engineer early career campus",
+      "location": "kirkland wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae3f3a0ebc8fb2313ec6a1",
+      "key": "fairwinds technologies|||entry level front end software engineer onsite aberdeen md",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae462d6956574eac8b8a3b",
+      "key": "pioneering evolution llc|||junior software engineer net angular",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae4419de327d3e210d55cc",
+      "key": "rincon research corporation|||software engineer",
+      "location": "centennial co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae38be3d96632d741b0a50",
+      "key": "kongsberg geospatial|||web developer react typescript",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae40202e757fcb5c8bb489",
+      "key": "attalon inc|||software engineer embedded systems",
+      "location": "bloomfield ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae5645de327d3e210d574c",
+      "key": "infinite campus|||software engineer i 205a91526",
+      "location": "minneapolis mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aae51ea2e757fcb5c8bb679",
+      "key": "panasonic north america|||associate product specialist",
+      "location": "newark nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aae39123d96632d741b0a5b",
+      "key": "hunter douglas architectural belgium|||product specialist",
+      "location": "broomfield co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
