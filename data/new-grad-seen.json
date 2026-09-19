@@ -25763,6 +25763,102 @@
       "key": "hunter douglas architectural belgium|||product specialist",
       "location": "broomfield co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0bef063c-0252-40bc-a594-e3c26379865e",
+      "key": "perseus group|||software engineer 1",
+      "location": "sharon pa jacksonville fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a760453a26ccc369f833373",
+      "key": "fortune|||full stack software engineer next js",
+      "location": "new york city ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75baac6b9def3e9e1f8c81",
+      "key": "google|||software engineer early career campus",
+      "location": "pittsburgh pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadbe29de327d3e210d42b1",
+      "key": "qualcomm|||display software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae862b3dbb1f8967cf0ce0",
+      "key": "torentify|||software engineer remote",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a921369a27a2d3c9848b462",
+      "key": "roblox|||software engineer economy platform",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91fa7e8e59685453378a05",
+      "key": "anduril industries|||embedded firmware engineer connected warfare",
+      "location": "costa mesa ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a50ef3f57513b72e0c62784",
+      "key": "anduril industries|||2026 early career software engineer",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a178b381430333075cd24cb",
+      "key": "anduril industries|||2026 early career software engineer",
+      "location": "atlanta georgia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae839e6956574eac8b8f62",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a88bd184afae74a0834d5d7",
+      "key": "garmin|||embedded software engineer 1",
+      "location": "yarmouth me united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aae97fd0ebc8fb2313ecdb9",
+      "key": "harris teeter|||software developer",
+      "location": "texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa7809382e82a31997c1f9f",
+      "key": "arthrex|||associate product manager global endoscopy",
+      "location": "naples fl united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a6ab634394f9d64d8be6ada",
+      "key": "instawork|||product operations analyst",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a69694b2a5c103624db494d",
+      "key": "instawork|||product operations analyst",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a91f0a0d18f75674827acb2",
+      "key": "boyd|||junior product manager",
+      "location": "billerica massachusetts united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
