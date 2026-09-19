@@ -2573,6 +2573,12 @@
       "key": "linkedin|||software engineer systems and infrastructure",
       "location": "bellevue wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75baa86b9def3e9e1f8c7e",
+      "key": "google|||software engineer early career campus",
+      "location": "kirkland wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
