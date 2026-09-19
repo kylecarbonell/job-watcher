@@ -2555,6 +2555,24 @@
       "key": "amazon|||quality assurance engineer prime video ads",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadbe1e3dbb1f8967cef467",
+      "key": "qualcomm|||wireless s w engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadbc11de327d3e210d410c",
+      "key": "apple|||mac architecture design engineer",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadb5713dbb1f8967cef136",
+      "key": "linkedin|||software engineer systems and infrastructure",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
