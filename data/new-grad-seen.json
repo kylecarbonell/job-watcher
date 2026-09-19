@@ -25859,6 +25859,78 @@
       "key": "boyd|||junior product manager",
       "location": "billerica massachusetts united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a74ee91972ac843c6998098",
+      "key": "cgi|||sap s 4hana abap developer jr u s citizenship required",
+      "location": "fairfax va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a765c73b17cba569035de5c",
+      "key": "swift|||jr software development engineer in test sdet",
+      "location": "manassas va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:68de9b8e44d32141e0c01049",
+      "key": "curtiss wright corporation|||quality assurance engineer assoc",
+      "location": "us ct east windsor st 700",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6966d0895ad3a93f823235af",
+      "key": "curtiss wright corporation|||quality assurance engineer assoc",
+      "location": "us ny lansing st 800",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5128ff02522b5b722e80ee",
+      "key": "curtiss wright corporation|||quality assurance engineer assoc",
+      "location": "us ct east windsor st 700 united states of america",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a46322f0dd56c76cc2f7535",
+      "key": "curtiss wright corporation|||quality assurance engineer associate",
+      "location": "us oh middleburg hts nuclear united states of america",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaea4f73dbb1f8967cf0e5d",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaea4f72e757fcb5c8bbc5b",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75b48f7b3417772ade4ef2",
+      "key": "google|||software engineer early career campus",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a75b6bdbb6ca93ae560f413",
+      "key": "google|||software engineer early career campus",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9246cb9864261ccd2a088f",
+      "key": "sharkninja|||associate product developer corded cordless",
+      "location": "needham ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaeb7b06956574eac8b9293",
+      "key": "7 brew coffee|||it product manager finance",
+      "location": "nashville tn united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
