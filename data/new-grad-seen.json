@@ -25451,6 +25451,168 @@
       "key": "njm insurance group|||insurance product management analyst associate hybrid",
       "location": "trenton nj united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:11510869-ac93-4ce2-85d4-2787fe2b2cb2",
+      "key": "study com|||software engineer new grad ai native",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:83d0a294-51a6-4b84-867f-e039c06781af",
+      "key": "wolverine trading|||entry level c software engineer",
+      "location": "chicago il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:af76c7bd-9c7f-4bb7-8258-217044808327",
+      "key": "together ai|||software engineer new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cc7c4f99-00f9-44a9-9e51-dc2f9d993851",
+      "key": "toyota|||software engineer early career professional",
+      "location": "plano tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d5267215-c2b5-483d-bda8-414a7ec2c1f1",
+      "key": "steerbridge|||junior data engineer",
+      "location": "vienna va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadfc463dbb1f8967cefdf4",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadd9c40ebc8fb2313eba07",
+      "key": "bayer|||radiology software development co op",
+      "location": "indianola pennsylvania united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadd84c6956574eac8b7c5a",
+      "key": "axos bank|||jr software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aade4393d96632d741b0108",
+      "key": "tp link systems inc|||quality assurance engineer home networking",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aade3472e757fcb5c8ba9b5",
+      "key": "tp link|||quality assurance engineer home networking",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaddbd90ebc8fb2313ebabb",
+      "key": "boston scientific|||design assurance engineer i",
+      "location": "maple grove mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a55c383ec54dd532d813314",
+      "key": "multi media llc|||manual qa engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadc9cd3dbb1f8967cef84a",
+      "key": "lockheed martin|||dev sec engineering asc e1",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5da696c8e3a473cb8b4fd0",
+      "key": "mid continent instruments and avionics|||software certification engineer software verification engineer",
+      "location": "wichita ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a55ce4eef22935f2e3f7574",
+      "key": "vertafore|||software engineer i",
+      "location": "east lansing mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadbe1e3dbb1f8967cef467",
+      "key": "qualcomm|||wireless s w engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad9ac60ebc8fb2313ea8bb",
+      "key": "boeing|||embedded software engineer associate experienced or lead",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadf07c2e757fcb5c8baa73",
+      "key": "boston scientific|||design assurance engineer i",
+      "location": "maple grove mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadedda3dbb1f8967cefc2c",
+      "key": "nightwing|||software developer with security clearance",
+      "location": "annapolis md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aadc2066956574eac8b791f",
+      "key": "tint|||associate product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aadc4a13dbb1f8967cef77e",
+      "key": "tint|||associate product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aab2c4af6bd9d2d17c1bc42",
+      "key": "drive medical|||product manager new products",
+      "location": "port washington ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aadd3d10ebc8fb2313eb92a",
+      "key": "dometic|||co op product designer software",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aadd2f83d96632d741afe6b",
+      "key": "igloo products corp|||co op product designer software",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aadeda43d96632d741b016f",
+      "key": "woodlodge products limited|||product development assistant",
+      "location": "tetbury england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aadffb9de327d3e210d4ce3",
+      "key": "who brew llc|||it product manager finance",
+      "location": "nashville tn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aadd4903d96632d741afeb8",
+      "key": "johnson johnson|||product management co op",
+      "location": "danvers ma united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
