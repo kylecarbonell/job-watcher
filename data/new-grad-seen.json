@@ -26177,6 +26177,54 @@
       "key": "armstrong world industries|||associate product manager architectural specialties job",
       "location": "lancaster pa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5a47ee856af468ab007b18",
+      "key": "spacex|||full stack software engineer observability starlink",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab01215de327d3e210d75d7",
+      "key": "torentify|||software engineer c or python work from home",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4ffe7e1544d7246c0d73f9",
+      "key": "spacex|||infrastructure engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a20a661c00e701fe836ae22",
+      "key": "nvidia|||software engineer hardware tools and methodology new college grad 2026",
+      "location": "us ca santa clara us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a93639ec12c90443efcc07d",
+      "key": "jacobs|||junior software developer",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aafffc63d96632d741b2af4",
+      "key": "jbs usa|||sap mm functional analyst i",
+      "location": "greeley co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab00026dd960b4156418768",
+      "key": "fairway lawn services inc|||quality assurance representative",
+      "location": "plano tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab015acde327d3e210d7611",
+      "key": "exceleration music|||product manager jazz group",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
