@@ -26075,6 +26075,42 @@
       "key": "hunter douglas architectural belgium|||product specialist",
       "location": "broomfield co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a55505ef2c46727285f1643",
+      "key": "auria space|||software engineer sentinel",
+      "location": "ogden ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aafb9623d96632d741b2556",
+      "key": "qualcomm|||wireless software engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a76bd6c4817aa43070492f0",
+      "key": "tiktok|||software development engineer graduate tiktok testing growth 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a701a48160eda5948e8d498",
+      "key": "tiktok|||software engineer graduate ads signal measurement 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3eb2444d047136e09374d3",
+      "key": "sinclair inc|||contract associate engineer software development",
+      "location": "remote tampa fl us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5133adae4052672fe97b83",
+      "key": "sinclair inc|||contract associate engineer software development",
+      "location": "tampa fl united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
