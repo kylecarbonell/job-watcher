@@ -26225,6 +26225,42 @@
       "key": "exceleration music|||product manager jazz group",
       "location": "united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab03ea0dd960b4156418b81",
+      "key": "akina inc|||software engineer 0or1 c javascript python",
+      "location": "fort meade md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab02aefde327d3e210d777b",
+      "key": "hexagon technologies|||software engineer h 1b transfer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a50e595ae4052672fe95214",
+      "key": "freeform|||software engineer",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5245a69fbdab22fe13ad76",
+      "key": "swift|||associate test engineer",
+      "location": "manassas va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69fcf45fb113035a9f8ed1a5",
+      "key": "swift|||associate test engineer",
+      "location": "manassas united states us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a76a892a26ccc369f835e82",
+      "key": "ea sports|||ui software engineer ea sportstm ufc",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
