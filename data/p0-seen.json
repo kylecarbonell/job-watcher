@@ -2639,6 +2639,12 @@
       "key": "qualcomm|||embedded software engineer",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aafb9623d96632d741b2556",
+      "key": "qualcomm|||wireless software engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
