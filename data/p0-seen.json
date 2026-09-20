@@ -2645,6 +2645,42 @@
       "key": "qualcomm|||wireless software engineer",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5a47ee856af468ab007b18",
+      "key": "spacex|||full stack software engineer observability starlink",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a20a661c00e701fe836ae22",
+      "key": "nvidia|||software engineer hardware tools and methodology new college grad 2026",
+      "location": "us ca santa clara us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5a6da3686b4755d1e15113",
+      "key": "spacex|||software engineer platform infrastructure starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a93c868c12c90443efccb0e",
+      "key": "spacex|||full stack software engineer developer systems",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a52c0efe726ec56126a450c",
+      "key": "spacex|||software infrastructure engineer starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aafe8e4d3af3856cd992326",
+      "key": "microsoft|||software engineer",
+      "location": "dublin ireland",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
