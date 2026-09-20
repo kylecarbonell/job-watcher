@@ -2681,6 +2681,12 @@
       "key": "microsoft|||software engineer",
       "location": "dublin ireland",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4ffe7e1544d7246c0d73f9",
+      "key": "spacex|||infrastructure engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
