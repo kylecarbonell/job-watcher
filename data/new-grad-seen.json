@@ -26111,6 +26111,72 @@
       "key": "sinclair inc|||contract associate engineer software development",
       "location": "tampa fl united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5a6da3686b4755d1e15113",
+      "key": "spacex|||software engineer platform infrastructure starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaff66e2e757fcb5c8bd28b",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9362db9864261ccd2a2b92",
+      "key": "jacobs|||junior software developer",
+      "location": "herndon va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaff0af3dbb1f8967cf2485",
+      "key": "dcs corp|||web application test engineer",
+      "location": "china lake ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a93c868c12c90443efccb0e",
+      "key": "spacex|||full stack software engineer developer systems",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aafd454dd960b41564183d2",
+      "key": "united health services|||applications analyst i",
+      "location": "binghamton ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aafe8e4d3af3856cd992326",
+      "key": "microsoft|||software engineer",
+      "location": "dublin ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aafedd02e757fcb5c8bd23a",
+      "key": "lululemon|||product operations lead towson",
+      "location": "towson md united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a764659bb6ca93ae5611d0e",
+      "key": "armstrong world industries|||associate product manager architectural specialties",
+      "location": "lancaster pennsylvania united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a8a7d40cde3717f9e9b9887",
+      "key": "armstrong world industries|||associate product manager architectural specialties job job details armstrong world industries",
+      "location": "lancaster pennsylvania united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a90d7db8ffa38557e6cf1b4",
+      "key": "armstrong world industries|||associate product manager architectural specialties job",
+      "location": "lancaster pa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
