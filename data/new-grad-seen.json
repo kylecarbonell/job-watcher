@@ -26003,6 +26003,18 @@
       "key": "google|||software engineer early career campus",
       "location": "san bruno ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaf3f820ebc8fb2313ed8f0",
+      "key": "ns2 mission|||java developer junior mid level with security clearance",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaf424ede327d3e210d6805",
+      "key": "qualcomm|||embedded software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
