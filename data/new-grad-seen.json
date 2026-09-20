@@ -26015,6 +26015,66 @@
       "key": "qualcomm|||embedded software engineer",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a987e4683fc633357631cff",
+      "key": "tensor auto|||system engineer software test engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a987e43c8ed473c5c7645b8",
+      "key": "tensor auto|||software developer android automotive os",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaf65222e757fcb5c8bcaa5",
+      "key": "new york life|||associate full stack developer job details new york life insurance co",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaf65013dbb1f8967cf1ca8",
+      "key": "new york life|||senior associate full stack engineer decision intelligence job details new york life insurance co",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaf61953dbb1f8967cf1bf0",
+      "key": "entangl inc|||full stack engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaf61932e757fcb5c8bc9ef",
+      "key": "entangl inc|||full stack engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaf6192de327d3e210d6a53",
+      "key": "entangl inc|||full stack engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaf5d296956574eac8b9e9e",
+      "key": "clera|||founding engineer full stack",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaf8f60de327d3e210d6c93",
+      "key": "hunter douglas architectural belgium|||product specialist",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaf9014de327d3e210d6c9f",
+      "key": "hunter douglas architectural belgium|||product specialist",
+      "location": "broomfield co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
