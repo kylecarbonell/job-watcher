@@ -26273,6 +26273,72 @@
       "key": "elayne|||legal product fellow",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fe444a2e-411b-4a40-b6f4-9098bbd980bb",
+      "key": "applied materials|||software engineer new grad",
+      "location": "gloucester ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9f1ca6ccbc531cd2b1c5c333c157efb06c5d6473",
+      "key": "general motors|||entry level software engineer",
+      "location": "milford mi warren mi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:90474280ccf23800b577c49e53f4b4c182319bf2",
+      "key": "sun life|||junior security data analyst",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0b9e7dd960b4156419855",
+      "key": "zurich north america|||associate software engineer job details zurich insurance company ltd",
+      "location": "warminster england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab082c4d3af3856cd99314a",
+      "key": "ammortal|||software engineer full stack",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0c25cdd960b4156419cc5",
+      "key": "northrop grumman|||2027 associate embedded software engineer pathways program baltimore md",
+      "location": "baltimore md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0c260de327d3e210d89dc",
+      "key": "northrop grumman|||2027 embedded software engineer pathways program baltimore md",
+      "location": "baltimore md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0ac903dbb1f8967cf3571",
+      "key": "tulmar safety systems|||quality assurance specialist",
+      "location": "hawkesbury ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0762e3dbb1f8967cf3189",
+      "key": "northrop grumman|||2027 digital engineer pathways program baltimore md",
+      "location": "baltimore md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab0bc01d3af3856cd993610",
+      "key": "roche|||associate international product manager sequencing system",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab0b718dd960b41564197ea",
+      "key": "adobe|||product manager",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
