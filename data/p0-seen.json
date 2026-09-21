@@ -2777,6 +2777,12 @@
       "key": "spacex|||software engineer collision avoidance starshield",
       "location": "hawthorne ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1a0eb191d8c340dbdbf57",
+      "key": "qualcomm|||backend software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
