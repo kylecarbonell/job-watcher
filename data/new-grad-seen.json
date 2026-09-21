@@ -26339,6 +26339,90 @@
       "key": "adobe|||product manager",
       "location": "san francisco ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:451344b477dc57c9f54e26e268ae337088b0a21d",
+      "key": "rtx|||hardware in the loop software engineer 1",
+      "location": "tucson az",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab11e6df9692ca98b047df0",
+      "key": "the scottish government|||associate software engineer",
+      "location": "glasgow scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a576c00f7517b519ad5a4e8",
+      "key": "zone 5 technologies|||embedded software engineer i ii",
+      "location": "san luis obispo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0eb3205b07562f3cccab3",
+      "key": "google|||ads solutions engineer gtech agency and partner engineering",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0ee4513894cd321222f7d",
+      "key": "california correctional health care services|||enterprise quality assurance analyst assistant",
+      "location": "sacramento county united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0e110de327d3e210d8ffd",
+      "key": "sirona medical|||go to market engineer",
+      "location": "burlington vt united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0d1a4dd960b415641a18e",
+      "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0d1b0dd960b415641a193",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0d221d3af3856cd993ed9",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0cd4b3d96632d741b454d",
+      "key": "rhythmq|||associate it developer",
+      "location": "mississauga on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0ca14dd960b415641a10a",
+      "key": "sirona medical|||go to market engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1195223005eee35458aa9",
+      "key": "qnx|||qnx graduate systems software developer sensor framework",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab0e90913894cd321222f2a",
+      "key": "mastercard|||software engineer launch program 2027 united states",
+      "location": "o fallon mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab10863191d8c340dbd8bf3",
+      "key": "foresight|||junior solutions engineer usa",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
