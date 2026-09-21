@@ -26261,6 +26261,18 @@
       "key": "ea sports|||ui software engineer ea sportstm ufc",
       "location": "vancouver bc canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a6bb7ebacb0a61f9dbc2823",
+      "key": "isuzu north america|||automotive diagnostic software engineer",
+      "location": "anaheim ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab05ebe3dbb1f8967cf2c4f",
+      "key": "elayne|||legal product fellow",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
