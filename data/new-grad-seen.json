@@ -26423,6 +26423,234 @@
       "key": "foresight|||junior solutions engineer usa",
       "location": "united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9fb6b0de-372e-45a8-a4fe-f4d29ae406ea",
+      "key": "teletracking|||software engineer 1 logistics engineering",
+      "location": "pittsburgh pa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e46241a92be7ba0441f53219a0bfd0f633934bdb",
+      "key": "garmin|||software engineer 1 aviation backend web",
+      "location": "chanhassen mn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:84cc25b45c9c8cf5db39f9f5827b737741b292c5",
+      "key": "guidehouse|||data engineer 1",
+      "location": "6 locationshouston tx charlotte nc san antonio tx beavercreek oh atlanta ga huntsville al",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69ffd0e4fa1aa73213d8d636",
+      "key": "prysmian|||quality assurance technician",
+      "location": "taunton ma us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a961cb73843db015990973a",
+      "key": "one call|||application software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5c6f854da96a42cfd9c8e6",
+      "key": "spacex|||software engineer starlink ux starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5c6f91856af468ab00f10a",
+      "key": "spacex|||software engineer design engineering starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab145d2191d8c340dbd98eb",
+      "key": "ericsson|||junior l1 software developer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab13b1bf9692ca98b0483c8",
+      "key": "amazon|||software development engineer",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a950e359864261ccd2a4dd6",
+      "key": "spacex|||software engineer tracking starshield",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab14a23191d8c340dbd9a0b",
+      "key": "torentify|||software certification engineer software verification engineer",
+      "location": "wichita ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a950e341e67aa542830d8aa",
+      "key": "spacex|||software engineer hitl top secret clearance",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a950e331e67aa542830d8a9",
+      "key": "spacex|||software engineer collision avoidance starshield",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab15920191d8c340dbda07c",
+      "key": "gchq|||software engineers",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a56c28ef7517b519ad58114",
+      "key": "spacex|||simulation software engineer application software",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab152a8d43eb922ca0be086",
+      "key": "torentify|||c engineer ii",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9593a4cabc9f6703e18887",
+      "key": "connor clark lunn investment management cc l|||infrastructure software engineer",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab131fb32552369083e09ed",
+      "key": "ohio bwc official|||quality assurance tester software development associate",
+      "location": "columbus oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1263d32552369083e07a4",
+      "key": "doordash|||software engineer i entry level graduation date fall 2026 summer 2027 us",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a957f78f974437994c31b50",
+      "key": "city of philadelphia|||junior cloud engineer",
+      "location": "philadelphia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab12971f9692ca98b047f89",
+      "key": "raytheon|||embedded software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3733e6ce501060b5cf8245",
+      "key": "digital foundry inc|||software engineer associate",
+      "location": "tiburon ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab14381d43eb922ca0bdb55",
+      "key": "keylogic|||quality assurance specialist application coordination",
+      "location": "oak ridge tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a57d1c7a791c6211bf013a8",
+      "key": "metropolitan transportation authority|||application developer levels 1 5 enterprise document migration",
+      "location": "new york new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5c6f864da96a42cfd9c8e8",
+      "key": "spacex|||software engineer mobile apps starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a53a0c18576ec69c01505be",
+      "key": "anduril industries|||software engineer intelligence systems",
+      "location": "reston virginia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab12f8c32552369083e0914",
+      "key": "old woman creek national estuarine research reserve|||quality assurance tester software development associate",
+      "location": "columbus oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab14c44f9692ca98b048977",
+      "key": "akira technologies|||collibra platform engineer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab166a6f9692ca98b0495eb",
+      "key": "state of oklahoma|||information systems application specialist",
+      "location": "oklahoma city ok united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1641623005eee3545a1fa",
+      "key": "rtx|||software modernization engineer i onsite",
+      "location": "indianapolis in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab15fc2d43eb922ca0be6ea",
+      "key": "rtx|||software engineer i onsite",
+      "location": "indianapolis in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab15f4df9692ca98b049298",
+      "key": "rtx|||software engineer i onsite",
+      "location": "fort wayne in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab14f33f9692ca98b048a76",
+      "key": "capital one|||technology development program associate february 2027",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab16974d2a93d5a97eba7c5",
+      "key": "digitize solutions|||embedded c programmer entry level",
+      "location": "ledgewood nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab15bc7f9692ca98b0490c0",
+      "key": "lululemon|||product operations lead miromar outlets",
+      "location": "estero fl united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab16976d43eb922ca0beaf3",
+      "key": "general equipment and supply|||ecommerce product lister",
+      "location": "simpsonville sc united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a7615d2bb6ca93ae5610eb3",
+      "key": "puma group|||junior product line manager running footwear",
+      "location": "boston ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab13eb332552369083e0d34",
+      "key": "the magnum ice cream company|||unilever industrial placement programme technology uk",
+      "location": "kingston england united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
