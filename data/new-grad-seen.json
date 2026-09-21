@@ -26651,6 +26651,156 @@
       "key": "the magnum ice cream company|||unilever industrial placement programme technology uk",
       "location": "kingston england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dcc7492f-ee43-47b0-9eb0-b6ff0530c7ae",
+      "key": "sun life|||junior analytics and automation developer student winter 2027",
+      "location": "north york on canada waterloo on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d97b3809bc87dd2a8ca725949e78aaac91aa6502",
+      "key": "commure|||software engineer early career",
+      "location": "los angeles mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab18f1ad2a93d5a97ebb64b",
+      "key": "mayo clinic|||software engineer omniverse simulation",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab18d15d2a93d5a97ebb542",
+      "key": "guidecx|||software engineer",
+      "location": "denver metropolitan area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1887b23005eee3545afbc",
+      "key": "mayo clinic rochester|||software engineer omniverse simulation",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab18789d43eb922ca0bf682",
+      "key": "innovative defense technologies idt|||software engineer jobid 0198",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1874b23005eee3545af2b",
+      "key": "mayo clinic healthcare london|||software engineer omniverse simulation",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab186bb23005eee3545af06",
+      "key": "bae systems|||software engineer i entry level eo ir software engineer",
+      "location": "merrimack nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab17eaff9692ca98b049fcb",
+      "key": "galent|||entry level software developer paid training program",
+      "location": "halifax ns canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab176f5191d8c340dbdada6",
+      "key": "careers at mi5 mi6 and gchq|||software engineer",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a2f9ce3093df201d07ae28d",
+      "key": "tiktok|||junior solutions engineer smb ads",
+      "location": "san jose",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab170e732552369083e2203",
+      "key": "gannett fleming|||associate software developer",
+      "location": "mechanicsburg pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab16c8df9692ca98b0497ec",
+      "key": "gft|||associate software developer",
+      "location": "mechanicsburg pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab16b16d2a93d5a97eba88e",
+      "key": "sri|||drexel university co op embedded software engineering",
+      "location": "princeton nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab17a8fd2a93d5a97ebaf1b",
+      "key": "state street|||software engineer rest api development officer",
+      "location": "burlington ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1759ef9692ca98b049bd9",
+      "key": "rtx|||2026 raytheon full time software engineer i onsite",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab189c632552369083e2bb8",
+      "key": "boeing|||software systems engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab189adf9692ca98b04a358",
+      "key": "boeing|||software systems engineer associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab189a5191d8c340dbdb472",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab17a5d32552369083e26d0",
+      "key": "at t|||at t technology development program",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab18862f9692ca98b04a2b5",
+      "key": "radnet|||it product specialist",
+      "location": "owings mills md united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab1782e191d8c340dbdae26",
+      "key": "lululemon|||product operations lead seasonal contract scottsdale quarter",
+      "location": "scottsdale az united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a527d218576ec69c014c2be",
+      "key": "aeg|||associate product manager axs",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab16ee9191d8c340dbda9b0",
+      "key": "transamerica|||product strategist transamerica am",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab191b523005eee3545b381",
+      "key": "kith|||technical product associate",
+      "location": "brooklyn ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
