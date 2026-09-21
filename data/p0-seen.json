@@ -2723,6 +2723,24 @@
       "key": "adobe|||product manager",
       "location": "san francisco ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1263d32552369083e07a4",
+      "key": "doordash|||software engineer i entry level graduation date fall 2026 summer 2027 us",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab13b1bf9692ca98b0483c8",
+      "key": "amazon|||software development engineer",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5c6f864da96a42cfd9c8e8",
+      "key": "spacex|||software engineer mobile apps starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
