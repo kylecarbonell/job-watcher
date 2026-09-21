@@ -2741,6 +2741,42 @@
       "key": "spacex|||software engineer mobile apps starlink",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a950e341e67aa542830d8aa",
+      "key": "spacex|||software engineer hitl top secret clearance",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a56c28ef7517b519ad58114",
+      "key": "spacex|||simulation software engineer application software",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5c6f854da96a42cfd9c8e6",
+      "key": "spacex|||software engineer starlink ux starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5c6f91856af468ab00f10a",
+      "key": "spacex|||software engineer design engineering starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a950e359864261ccd2a4dd6",
+      "key": "spacex|||software engineer tracking starshield",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a950e331e67aa542830d8a9",
+      "key": "spacex|||software engineer collision avoidance starshield",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
