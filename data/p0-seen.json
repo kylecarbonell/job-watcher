@@ -2819,6 +2819,18 @@
       "key": "spacex|||software engineer c simulations",
       "location": "hawthorne ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab297701e4847ddae914fdf",
+      "key": "ibm|||software developer spring co op bellevue",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95b6e7f28891320e85d703",
+      "key": "cisco|||software engineer full stack backend i full time united states",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
