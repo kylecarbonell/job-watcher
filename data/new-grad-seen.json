@@ -27209,6 +27209,90 @@
       "key": "radnet|||it product specialist",
       "location": "owings mills md united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c081d641-edbe-4209-8d86-efa0cac36bad",
+      "key": "trustpilot|||software engineer 1 trust tech",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d50d1577-1658-457d-a65f-f577f9996936",
+      "key": "tyson foods|||data engineer 1",
+      "location": "springdale ar",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95b6e7f28891320e85d703",
+      "key": "cisco|||software engineer full stack backend i full time united states",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95c6274c22023a07935aed",
+      "key": "cincinnati children s|||application developer i power platform",
+      "location": "vernon ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab27963326574570a00113f",
+      "key": "canadian council of motor transport administrators ccmta|||junior software developer contract position developpeur debutant de logiciels poste contractuel",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab272041e4847ddae914601",
+      "key": "relay|||business application developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9eb1492c964816f65ee371",
+      "key": "rocket|||software developer i search",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95fac09fcec54423730908",
+      "key": "honeywell aerospace|||software engineering full time employee recent grad 2027 u s person required",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95fac04c22023a079373ee",
+      "key": "honeywell aerospace|||software engineering full time employee recent grad 2027",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab287911e4847ddae914a74",
+      "key": "tesco|||technology product management graduate scheme",
+      "location": "welwyn garden city england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab2844230340229a322de39",
+      "key": "securian financial|||product owner associate productivity solutions hybrid",
+      "location": "saint paul mn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab27da678c69ff506c3eadd",
+      "key": "dhl supply chain|||business product enablement associate",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab272f4326574570a001001",
+      "key": "relay|||product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a96257cc8763a3a87ffebf1",
+      "key": "emerson|||product management engineering co op jan27 may27",
+      "location": "shakopee mn united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
