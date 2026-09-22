@@ -2795,6 +2795,30 @@
       "key": "ibm|||entry software developer tucson az",
       "location": "tucson az united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadc0d23d96632d741afbaf",
+      "key": "cisco|||software engineer",
+      "location": "harpenden hertfordshire united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1eb8923005eee3545cf31",
+      "key": "spacex|||full stack engineer launch software",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1ddeb23005eee3545cd2d",
+      "key": "spacex|||software engineer simulations vehicle engineering",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1dde7d2a93d5a97ebd14b",
+      "key": "spacex|||software engineer c simulations",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
