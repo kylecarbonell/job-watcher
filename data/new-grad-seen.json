@@ -27125,6 +27125,90 @@
       "key": "volkswagen group uk ltd|||product planning graduate programme 2027",
       "location": "milton keynes england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c7584203accdd6c64aa2446229b1f41189020a53",
+      "key": "nightwing intelligence solutions|||software engineer 1",
+      "location": "sterling va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a962582f28891320e8608e0",
+      "key": "emerson|||test engineering co op jan27 may27",
+      "location": "shakopee mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7a0ca2bb6ca93ae5619a1d",
+      "key": "blue origin|||avionics embedded software engineer i early career 2026 starts",
+      "location": "greater seattle area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a0654236c07461fe171f66f",
+      "key": "ttec digital|||aws ms engineer typescript or node js",
+      "location": "austin tx",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a63960d0c8e2b4f36dceacd",
+      "key": "mthree|||python developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9fbd2fa7ba386c5d675ae0",
+      "key": "nuclear graduates|||digital software engineering nuclear graduates 2027",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab21b41191d8c340dbddb37",
+      "key": "nutanix|||member of technical staff 1 core data path",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab20a2132552369083e504d",
+      "key": "capgemini|||sap commerce cloud junior developer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1a94ad2a93d5a97ebc25f",
+      "key": "accenture federal services|||junior forward deployed engineer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab23abb191d8c340dbdde98",
+      "key": "thunder tech|||net application developer tier 1",
+      "location": "cleveland oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab224fd191d8c340dbddc42",
+      "key": "thermo fisher scientific|||quality assurance co op",
+      "location": "mississauga ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab21699d43eb922ca0c1e9e",
+      "key": "bae systems|||engineering leadership development program embedded software",
+      "location": "sterling heights mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2164823005eee3545d695",
+      "key": "bae systems|||full stack software engineer i",
+      "location": "nashua nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab24ec7326574570a000bd7",
+      "key": "radnet|||it product specialist",
+      "location": "owings mills md united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
