@@ -27053,6 +27053,78 @@
       "key": "microsurvey|||product specialist west kelowna bc",
       "location": "kelowna bc canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b75d9a5e-5bbf-4016-8d19-1384e5528fdf",
+      "key": "amentum|||entry level software engineer",
+      "location": "dahlgren va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3c604bdfdac7e5ef11ba63eaca4aa935c0587d51",
+      "key": "rtx|||research engineer 1 analytics and machine intelligence ami",
+      "location": "cambridge ma arlington county arlington va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadc0d23d96632d741afbaf",
+      "key": "cisco|||software engineer",
+      "location": "harpenden hertfordshire united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1d39e23005eee3545cb59",
+      "key": "amentum|||entry level software engineer",
+      "location": "dahlgren va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1eb8923005eee3545cf31",
+      "key": "spacex|||full stack engineer launch software",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1ddeb23005eee3545cd2d",
+      "key": "spacex|||software engineer simulations vehicle engineering",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1dde7d2a93d5a97ebd14b",
+      "key": "spacex|||software engineer c simulations",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1c67523005eee3545c876",
+      "key": "fujitsu|||software engineering fall co op 1finity",
+      "location": "texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab19a5823005eee3545b7db",
+      "key": "boeing|||software systems engineer associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab19a4ef9692ca98b04aa5d",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1d7fcf9692ca98b04bfd1",
+      "key": "best buy canada|||junior java developer",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab1cc68d43eb922ca0c119e",
+      "key": "volkswagen group uk ltd|||product planning graduate programme 2027",
+      "location": "milton keynes england united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
