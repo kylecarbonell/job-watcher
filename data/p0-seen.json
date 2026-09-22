@@ -2861,6 +2861,12 @@
       "key": "cisco|||software engineer complier i full time united states",
       "location": "austin tx united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95c390cabc9f6703e19b1a",
+      "key": "amazon|||applied scientist amazon cryptographic libraries",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
