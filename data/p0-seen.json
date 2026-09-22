@@ -2831,6 +2831,36 @@
       "key": "cisco|||software engineer full stack backend i full time united states",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:70bbe63414b63cb6964c092c28f682bcd8919524",
+      "key": "salesforce|||software engineer college grad",
+      "location": "6 locationspalo alto ca seattle wa indianapolis in san francisco dallas tx bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a2d6349f1751b183c81ad54",
+      "key": "spacex|||kubernetes platform infrastructure engineer starlink",
+      "location": "redmond wa",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95fbc4cabc9f6703e1b604",
+      "key": "amazon|||robotics embedded software development engineer",
+      "location": "north reading ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2bbb430340229a322f681",
+      "key": "cisco|||software quality assurance engineer i full time united states",
+      "location": "research triangle park nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2b1fe8254c44790e56c6c",
+      "key": "cisco|||software engineer complier i full time united states",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
