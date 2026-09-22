@@ -2783,6 +2783,18 @@
       "key": "qualcomm|||backend software engineer",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:eb187690407a414d7405632185f163f89d2c5df7",
+      "key": "nvidia|||ai compiler engineer new grad",
+      "location": "seattle wa pennsylvania santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab1b2abf9692ca98b04b621",
+      "key": "ibm|||entry software developer tucson az",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
