@@ -27293,6 +27293,276 @@
       "key": "emerson|||product management engineering co op jan27 may27",
       "location": "shakopee mn united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:98e64bcd147cde1a1df62dcb5486294277cd4b56",
+      "key": "general dynamics mission systems|||entry level software engineer",
+      "location": "lakewood oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:70bbe63414b63cb6964c092c28f682bcd8919524",
+      "key": "salesforce|||software engineer college grad",
+      "location": "6 locationspalo alto ca seattle wa indianapolis in san francisco dallas tx bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:26e5389ce46822fd0ef26db999e681d2925ba205",
+      "key": "tracebit|||founding engineer early careers",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2a7e9326574570a0021c8",
+      "key": "nutanix|||software engineer 1 os internals",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2b9118254c44790e56f7c",
+      "key": "instantserve healthcare|||junior uat test analyst accessibility section 508 local nashville tn only",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a96f255e4e60e4b8da5ad8b",
+      "key": "ciena|||wavelogic software developer new grad",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2b47b1e4847ddae915fa1",
+      "key": "blue origin|||software engineer",
+      "location": "greater seattle area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2b5e930340229a322f4e9",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2b5e81508734c1530b80e",
+      "key": "thermoanalytics inc|||software development interns",
+      "location": "novi mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2b49b1e4847ddae915fc0",
+      "key": "babcock international group|||software development graduate programme job details babcock",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2947e30340229a322e2b9",
+      "key": "bering alaka ina holdings llc|||assurance analyst i",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2b0fc326574570a00283c",
+      "key": "cutera australia new zealand|||quality assurance engineer",
+      "location": "brisbane ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a2d6349f1751b183c81ad54",
+      "key": "spacex|||kubernetes platform infrastructure engineer starlink",
+      "location": "redmond wa",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2ac2b326574570a002497",
+      "key": "idi insulation distributors inc|||software developer product support",
+      "location": "chanhassen mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab29425326574570a001888",
+      "key": "bank of america|||quantitative engineer",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab28b8b1508734c1530a2fa",
+      "key": "fm|||software engineering co op",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95fbc4cabc9f6703e1b604",
+      "key": "amazon|||robotics embedded software development engineer",
+      "location": "north reading ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab297201508734c1530a6f7",
+      "key": "wise|||graduate software engineer",
+      "location": "austin texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2985930340229a322e465",
+      "key": "phillips 66|||advisor ii application development",
+      "location": "houston tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2979f78c69ff506c3f1c8",
+      "key": "mindsize|||frontend engineer react next js",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab297701e4847ddae914fdf",
+      "key": "ibm|||software developer spring co op bellevue",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95d42d9fcec5442372f78d",
+      "key": "everlaw|||software engineer i",
+      "location": "oakland ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2a12a78c69ff506c3f5b8",
+      "key": "tesco|||ims technology software engineering graduate scheme",
+      "location": "edinburgh scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a960b6c9fcec5442373119c",
+      "key": "nestle health science|||quality assurance technician full time day shift",
+      "location": "boca raton fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2a2a58254c44790e562a4",
+      "key": "tesco|||technology software engineering graduate scheme",
+      "location": "welwyn garden city england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95cdaf9fcec5442372f2ef",
+      "key": "pennymac|||digital technology organization rotational engineer",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a0263bffa1aa73213d99f9b",
+      "key": "worldscape|||game engine engineer platform",
+      "location": "redmond washington",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5862be9f1f56462cf69912",
+      "key": "numerixs technologies numerixs quant|||quantitative developer",
+      "location": "vancouver",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95f1979fcec54423730613",
+      "key": "booz allen hamilton|||university full stack developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab295ed8254c44790e55cfa",
+      "key": "american oncology network|||junior web developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2b1fe8254c44790e56c6c",
+      "key": "cisco|||software engineer complier i full time united states",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab29cff326574570a001b5f",
+      "key": "bank of america|||quantitative engineer analyst",
+      "location": "charlotte north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab29cdc30340229a322e58f",
+      "key": "bank of america|||quantitative engineer analyst",
+      "location": "charlotte north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2afc78254c44790e56a5a",
+      "key": "bank of america|||quantitative engineer analyst",
+      "location": "charlotte north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2a1421508734c1530ab7e",
+      "key": "audible|||software development engineer",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a7a30a8a26ccc369f83cf82",
+      "key": "sharkninja|||associate product developer indoor heated",
+      "location": "needham ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab2ad441e4847ddae915afb",
+      "key": "lululemon|||seasonal product operations lead las vegas north premium outlet",
+      "location": "las vegas nv united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab2948a30340229a322e2bc",
+      "key": "guidehouse|||financial management transformation developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab2a3cb1508734c1530ace2",
+      "key": "dsw|||assessment product developer",
+      "location": "doncaster england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a7b09b0bc05d77f2bddc574",
+      "key": "bcaa|||coordinator insurance products",
+      "location": "burnaby bc canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab2a32a30340229a322e951",
+      "key": "tesco|||product supply chain graduate scheme",
+      "location": "welwyn garden city england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab29f611e4847ddae915288",
+      "key": "tesco ireland|||commercial graduate programme tesco ireland",
+      "location": "dun laoghaire county dublin ireland",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab29f3d30340229a322e68c",
+      "key": "spencer s|||product development temporary associate",
+      "location": "egg harbor township nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab294f81e4847ddae914ea2",
+      "key": "capital one|||product development program associate 2027",
+      "location": "mclean va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab2b37f326574570a002975",
+      "key": "applied materials|||product line management new college grad bachelor s santa clara ca",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
