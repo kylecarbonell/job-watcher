@@ -2981,6 +2981,18 @@
       "key": "palantir technologies|||forward deployed software engineer",
       "location": "new york ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ad62d18d-6b0f-4699-a7e2-81a739918ed9",
+      "key": "google|||associate product manager university graduate",
+      "location": "4 locationssan jose ca san bruno ca new york mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab157d1191d8c340dbd9fb5",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
