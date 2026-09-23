@@ -27827,6 +27827,270 @@
       "key": "the walt disney company|||associate product manager project hire",
       "location": "orlando fl united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:697d4f47-13f9-46f4-85e4-18851d90babb",
+      "key": "authentic|||software engineer new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4592c922-5f50-4174-9938-79cc848b1e39",
+      "key": "cisco|||compiler software engineer 1 core platform software and toolchains",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:944082f9-dd37-42b8-a745-f3fe806525dc",
+      "key": "decisionpoint|||junior software developer",
+      "location": "scott afb il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f65b2779-c9d2-4cdc-8327-38e3c12c8887",
+      "key": "f5|||software development engineer 1 ai",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ed1c1803-cea0-4778-8d48-8ba69bc0716a",
+      "key": "altice usa|||software development engineer 1",
+      "location": "plano tx bethpage ny",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:444711bb1e4aa0294c6afea87a6ed25268ea89a9",
+      "key": "aerovironment|||software engineer 1",
+      "location": "sunrise fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:335a23cdbc2df2811b0516841a9b19db1c09d4b0",
+      "key": "evenup|||software engineer new grad cases product",
+      "location": "toronto on canada san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0eccf6fffb4d9493dce2afdf21fe0373f468f95e",
+      "key": "aquatic capital management|||software engineer early career",
+      "location": "chicago il new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c4273d65-dc1d-4985-8ba7-0489271edb90",
+      "key": "applied materials|||product line management new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab30cf9326574570a004be1",
+      "key": "astranis space technologies|||flight software associate summer 2027",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab344171e4847ddae918cce",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab30b8878c69ff506c422c5",
+      "key": "astranis space technologies|||flight software associate winter 2027",
+      "location": "san francisco",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab32d6f1e4847ddae918845",
+      "key": "southwest airline career page|||associate business solution developer dmx",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab33d1b1e4847ddae918b67",
+      "key": "cutera inc|||quality assurance engineer",
+      "location": "brisbane california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab338c51e4847ddae918a9e",
+      "key": "cgi|||palantir foundry developer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab334db78c69ff506c42b1d",
+      "key": "torentify|||software developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab342361508734c1530e359",
+      "key": "women in tech|||software engineer graduate scheme lloyds banking group talent",
+      "location": "leeds england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab316ac8254c44790e59220",
+      "key": "sonos inc|||software development engineer cloud",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab33d9c78c69ff506c42cd3",
+      "key": "women in tech|||software engineer graduate scheme lloyds banking group talent",
+      "location": "halifax england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab33b281e4847ddae918aff",
+      "key": "women in tech|||software engineer graduate scheme lloyds banking group talent",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab347b08254c44790e59c1b",
+      "key": "clandillon civil consulting ltd|||student engineer",
+      "location": "newbridge county kildare ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab3199678c69ff506c4258b",
+      "key": "microsoft|||software engineer ctj ts cleared",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab319921508734c1530db3c",
+      "key": "sirona medical|||software qa engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab30f471e4847ddae9181f3",
+      "key": "infoblox|||associate software engineer",
+      "location": "burnaby bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2ce358254c44790e57787",
+      "key": "optimum|||software dev engineer i",
+      "location": "bethpage ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab30802326574570a004a3f",
+      "key": "ust|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab30584326574570a0048f4",
+      "key": "ust|||junior full stack developer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab309b4326574570a004ae3",
+      "key": "axon|||software qa engineer i",
+      "location": "seattle washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab30e1178c69ff506c4236a",
+      "key": "charles schwab|||net angular developer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab34664326574570a005764",
+      "key": "barnes noble education inc|||qa analyst i 101",
+      "location": "columbia mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab32e7330340229a3231c96",
+      "key": "datalab|||production programmer entry level sql developer",
+      "location": "westminster co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab305ec30340229a323135a",
+      "key": "southwest airlines|||associate software engineer direct college hire",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab3133a8254c44790e59183",
+      "key": "gogo|||integrations solutions analyst",
+      "location": "melbourne fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab322ab1508734c1530dcb6",
+      "key": "wipro|||test engineer l1",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab3120e78c69ff506c42436",
+      "key": "ust|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab311b678c69ff506c4241f",
+      "key": "ust|||junior full stack developer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab30543326574570a0048b7",
+      "key": "u s bank|||associate software engineer c net core",
+      "location": "hopkins mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab323e3326574570a004ff5",
+      "key": "raytheon|||software engineer i onsite",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab335fb326574570a00540b",
+      "key": "nutanix indonesia|||software engineer 1 os internals",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab31e238254c44790e5935e",
+      "key": "lululemon|||product operations lead the grove",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab307871e4847ddae917fcd",
+      "key": "lululemon|||product operations lead 4 month contract jordan creek",
+      "location": "west des moines ia united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab305e0326574570a004920",
+      "key": "mastercard|||associate product specialist launch program 2027 united states",
+      "location": "o fallon mo united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab322bf326574570a004f86",
+      "key": "mastercard|||associate product specialist launch program 2027 united states",
+      "location": "o fallon mo united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab307ae78c69ff506c42190",
+      "key": "adobe|||2027 mba university graduate product manager",
+      "location": "san jose ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
