@@ -3023,6 +3023,42 @@
       "key": "cisco|||software developer i full time canada",
       "location": "kanata on canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9faefedba8fd00e93a0a0033af96a98f07ddf3bf",
+      "key": "nvidia|||backend compiler engineer new grad",
+      "location": "canada santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4369e64816213f2d97dcb",
+      "key": "atlassian|||software engineer 2027 graduate canada",
+      "location": "burnaby bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4236dd2f5fbd604be1cc0",
+      "key": "linkedin|||software engineer android",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a974d59f5337b2cf7321665",
+      "key": "amazon|||applied scientist amazon cryptographic libraries",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab417ff0e0ae54eeea469c2",
+      "key": "ibm|||software developer full stack ui heavy",
+      "location": "markham ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab417a264816213f2d973c5",
+      "key": "linkedin|||software engineer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
