@@ -2891,6 +2891,96 @@
       "key": "stripe|||software engineer new grad",
       "location": "toronto on canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5f22f4d5c3a14fb34ec244",
+      "key": "palantir technologies|||forward deployed software engineer new grad us government",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a427c5d6faf756060966e31",
+      "key": "palantir technologies|||forward deployed software engineer new grad commercial",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a58203168d16a30e2411d11",
+      "key": "palantir technologies|||forward deployed software engineer new grad commercial",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a63e36d979290281c704a1b",
+      "key": "palantir technologies|||forward deployed infrastructure engineer new grad us government",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3f4cc6ce7cce40b3423624",
+      "key": "palantir technologies|||forward deployed software engineer warp speed",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a557daaae07d60a8d0119c6",
+      "key": "palantir technologies|||software engineer apollo platform",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5f65eab0f20036bc630b44",
+      "key": "palantir technologies|||software engineer apollo platform",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95ac05f28891320e85d131",
+      "key": "palantir technologies|||forward deployed infrastructure engineer new grad us government",
+      "location": "honolulu hi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a63e36a5c7e2d715ebae77a",
+      "key": "palantir technologies|||forward deployed infrastructure engineer new grad us government",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a63e36f0c8e2b4f36dd0533",
+      "key": "palantir technologies|||forward deployed infrastructure engineer new grad us government",
+      "location": "washington d c united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5ade9e4da96a42cfd97a98",
+      "key": "palantir technologies|||forward deployed software engineer new grad us government",
+      "location": "washington d c united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a58c8e9686b4755d1e0c420",
+      "key": "palantir technologies|||forward deployed software engineer intel",
+      "location": "washington d c united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5544be268af95237bea633",
+      "key": "palantir technologies|||forward deployed software engineer new grad intel us government",
+      "location": "washington d c united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3ec06bd261407de98044fa",
+      "key": "palantir technologies|||privacy civil liberties engineer new grad",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a559921ab67470e148e33e0",
+      "key": "palantir technologies|||forward deployed software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
