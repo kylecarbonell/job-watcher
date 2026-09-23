@@ -27731,6 +27731,102 @@
       "key": "dhl|||business product enablement associate",
       "location": "atlanta ga united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2fc4930340229a3230ea2",
+      "key": "src can|||junior software developer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2c42830340229a322f942",
+      "key": "point|||associate software engineer",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2ef3030340229a32306da",
+      "key": "cyberproof|||junior full stack developer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2eeba78c69ff506c41382",
+      "key": "cyberproof|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa06e6eea127c379469711d",
+      "key": "tenable|||junior services architect",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2f480326574570a004036",
+      "key": "gogo|||integrations solutions analyst",
+      "location": "greater palm bay melbourne titusville area",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2f0008254c44790e581d7",
+      "key": "general dynamics land systems canada|||student software test",
+      "location": "london ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2efe078c69ff506c414d9",
+      "key": "general dynamics land systems canada|||student software developer",
+      "location": "london ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2ef89326574570a003d85",
+      "key": "f5|||software engineer ii",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2efc230340229a3230737",
+      "key": "f5|||software engineer i",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2e8f3326574570a003a8a",
+      "key": "liburdi group of companies|||software developer",
+      "location": "hamilton on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2fc90326574570a0044a6",
+      "key": "verizon|||product engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2ea5d326574570a003aca",
+      "key": "altice usa|||software dev engineer i",
+      "location": "bethpage ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2f6411e4847ddae917712",
+      "key": "airbus|||associate embedded software engineer",
+      "location": "bingen wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab21652191d8c340dbddaab",
+      "key": "bae systems|||full stack software engineer i",
+      "location": "nashua nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab2f0dd30340229a32307de",
+      "key": "the walt disney company|||associate product manager project hire",
+      "location": "orlando fl united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
