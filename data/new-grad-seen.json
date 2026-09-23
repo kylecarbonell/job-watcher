@@ -28091,6 +28091,132 @@
       "key": "adobe|||2027 mba university graduate product manager",
       "location": "san jose ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:091b8490566bd4358a79dfb70e74878105ff2695",
+      "key": "rtx|||software engineer 1",
+      "location": "woburn ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab39231c5639c061c450b3a",
+      "key": "john deere|||embedded software engineer job details john deere",
+      "location": "urbandale ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab38edabe25ca0146e6484a",
+      "key": "public service commission te kawa mataaho|||application engineer",
+      "location": "wellington city new zealand",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab38c408836e3e468172828",
+      "key": "hubspot|||hubspot software engineer co op program canada",
+      "location": "ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab38c31be25ca0146e64809",
+      "key": "hubspot|||hubspot software engineer co op program usa",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab3850b762be1c53fc36074",
+      "key": "netrolynx ai|||software developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab35e47835ccf4a28117a7e",
+      "key": "boston scientific|||software engineer i",
+      "location": "arden hills mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab368fd835ccf4a28117b75",
+      "key": "jacobs|||forward deployed engineer palantir foundry custom development",
+      "location": "moon pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab366355f2dfb58030a6c7a",
+      "key": "jacobs|||forward deployed engineer palantir foundry custom development",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab36633762be1c53fc35e23",
+      "key": "jacobs|||forward deployed engineer palantir foundry custom development",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab3646b5d482753f3e68c8e",
+      "key": "jacobs|||forward deployed engineer palantir foundry custom development",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab36301835ccf4a28117b2d",
+      "key": "bdo usa|||natl tax technology associate software engineer i tax product development winter 2027 multiple locations",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab35f835d482753f3e68c13",
+      "key": "jacobs|||forward deployed engineer palantir foundry custom development",
+      "location": "fort lauderdale fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a51381abf63b66c79979dde",
+      "key": "instalily ai|||software engineer ii toronto",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab35175a353d86e6786ec0f",
+      "key": "southwest airlines|||associate business solution developer dmx",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab3567d5d482753f3e68ac0",
+      "key": "vendra yc s24|||full stack engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab288bf6bd9d2d17c1bb9d",
+      "key": "wellington management|||investment strategy technology co op",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaec9a4be87a72913a22eb",
+      "key": "stripe|||software engineer new grad",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab3632b762be1c53fc35e0c",
+      "key": "disney experiences|||associate product manager project hire",
+      "location": "orlando fl united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab38694a353d86e6786f096",
+      "key": "tesco ireland|||technology product management graduate scheme",
+      "location": "welwyn garden city england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab318ea326574570a004e00",
+      "key": "mastercard|||associate product specialist launch program 2027 united states",
+      "location": "o fallon mo united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
