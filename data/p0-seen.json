@@ -2873,6 +2873,24 @@
       "key": "adobe|||2027 mba university graduate product manager",
       "location": "san jose ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4592c922-5f50-4174-9938-79cc848b1e39",
+      "key": "cisco|||compiler software engineer 1 core platform software and toolchains",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab3199678c69ff506c4258b",
+      "key": "microsoft|||software engineer ctj ts cleared",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaaec9a4be87a72913a22eb",
+      "key": "stripe|||software engineer new grad",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
