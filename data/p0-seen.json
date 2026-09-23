@@ -2867,6 +2867,12 @@
       "key": "amazon|||applied scientist amazon cryptographic libraries",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab307ae78c69ff506c42190",
+      "key": "adobe|||2027 mba university graduate product manager",
+      "location": "san jose ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
