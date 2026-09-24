@@ -3095,6 +3095,24 @@
       "key": "qualcomm|||automotive experience platform engineer",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4356a8b0f2553559ed0040",
+      "key": "qualcomm|||embedded software engineer device driver development",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4f74c3362fb9a8705f58e",
+      "key": "amazon|||software development engineer i annapurna labs early career 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab51669c6fe0dec8119f4da",
+      "key": "the d e shaw group|||human capital product operations associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
