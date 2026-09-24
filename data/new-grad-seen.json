@@ -29273,6 +29273,192 @@
       "key": "capital one|||product development program associate 2027",
       "location": "mclean va united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e52a13ce-a653-4971-8d74-8ac2a350f68f",
+      "key": "parallel systems|||full stack software engineer 1 interfaces",
+      "location": "los angeles",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab483a10e0ae54eeea48b45",
+      "key": "xero|||associate engineer front end",
+      "location": "alberta canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab483a07bd0813713317c92",
+      "key": "xero|||associate engineer back end",
+      "location": "alberta canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab47382ef911c35dffa54cf",
+      "key": "fulgent genetics|||solutions software analyst scientist engineer workflow",
+      "location": "el monte ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab48216ef911c35dffa56cc",
+      "key": "metlife|||software development engineer",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab480857bd0813713317c70",
+      "key": "parallel|||full stack software engineer i",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab47e5c64816213f2d994de",
+      "key": "invisible technologies|||software engineer forward deployed",
+      "location": "new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab478ac64816213f2d9943e",
+      "key": "naval nuclear laboratory fmp|||software engineer entry level",
+      "location": "niskayuna ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4778364816213f2d99413",
+      "key": "general dynamics|||nc3 software engineer entry level",
+      "location": "taunton ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab45b8f55e9168cf5ea6268",
+      "key": "about healthcare|||associate software engineer",
+      "location": "saint paul mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99127811f73b6462c9041c",
+      "key": "keysight technologies|||software engineer measurement applications",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab46b1064816213f2d990fd",
+      "key": "emerson|||software test engineer c net",
+      "location": "shakopee mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab46b0aef911c35dffa52bc",
+      "key": "qualcomm|||software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab46b06ef911c35dffa52b6",
+      "key": "amazon|||associate solutions architect agi tech early career 2027",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab46aabef911c35dffa52a6",
+      "key": "qualcomm|||5g 6g modem software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab469f47bd081371331787e",
+      "key": "microsoft|||software engineer intune",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4686f64816213f2d9907d",
+      "key": "parallel|||full stack software engineer i",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4316f55e9168cf5ea4ea7",
+      "key": "ericsson|||radio sw developer co op",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab458cf0e0ae54eeea48406",
+      "key": "naval nuclear laboratory fmp|||software engineer entry level",
+      "location": "west mifflin pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9d12beff87f571fc9bc7c",
+      "key": "stripe|||software engineer new grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4637f64816213f2d99000",
+      "key": "bae systems inc|||fast labs software engineer early career levels top secret",
+      "location": "merrimack nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab46333ef911c35dffa51b5",
+      "key": "bae systems inc|||fast labs software engineer early career levels secret",
+      "location": "merrimack nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab477ebd2f5fbd604be3931",
+      "key": "activision|||qa requirements tester activision",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab46a86d2f5fbd604be35f6",
+      "key": "qualcomm|||automotive experience platform engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab468cf7bd081371331785f",
+      "key": "nippon sanso matheson|||product manager irving tx",
+      "location": "irving tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab4726a0e0ae54eeea488f5",
+      "key": "landis gyr|||product manager",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa1dd95500b01124c77f6be",
+      "key": "lululemon|||contract product operations lead outlets at san clemente",
+      "location": "san clemente california united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab4828fd2f5fbd604be3a08",
+      "key": "capital one|||product development program associate 2027",
+      "location": "richmond va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab482a90e0ae54eeea48b3b",
+      "key": "capital one|||product development program associate 2027",
+      "location": "mclean va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab4828b64816213f2d99511",
+      "key": "capital one|||product development program associate 2027",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab4828755e9168cf5ea68e2",
+      "key": "capital one|||product development program associate 2027",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
