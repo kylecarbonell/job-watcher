@@ -3113,6 +3113,36 @@
       "key": "the d e shaw group|||human capital product operations associate",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5ee720f29acc1a11749d72",
+      "key": "spacex|||software engineer starfall",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab54b46d85922de20ce0367",
+      "key": "amazon web services aws|||software development engineer i annapurna labs early career 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab54b624873fd3fd8528ac0",
+      "key": "amazon web services aws|||software development engineer i annapurna labs early career 2027",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab54b70b3db59402d0fbca4",
+      "key": "amazon web services aws|||software development engineer i annapurna labs early career 2027",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab54711b3db59402d0fbb0e",
+      "key": "adobe|||2027 university graduate product manager",
+      "location": "san jose ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
