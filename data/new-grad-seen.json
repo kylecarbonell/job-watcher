@@ -29555,6 +29555,90 @@
       "key": "jacent|||merchandising install team lead",
       "location": "dallas tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab51614634ec6aa7c0cd232",
+      "key": "atreon|||junior graduate software engineer c net javascript",
+      "location": "maidstone england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4356a8b0f2553559ed0040",
+      "key": "qualcomm|||embedded software engineer device driver development",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab50498b3db59402d0fabae",
+      "key": "berkeley industrial engineering operations research|||ge vernova software engineering co op spring summer 2027 open at ge vernova",
+      "location": "indiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99765a138838706058dfc8",
+      "key": "venmo|||software engineer cloud infrastructure and devops",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4f74c3362fb9a8705f58e",
+      "key": "amazon|||software development engineer i annapurna labs early career 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a97f884add00305a7651b34",
+      "key": "mimecast|||software engineer i",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a580f963330ca6f993c31ca",
+      "key": "auria space|||software engineer sentinel",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4df883362fb9a8705f2f5",
+      "key": "missionperform|||developer full stack student",
+      "location": "mississauga ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4de5c2dd8a22b0fefd5fe",
+      "key": "netrolynx ai|||software developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4fddb634ec6aa7c0cceb1",
+      "key": "optum|||associate software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a974686b22f636c814171a1",
+      "key": "johnson johnson medtech|||software engineering co op summer 2027",
+      "location": "cincinnati oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab51669c6fe0dec8119f4da",
+      "key": "the d e shaw group|||human capital product operations associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a982434def18223c854da0e",
+      "key": "kiss beauty group|||product data management specialist",
+      "location": "port washington ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a986ac883fc633357631628",
+      "key": "lululemon|||seasonal product operations educator tanger outlet pop up",
+      "location": "southaven ms united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
