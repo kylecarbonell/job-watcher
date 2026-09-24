@@ -3059,6 +3059,42 @@
       "key": "linkedin|||software engineer",
       "location": "bellevue wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab46b0aef911c35dffa52bc",
+      "key": "qualcomm|||software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab46b06ef911c35dffa52b6",
+      "key": "amazon|||associate solutions architect agi tech early career 2027",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab46aabef911c35dffa52a6",
+      "key": "qualcomm|||5g 6g modem software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab469f47bd081371331787e",
+      "key": "microsoft|||software engineer intune",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9d12beff87f571fc9bc7c",
+      "key": "stripe|||software engineer new grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab46a86d2f5fbd604be35f6",
+      "key": "qualcomm|||automotive experience platform engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
