@@ -29459,6 +29459,102 @@
       "key": "capital one|||product development program associate 2027",
       "location": "chicago il united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4cda53547d44e255a8b58",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4cda2e9a8f953ef830f1e",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4cda23362fb9a8705f138",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4b8753362fb9a8705ef65",
+      "key": "chemanager international|||early career computer scientist remote sensing systems onsite",
+      "location": "albuquerque nm united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4adea637e49173b50b4f6",
+      "key": "classical conversations|||junior software developer",
+      "location": "southern pines nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab49ce30e0ae54eeea49015",
+      "key": "johnson johnson medtech|||heart recovery software r d co op",
+      "location": "halethorpe md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab49cc5d2f5fbd604be3eff",
+      "key": "johnson johnson medtech|||software test engineering co op beatbox",
+      "location": "danvers ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab49cc364816213f2d99a13",
+      "key": "johnson johnson medtech|||software test engineering co op rlm",
+      "location": "danvers ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a52765a9fbdab22fe13bb2e",
+      "key": "rowden|||software engineer speculative talent pipeline",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a22af7ededf78312c7aa7f5",
+      "key": "rowden|||software engineer speculative talent pipeline",
+      "location": "bristol uk",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4ae91637e49173b50b50b",
+      "key": "rtx|||embedded software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4b78e637e49173b50b5a1",
+      "key": "acrisure|||software engineer i",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab4a84de9a8f953ef830b29",
+      "key": "tiktok|||product manager video moderation platform responsibility",
+      "location": "san jose ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab4c0bde9a8f953ef830dd8",
+      "key": "accenture|||product owner 6474239",
+      "location": "pittsburgh pennsylvania united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a976553b22f636c81417a95",
+      "key": "american express|||campus graduate full time senior associate 2027 digital product management enterprise technology services new york ny",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab48f91d2f5fbd604be3c71",
+      "key": "jacent|||merchandising install team lead",
+      "location": "dallas tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
