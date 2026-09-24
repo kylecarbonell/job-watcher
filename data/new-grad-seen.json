@@ -29873,6 +29873,282 @@
       "key": "adobe|||2027 university graduate product manager",
       "location": "san jose ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7cdf152653cbdcd767912e46238026282f083677",
+      "key": "general motors|||software engineer early career autonomous vehicles software systems",
+      "location": "sunnyvale ca warren mi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:be4b7f2f22700d7ec1b2ce2ac42bb020a719e0dd",
+      "key": "sentilink|||research scientist new grad",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:515a92a26e6d3fbcc4a6ff630ce6ac3405630970",
+      "key": "sentilink|||quantitative scientist new grad multiple teams",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab56e40d85922de20ce0fbc",
+      "key": "gallatin ai inc|||software engineer with clearance ts ts csi",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57d4dd85922de20ce1568",
+      "key": "innovative defense technologies idt|||software engineer jobid 0198",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57cea634ec6aa7c0cf24b",
+      "key": "innovative defense technologies idt|||software engineer jobid 0198",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57b94d85922de20ce1507",
+      "key": "astranis space technologies|||software developer network software associate summer 2027",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57b0dc6fe0dec811a142f",
+      "key": "covered california|||bilingual quality assurance tier i evaluator",
+      "location": "sacramento ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57b01634ec6aa7c0cf1c9",
+      "key": "astranis space technologies|||software developer network software associate winter 2027",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab575c5c6fe0dec811a12bb",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5759eb3db59402d0fcc7d",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7cb9c4dc3dff2d1c0c8b48",
+      "key": "amentum|||rtos vxworks developer",
+      "location": "dahlgren va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9932588a8b765bc55f202e",
+      "key": "amazon|||software dev engineer publisher ad server",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99e1f2551435518ebf1e17",
+      "key": "amazon|||software dev engineer publisher ad server",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2c4a3326574570a002f98",
+      "key": "amazon|||software development engineer amazon leo us",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab56e719d4843569fe49a74",
+      "key": "national life group|||associate illustration systems analyst analyst",
+      "location": "addison tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab56c94b3db59402d0fc8ce",
+      "key": "north carolina department of agriculture and consumer services|||it applications developer 1 2 3",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5606ec6fe0dec811a0bbb",
+      "key": "jewel osco|||front end entry level",
+      "location": "barrington illinois united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab55be74873fd3fd852928f",
+      "key": "ziprecruiter|||software engineer new grad",
+      "location": "santa monica ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab567ddb3db59402d0fc729",
+      "key": "amazon|||amazon dedicated cloud engineer platform engineering and emerging technologies peet",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5ee720f29acc1a11749d72",
+      "key": "spacex|||software engineer starfall",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5700fb3db59402d0fca7b",
+      "key": "bank of america|||quantitative engineer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab54cead85922de20ce04a7",
+      "key": "bank of america|||quantitative engineer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2afba30340229a322f0ea",
+      "key": "bank of america|||quantitative engineer",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab5683c85610f4a484477d",
+      "key": "raytheon|||software systems quality engineer compliance",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57b3f634ec6aa7c0cf1e5",
+      "key": "le fant llc|||testing technician bes",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57528634ec6aa7c0cf051",
+      "key": "general dynamics|||software engineer",
+      "location": "port orchard wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab55642c6fe0dec811a08bd",
+      "key": "state of florida|||computer programmer analyst i 64006277",
+      "location": "gainesville fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57a51634ec6aa7c0cf17d",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab554734873fd3fd8528f5e",
+      "key": "rtx|||software engineer i onsite",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57f2c4873fd3fd8529d02",
+      "key": "rtx|||research software engineer i onsite",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57cdb4873fd3fd8529c81",
+      "key": "relx|||software engineer 1",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab56e54634ec6aa7c0ced35",
+      "key": "lexisnexis risk solutions|||software engineer 1",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab571689d4843569fe49c19",
+      "key": "baxter international inc|||software engineer",
+      "location": "skaneateles ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab56a72d85922de20ce0eba",
+      "key": "adobe|||2027 university graduate software engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab56d52b3db59402d0fc8ed",
+      "key": "toyota financial services corporation|||co op enterprise architecture and governance",
+      "location": "scarborough on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57b3fb3db59402d0fce0d",
+      "key": "bae systems|||entry level software engineer",
+      "location": "hudson nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab555c49d4843569fe4928e",
+      "key": "state of north carolina|||applications systems analyst i",
+      "location": "north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab582189d4843569fe4a152",
+      "key": "nippon sanso matheson|||product manager irving tx",
+      "location": "irving tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab58189c6fe0dec811a1632",
+      "key": "centric brands|||product development coordinator off price",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab57965c6fe0dec811a139d",
+      "key": "beta technologies|||junior buyer new product introduction",
+      "location": "south burlington vt united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab56c8fc6fe0dec811a0f27",
+      "key": "lululemon|||contract product operations lead fashion island newport beach",
+      "location": "newport beach ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab56c599d4843569fe4998b",
+      "key": "lululemon|||contract product operations lead stonebriar centre",
+      "location": "frisco tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab56aa1b3db59402d0fc830",
+      "key": "cohen steers|||summer associate product strategy development",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab55c97634ec6aa7c0ce867",
+      "key": "uglycash|||associate product manager core experience",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a54e5da81744f383a313c0a",
+      "key": "blue owl capital|||product management investor relations real assets analyst",
+      "location": "chicago illinois united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
