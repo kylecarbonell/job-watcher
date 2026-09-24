@@ -3143,6 +3143,42 @@
       "key": "adobe|||2027 university graduate product manager",
       "location": "san jose ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9932588a8b765bc55f202e",
+      "key": "amazon|||software dev engineer publisher ad server",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99e1f2551435518ebf1e17",
+      "key": "amazon|||software dev engineer publisher ad server",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab2c4a3326574570a002f98",
+      "key": "amazon|||software development engineer amazon leo us",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab567ddb3db59402d0fc729",
+      "key": "amazon|||amazon dedicated cloud engineer platform engineering and emerging technologies peet",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57a51634ec6aa7c0cf17d",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab56a72d85922de20ce0eba",
+      "key": "adobe|||2027 university graduate software engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
