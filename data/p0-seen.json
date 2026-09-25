@@ -3323,6 +3323,30 @@
       "key": "h r block|||assoc product manager",
       "location": "missouri united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:67c4fd17ee8f31aa8afc3b532627e1ddcca716a5",
+      "key": "visa|||software engineer new grad 2027",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3f8bbbd06abd4df01be7d32dd8b2aa1e0f98b828",
+      "key": "visa|||software engineer new grad",
+      "location": "foster city ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6d51cba1c25652c610239",
+      "key": "amazon|||software development engineer consumer domains",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab68351b3db59402d100a65",
+      "key": "h r block|||assoc product manager",
+      "location": "missouri united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
