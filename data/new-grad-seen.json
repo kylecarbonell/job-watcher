@@ -30713,6 +30713,276 @@
       "key": "workday|||product manager",
       "location": "usa oh mason united states of america",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6b1fe9d4843569fe4ee24",
+      "key": "l3harris technologies|||unity software developer for holomots",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6aac34873fd3fd852e870",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6aac19d4843569fe4ebd3",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a988b3db59402d101997",
+      "key": "georgia institute of technology|||web developer",
+      "location": "atlanta metropolitan area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a5afc6fe0dec811a5dde",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a3b34873fd3fd852e4e6",
+      "key": "solace|||junior software developer mission control",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a33cc6fe0dec811a5c25",
+      "key": "kooth|||full stack software engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a27fd85922de20ce5d1c",
+      "key": "kooth digital health|||full stack software engineer i",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a1a3634ec6aa7c0d38c4",
+      "key": "apple|||cad engineer signoff infrastructure",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5a6d6d85922de20ce2e16",
+      "key": "boeing|||associate software engineer developers",
+      "location": "oklahoma city ok united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab69990c6fe0dec811a5681",
+      "key": "greenheck group|||application developer co op",
+      "location": "schofield wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab55c13634ec6aa7c0ce83f",
+      "key": "caci international inc|||software engineer early career cloud",
+      "location": "hanover md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7cabb8d77e8156a8e337b4",
+      "key": "uniswap|||software engineer early career",
+      "location": "new york",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab68817634ec6aa7c0d2f36",
+      "key": "microsoft|||software engineer intune",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab68370634ec6aa7c0d2dec",
+      "key": "impact com|||associate solutions architect",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab680f44873fd3fd852d7b6",
+      "key": "deloitte|||backend developer palantir",
+      "location": "richmond va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab680e8b3db59402d1009c5",
+      "key": "amazon|||quality assurance engineer i amazon connect decission",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a45e399076271587529e3b5",
+      "key": "anduril industries|||mission software engineer ew",
+      "location": "costa mesa california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab567f0d85922de20ce0ddf",
+      "key": "lockheed martin|||software engineer e2",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa894d1a77a53f5a157a176",
+      "key": "vagaro|||software engineer",
+      "location": "pleasanton ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a277b3db59402d1015d5",
+      "key": "kcom|||test analyst",
+      "location": "kingston upon hull england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6903cb3db59402d100df7",
+      "key": "charles schwab|||associate software development engineering",
+      "location": "southlake tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6912c634ec6aa7c0d31bf",
+      "key": "alianza|||associate software engineer",
+      "location": "cambridge england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6ac97634ec6aa7c0d3e53",
+      "key": "fidelity investments|||january 2027 leap software engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6ad1e4873fd3fd852e957",
+      "key": "fidelity investments|||january 2027 leap software engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab69f2e4873fd3fd852e211",
+      "key": "fidelity investments|||january 2027 leap software engineer",
+      "location": "durham nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a93a9d4843569fe4eb2b",
+      "key": "kooth digital health|||full stack software engineer i",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a2034873fd3fd852e3dd",
+      "key": "u s bank|||2027 engineering rotational program",
+      "location": "hopkins mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab69d1a4873fd3fd852e0a3",
+      "key": "rtx|||infrastructure engineer i onsite",
+      "location": "west valley city ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab694ed634ec6aa7c0d32ac",
+      "key": "hitachi energy|||software analyst",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab286e41e4847ddae914a61",
+      "key": "bank of america|||quantitative engineer",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab43142d2f5fbd604be2024",
+      "key": "hewlett packard enterprise|||software engineer embedded system sunnyvale ca",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a49cd85922de20ce5e7a",
+      "key": "amazon web services aws|||quality assurance engineer i amazon connect decission",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab6a8d0634ec6aa7c0d3cfe",
+      "key": "encoura|||product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab6a71ab3db59402d101844",
+      "key": "logisnext americas inc|||oem product development analyst 11401",
+      "location": "grand rapids mi united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab6a3cbc6fe0dec811a5ca0",
+      "key": "cover genius|||associate insurance product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab69e824873fd3fd852e1ba",
+      "key": "kharon|||associate product manager",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab69867c6fe0dec811a55e7",
+      "key": "h r block|||assoc product manager",
+      "location": "missouri united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab6908d9d4843569fe4df5d",
+      "key": "james allen|||product development merchandising assistant",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab68d4d4873fd3fd852db38",
+      "key": "ford motor company|||product manager",
+      "location": "dearborn mi united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa8af4d17ddad6a8a47ca88",
+      "key": "chanel|||associate product operations",
+      "location": "piscataway nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab680e94873fd3fd852d7a9",
+      "key": "ford pro|||product manager",
+      "location": "dearborn mi united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab67776c6fe0dec811a4def",
+      "key": "juul labs|||document coordinator product integrity toxicology",
+      "location": "durham nc united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a99e7e8551435518ebf200f",
+      "key": "veronica beard|||product development assistant",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab68f1dd85922de20ce5494",
+      "key": "blue nile|||product development merchandising assistant",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
