@@ -3239,6 +3239,30 @@
       "key": "amazon|||application builder mobile applications",
       "location": "north reading ma united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab66cba4873fd3fd852d385",
+      "key": "ibm|||associate application developer 2027 servicenow",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab66c90634ec6aa7c0d290e",
+      "key": "ibm|||associate application developer 2027 servicenow",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab66c26d85922de20ce4c21",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a4618034f64ba41dcb4fd12",
+      "key": "workday|||product manager",
+      "location": "usa oh mason united states of america",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
