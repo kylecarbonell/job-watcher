@@ -30149,6 +30149,234 @@
       "key": "blue owl capital|||product management investor relations real assets analyst",
       "location": "chicago illinois united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:22af1ba3-8de5-4e6a-8ffd-10425883c086",
+      "key": "ziprecruiter|||software engineer new grad multiple teams",
+      "location": "santa monica ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:63ee202c-e263-4273-bfef-b12583dfe8bb",
+      "key": "gm financial|||software development engineer 1 mobile",
+      "location": "irving tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2c5076f5-5bce-4c5e-ba14-309f96f6dd40",
+      "key": "pacific northwest national laboratory|||early career software engineer",
+      "location": "richland wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f14b8354-3c07-49c5-96e8-d199167864cf",
+      "key": "rtx|||software engineer 1",
+      "location": "marlborough ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9ac8fdf1-ae90-4f20-8e32-7a3f2c0d52e9",
+      "key": "adobe|||software engineer new grad",
+      "location": "6 locationsseattle wa san francisco austin tx san jose ca new york lehi ut",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4d8ade89-7d74-491e-a5cb-4fe36798e3d5",
+      "key": "rtx|||software engineer 1 test solutions",
+      "location": "tucson az",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a2310a84-f4f4-4e54-aca8-921420649607",
+      "key": "cadmus|||junior energy data analyst",
+      "location": "new york portland or boulder co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c1dc38f5-2da8-4e4d-ad87-f34626d3784b",
+      "key": "goldbelt|||junior data analyst",
+      "location": "falls church va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2ae09d65-beba-4787-856a-03f2f1764a14",
+      "key": "goldbelt|||junior data analyst",
+      "location": "falls church va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2ec98858-3652-4512-8a10-1c0e588bac28",
+      "key": "applied materials|||data scientist new grad bachelor s master s",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3248cc32-d514-472b-9277-9ee00783420d",
+      "key": "adobe|||machine learning engineer new grad",
+      "location": "7 locationsseattle wa san francisco austin tx san jose ca waltham ma new york lehi ut",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58ff29d4843569fe4abc9",
+      "key": "kla|||software engineer metrology systems",
+      "location": "milpitas ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a909e252e254e06fb9f1ea2",
+      "key": "legend biotech|||it validation specialist",
+      "location": "somerset nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58dd6d85922de20ce1f61",
+      "key": "ibm|||software developer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58aefc6fe0dec811a1d09",
+      "key": "caterpillar inc|||oracle e business suite applications engineer",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58ae6634ec6aa7c0cfa9d",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "markham on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58a199d4843569fe4a772",
+      "key": "ibm|||application developer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab589cc4873fd3fd852a3f4",
+      "key": "skyworks solutions inc|||rf front end engineer summer fall co op june dec 27",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5866bb3db59402d0fd310",
+      "key": "ibm|||application developer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab585cf9d4843569fe4a404",
+      "key": "shure|||engineer i application systems development",
+      "location": "niles il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a90610a0bd89e205d249e58",
+      "key": "metropolitan transportation authority|||application developer levels 1 5 ios",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5969c4873fd3fd852af04",
+      "key": "general dynamics|||entry level software engineer",
+      "location": "port orchard wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7d9c2fad9ff00c26ba8430",
+      "key": "witron group|||solutions engineer",
+      "location": "arlington heights il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab592bd4873fd3fd852abb9",
+      "key": "alkami technology|||implementation engineer",
+      "location": "remote united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58d7b4873fd3fd852a6c9",
+      "key": "resmed|||associate software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab59ffa9d4843569fe4b5d6",
+      "key": "draftkings inc|||software engineer ios",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57196d85922de20ce1215",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58ccbc6fe0dec811a1e6b",
+      "key": "rtx|||software engineer i onsite",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58cecc6fe0dec811a1e80",
+      "key": "rtx|||software engineer i onsite",
+      "location": "woburn ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58633634ec6aa7c0cf6b3",
+      "key": "blessing health|||application analyst i",
+      "location": "quincy il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab58382c6fe0dec811a178e",
+      "key": "84 51|||product manager data domain p4410",
+      "location": "cincinnati oh united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab59bca4873fd3fd852b06c",
+      "key": "sensorex inc|||associate product manager",
+      "location": "garden grove ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab59b40c6fe0dec811a2846",
+      "key": "centric brands|||product development coordinator off price",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab58e6a9d4843569fe4aa62",
+      "key": "indeed|||product manager i internal only",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e9f25f6ea00235829611e",
+      "key": "behr paint company|||category associate",
+      "location": "st thomas ontario canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab59a974873fd3fd852b013",
+      "key": "spencer s|||assistant product manager",
+      "location": "egg harbor township nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a8ee48dd7c91d0cf446c66d",
+      "key": "dashing diva|||product development coordinator",
+      "location": "port washington ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab5865ed85922de20ce19bd",
+      "key": "spencer s|||assistant product manager",
+      "location": "egg harbor township nj united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
