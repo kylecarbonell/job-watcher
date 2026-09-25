@@ -3263,6 +3263,66 @@
       "key": "workday|||product manager",
       "location": "usa oh mason united states of america",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a5afc6fe0dec811a5dde",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a1a3634ec6aa7c0d38c4",
+      "key": "apple|||cad engineer signoff infrastructure",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9a44f590a313642c654e87",
+      "key": "amazon|||software development engineer amazon dedicated cloud early career 2026",
+      "location": "jessup md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a2205e1338c012305122735",
+      "key": "nvidia|||software r d engineer vlsi physical design new college grad 2026",
+      "location": "us tx austin us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a51ec6178e364789ca5eb14",
+      "key": "nvidia|||software r d engineer vlsi physical design new college grad 2026",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4c66a5971cd25b06f9a795",
+      "key": "spacex|||software engineer network observability starlink",
+      "location": "hawthorne ca",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab68817634ec6aa7c0d2f36",
+      "key": "microsoft|||software engineer intune",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab680e8b3db59402d1009c5",
+      "key": "amazon|||quality assurance engineer i amazon connect decission",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6a49cd85922de20ce5e7a",
+      "key": "amazon web services aws|||quality assurance engineer i amazon connect decission",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab69867c6fe0dec811a55e7",
+      "key": "h r block|||assoc product manager",
+      "location": "missouri united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
