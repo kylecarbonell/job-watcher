@@ -30623,6 +30623,96 @@
       "key": "drive medical|||product manager new products",
       "location": "port washington ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3915fa1bc7402bcb81ef6ffbade4308a67e32cf3",
+      "key": "toyota|||software engineer early career professional",
+      "location": "plano tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:38c43572f7fa104f5baa4a910107d14d8fa3f7b4",
+      "key": "chewy|||category analyst new grad",
+      "location": "plantation fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab672ed4873fd3fd852d4f7",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab67283b3db59402d100719",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6727d4873fd3fd852d4cb",
+      "key": "cyberproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5adf9b3db59402d0feae0",
+      "key": "lockheed martin|||software engineering associate early career",
+      "location": "mount laurel nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab66e18d85922de20ce4c91",
+      "key": "bluestaq australia|||software engineering residency program",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab66cba4873fd3fd852d385",
+      "key": "ibm|||associate application developer 2027 servicenow",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab66c90634ec6aa7c0d290e",
+      "key": "ibm|||associate application developer 2027 servicenow",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab66c26d85922de20ce4c21",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99da621388387060590e79",
+      "key": "ge vernova|||ge vernova software engineering co op summer fall",
+      "location": "rochester united states of america",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7cb1a377d5f033c4b90040",
+      "key": "guidehouse|||devsecops cloud engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab65940c6fe0dec811a49bb",
+      "key": "bluestaq|||software engineering residency program",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8766b5e8b6601d12903682",
+      "key": "mayo clinic|||software engineer oracle integration",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a4618034f64ba41dcb4fd12",
+      "key": "workday|||product manager",
+      "location": "usa oh mason united states of america",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
