@@ -3227,6 +3227,18 @@
       "key": "hakkoda an ibm company|||software developer",
       "location": "bellevue wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e04cade2d7d706ea14fd0e7ed6c88cdddf53cae7",
+      "key": "visa|||associate product manager new grad multiple teams",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6104cd85922de20ce43e1",
+      "key": "amazon|||application builder mobile applications",
+      "location": "north reading ma united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
