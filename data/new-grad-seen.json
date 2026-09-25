@@ -30515,6 +30515,114 @@
       "key": "pentenamio|||product management graduate 2027",
       "location": "tewkesbury england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:de427d40276ab43f31d6452506e32261e99a3546",
+      "key": "wyetech|||software engineer 1",
+      "location": "halethorpe md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e04cade2d7d706ea14fd0e7ed6c88cdddf53cae7",
+      "key": "visa|||associate product manager new grad multiple teams",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6104cd85922de20ce43e1",
+      "key": "amazon|||application builder mobile applications",
+      "location": "north reading ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab600bdb3db59402d0ff9c9",
+      "key": "kearney|||kearney activate full stack developer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5ff619d4843569fe4cac2",
+      "key": "karma automotive|||engineer i battery software",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5fef9d85922de20ce403b",
+      "key": "burnbot|||software engineer entry level",
+      "location": "south san francisco california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa3c2ba959a10d7230d3d25",
+      "key": "waters corporation|||sap ariba source to contract specialist",
+      "location": "milford ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a876ce1d34f700f87fc567b",
+      "key": "mayo clinic|||software engineer oracle integration",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5f921d85922de20ce3dff",
+      "key": "leidos|||jr software developer",
+      "location": "gaithersburg md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5f914c6fe0dec811a3d59",
+      "key": "leidos|||junior software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5edf0c6fe0dec811a3bb7",
+      "key": "johnson johnson medtech|||software engineering co op",
+      "location": "danvers ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab610b5c6fe0dec811a4330",
+      "key": "berkeley industrial engineering operations research|||ge vernova software engineering co op summer fall open at ge vernova",
+      "location": "indiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab60e809d4843569fe4ce30",
+      "key": "optum|||associate software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab44a3755e9168cf5ea5929",
+      "key": "hewlett packard enterprise|||software engineer embedded system sunnyvale ca",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5f217d85922de20ce3ca0",
+      "key": "state of north carolina|||bus and tech app analyst",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab5f8904873fd3fd852c4c7",
+      "key": "iqvia|||product analyst",
+      "location": "columbia md united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab619f4634ec6aa7c0d2203",
+      "key": "gartner|||business analyst conferences business solutions",
+      "location": "irving tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aae449d3dbb1f8967cf076a",
+      "key": "drive medical|||product manager new products",
+      "location": "port washington ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
