@@ -3179,6 +3179,48 @@
       "key": "adobe|||2027 university graduate software engineer",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9ac8fdf1-ae90-4f20-8e32-7a3f2c0d52e9",
+      "key": "adobe|||software engineer new grad",
+      "location": "6 locationsseattle wa san francisco austin tx san jose ca new york lehi ut",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3248cc32-d514-472b-9277-9ee00783420d",
+      "key": "adobe|||machine learning engineer new grad",
+      "location": "7 locationsseattle wa san francisco austin tx san jose ca waltham ma new york lehi ut",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58dd6d85922de20ce1f61",
+      "key": "ibm|||software developer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58ae6634ec6aa7c0cfa9d",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "markham on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58a199d4843569fe4a772",
+      "key": "ibm|||application developer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5866bb3db59402d0fd310",
+      "key": "ibm|||application developer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab57196d85922de20ce1215",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
