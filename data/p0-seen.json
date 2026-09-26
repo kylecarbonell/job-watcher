@@ -3377,6 +3377,12 @@
       "key": "spacex|||software engineer starlink ground network",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9a059ead752e2ad5503637",
+      "key": "spacex|||software engineer flight reliability",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
