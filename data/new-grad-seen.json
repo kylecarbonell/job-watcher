@@ -31151,6 +31151,78 @@
       "key": "encoura|||product manager",
       "location": "united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8593e14d-835b-423d-8b1c-eb67b2318a92",
+      "key": "rtx|||software engineer 1",
+      "location": "west valley city ut",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:710de821-64c1-4cee-91fa-bb55f8498f3f",
+      "key": "abbott|||software engineer 1 multiple teams",
+      "location": "los angeles jolla san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bfe491a8b2449b8d2e91f0c3ab6a727b18c5b785",
+      "key": "visa|||software engineer new grad",
+      "location": "bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:da26b09b9adcfc25eee2ccc14a1dcfd2159c94dc",
+      "key": "american systems|||data engineer junior",
+      "location": "quantico va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa50b2042411952ff9a6b12",
+      "key": "trace3|||software engineer",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6e08d3a2ec87116e246c0",
+      "key": "spacex|||software engineer starlink ground network",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6e27fd7fde2c08ec89fe7",
+      "key": "ravenwake|||qa analyst temp",
+      "location": "british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6f1803a2ec87116e24bb4",
+      "key": "impact com|||associate solutions architect",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6e2cb39fd8792cb73c996",
+      "key": "greenheck|||application developer co op",
+      "location": "schofield wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6e28081e327c4bf201b05",
+      "key": "karman|||embedded firmware engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6de6fd7fde2c08ec89e29",
+      "key": "rtx|||software engineer i onsite",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa499ff8275e3a211761030",
+      "key": "lululemon|||product operations lead empire mall sioux falls sd",
+      "location": "sioux falls sd united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
