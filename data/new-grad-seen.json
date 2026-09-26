@@ -31373,6 +31373,78 @@
       "key": "supermicro|||associate product manager key components",
       "location": "san jose ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab745bc81e327c4bf2031ba",
+      "key": "metropolitan transportation authority|||computer associate software level 1",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7459381e327c4bf2031a3",
+      "key": "metropolitan transportation authority|||associate infrastructure engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab74584ba1c25652c611e65",
+      "key": "metropolitan transportation authority|||workforce timekeeping tech engineering fellow spring",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7457b62bb1fbd451ddc48",
+      "key": "nutanix|||member of technical staff 1 core data path",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab745493a2ec87116e25dca",
+      "key": "metropolitan transportation authority|||it assets software and mobile tech engineering fellow spring",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7454881e327c4bf203155",
+      "key": "metropolitan transportation authority|||application developer levels 1 5",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7454539fd8792cb73df4f",
+      "key": "metropolitan transportation authority|||application developer level 1 5 peoplesoft tcu",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab74525d7fde2c08ec8b62b",
+      "key": "nutanix|||software engineer 1 os internals",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab74e663a2ec87116e25ed3",
+      "key": "rtx|||software engineer i gen4 airborne radar",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab744eeba1c25652c611de7",
+      "key": "prepworld|||quality assurance technologist ftc",
+      "location": "northfleet england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab75bcdba1c25652c612037",
+      "key": "spencer s|||assistant product manager",
+      "location": "egg harbor township nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab75c23d7fde2c08ec8b88e",
+      "key": "spencer s|||product development temporary associate",
+      "location": "egg harbor township nj united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
