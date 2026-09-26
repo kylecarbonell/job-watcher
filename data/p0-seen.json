@@ -3347,6 +3347,36 @@
       "key": "h r block|||assoc product manager",
       "location": "missouri united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bfe491a8b2449b8d2e91f0c3ab6a727b18c5b785",
+      "key": "visa|||software engineer new grad",
+      "location": "bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7017b62bb1fbd451dce4b",
+      "key": "ibm|||front end software developer",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7006239fd8792cb73d17d",
+      "key": "ibm|||servicenow associate application developer 2027",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab70048d7fde2c08ec8a7ab",
+      "key": "ibm|||servicenow associate application developer 2027",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6e08d3a2ec87116e246c0",
+      "key": "spacex|||software engineer starlink ground network",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
