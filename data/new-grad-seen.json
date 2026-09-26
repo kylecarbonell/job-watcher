@@ -31445,6 +31445,72 @@
       "key": "spencer s|||product development temporary associate",
       "location": "egg harbor township nj united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:266f51a8faf53902b5e18aaddc2e1797a83d140f",
+      "key": "citadel|||software engineer university graduate",
+      "location": "4 locationsgreenwich ct houston tx miami fl new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ef8f3105fe295a434ebb0b6d68ea24334ca8b9d6",
+      "key": "lpl financial holdings|||data analytics new grad multiple teams",
+      "location": "fort mill sc charlotte nc",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:Together AI|[[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering](https://jobright.ai/jobs/info/6a591107686b4755d1e0e384?utm_campaign=Software%20Engineering&utm_source=1103)|San Francisco, CA, United States",
+      "key": "together ai|||junior senior staff software engineer inference compute infrastructure engineering https jobright ai jobs info 6a591107686b4755d1e0e384 utm campaign software 20engineering utm source 1103",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7be2981e327c4bf203923",
+      "key": "fidelity investments|||january 2027 leap software engineer",
+      "location": "westlake tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7f90a6b56bea5779c0cdc7",
+      "key": "applied intuition|||embedded software engineer new grad december 2026",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7af74ba1c25652c612548",
+      "key": "autodesk|||software developer",
+      "location": "ontario ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab79cda62bb1fbd451de212",
+      "key": "jacobs|||forward deployed engineer palantir foundry custom development",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab12560d43eb922ca0bd2e8",
+      "key": "doordash|||software engineer i entry level graduation date fall 2026 summer 2027 us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab794df3a2ec87116e26303",
+      "key": "jacobs|||junior software developer",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad78253dbb1f8967cedaa3",
+      "key": "doordash|||software engineer i entry level graduation date fall 2026 summer 2027 us",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab7a6ad62bb1fbd451de281",
+      "key": "molex|||product specialist",
+      "location": "eden prairie mn united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
