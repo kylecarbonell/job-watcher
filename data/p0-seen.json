@@ -3383,6 +3383,24 @@
       "key": "spacex|||software engineer flight reliability",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:266f51a8faf53902b5e18aaddc2e1797a83d140f",
+      "key": "citadel|||software engineer university graduate",
+      "location": "4 locationsgreenwich ct houston tx miami fl new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab12560d43eb922ca0bd2e8",
+      "key": "doordash|||software engineer i entry level graduation date fall 2026 summer 2027 us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aad78253dbb1f8967cedaa3",
+      "key": "doordash|||software engineer i entry level graduation date fall 2026 summer 2027 us",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
