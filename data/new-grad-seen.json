@@ -31535,6 +31535,12 @@
       "key": "ford credit|||product manager",
       "location": "dearborn mi united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a54415ec8eb0843027af442",
+      "key": "lululemon|||product operations lead north virginia",
+      "location": "arlington va united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
