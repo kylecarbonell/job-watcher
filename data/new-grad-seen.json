@@ -31223,6 +31223,156 @@
       "key": "lululemon|||product operations lead empire mall sioux falls sd",
       "location": "sioux falls sd united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:416e85c5-846c-4613-8d4d-2eccfbae2735",
+      "key": "varsity brands|||software engineer 1 net",
+      "location": "memphis tn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:37b0e5f0b01a47d283db5e35652e1e9e9b61b2e4",
+      "key": "crusoe|||software engineer 1 storage",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3ecd14db-e4e2-468a-9cdf-c4007834664b",
+      "key": "quora|||software engineer new grad machine learning platform",
+      "location": "remote in usa remote in canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab73a36ba1c25652c611c86",
+      "key": "raytheon|||software engineer i gen4 airborne radar",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7374162bb1fbd451dda43",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab73741d7fde2c08ec8b46d",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7066262bb1fbd451dceed",
+      "key": "salk institute for biological studies|||research software engineer i laboratory of dr talmo pereira",
+      "location": "los angeles jolla ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab70584ba1c25652c6110e6",
+      "key": "the university of texas at austin|||software developer analyst",
+      "location": "ut main campus united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7017b62bb1fbd451dce4b",
+      "key": "ibm|||front end software developer",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7006239fd8792cb73d17d",
+      "key": "ibm|||servicenow associate application developer 2027",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab70048d7fde2c08ec8a7ab",
+      "key": "ibm|||servicenow associate application developer 2027",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab70c8339fd8792cb73d2cc",
+      "key": "salk institute for biological studies|||research software engineer i laboratory of dr talmo pereira",
+      "location": "los angeles jolla ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6fad381e327c4bf2021f6",
+      "key": "american residential services|||quality assurance specialist",
+      "location": "altamonte springs fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9a059ead752e2ad5503637",
+      "key": "spacex|||software engineer flight reliability",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7332e81e327c4bf202f22",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "salt lake city ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab736eb39fd8792cb73ddaa",
+      "key": "collins aerospace|||infrastructure engineer i onsite",
+      "location": "salt lake city ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7106762bb1fbd451dcff1",
+      "key": "rtx|||software engineer i gen4 airborne radar",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab70445ba1c25652c6110c2",
+      "key": "booz allen hamilton|||software engineer",
+      "location": "rome ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab7335239fd8792cb73dd5c",
+      "key": "logisnext americas inc|||oem product development analyst 11401",
+      "location": "grand rapids mi united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab701d33a2ec87116e24fb4",
+      "key": "pure insurance|||product development specialist",
+      "location": "charleston sc united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab71f4fd7fde2c08ec8adf0",
+      "key": "molex|||product specialist",
+      "location": "hudson wi united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab700a039fd8792cb73d189",
+      "key": "mcgraw hill|||product operations specialist",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a457397c2d11a6a4666939d",
+      "key": "alarm com|||product manager",
+      "location": "tysons va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a7dcbdbe2030208f2765ec2",
+      "key": "brg|||junior product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a434e70501d340b4a82f2a4",
+      "key": "supermicro|||associate product manager key components",
+      "location": "san jose ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
