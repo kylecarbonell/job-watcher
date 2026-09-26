@@ -31511,6 +31511,30 @@
       "key": "molex|||product specialist",
       "location": "eden prairie mn united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9b15a72cdc5958f53eac9e",
+      "key": "rtx|||software engineering designer",
+      "location": "midland on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab7dd15d7fde2c08ec8bffa",
+      "key": "audible|||software development engineer consumer domains",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa42941f7baf881567cd8b9",
+      "key": "model 1 commercial vehicles|||junior product specialist",
+      "location": "indianapolis in united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab7e90ed7fde2c08ec8c1ee",
+      "key": "ford credit|||product manager",
+      "location": "dearborn mi united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
