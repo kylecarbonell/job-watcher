@@ -31577,6 +31577,42 @@
       "key": "lululemon|||product operations lead easton town center",
       "location": "columbus oh united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab92cf7d7fde2c08ec8de23",
+      "key": "smateso gmbh|||atlassian app entwickler",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9975ecad752e2ad54ffa66",
+      "key": "impact com|||full stack software engineer",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5eda2d85922de20ce3c40",
+      "key": "serco|||power platforms junior engineer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7f90d3927c79391ad0a989",
+      "key": "applied intuition|||software integration engineer new grad december 2026",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab8f29dba1c25652c614161",
+      "key": "witron group|||junior it developer mfc",
+      "location": "arlington heights il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91b845a27a2d3c9848972a",
+      "key": "blake cassels graydon llp|||legal technologist",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
