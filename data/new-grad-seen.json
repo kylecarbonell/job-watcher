@@ -31553,6 +31553,18 @@
       "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:017da877dc87d11a362281aa0af905e9dd42a332",
+      "key": "johns hopkins applied physics laboratory|||software engineer new grad multiple teams",
+      "location": "laurel md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab87aacba1c25652c61339a",
+      "key": "microsoft|||software engineer intune",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
