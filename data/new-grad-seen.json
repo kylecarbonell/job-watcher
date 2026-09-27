@@ -31565,6 +31565,18 @@
       "key": "microsoft|||software engineer intune",
       "location": "cambridge ma united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bad73986c0850a03ef5bcce8cda374f4e862caad",
+      "key": "f5|||software development engineer 1 ai",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a810414b56bea5779c1550d",
+      "key": "lululemon|||product operations lead easton town center",
+      "location": "columbus oh united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
