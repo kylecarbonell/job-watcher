@@ -31667,6 +31667,30 @@
       "key": "hyundai america technical center inc hatci|||infotainment engineer i north america quality center naqc job details hyundai motor company",
       "location": "irvine ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab9d3c63a2ec87116e28da6",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a6732edd0fb4c3df393c1b7",
+      "key": "tiktok|||tiktok r d engineer open platform",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab9cba239fd8792cb740f5d",
+      "key": "karman|||embedded firmware engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab9b50362bb1fbd451e0b47",
+      "key": "lululemon|||3 month contract product operations lead renaissance at colony park",
+      "location": "ridgeland ms united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
