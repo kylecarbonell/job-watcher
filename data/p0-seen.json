@@ -3419,6 +3419,12 @@
       "key": "microsoft|||software engineer intune",
       "location": "cambridge ma united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abab916d2914e9273eecec3",
+      "key": "spacex|||embedded software engineer rf payloads starshield",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
