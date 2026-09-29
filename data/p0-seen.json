@@ -3425,6 +3425,24 @@
       "key": "spacex|||embedded software engineer rf payloads starshield",
       "location": "hawthorne ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb01f7d2914e9273eee50b",
+      "key": "amazon|||compiler engineer neuron automated reasoning group",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb0b02be5f1e9325118811",
+      "key": "cisco|||software developer embedded systems ii co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb1e01d2914e9273eef9f3",
+      "key": "microsoft|||software engineer intune",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
