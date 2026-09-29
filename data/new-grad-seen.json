@@ -32573,6 +32573,246 @@
       "key": "boeing|||associate software engineer",
       "location": "hazelwood mo united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b1e25a04-c0cf-4584-9b3c-cb00a33139c3",
+      "key": "tripadvisor|||software engineer 1",
+      "location": "oxford uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:af27898477ceec819f88762a13f203f54d20c46e",
+      "key": "general dynamics mission systems|||software engineer entry level",
+      "location": "taunton ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cdd99770347f1118627025cd07c6c1f243038662",
+      "key": "gm financial|||software engineer 1 adobe exp platform",
+      "location": "irving tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbf7007119e56191cea610",
+      "key": "chemanager international|||early career computer scientist remote sensing systems onsite",
+      "location": "albuquerque nm united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbccd0d6acfd3dd29f9f08",
+      "key": "systems planning analysis|||software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7e77310cd4a07032580418",
+      "key": "tata consultancy services|||engineer",
+      "location": "edison nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbf01fb23c6fb2b81a3f49",
+      "key": "biospace|||software engineer marketing systems integrations",
+      "location": "rockville md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbe8033217d1d13329bbc5",
+      "key": "avista|||integrations developer",
+      "location": "spokane wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbed7ca9a644f965688f1e",
+      "key": "american college of obstetricians and gynecologists acog|||full stack developer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbecd07119e56191cea141",
+      "key": "rfa engineering|||software test engineer",
+      "location": "dubuque ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbeacda9a644f965688dcc",
+      "key": "itc defense corp|||software developer net c navsup programs",
+      "location": "east coast united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbeabaa9a644f965688dc0",
+      "key": "ameren|||associate software engineer",
+      "location": "st louis mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbd2643217d1d13329b2af",
+      "key": "sony interactive entertainment|||game test analyst",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbdb977119e56191ce9826",
+      "key": "northrop grumman|||calling all embedded software engineers",
+      "location": "gilbert az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbdb6fd6acfd3dd29fa2d4",
+      "key": "northrop grumman|||2026 associate software engineer or software engineer aurora co",
+      "location": "aurora co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbdaf292b2612ef0f8b0ee",
+      "key": "northrop grumman|||2027 associate software engineer mcclellan ca",
+      "location": "mcclellan ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbf6103217d1d13329c224",
+      "key": "workers compensation board of pei|||programmer analyst",
+      "location": "charlottetown pe canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbd9893217d1d13329b417",
+      "key": "accenture federal services|||software installation engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbd980d6acfd3dd29fa247",
+      "key": "accenture federal services|||software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbce3792b2612ef0f8adf1",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbc9ebd6acfd3dd29f9e2b",
+      "key": "wtw|||early careers affinity placement analyst 2027",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab79031d7fde2c08ec8bb77",
+      "key": "minth north america inc|||sap fico functional analyst",
+      "location": "lewisburg tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbb7aca9a644f965687a96",
+      "key": "boston scientific|||software test engineer co op jan aug job details boston scientific",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbb7a3d6acfd3dd29f9859",
+      "key": "boston scientific|||software development engineer co op jan aug job details boston scientific",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbb72892b2612ef0f8a697",
+      "key": "boston scientific|||software development engineer co op may dec job details boston scientific",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbbff992b2612ef0f8a970",
+      "key": "berkeley industrial engineering operations research|||ge vernova software engineering co op spring summer 2027 open at ge vernova",
+      "location": "indiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbbe563217d1d13329acac",
+      "key": "tiktok|||self built engineer graduate cdn platform 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbe21ea9a644f9656886d4",
+      "key": "optum|||associate software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbee72a9a644f965688fa1",
+      "key": "supermicro|||application engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbeab4b23c6fb2b81a3cc4",
+      "key": "ameren|||associate software engineer",
+      "location": "st louis mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbe719b23c6fb2b81a39f4",
+      "key": "foresters financial|||quality assurance engineer co op student 4 month contract",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbdafb7119e56191ce9802",
+      "key": "lloyds banking group|||software engineer graduate scheme chester",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbf18a92b2612ef0f8bc5e",
+      "key": "l3harris technologies|||associate software engineer",
+      "location": "clifton md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbe68992b2612ef0f8b610",
+      "key": "fresh ready foods|||quality assurance technician full time",
+      "location": "lenexa ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbd222b23c6fb2b81a3289",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbb516b23c6fb2b81a29f2",
+      "key": "raytheon|||software modernization engineer i onsite",
+      "location": "indianapolis in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbbec67119e56191ce905a",
+      "key": "boston scientific|||software engineer i",
+      "location": "maple grove mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abbe7ef92b2612ef0f8b7a9",
+      "key": "lululemon|||product operations lead southpointe pavilions",
+      "location": "lincoln ne united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abbe25892b2612ef0f8b2e3",
+      "key": "midwayusa|||product specialist sporting optics scopes",
+      "location": "columbia mo united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abbe17892b2612ef0f8b2ac",
+      "key": "new era cap|||associate product line key account",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
