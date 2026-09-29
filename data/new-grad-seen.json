@@ -32489,6 +32489,90 @@
       "key": "sunbelt rentals inc|||product line manager",
       "location": "fort mill sc united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9890f9c9662636dc97b79921b441162cc5bf619f",
+      "key": "rtx|||software engineer new grad",
+      "location": "arlington county arlington va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a968cf5e4e60e4b8da595bb",
+      "key": "tiktok|||backend software engineer graduate risk response 2027 start",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abab9937220f52e62ae7e0d",
+      "key": "l3harris technologies|||senior associate image science engineering rochester ny",
+      "location": "rochester ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb80d85716c5ea52d06c94",
+      "key": "elwood|||graduate junior software engineer",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8dbb62cc0cf27068524b7a",
+      "key": "matx|||formal verification engineer",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8bd95de8b6601d1290ccd9",
+      "key": "matx|||rust sw silicon co verification engineer",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3b580f797099171917de74",
+      "key": "baseten|||software engineer dedicated inference",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb95f1a647d611012c3afd",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb912dde8f79e12427586d",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb8cdc7e39348a2648f00f",
+      "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69d6dc6c52a5bf580012c8ab",
+      "key": "general dynamics information technology|||junior software developer active ts sci with poly required",
+      "location": "usa md annapolis junction",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb72bc7220f52e62aec6d1",
+      "key": "netrolynx ai|||software developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb5a4d1acb8fc6f09c59dd",
+      "key": "nstar now eversource energy follow our new company page eversource energy|||it associate software engineer hybrid",
+      "location": "berlin nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abad945ee0b348be729be09",
+      "key": "boeing|||associate software engineer",
+      "location": "hazelwood mo united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
