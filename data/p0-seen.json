@@ -3467,6 +3467,48 @@
       "key": "bytedance|||backend software engineer graduate platform 2027 start",
       "location": "new york ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:54dbb8d6204309b62e4a03eadef657fec5901bc0",
+      "key": "nvidia|||applied machine learning engineer new grad circuit design",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:506bc644747e855836adef36fa037256d07494c4",
+      "key": "nvidia|||research scientist new grad efficient deep learning",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc1b807119e56191ceb5e0",
+      "key": "amazon|||software development engineer fintech customer service tech",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc06d1a9a644f965689cb9",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc0690d6acfd3dd29fb9fe",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbfe64b23c6fb2b81a46b6",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc1f0a3217d1d13329d412",
+      "key": "bloomberg industry group|||web application architect 1 indg",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
