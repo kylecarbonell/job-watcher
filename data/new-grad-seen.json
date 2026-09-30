@@ -33125,6 +33125,96 @@
       "key": "boyd|||junior product manager",
       "location": "billerica massachusetts united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:97d3e16d-4c5c-4908-8dc2-3d180fcd42ac",
+      "key": "rtx|||software engineer 1",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f611f1d0-d34a-4790-828f-5c7a4839aaf8",
+      "key": "motorola|||junior software engineer emergency call handling",
+      "location": "gatineau qc canada ottawa on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e06e072c-3bd1-44a7-984a-537bd1842a78",
+      "key": "keen footwear|||junior analytics engineer",
+      "location": "portland or",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e60e9a94-ba50-4649-b502-e7203a9eb65f",
+      "key": "nvidia|||software engineer new grad dgx cloud ai infrastructure",
+      "location": "5 locationswashington oregon austin tx redmond wa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9c1b63387a3d9b67d69ee",
+      "key": "hometap|||full stack engineering co op spring 2027",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc42c892b2612ef0f8de65",
+      "key": "credence|||junior sap sme",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc21353217d1d13329d4c1",
+      "key": "ericsson|||radio sw co op",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc3e957119e56191cec42c",
+      "key": "pmat inc|||junior software engineer ssds",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc3a9fb23c6fb2b81a5ebf",
+      "key": "panasonic avionics corporation|||mts i software engineer embedded systems linux",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc3189d6acfd3dd29fcb28",
+      "key": "qualcomm|||verification software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc355b7119e56191cec191",
+      "key": "fidelity investments|||april 2027 leap software engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc3d62b23c6fb2b81a5f68",
+      "key": "fidelity investments|||april 2027 leap software engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc3d7a92b2612ef0f8dca2",
+      "key": "fidelity investments|||april 2027 leap software engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbfaf4d6acfd3dd29fb359",
+      "key": "boeing|||software engineer associate experienced or senior bixby",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abc321892b2612ef0f8d9c5",
+      "key": "optum|||associate tech product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
