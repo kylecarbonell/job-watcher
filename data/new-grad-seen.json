@@ -33287,6 +33287,114 @@
       "key": "spencer s|||assistant product manager",
       "location": "egg harbor township nj united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4bfa4cd6-fbd4-4d12-a70b-e839ea0925e8",
+      "key": "aurelian|||product engineer new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:10dfa9c3-f163-4d07-a147-2e457a8c3e6b",
+      "key": "aurelian|||backend engineer new grad to staff level",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5b7e67f0258d995c833476f89cbda734b438b32f",
+      "key": "cisco|||compiler software engineer 1 core platform software and toolchains",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c58a0f8b030fbc295c7dd955c6b72b53490e2f4b",
+      "key": "steerbridge|||junior data engineer",
+      "location": "vienna va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd00f10e027c0f3b392f80",
+      "key": "north carolina department of agriculture and consumer services|||information technology programmer analyst p11",
+      "location": "lansing mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abceb998ff3fb9b3bc6ddd3",
+      "key": "berkeley industrial engineering operations research|||ge vernova software engineering co op summer fall open at ge vernova",
+      "location": "indiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abce7668ff3fb9b3bc6dd32",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abce1150e027c0f3b392c94",
+      "key": "storm id|||net developer",
+      "location": "edinburgh scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abcc3758ff3fb9b3bc6d8d0",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abce5934ac55253f5d5a9c3",
+      "key": "raydar|||backend software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abce58b372c01f6cd71da2a",
+      "key": "raydar|||product engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abce58f064da25272dfaca5",
+      "key": "raydar|||founding software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abca235639bf40e93d36c0e",
+      "key": "northrop grumman|||2027 associate embedded software engineer",
+      "location": "rolling meadows il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abcdb60064da25272dfab08",
+      "key": "credence|||junior sap sme",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abce8018ff3fb9b3bc6dd57",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aae5ba43dbb1f8967cf0921",
+      "key": "dollar tree stores|||associate merchant easter harvest",
+      "location": "chesapeake va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abcd5d4372c01f6cd71d751",
+      "key": "lululemon|||product operations lead arlington highlands night shift until 1am",
+      "location": "arlington tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abcc3c34ac55253f5d5a5ad",
+      "key": "ems management consultants inc|||associate product manager",
+      "location": "clemmons nc united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
