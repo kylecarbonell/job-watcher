@@ -33215,6 +33215,78 @@
       "key": "optum|||associate tech product manager",
       "location": "united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9f2ae997373157999f42f449127b63e40daeb072",
+      "key": "sun life|||junior analytics and automation developer student winter 2027",
+      "location": "north york on canada waterloo on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69a5e49f359fe034b1d09cee",
+      "key": "simbe|||robot software qa test engineer",
+      "location": "san francisco bay area",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc8700fbb3359bcc7d21a3",
+      "key": "cgi|||stage cooperatif hiver 2027 developpeur junior 8 mois",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc5bc4bf15c0ae501386af",
+      "key": "rtx|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9eb13eff87f571fc9c828",
+      "key": "tenet3|||junior frontend software engineer hybrid",
+      "location": "dayton oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc5b8b187b1378d873db8e",
+      "key": "mastercard|||software engineer launch program 2027 united states",
+      "location": "o fallon mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a97294ee4e60e4b8da5c694",
+      "key": "general dynamics|||software engineer entry level",
+      "location": "pittsfield ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc65cdbf15c0ae50138acb",
+      "key": "clera|||founding product engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc67a673339662c7723f2a",
+      "key": "leidos|||software tester",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abc9579639bf40e93d36a56",
+      "key": "lenovo|||mobile software product manager global future leaders 2027",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa04143a2266b538d22f376",
+      "key": "steve madden|||wholesale product coordinator",
+      "location": "long island city ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abc6c4d73339662c772405e",
+      "key": "spencer s|||assistant product manager",
+      "location": "egg harbor township nj united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
