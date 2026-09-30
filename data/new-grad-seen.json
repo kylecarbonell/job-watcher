@@ -33587,6 +33587,306 @@
       "key": "rothco|||product development manager",
       "location": "ronkonkoma ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8e1c4d71-6011-41b4-8948-e9bef181663f",
+      "key": "rtx|||software developer engineer 1",
+      "location": "huntsville al",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:18782699-1727-4769-95ec-f5e37ca325e2",
+      "key": "rtx|||software engineer 1",
+      "location": "indianapolis in",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6162982e-4ddb-4316-b2dc-5ab2cb383340",
+      "key": "rtx|||software engineer 1",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ab4c9ca3-73cb-48b3-a095-093c436e265e",
+      "key": "kla|||software engineer 1",
+      "location": "ann arbor mi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1411901580a57b6ca21091d7d4142eaacf6c0af7",
+      "key": "autostore|||entry level software engineer",
+      "location": "atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ba67045a-ca8a-4f4a-b1a7-ab42def6be77",
+      "key": "frontier technology|||early career associate data scientist",
+      "location": "norfolk va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2769aa70-1382-4688-a523-01231176c4df",
+      "key": "mastercard|||data engineer 1",
+      "location": "arlington county arlington va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd80430e027c0f3b396214",
+      "key": "stripe|||high school fellowship software engineering",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd78aa0e027c0f3b395da2",
+      "key": "nomura|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd5ffb372c01f6cd7201ee",
+      "key": "rtx|||software engineer developer i onsite",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd6001064da25272dfd3a9",
+      "key": "rtx|||software engineer developer i onsite",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd757b064da25272dfdb88",
+      "key": "rtx|||software engineer developer i onsite",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd6004064da25272dfd3b0",
+      "key": "rtx|||software engineer developer i onsite",
+      "location": "portsmouth ri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd75730e027c0f3b395c62",
+      "key": "rtx|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd7b7fd9621c5b2838c86e",
+      "key": "bio agri mix lp|||quality assurance specialist",
+      "location": "mitchell on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd7b2b372c01f6cd720c79",
+      "key": "applause|||short term qa tester italian bilingual",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd7b054ac55253f5d5db62",
+      "key": "applause|||short term qa tester spanish bilingual",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd7ae84ac55253f5d5db50",
+      "key": "applause|||short term qa tester french bilingual",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd5adcd9621c5b2838bc4d",
+      "key": "urm stores inc|||programmer analyst i store systems",
+      "location": "spokane wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd789b4ac55253f5d5d991",
+      "key": "crunchtime ops execution formerly zenput|||associate solutions engineer",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd788b372c01f6cd720a97",
+      "key": "oracle|||february 2027 undergrad software engineer oracle cloud infrastructure oci nashville tn",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd71ea4ac55253f5d5d6da",
+      "key": "jamf|||software engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd71cf8ff3fb9b3bc70a3e",
+      "key": "stripe|||high school fellowship software engineering",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd62638ff3fb9b3bc7057b",
+      "key": "pro integrate|||game designer gameplay developer remote",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd615f064da25272dfd456",
+      "key": "southern company|||application developer i integrations",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd6108064da25272dfd42a",
+      "key": "rocky brands inc|||front end developer",
+      "location": "nelsonville oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd601ad9621c5b2838bdcf",
+      "key": "women in tech|||software engineer graduate scheme lloyds banking group talent chester",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd552cd9621c5b2838b9f2",
+      "key": "imc trading|||software engineer early career",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd5ab3372c01f6cd7200ad",
+      "key": "denovo solutions llc|||junior developer ts sci with polygraph required",
+      "location": "aurora co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd5a7a372c01f6cd720096",
+      "key": "massachusetts medical society|||quality assurance tester and analyst co op nu students only",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd5857372c01f6cd71ffdf",
+      "key": "california correctional health care services|||it associate telework hybrid",
+      "location": "sacramento county united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd57f8d9621c5b2838bb0e",
+      "key": "bytedance|||3d graphics innovation engineer graduate pico foundation developer technology 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd57f4d9621c5b2838bb09",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd57e98ff3fb9b3bc701e3",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd57b84ac55253f5d5ce41",
+      "key": "qualcomm|||verification software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd50438ff3fb9b3bc6ff17",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a83ae892dbaf907b076a246",
+      "key": "deutsche bank|||deutsche bank graduate programme technology data and innovation tdi cary 2027",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab83f44ba1c25652c612ed1",
+      "key": "amazon web services aws|||dft design engineer i aws machine learning acceleration",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd629e4ac55253f5d5d21c",
+      "key": "bluu inc|||qa coordinator korean bilingual",
+      "location": "hackensack nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc21ffb23c6fb2b81a5559",
+      "key": "tiktok|||self built engineer graduate cdn platform 2027 start",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd4849372c01f6cd71f98b",
+      "key": "wells fargo|||engineering associate cib operations technology",
+      "location": "charlotte nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd48418ff3fb9b3bc6fb9b",
+      "key": "wells fargo|||engineering associate cib operations technology",
+      "location": "iselin nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd723dd9621c5b2838c3d8",
+      "key": "raydar|||founding software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd504a4ac55253f5d5cb93",
+      "key": "general motors|||software engineer av data collection early career",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd5471d9621c5b2838b9ca",
+      "key": "fidelity bank|||january 2027 leap software engineer",
+      "location": "westlake tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a50e1f4a0690e7973481975",
+      "key": "leaf home|||product demonstrator",
+      "location": "mechanicsburg pa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abd6d0e8ff3fb9b3bc7089f",
+      "key": "warren james|||assistant product developer temp",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abd5c88d9621c5b2838bcac",
+      "key": "capital group|||campus capital group rotational program client product track associate us los angeles",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abd4aead9621c5b2838b610",
+      "key": "avi spl|||product owner",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abd7409064da25272dfdac2",
+      "key": "aegon asset management|||product strategist transamerica am",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
