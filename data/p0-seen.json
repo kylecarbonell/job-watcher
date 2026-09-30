@@ -3551,6 +3551,54 @@
       "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd80430e027c0f3b396214",
+      "key": "stripe|||high school fellowship software engineering",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd788b372c01f6cd720a97",
+      "key": "oracle|||february 2027 undergrad software engineer oracle cloud infrastructure oci nashville tn",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd71cf8ff3fb9b3bc70a3e",
+      "key": "stripe|||high school fellowship software engineering",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd57f8d9621c5b2838bb0e",
+      "key": "bytedance|||3d graphics innovation engineer graduate pico foundation developer technology 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd57f4d9621c5b2838bb09",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd57e98ff3fb9b3bc701e3",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd57b84ac55253f5d5ce41",
+      "key": "qualcomm|||verification software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab83f44ba1c25652c612ed1",
+      "key": "amazon web services aws|||dft design engineer i aws machine learning acceleration",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
