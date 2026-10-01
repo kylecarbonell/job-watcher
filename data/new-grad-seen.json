@@ -33887,6 +33887,72 @@
       "key": "aegon asset management|||product strategist transamerica am",
       "location": "denver co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:986968af-4a3a-4038-96dc-9caaa8a58066",
+      "key": "texas sports academy|||junior ai software engineer",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:736601ef-d2f7-440f-81d2-25467641ae04",
+      "key": "general dynamics|||software engineer 1 2",
+      "location": "middletown ri",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd8c014ac55253f5d5e157",
+      "key": "rhondos|||dynatrace platform engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd33284ac55253f5d5ba8a",
+      "key": "canadian medical protective association|||web student",
+      "location": "ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd8acb8ff3fb9b3bc71454",
+      "key": "hii|||software engineer",
+      "location": "pocasset ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd8a34d9621c5b2838cd4e",
+      "key": "otis elevator co|||software engineer early career digital technology rising leaders program",
+      "location": "farmington ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd91ff4ac55253f5d5e492",
+      "key": "danaher|||engineer desktop software",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd91fc8ff3fb9b3bc717c1",
+      "key": "cisco|||software engineer fullstack backend ii full time united states",
+      "location": "boulder co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aaaaaf98e1bf0f764af5929",
+      "key": "lululemon|||product operations lead hamilton place pop up",
+      "location": "chattanooga tn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abd8688372c01f6cd72106b",
+      "key": "loblaw companies limited|||associate product manager",
+      "location": "brampton on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a6968612a5c103624db4903",
+      "key": "vantagescore|||api product manager",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
