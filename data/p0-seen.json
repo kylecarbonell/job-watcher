@@ -3641,6 +3641,72 @@
       "key": "intel|||software engineer datacenter",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abea8a2d9621c5b283908ab",
+      "key": "lyft|||software engineer planned pricing",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abe96900e027c0f3b399b32",
+      "key": "pinterest|||university grad software engineer 2027 usa",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abea1a4064da25272e01d34",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abe85e3d9621c5b2838fdd6",
+      "key": "amazon|||solutions architect 2026 can",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abe84f8064da25272e01440",
+      "key": "amazon|||software development engineer",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abe96994ac55253f5d617a4",
+      "key": "pinterest|||university grad software engineer toronto",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abe8c3e0e027c0f3b399779",
+      "key": "linkedin|||javascript software engineer web infrastructure",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:695c42e822c9dc0d3d54206a",
+      "key": "amazon|||sde mla hardware software co design annapurna labs machine learning acceleration",
+      "location": "cupertino california usa",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abe09cb8ff3fb9b3bc72ace",
+      "key": "microsoft|||software engineer intership opportunities azure databases",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a62752f846162391c935ecc",
+      "key": "amazon|||adc engineer i amazon dedicated cloud relational engineering",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a613fb3ab14335fc0f171c5",
+      "key": "amazon|||efa network software engineer i annapurna labs",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
