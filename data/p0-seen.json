@@ -3629,6 +3629,18 @@
       "key": "stripe|||software engineer new grad",
       "location": "dublin county dublin ireland",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abe34428ff3fb9b3bc72fb9",
+      "key": "google|||product solutions engineer consumer payments partner engineering",
+      "location": "boulder co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abe61140e027c0f3b398685",
+      "key": "intel|||software engineer datacenter",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
