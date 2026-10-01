@@ -3605,6 +3605,30 @@
       "key": "cisco|||software engineer fullstack backend ii full time united states",
       "location": "boulder co united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abdfce2064da25272dff99c",
+      "key": "the d e shaw group|||software developer futures",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abdc8bdd9621c5b2838db4e",
+      "key": "stripe|||software engineer new grad",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abdc1d88ff3fb9b3bc72043",
+      "key": "stripe|||software engineer new grad",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abdc0d54ac55253f5d5ec83",
+      "key": "stripe|||software engineer new grad",
+      "location": "dublin county dublin ireland",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
