@@ -34877,6 +34877,54 @@
       "key": "loblaw companies limited|||associate product manager",
       "location": "brampton on canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:169846aa-cf8c-463a-9721-b9826b79a129",
+      "key": "amazon|||software development engineer early career amazon dedicated cloud adc",
+      "location": "5 locationsseattle wa jessup md arlington county arlington va denver co herndon va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:53d48e661581c7a3f95ab87a8faa003d29d0f1ab",
+      "key": "abbott|||software engineer 1 multiple teams",
+      "location": "los angeles jolla san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3467d907a2b11f4b6ca69cd7d3e4e3fdf10c3344",
+      "key": "canadian tire|||data science associate new grad finance rotational program",
+      "location": "calgary ab canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abf71670e027c0f3b39d2a2",
+      "key": "national security agency|||software engineer entry level md tx co",
+      "location": "fort meade md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abf432bd9621c5b283934c2",
+      "key": "bae systems|||software engineer i",
+      "location": "hudson nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abada911acb8fc6f09c1f29",
+      "key": "tiktok|||self built engineer graduate cdn platform 2027 start",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abf5371d9621c5b2839357b",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "annapolis md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9719fc455eaf6a08c1aab6",
+      "key": "g iii apparel group|||product development assistant",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
