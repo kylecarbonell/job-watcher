@@ -3803,6 +3803,48 @@
       "key": "pinterest|||university grad machine learning engineer",
       "location": "toronto on canada",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac01462d9621c5b283962ac",
+      "key": "apple|||software engineer linux driver and kernel developer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abffb1ad9621c5b28395a24",
+      "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abffb0dd9621c5b28395a1a",
+      "key": "bytedance|||3d graphics innovation engineer graduate pico foundation developer technology 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abffb0ad9621c5b28395a15",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abffaf18ff3fb9b3bc79fad",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abffaef0e027c0f3b39f1d2",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac005664ac55253f5d671a8",
+      "key": "snowflake|||associate solution engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
