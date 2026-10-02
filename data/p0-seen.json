@@ -3797,6 +3797,12 @@
       "key": "amazon|||software development engineer early career amazon dedicated cloud adc",
       "location": "5 locationsseattle wa jessup md arlington county arlington va denver co herndon va",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dc62f602a79f635c51c5f1ee4837a5ba86e4483f",
+      "key": "pinterest|||university grad machine learning engineer",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
