@@ -34925,6 +34925,90 @@
       "key": "g iii apparel group|||product development assistant",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2fb142a3-94d3-4f29-91b2-d95a17392dfa",
+      "key": "ncr voyix|||junior devops engineer",
+      "location": "bath uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:819788dd-4ad4-477b-9a53-cea660803173",
+      "key": "expedia group|||software development engineer 1",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abfbf87064da25272e05a7d",
+      "key": "kayak|||software engineer ads backend",
+      "location": "concord ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abfbe5bd9621c5b28394361",
+      "key": "merseyside police|||integration developer apis enterprise systems",
+      "location": "liverpool merseyside united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abfb6ef4ac55253f5d65649",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abfadc78ff3fb9b3bc786ce",
+      "key": "wabtec corporation|||firmware engineering co op january june 2027",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abea41b0e027c0f3b399eb8",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "riviera beach fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abfb770d9621c5b283941d5",
+      "key": "otis elevator co|||software engineer early career digital technology rising leaders program",
+      "location": "farmington ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abfa014064da25272e05590",
+      "key": "raidiam|||junior engineer",
+      "location": "queensland australia",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abfbba60e027c0f3b39daba",
+      "key": "plymouth rock assurance|||product analyst",
+      "location": "woodbridge new jersey united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abfba7e0e027c0f3b39da70",
+      "key": "northern trust|||associate product manager global family office",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abfb800372c01f6cd72866b",
+      "key": "base career|||associate product manager pc no name",
+      "location": "brampton on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abfba7e0e027c0f3b39da6f",
+      "key": "northern trust|||associate product manager global family office",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abfc987d9621c5b2839468d",
+      "key": "cigna healthcare|||entry level product management analyst evicore remote",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
