@@ -3707,6 +3707,90 @@
       "key": "amazon|||efa network software engineer i annapurna labs",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c1aff4b4-bedf-4c66-b282-a592990ba632",
+      "key": "pinterest|||university grad software engineer",
+      "location": "san francisco remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ebb9d3fe-42a0-4635-8ed7-e7da82f8f3d7",
+      "key": "pinterest|||university grad software engineer",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a39e1ab4-97ce-4efb-8c4d-ef0c9cdda486",
+      "key": "pinterest|||data scientist new grad",
+      "location": "4 locationspalo alto ca seattle wa san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1a3b34bc-9ccc-4b1b-bd70-8a58ee981a22",
+      "key": "pinterest|||university grad machine learning engineer",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ec6cf12a-dd02-4416-9eb0-6b01646dca5d",
+      "key": "pinterest|||master s university graduate data scientist",
+      "location": "4 locationspalo alto ca seattle wa san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abec5bc8ff3fb9b3bc75b67",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abec5bcd9621c5b28391524",
+      "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abec5bcd9621c5b28391525",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abec5bbd9621c5b28391522",
+      "key": "bytedance|||3d graphics innovation engineer graduate pico foundation developer technology 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abec5b5d9621c5b2839151c",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abec59f372c01f6cd725921",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abec59d4ac55253f5d629bd",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abee38d0e027c0f3b39bbc3",
+      "key": "cisco|||software developer full stack backend i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd787e4ac55253f5d5d97f",
+      "key": "oracle|||february 2027 undergrad software engineer oracle cloud infrastructure oci nashville tn",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
