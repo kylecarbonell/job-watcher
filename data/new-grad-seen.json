@@ -34775,6 +34775,108 @@
       "key": "homes com|||associate product manager sunnyvale ca",
       "location": "sunnyvale ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2053c593-1305-4042-a320-4a22dd690ec4",
+      "key": "rtx|||software engineer 1",
+      "location": "richardson tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e73c9bda-894d-4193-9a98-e29f9b2a4f57",
+      "key": "cincinnati children s hospital and medical center|||software engineer 1 web services",
+      "location": "cincinnati oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abef30fd9621c5b28392622",
+      "key": "rtx|||software test engineer i",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abeff424ac55253f5d63d2d",
+      "key": "rtx|||software test engineer i",
+      "location": "andover ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abeed984ac55253f5d63a16",
+      "key": "medtronic|||test engineer i on site",
+      "location": "jacksonville fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abf025f4ac55253f5d63ddd",
+      "key": "leidos|||embedded flight software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abf0259372c01f6cd726d74",
+      "key": "leidos|||junior software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a548e1be726ec56126aaa69",
+      "key": "new york mets|||software engineering associate baseball systems",
+      "location": "citi field queens new york united states of america",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a99f26f90a313642c653b41",
+      "key": "self financial inc|||associate software engineer ui",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abee88bd9621c5b283924b1",
+      "key": "ge vernova|||software engineer",
+      "location": "roanoke va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abee38d0e027c0f3b39bbc3",
+      "key": "cisco|||software developer full stack backend i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abee0e6372c01f6cd726581",
+      "key": "boolient|||software engineer",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abee0564ac55253f5d63580",
+      "key": "medtronic|||test engineer i on site",
+      "location": "jacksonville fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abee648d9621c5b2839245d",
+      "key": "cincinnati children s|||software engineer i web services",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abeefb88ff3fb9b3bc76c31",
+      "key": "northrop grumman|||2027 associate software engineer mcclellan ca",
+      "location": "mcclellan ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a91bf6bd18f756748279f7c",
+      "key": "the travel corporation|||product coordinator uniworld",
+      "location": "calabasas ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6abedf0f4ac55253f5d6349d",
+      "key": "loblaw companies limited|||associate product manager",
+      "location": "brampton on canada",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
