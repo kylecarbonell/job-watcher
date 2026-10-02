@@ -3791,6 +3791,12 @@
       "key": "oracle|||february 2027 undergrad software engineer oracle cloud infrastructure oci nashville tn",
       "location": "nashville tn united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:169846aa-cf8c-463a-9721-b9826b79a129",
+      "key": "amazon|||software development engineer early career amazon dedicated cloud adc",
+      "location": "5 locationsseattle wa jessup md arlington county arlington va denver co herndon va",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
