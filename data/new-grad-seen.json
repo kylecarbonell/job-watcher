@@ -35723,6 +35723,90 @@
       "key": "s p global|||loan platforms product manager",
       "location": "dallas tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:92aad08f76976e1e0bdfef138715944e4b439aba",
+      "key": "texas sports academy|||junior software engineer ai forward",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac14c914ac55253f5d6a3ce",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac14c8cd9621c5b28398f04",
+      "key": "bytedance|||3d graphics innovation engineer graduate pico foundation developer technology 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac14c81d9621c5b28398efd",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac14c6c372c01f6cd72d3a8",
+      "key": "bytedance|||software engineer graduate traffic infrastructure 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac14c64d9621c5b28398eea",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac1483f064da25272e0a660",
+      "key": "the d e shaw group|||software developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac14255372c01f6cd72d26b",
+      "key": "l3harris technologies|||associate software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac1336a0e027c0f3b3a25e4",
+      "key": "gigfinder ai|||test database developer",
+      "location": "indiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac0367b0e027c0f3b3a084e",
+      "key": "boeing|||systems software engineer associate or experienced",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac14d9d8ff3fb9b3bc7d599",
+      "key": "raytheon|||software test engineer i",
+      "location": "andover ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac14d560e027c0f3b3a282b",
+      "key": "raytheon|||software engineer developer i onsite",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac139ff372c01f6cd72d1df",
+      "key": "capital one|||senior associate product manager global payment network",
+      "location": "mclean va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac124640e027c0f3b3a24bf",
+      "key": "s p global|||loan platforms product manager",
+      "location": "dallas tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
