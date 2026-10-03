@@ -35615,6 +35615,90 @@
       "key": "united launch alliance ula|||embedded flight software engineer 1 job details united launch alliance",
       "location": "centennial co united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2701a7fb-2fe3-45b1-b197-f7f80f435f82",
+      "key": "intact|||tech development program new grad software development cloud stream",
+      "location": "montreal qc canada toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa58c1682e82a31997bdf76",
+      "key": "acuity|||specialist software engineering build program",
+      "location": "conyers ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac0f65b0e027c0f3b3a1fb2",
+      "key": "cgi|||stage cooperatif hiver 2027 assurance qualite 4 mois",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac0f659064da25272e09ec4",
+      "key": "cgi|||stage cooperatif hiver 2027 analyste fonctionnel erp 4 mois",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac0f6554ac55253f5d69bc3",
+      "key": "cgi|||stage cooperatif hiver 2027 developpeur as400 ibm i 4 mois",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6fd89ba1c25652c610fbf",
+      "key": "trane technologies|||associate embedded sw engineer",
+      "location": "los angeles crosse wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa59269930bff471a29f2d4",
+      "key": "tsmc|||software engineer new graduate north america software center",
+      "location": "vancouver wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac0c71e0e027c0f3b3a1b25",
+      "key": "booz allen hamilton|||test engineer",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa5feed930bff471a2a129d",
+      "key": "scientific research corporation|||quality assurance analyst i",
+      "location": "st inigoes md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac0cb654ac55253f5d697c2",
+      "key": "revvity|||software integration co op spring 2027",
+      "location": "akron ohio united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac0ce100e027c0f3b3a1be7",
+      "key": "mm solutions|||software technician",
+      "location": "loveland co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abdc30d372c01f6cd721e14",
+      "key": "the swift group llc|||software engineer",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac1036f4ac55253f5d69e2a",
+      "key": "loblaw companies limited|||associate product manager",
+      "location": "brampton on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa5136542411952ff9a6eab",
+      "key": "lululemon|||product operations lead empire mall sioux falls sd",
+      "location": "sioux falls sd united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
