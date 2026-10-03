@@ -3845,6 +3845,24 @@
       "key": "snowflake|||associate solution engineer",
       "location": "united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cad953e778751d6c7a0fd356adbf810650c72095",
+      "key": "pinterest|||data scientist new grad",
+      "location": "4 locationspalo alto ca seattle wa san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac02b50d9621c5b28396bb3",
+      "key": "microsoft|||software engineer intune",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac036868ff3fb9b3bc7b637",
+      "key": "salesforce|||associate product manager starting summer 2027",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
