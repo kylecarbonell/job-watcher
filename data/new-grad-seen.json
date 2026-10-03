@@ -35429,6 +35429,156 @@
       "key": "blackrock|||technical product manager aladdin next analyst",
       "location": "new york new york united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1b4b4857-a0e7-40ae-911b-03e1528c4c9f",
+      "key": "parasail|||software engineer new grad forward deploy",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:79ca4cd41cabc1848f75a22798698d54d6a2afe6",
+      "key": "lexisnexis legal professional|||software engineer 1 aspire graduate program",
+      "location": "raleigh nc",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:803e4c20cb8ff51a5f23584e7dd4358bb99fb32b",
+      "key": "ctg|||software engineer 1",
+      "location": "painted post ny",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac066608ff3fb9b3bc7c076",
+      "key": "4excelsior inc|||quality assurance associate",
+      "location": "anaheim ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac05ef1064da25272e09147",
+      "key": "trailer ops|||frontend developer client relations",
+      "location": "st george ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac05ae14ac55253f5d68af7",
+      "key": "leidos|||embedded flight software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac05ada372c01f6cd72bb77",
+      "key": "leidos|||junior software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac045b6372c01f6cd72b6f0",
+      "key": "servicenow|||software engineer core infrastructure moveworks new grad",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac02bdf4ac55253f5d68006",
+      "key": "zones llc|||quality assurance techician",
+      "location": "carol stream il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac048ab064da25272e08a0d",
+      "key": "fujitsu|||software dev eng i 1finity",
+      "location": "richardson tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac045bb064da25272e08968",
+      "key": "caci international inc|||early career nasa space reactor 1 freedom flight software development engineer",
+      "location": "houston tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac03d8c372c01f6cd72b604",
+      "key": "tp|||specialist abm platform operations demandbase marketo",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadc5560ebc8fb2313eb747",
+      "key": "study com|||associate software engineer new grad",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac03525372c01f6cd72b4f0",
+      "key": "smoking gun interactive inc|||qa tester",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac034708ff3fb9b3bc7b579",
+      "key": "broadridge|||junior full stack software engineer hybrid",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac03fad8ff3fb9b3bc7b742",
+      "key": "masimo|||software quality engineer i",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac04f8d064da25272e08afe",
+      "key": "kenworth truck co|||vehicle software and diagnostics tool test engineer",
+      "location": "mount vernon wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac03a1d0e027c0f3b3a08d7",
+      "key": "silicon labs|||software engineer i",
+      "location": "austin texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac046450e027c0f3b3a0a58",
+      "key": "boeing|||systems software engineer associate or experienced",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac036868ff3fb9b3bc7b637",
+      "key": "salesforce|||associate product manager starting summer 2027",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac03d75372c01f6cd72b5ef",
+      "key": "bed bath beyond canada|||coordinator product operations",
+      "location": "north york on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac057f3064da25272e08ca6",
+      "key": "silk snow|||coordinator product operations",
+      "location": "toronto on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac039f18ff3fb9b3bc7b696",
+      "key": "firstclose|||associate product manager oms gateway",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac04940d9621c5b2839731e",
+      "key": "salesforce|||associate product manager starting summer 2027",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a88912c4afae74a0834c606",
+      "key": "buywander|||product grading associate",
+      "location": "west sacramento ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
