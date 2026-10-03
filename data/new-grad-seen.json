@@ -35699,6 +35699,30 @@
       "key": "lululemon|||product operations lead empire mall sioux falls sd",
       "location": "sioux falls sd united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac0cb4c4ac55253f5d697c0",
+      "key": "revvity|||software integration co op spring 2027",
+      "location": "akron ohio united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a56311f21f64463ad352f0b",
+      "key": "specialty equipment market association sema|||solutions analyst i",
+      "location": "diamond bar ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac1138f8ff3fb9b3bc7d0ef",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac127df4ac55253f5d6a0c2",
+      "key": "s p global|||loan platforms product manager",
+      "location": "dallas tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
