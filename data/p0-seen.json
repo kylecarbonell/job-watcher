@@ -3863,6 +3863,18 @@
       "key": "salesforce|||associate product manager starting summer 2027",
       "location": "san francisco ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac045b6372c01f6cd72b6f0",
+      "key": "servicenow|||software engineer core infrastructure moveworks new grad",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac04940d9621c5b2839731e",
+      "key": "salesforce|||associate product manager starting summer 2027",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
