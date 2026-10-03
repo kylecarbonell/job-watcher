@@ -35579,6 +35579,42 @@
       "key": "buywander|||product grading associate",
       "location": "west sacramento ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4a59e495-170c-4f60-a7fe-8a6708d5ce94",
+      "key": "td bank|||software engineer 1",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:27ff4a73c194c98e1744527a18a28d5993282caf",
+      "key": "canadian tire|||data science associate new grad finance rotational program",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a639ce187cef057612c9ad1",
+      "key": "elation health|||case resolution engineer",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac09c7a372c01f6cd72c5b1",
+      "key": "general dynamics|||entry level software engineer",
+      "location": "scottsdale az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac0999e064da25272e09835",
+      "key": "digitalman|||ppc specialista junior mid polovicny uvazok freelancer",
+      "location": "memphis metropolitan area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac08e25372c01f6cd72c49c",
+      "key": "united launch alliance ula|||embedded flight software engineer 1 job details united launch alliance",
+      "location": "centennial co united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
