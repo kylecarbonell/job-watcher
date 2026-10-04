@@ -35807,6 +35807,60 @@
       "key": "s p global|||loan platforms product manager",
       "location": "dallas tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:aa9c2e24-8baf-48cc-92ec-a9624e201b7e",
+      "key": "teletracking|||software engineer 1 logistics engineering",
+      "location": "pittsburgh pa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cf11e0ff-3bd0-4b96-81b0-54ce5ab3b266",
+      "key": "freedom technology solutions group|||junior software engineer",
+      "location": "annapolis junction md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:af640b5e69c54d965be58c9ac36feef1b15a9a6d",
+      "key": "parallel systems|||full stack software engineer 1 interfaces",
+      "location": "los angeles",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0965b0ecc0678e374b856f5571b039c8dc8d5401",
+      "key": "atoms|||software engineer new grad",
+      "location": "5 locationsseattle wa san francisco los angeles new york mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f573d6f9b628ab41475ff72fc4cd8d6d8f0452e1",
+      "key": "texas sports academy|||junior ai software engineer",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac07eb7d9621c5b28397e06",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa612e0a77a53f5a1573c84",
+      "key": "scientific research corporation|||quality assurance analyst i",
+      "location": "st inigoes md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac168114ac55253f5d6a5d0",
+      "key": "safeway|||front end entry level",
+      "location": "colville wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac160b5064da25272e0a881",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
