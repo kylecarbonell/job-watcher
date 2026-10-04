@@ -35897,6 +35897,42 @@
       "key": "base career|||associate product manager",
       "location": "brampton on canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:073e7d98-b339-4d7a-8580-cd80afc5eb39",
+      "key": "peterson technologies|||junior software engineer",
+      "location": "annapolis junction md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7ad6a534-75c5-473e-8d00-eaff8e564860",
+      "key": "garmin|||software engineer 1 aviation database",
+      "location": "olathe ks",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:58b31cf1-a146-494d-b944-3f9f3698ea79",
+      "key": "peraton|||junior software engineer",
+      "location": "annapolis junction md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b4c2db2d-3859-453b-823e-8dc517020ce3",
+      "key": "peraton|||cloud software engineer 1",
+      "location": "odenton md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a987e4adef18223c854fb87",
+      "key": "tensor auto|||web front end engineer graphics",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a56d38e10c4d945d864c238",
+      "key": "latent|||principal technical sourcer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
