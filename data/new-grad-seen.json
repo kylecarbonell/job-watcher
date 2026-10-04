@@ -35861,6 +35861,42 @@
       "key": "microsoft|||software engineer forward deployed engineer",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5ae265bc-0a46-4ba1-8a04-b138bd21b1b7",
+      "key": "nvidia|||research scientist new grad electronic design automation",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac1d9b40e027c0f3b3a3325",
+      "key": "kenworth truck co|||vehicle software and diagnostics tool test engineer job details paccar",
+      "location": "mount vernon wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac1a5554ac55253f5d6a8a5",
+      "key": "leidos|||embedded flight software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac1a549372c01f6cd72d857",
+      "key": "leidos|||junior software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab8fd5662bb1fbd451e0041",
+      "key": "worldquant|||quantitative developer",
+      "location": "old greenwich ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac1b56fd9621c5b283997b2",
+      "key": "base career|||associate product manager",
+      "location": "brampton on canada",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
