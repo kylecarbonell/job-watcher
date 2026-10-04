@@ -3929,6 +3929,18 @@
       "key": "microsoft|||software engineer ctj poly",
       "location": "reston va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a81214dd-ab59-4311-8449-55d8c0ffff28",
+      "key": "qualcomm|||entry level senior software engineer core ai software machine learning engineering",
+      "location": "san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:94d5558255b40e15c2f920088cd5ab8fa6b690d3",
+      "key": "notion|||software engineer early career ai",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
