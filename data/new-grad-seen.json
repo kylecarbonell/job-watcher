@@ -36101,6 +36101,30 @@
       "key": "hitachi rail|||software analyst",
       "location": "toronto on canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5dc7576538985ef3e66c76bc8bd2105ffe0f223b",
+      "key": "confido|||software engineer new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac281b9d9621c5b2839acfa",
+      "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac26faed9621c5b2839a40b",
+      "key": "fresh ready foods|||quality assurance technician full time",
+      "location": "lenexa ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac283830e027c0f3b3a4beb",
+      "key": "radnet|||it product specialist",
+      "location": "owings mills md united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
