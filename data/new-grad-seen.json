@@ -36239,6 +36239,174 @@
       "key": "temple university|||web developer enrollment management",
       "location": "main campus philadelphia pa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac3a5698ff3fb9b3bc81723",
+      "key": "amd|||sw engineer",
+      "location": "cambridge england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac37c5bd9621c5b2839cb5b",
+      "key": "google deepmind|||software engineer gemini everywhere deepmind",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac3a0a6372c01f6cd731501",
+      "key": "corning incorporated|||division digital software engineer job details corning",
+      "location": "concord north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac39e328ff3fb9b3bc8158a",
+      "key": "netrolynx ai|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac3360e4ac55253f5d6db3a",
+      "key": "nationwide|||engineer software engineer post issue optimization java angular and aws entry level",
+      "location": "columbus oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac39349372c01f6cd7312b4",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac35a654ac55253f5d6dd0e",
+      "key": "hubspot|||hubspot software engineer co op placement program ireland",
+      "location": "dublin ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8cf4d6d0edc2d91b07bf1",
+      "key": "salesforce|||specialist solution engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac367034ac55253f5d6de35",
+      "key": "accenture|||manchester technology analyst graduate programme 2027 2028",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366ed372c01f6cd730e13",
+      "key": "accenture|||edinburgh software engineering graduate programme 2027 2028",
+      "location": "edinburgh scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366e9064da25272e0e21b",
+      "key": "accenture|||manchester software engineering graduate programme 2027 2028",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366e8d9621c5b2839c950",
+      "key": "accenture|||bristol software engineering graduate programme 2027 2028",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366e70e027c0f3b3a6350",
+      "key": "accenture|||glasgow technology analyst graduate programme 2027 2028",
+      "location": "glasgow scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366e3d9621c5b2839c94e",
+      "key": "accenture|||leeds software engineering graduate programme 2027 2028",
+      "location": "leeds england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366e2d9621c5b2839c94d",
+      "key": "accenture|||newcastle software engineering graduate programme 2027 2028",
+      "location": "newcastle upon tyne england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366e2372c01f6cd730e10",
+      "key": "accenture|||leeds technology analyst graduate programme 2027 2028",
+      "location": "leeds england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366e24ac55253f5d6de2c",
+      "key": "accenture|||london software engineering graduate programme 2027 2028",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366e24ac55253f5d6de2d",
+      "key": "accenture|||glasgow software engineering graduate programme 2027 2028",
+      "location": "glasgow scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366db372c01f6cd730e0e",
+      "key": "accenture|||birmingham technology analyst graduate programme 2027 2028",
+      "location": "birmingham england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366d9d9621c5b2839c94c",
+      "key": "accenture|||london technology analyst graduate programme 2027 2028",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366d18ff3fb9b3bc80f7f",
+      "key": "accenture|||edinburgh technology analyst graduate programme 2027 2028",
+      "location": "edinburgh scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366d00e027c0f3b3a634e",
+      "key": "accenture|||bristol technology analyst graduate programme 2027 2028",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac366d08ff3fb9b3bc80f7e",
+      "key": "accenture|||newcastle technology analyst graduate programme 2027 2028",
+      "location": "newcastle upon tyne england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac349d04ac55253f5d6dc44",
+      "key": "innovate healthcare services ltd|||epr infrastructure engineer closed",
+      "location": "warwick england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac3316b064da25272e0df31",
+      "key": "mindstein software|||work manager",
+      "location": "minnehaha county sd united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac3a0d6d9621c5b2839d04c",
+      "key": "corning incorporated|||assistant product line manager job details corning",
+      "location": "phoenix az united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac37c870e027c0f3b3a6558",
+      "key": "penguin random house uk|||digital supply chain coordinator dk digital product",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac364e88ff3fb9b3bc80f29",
+      "key": "next|||trainee buyer 2027",
+      "location": "leicester leicestershire united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
