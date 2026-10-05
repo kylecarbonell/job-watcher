@@ -3995,6 +3995,24 @@
       "key": "servicenow|||software engineer core infrastructure moveworks new grad",
       "location": "mountain view ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac3a5698ff3fb9b3bc81723",
+      "key": "amd|||sw engineer",
+      "location": "cambridge england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac37c5bd9621c5b2839cb5b",
+      "key": "google deepmind|||software engineer gemini everywhere deepmind",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa8cf4d6d0edc2d91b07bf1",
+      "key": "salesforce|||specialist solution engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
