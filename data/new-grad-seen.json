@@ -36173,6 +36173,72 @@
       "key": "servicenow|||software engineer core infrastructure moveworks new grad",
       "location": "mountain view ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:47902906-87e8-4871-a05f-3891ed4f1960",
+      "key": "thales|||software engineer new grad",
+      "location": "belfast uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d8615acc-6f32-4c16-a90c-76330c1a5550",
+      "key": "thales|||software engineering new grad",
+      "location": "templecombe uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b95ba065-7516-4ce7-a50c-5c5f4b885131",
+      "key": "thales|||software engineering new grad",
+      "location": "crawley uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:15d48065-7435-44d6-8e68-98ca1f3d5fd3",
+      "key": "thales|||software engineer new grad",
+      "location": "glasgow uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0b623a9e-bb75-4a7b-92e2-62a091be0fac",
+      "key": "thales|||software engineering new grad",
+      "location": "cheadle uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1da9208b3e0883868ac7bedce21ee5ee0557739d",
+      "key": "parasail|||software engineer new grad forward deploy",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac314758ff3fb9b3bc809bf",
+      "key": "switchboard|||junior software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac307e2064da25272e0db8d",
+      "key": "akina inc|||software engineer 0",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac314cb0e027c0f3b3a5d73",
+      "key": "thales|||2027 software engineering graduate",
+      "location": "cheadle cheshire united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac31fef0e027c0f3b3a5e08",
+      "key": "methods and implementation support for clinical and health research hub|||aurin associate software engineer",
+      "location": "parkville victoria australia",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abfdf558ff3fb9b3bc793b0",
+      "key": "temple university|||web developer enrollment management",
+      "location": "main campus philadelphia pa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
