@@ -4013,6 +4013,48 @@
       "key": "salesforce|||specialist solution engineer",
       "location": "united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
+      "key": "atlassian|||data engineer new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac40b9bd9621c5b2839f4d7",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac40b804ac55253f5d708bf",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4041e064da25272e109f0",
+      "key": "amazon|||software development engineer consumer domains",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8c1d6dd34f700f87fcf0f9",
+      "key": "google|||software engineer infrastructure phd early career 2027 start",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac3e7aad9621c5b2839e7d2",
+      "key": "microsoft|||software engineer intune",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac3e389d9621c5b2839e6bd",
+      "key": "salesforce|||product management specialist",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
