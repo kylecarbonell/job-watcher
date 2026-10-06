@@ -4055,6 +4055,24 @@
       "key": "salesforce|||product management specialist",
       "location": "san francisco ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac43817d9621c5b283a08e7",
+      "key": "nvidia|||nvidia 2027 ignite internships software engineering",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4356c0e027c0f3b3a9c9b",
+      "key": "oracle|||interface engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac43549372c01f6cd7347df",
+      "key": "oracle|||interface engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
