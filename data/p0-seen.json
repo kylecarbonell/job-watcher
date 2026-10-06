@@ -4085,6 +4085,12 @@
       "key": "hakkoda an ibm company|||application developer",
       "location": "armonk ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4ac92d9621c5b283a1caa",
+      "key": "microsoft|||software engineer intune",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
