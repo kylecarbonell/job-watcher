@@ -37271,6 +37271,180 @@
       "key": "nestle|||product development associate",
       "location": "st louis mo united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:52d14524-3436-4572-b566-794db4872e46",
+      "key": "southern star central gas pipeline|||software engineer 1",
+      "location": "owensboro ky",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6ffabb0b-4dbb-49a3-bb98-10fd85f1898b",
+      "key": "rtx|||software engineer 1 test",
+      "location": "tucson az",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:494bacb9ac1523a909583300939a8d170b935954",
+      "key": "aurelian|||product engineer new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:30994430fcbf896af4e3ecdaf4a0b2331300001a",
+      "key": "aurelian|||backend engineer new grad to staff level",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4f8cc0e027c0f3b3ac1ab",
+      "key": "engen|||associate software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac3fc514ac55253f5d702f4",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac3fc478ff3fb9b3bc83513",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4ed268ff3fb9b3bc86ad6",
+      "key": "munich re|||engineering co op na integrated analytics 2027 summer toronto job details munich re careers",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4ed0ed9621c5b283a249c",
+      "key": "knorr bremse lisieux systemes pour vehicules utilitaires|||co op information technology posting job details knorr bremse",
+      "location": "avon oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4e3fa064da25272e13c3a",
+      "key": "sisense|||solutions engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa89ece2ed333b4ea5d0392",
+      "key": "matx|||infrastructure engineer",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4db8f372c01f6cd736836",
+      "key": "capgemini|||graduate software developer 2027",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4db4c4ac55253f5d736f1",
+      "key": "tpp|||implementation specialist",
+      "location": "horsforth england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4db4b064da25272e13b39",
+      "key": "tpp|||graduate analyst",
+      "location": "horsforth england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4db444ac55253f5d736eb",
+      "key": "tpp|||graduate analyst vietnamese speakers",
+      "location": "horsforth england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5a03724da96a42cfd939a1",
+      "key": "golden analytics|||full stack engineer",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4bcf88ff3fb9b3bc86495",
+      "key": "information tech consultants|||python developer",
+      "location": "london united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4f93fd9621c5b283a2769",
+      "key": "building service 32bj benefit funds|||junior full stack developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4b54a372c01f6cd736382",
+      "key": "canada life|||software developer student position job details the canada life assurance company",
+      "location": "london on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4b11dd9621c5b283a1d05",
+      "key": "avum inc|||java developer",
+      "location": "malibu ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4a6208ff3fb9b3bc8628e",
+      "key": "liveramp|||co op software development engineer observability team",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4a441372c01f6cd736221",
+      "key": "leidos|||real time software engineer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4edb58ff3fb9b3bc86b12",
+      "key": "rtx|||software engineer i test",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4b54c4ac55253f5d73241",
+      "key": "genpact|||engineer infrastructure services n 4a",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4ac92d9621c5b283a1caa",
+      "key": "microsoft|||software engineer intune",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac4f13d4ac55253f5d73a90",
+      "key": "boeing|||product acceptance specialist",
+      "location": "north charleston sc united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac4ed0c4ac55253f5d73985",
+      "key": "munich re|||associate product manager integrated analytics job details munich re careers",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aba990bd2914e9273eec28b",
+      "key": "rbc|||alternative investment product analyst",
+      "location": "minneapolis mn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac4eab2d9621c5b283a2415",
+      "key": "raydar|||product and operations lead",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
