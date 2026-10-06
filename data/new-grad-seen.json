@@ -36851,6 +36851,228 @@
       "key": "nelnet|||product owner nbs",
       "location": "lincoln ne united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fbb35820-5f6d-46ad-b912-0db35c744da1",
+      "key": "nuro|||software engineer new grad routing",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:96e1951b-5f22-4c47-8da1-269eee7486fa",
+      "key": "id me|||software development engineer 2 new grad life hub super app",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b4cff1e7-a4d8-4e21-b22d-f5f5dd9e020f",
+      "key": "konrad group|||mobile developer entry level",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cec36906-9fef-4814-9cda-ebc1501ab28e",
+      "key": "rtx|||software engineer 1",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7483f661-ca29-4d1f-8d41-0e3036f6a27e",
+      "key": "motorola|||junior software engineer ai agent platform",
+      "location": "remote in canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0904ada8-dd5b-47ed-b6b2-f23cdd66fb39",
+      "key": "mastercard|||software engineer 1",
+      "location": "o fallon mo",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:617f05a7-e40b-4c9a-b24b-a6096a0fde86",
+      "key": "lseg|||real time software engineer early career",
+      "location": "st louis mo",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8b814030-ef68-4f27-8a2b-d020a043b99c",
+      "key": "amentum|||entry level software engineer",
+      "location": "fredericksburg va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b4234a96-929f-4150-86ab-ed7b113836e8",
+      "key": "rtx|||software engineer 1 receiver exciter",
+      "location": "marlborough ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e8aa7a911628d9827792284303b2b825a8c29560",
+      "key": "lightfield|||early career infrastructure software engineer",
+      "location": "cambridge ma boston ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
+      "key": "atlassian|||data engineer new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c71bd072-5c5d-4aff-8934-94abc3c6dd32",
+      "key": "hcsc|||early careers new grad analytics development program",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac43817d9621c5b283a08e7",
+      "key": "nvidia|||nvidia 2027 ignite internships software engineering",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4302a8ff3fb9b3bc84844",
+      "key": "id me|||software engineer ii developer portal new grad early career",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac42ff9064da25272e11a61",
+      "key": "presales collective|||associate solutions engineer",
+      "location": "boston kentucky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac42ced8ff3fb9b3bc847a6",
+      "key": "resmed|||associate android developer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac428d00e027c0f3b3a99e4",
+      "key": "john deere|||part time student software engineer uiuc champaign il",
+      "location": "champaign il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac422abd9621c5b2839fd9a",
+      "key": "infosys|||ft hiring associate instep alum",
+      "location": "indianapolis in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac40bde372c01f6cd733ab8",
+      "key": "canada life|||software developer student position",
+      "location": "london on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac410298ff3fb9b3bc83def",
+      "key": "government of alberta|||junior full stack developer",
+      "location": "edmonton ab canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac40e6b372c01f6cd733bf8",
+      "key": "binsentry|||software developer",
+      "location": "kitchener on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac40c184ac55253f5d70992",
+      "key": "id me|||software development engineer ii life hub super app new grad early career",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac410ed064da25272e11081",
+      "key": "partner colorado credit union|||software engineer",
+      "location": "arvada co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac425e3064da25272e116f7",
+      "key": "raydar|||software engineer",
+      "location": "salt lake city ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac41afcd9621c5b2839fb2b",
+      "key": "trane technologies|||controls software test engineer",
+      "location": "clarksville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac413e9d9621c5b2839f91d",
+      "key": "red hat|||associate software engineer",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac40d6a4ac55253f5d70a78",
+      "key": "rtx|||software engineer i onsite",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac40cfc0e027c0f3b3a9012",
+      "key": "rtx|||software engineer i onsite",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4230c8ff3fb9b3bc843fc",
+      "key": "mastercard|||software engineer i",
+      "location": "o fallon mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac40ff4372c01f6cd733c98",
+      "key": "ey|||sdc wamt back end engineer analyst dallas raleigh san antonio",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac40efd372c01f6cd733c42",
+      "key": "booz allen hamilton|||c software engineer junior",
+      "location": "beavercreek oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4102bd9621c5b2839f794",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac43b77372c01f6cd734ed3",
+      "key": "amentum|||entry level software engineer",
+      "location": "dahlgren va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4356c0e027c0f3b3a9c9b",
+      "key": "oracle|||interface engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac43549372c01f6cd7347df",
+      "key": "oracle|||interface engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac411704ac55253f5d70c21",
+      "key": "ig gestion de patrimoine|||product specialist investment products winnipeg toronto",
+      "location": "toronto on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac40be1064da25272e10e4e",
+      "key": "munich re|||associate product manager integrated analytics",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
