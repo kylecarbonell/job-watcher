@@ -4091,6 +4091,18 @@
       "key": "microsoft|||software engineer intune",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3d91638256419670224cb78878ff6e4030073c1c",
+      "key": "nvidia|||software engineer new grad dgx cloud ai infrastructure",
+      "location": "5 locationswashington oregon austin tx redmond wa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5222e064da25272e14eca",
+      "key": "apple|||cad engineer signoff infrastructure",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
