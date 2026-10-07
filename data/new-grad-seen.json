@@ -38357,6 +38357,162 @@
       "key": "blend|||nc career fair software engineer",
       "location": "raleigh nc united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4da6a748-d1fc-4dc3-b3f7-7aaf4533f1d7",
+      "key": "hewlett packard enterprise|||systems software engineer 1",
+      "location": "houston tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f14c1fc7-86d6-4b66-b3d6-dc24eb16ea06",
+      "key": "medpace|||junior business intelligence analyst",
+      "location": "cincinnati oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a54c604c-7d2b-4184-8be8-d1c7ead6f9f7",
+      "key": "systems planning and analysis|||junior targeting analyst",
+      "location": "sterling va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9d0156841ddba7a571cd40ecd6d7d1d4214b1214",
+      "key": "goldbelt|||junior data analyst",
+      "location": "falls church va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbf39eb23c6fb2b81a405a",
+      "key": "city of newcastle australia|||graduate engineer contracts",
+      "location": "newcastle new south wales australia",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a739cb68cd88e7ccbf597f4",
+      "key": "varda space industries|||applications engineer engineering",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9fd08eff87f571fc9ce86",
+      "key": "sofina foods canada|||quality assurance technician",
+      "location": "belleville on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac60c9d8ff3fb9b3bc8ba96",
+      "key": "capgemini|||junior frontend developer job details capgemini",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac60c8c0e027c0f3b3b0faa",
+      "key": "capgemini|||salesforce developer job details capgemini",
+      "location": "irving tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac60be2d9621c5b283a7514",
+      "key": "capgemini|||junior salesforce developer job details capgemini",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5e4d94ac55253f5d78636",
+      "key": "dnero wallet|||basic user experience ux tester",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5e25fd9621c5b283a70e0",
+      "key": "hitachi rail|||software analyst",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5e19a064da25272e18a03",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5d8fe4ac55253f5d78526",
+      "key": "north carolina department of agriculture and consumer services|||programmer analyst 1",
+      "location": "kanawha county west virginia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5ceb98ff3fb9b3bc8b416",
+      "key": "oracle|||application software engineer 2",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5ce5f372c01f6cd73b41b",
+      "key": "e80 group|||cs software engineer job details elettricsp",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a73489ee55c73319eb16341",
+      "key": "oracle|||application software engineer 2",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5cda60e027c0f3b3b07c5",
+      "key": "biospace|||software engineer marketing systems integrations",
+      "location": "rockville md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5ed448ff3fb9b3bc8b76e",
+      "key": "cvs health|||associate software development engineer conversion",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5ed55372c01f6cd73b7b5",
+      "key": "cvs health|||associate software development engineer conversion",
+      "location": "maryland united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abe88ae372c01f6cd724305",
+      "key": "trideum corporation|||software engineer",
+      "location": "fort belvoir va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5ce45064da25272e18802",
+      "key": "taxrise|||junior software developer",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5ce54d9621c5b283a6ea9",
+      "key": "clera|||founding product engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5cf088ff3fb9b3bc8b43f",
+      "key": "avum inc|||java developer",
+      "location": "malibu ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac5cdf7d9621c5b283a6e37",
+      "key": "hunter douglas architectural belgium|||product specialist",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac5cdec0e027c0f3b3b0839",
+      "key": "hunter douglas architectural belgium|||product specialist",
+      "location": "broomfield co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
