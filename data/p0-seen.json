@@ -4133,6 +4133,24 @@
       "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5caef8ff3fb9b3bc8b24d",
+      "key": "apple|||software engineer siri user experiences",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac59da4064da25272e17af5",
+      "key": "spacex|||application software engineer employee experience",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac58d48064da25272e1776d",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
