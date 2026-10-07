@@ -4175,6 +4175,18 @@
       "key": "amd|||rtl tools methodology engineer",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9841745c10c31da8a0bd75f8e7f5ea633bc05384",
+      "key": "google|||associate product manager university graduate",
+      "location": "4 locationssan jose ca san bruno ca new york mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac63e03d9621c5b283a7c2d",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
