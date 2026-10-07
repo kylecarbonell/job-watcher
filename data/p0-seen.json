@@ -4151,6 +4151,30 @@
       "key": "microsoft|||software engineer ctj poly",
       "location": "reston va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5e19a064da25272e18a03",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5ceb98ff3fb9b3bc8b416",
+      "key": "oracle|||application software engineer 2",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a73489ee55c73319eb16341",
+      "key": "oracle|||application software engineer 2",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac62d774ac55253f5d78ff6",
+      "key": "amd|||rtl tools methodology engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
