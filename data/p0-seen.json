@@ -4187,6 +4187,24 @@
       "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d76fbe12-b84b-46ff-9963-f1995dbcadea",
+      "key": "nvidia|||research scientist phd new grad autonomous systems and physical ai research",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac68fbc372c01f6cd73dd5b",
+      "key": "apple|||core os software engineer usb4 thunderbolt",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6756e0e027c0f3b3b2783",
+      "key": "nvidia|||formal verification engineer new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
