@@ -37799,6 +37799,390 @@
       "key": "biogen|||co op integrated insights analytics nephrology",
       "location": "cambridge ma united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e3c0cc9c-ac7f-4225-a8aa-0ee526a4c063",
+      "key": "true anomaly|||software engineer 1 to 3 digital engineering",
+      "location": "long beach ca denver co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:99fee0ad-92bd-4ac6-99a0-d812ab1776d0",
+      "key": "pure storage|||software engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3a93ce9b-b375-4f91-a7b3-4841cd8b84da",
+      "key": "d addario|||junior full stack engineer",
+      "location": "farmingdale ny",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b6b8cf0c-a8a7-4903-8545-78efcd157fc0",
+      "key": "whoop|||software engineer 1 frontend ai platform",
+      "location": "boston ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5c6be41f-80e3-44af-86bc-77aa2568dd4d",
+      "key": "affirm|||software engineer 1 new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0ca44806-3f27-4cf1-b462-145f7d506a3d",
+      "key": "affirm|||software engineer 1 new grad",
+      "location": "san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:62da524e-ffa4-4bcd-a604-fcc071409fb5",
+      "key": "taxrise|||junior software developer",
+      "location": "irvine ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6d98507e-f9d3-4151-8068-c847abca4557",
+      "key": "sierra nevada corporation|||software engineer 1",
+      "location": "dayton oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:df413b1f-2b57-43c8-8fb8-09002684e08a",
+      "key": "capital one|||associate software engineer new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:59736ed0-38bb-4862-b4f8-b416c14876f4",
+      "key": "capital one|||software engineer new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6294a32b8c83fa40e77ab8b5325ed1f0cce52fd0",
+      "key": "whoop|||software engineer 1 frontend ai platform",
+      "location": "boston ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2bfc65332d293c2baabe05fb9df065c451133322",
+      "key": "id me|||software development engineer 2 new grad life hub super app",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:28be05febeef94810995d92517d1c8c901ceefa3",
+      "key": "broadridge|||junior full stack software engineer",
+      "location": "newark nj",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d7bf2184ea25a5fd8b8da102473a2335aa9e6f21",
+      "key": "varsity brands|||software engineer 1 net",
+      "location": "memphis tn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:829ff3b7c90cb18841ded5ed8f8bd2fae682f12d",
+      "key": "integrity|||software engineer 1",
+      "location": "grimes ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d5b7d966-e703-4f27-ac8a-2d39fe89c0ff",
+      "key": "deloitte|||data scientist ai and data science engineer 1",
+      "location": "jersey city nj",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f28161fe-bd49-4abe-9430-703600ec69d6",
+      "key": "shield ai|||software development engineer new grad",
+      "location": "san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3d91638256419670224cb78878ff6e4030073c1c",
+      "key": "nvidia|||software engineer new grad dgx cloud ai infrastructure",
+      "location": "5 locationswashington oregon austin tx redmond wa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e2c9aab196a780daac4fac316445e2f40fe970d7",
+      "key": "augusta national golf club|||junior data engineer",
+      "location": "augusta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55154372c01f6cd73908f",
+      "key": "av|||associate software engineer",
+      "location": "moorpark ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac53fc00e027c0f3b3adb9b",
+      "key": "av|||software engineer emb i",
+      "location": "moorpark ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac53fc3372c01f6cd73875e",
+      "key": "av|||software engineer emb i",
+      "location": "moorpark ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac56de04ac55253f5d769ef",
+      "key": "dynamic connections|||technology developer",
+      "location": "burlington on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55f33064da25272e169c2",
+      "key": "american family insurance|||associate technical engineer hybrid",
+      "location": "madison wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55f4c372c01f6cd73960f",
+      "key": "american family insurance|||associate technical analyst hybrid",
+      "location": "madison wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55e03372c01f6cd739580",
+      "key": "rambus|||smts verification engineering",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55d554ac55253f5d7646d",
+      "key": "nokia|||jr embedded bsp sw engineer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55d0d372c01f6cd7394d0",
+      "key": "bytedance|||software engineer graduate traffic infrastructure 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55d08d9621c5b283a4eaf",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55d014ac55253f5d76433",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8de08225fc4e7ae3dbe4ea",
+      "key": "true anomaly|||flight software engineer i temp to hire",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55719d9621c5b283a4c18",
+      "key": "flexential|||critical infrastructure engineer i",
+      "location": "portland or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac54df8372c01f6cd738f62",
+      "key": "booz allen hamilton|||university full stack developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55245d9621c5b283a4ac2",
+      "key": "d addario company inc|||junior full stack engineer",
+      "location": "farmingdale ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55211372c01f6cd7390d5",
+      "key": "scoutbetter|||software engineer twilio",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5508e4ac55253f5d75fac",
+      "key": "scoutbetter|||software engineer intel",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac54e1dd9621c5b283a495c",
+      "key": "scoutbetter|||software engineer i mastercard",
+      "location": "o fallon mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac54c830e027c0f3b3ae385",
+      "key": "oracle|||interface engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac54a8f4ac55253f5d75cb4",
+      "key": "altamira technologies corporation|||junior software engineer",
+      "location": "warrenton va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac546664ac55253f5d759a2",
+      "key": "rgp|||netsuite developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac546534ac55253f5d75982",
+      "key": "affirm|||software engineer early career",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac54928d9621c5b283a4674",
+      "key": "sun life|||associate software engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac53aef064da25272e158f4",
+      "key": "acl digital|||quality assurance specialist",
+      "location": "norwell ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac54610064da25272e15d9e",
+      "key": "pampered chef|||junior infrastructure engineer",
+      "location": "addison il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac56501372c01f6cd7398be",
+      "key": "ram|||software engineer i",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac564698ff3fb9b3bc8991a",
+      "key": "integer consulting|||design assurance engineer i",
+      "location": "clarence ny 14031 united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5569f4ac55253f5d76173",
+      "key": "mercury|||software systems test engineer rotational engineering program",
+      "location": "andover ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac566648ff3fb9b3bc8999d",
+      "key": "resmed|||associate android developer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac569bb4ac55253f5d7692c",
+      "key": "entrust|||software engineer co op",
+      "location": "shakopee mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac54133372c01f6cd73880c",
+      "key": "automation anywhere|||software engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac56636372c01f6cd7398fa",
+      "key": "vantive|||embedded software engineer hybrid",
+      "location": "plymouth mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac54df80e027c0f3b3ae442",
+      "key": "integer holdings corporation|||design assurance engineer i",
+      "location": "clarence ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac57395064da25272e17070",
+      "key": "capital one|||associate software engineer new grad",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac568cb064da25272e16d50",
+      "key": "booz allen hamilton|||software engineer",
+      "location": "rome ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac52cd4064da25272e153be",
+      "key": "boeing|||embedded software engineer entry level",
+      "location": "hazelwood mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac5690b372c01f6cd7399be",
+      "key": "boeing|||associate software engineer",
+      "location": "heath oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac55fb20e027c0f3b3aeb29",
+      "key": "boeing|||software engineer entry level",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac43cf08ff3fb9b3bc8504b",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abd21c58ff3fb9b3bc6e798",
+      "key": "trideum corporation|||software engineer",
+      "location": "fort belvoir va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac543a60e027c0f3b3add76",
+      "key": "arc teryx equipment|||product development assistant",
+      "location": "north vancouver bc canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac53fc98ff3fb9b3bc887b7",
+      "key": "hunter douglas inc|||product specialist",
+      "location": "broomfield co united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac55ab50e027c0f3b3ae86f",
+      "key": "manulife|||product business development analyst private wealth",
+      "location": "boston ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac54c964ac55253f5d75e18",
+      "key": "applied materials|||product line management new college grad bachelor s santa clara ca",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac54391372c01f6cd738925",
+      "key": "blackrock|||technical product manager aladdin product management analyst",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
