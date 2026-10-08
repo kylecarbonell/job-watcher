@@ -39479,6 +39479,222 @@
       "key": "ria money transfer|||associate product manager compliance",
       "location": "denver co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9efe2b17-2ed5-4042-8a3e-cb27c0bb8c32",
+      "key": "citi|||junior software engineer generative ai platforms",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4939e8a4-f378-418b-bf25-abaebfdf3b33",
+      "key": "amentum|||software engineer 1",
+      "location": "hanover md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9c731e6afd92c495e26c35dde1cc2844ec63de22",
+      "key": "defensestorm|||junior product engineer software engineer 1",
+      "location": "alpharetta ga atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dc46f541-6903-43ea-b70a-97dc3277f119",
+      "key": "publicis groupe|||junior digital media analyst",
+      "location": "overland park ks",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac79b06fe8f33a85d4fc1ef",
+      "key": "tixtrack|||software engineer remote us",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7994ca444ac5d36f84aad",
+      "key": "tata consultancy services|||java developer",
+      "location": "irving tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7915ca444ac5d36f8486c",
+      "key": "tata consultancy services|||python engineer",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac78cc8fcdafb60c6a447b7",
+      "key": "ibm|||qa test developer elh",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac39b4bd9621c5b2839cf33",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a40a68416b14939532838c1",
+      "key": "new york life|||senior associate full stack engineer decision intelligence job details new york life insurance co",
+      "location": "new york ny us",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7cb7c583621355407ab728",
+      "key": "trabus technologies|||full stack engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac787a551a1b3e4219ed352",
+      "key": "metropolitan transportation authority|||application developer levels 1 5",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac782e951a1b3e4219ed2ef",
+      "key": "ibm|||microservices developer",
+      "location": "lowell ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac77f54a444ac5d36f84658",
+      "key": "tata consultancy services|||engineer",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac77dddfe8f33a85d4fbcf8",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "lowell massachusetts united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac77da951a1b3e4219ed2b7",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "durham nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac77da00e573df8adc72d50",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "durham nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e23a275edfa11b4710631",
+      "key": "ibm|||associate package specialist 2027 oracle cloud",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e236727c94c3d5a1cb55e",
+      "key": "ibm|||associate developer 2027 adobe",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac774b70e573df8adc72ca1",
+      "key": "ibm|||fullstack developer google cloud",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7741651a1b3e4219ed1ac",
+      "key": "ibm|||application developer it service management",
+      "location": "baton rouge louisiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7740544d6e65604a02ce4",
+      "key": "ibm|||application developer it service management",
+      "location": "baton rouge louisiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7a7e5bb17cba5690367559",
+      "key": "medpace|||shiny app developer",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac4f41f8ff3fb9b3bc86ccb",
+      "key": "deloitte|||cyber full stack software engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6d1268ff3fb9b3bc8f578",
+      "key": "boeing|||associate enterprise resource planning information technology engineer",
+      "location": "hazelwood mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:[Canadian Security Intelligence Service (CSIS)|Service canadien du renseignement de s\u00e9curit\u00e9 (SCRS)](https://www.canada.ca/csisjobs)|**[Co-op: IT and Engineering](https://jobright.ai/jobs/info/6ac715840e027c0f3b3b54d3?utm_campaign=Software%20Engineering&utm_source=1103)**",
+      "key": "canadian security intelligence service csis|||service canadien du renseignement de securite scrs https www canada ca csisjobs",
+      "location": "co op it and engineering https jobright ai jobs info 6ac715840e027c0f3b3b54d3 utm campaign software 20engineering utm source 1103",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac71584316e89f61e8aec6e",
+      "key": "canadian security intelligence service csis|||co op it and engineering",
+      "location": "edmonton ab canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac774710e573df8adc72c88",
+      "key": "bd|||software engineer",
+      "location": "castletroy limerick ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7622236c26b1c92cfff26",
+      "key": "general dynamics mission systems|||embedded software engineer entry level",
+      "location": "bloomington mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac762d933afc44bca0eb7c4",
+      "key": "tiaa|||2027 early talent rotational program technology",
+      "location": "charlotte nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac52de84ac55253f5d7502b",
+      "key": "capgemini|||graduate software developer 2027",
+      "location": "birmingham england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac777610e573df8adc72cea",
+      "key": "atreon|||junior graduate software engineer c net javascript",
+      "location": "aylesford england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac7b577fe8f33a85d4fcba0",
+      "key": "jerry|||product manager apprenticeship yc cofounder ceo led",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac503ed064da25272e143a5",
+      "key": "arrive logistics|||associate product manager",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e29d52c964816f65ebd3d",
+      "key": "ibm|||entry level product experience designer engineer austin tx 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac7aa0ea444ac5d36f8519d",
+      "key": "dreamwear|||product development assistant intimates shapewear",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
