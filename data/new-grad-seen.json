@@ -39377,6 +39377,108 @@
       "key": "echostar corporation|||data product owner i",
       "location": "littleton co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:11a99e347a35f01b006790ac9f3e4be279be71c1",
+      "key": "id me|||software engineer 2 new grad developer portal",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8f066c27d0e9b2843a9927a232e02facca630abb",
+      "key": "general dynamics|||software engineer 1 2",
+      "location": "middletown ri",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e3f2b43ec1e0a85e9a29ff72c2ad9267e1bb34f0",
+      "key": "applied materials|||data scientist new grad bachelor s master s",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:[Canadian Security Intelligence Service (CSIS)|Service canadien du renseignement de s\u00e9curit\u00e9 (SCRS)](https://www.canada.ca/csisjobs)|**[Co-op: IT and Engineering](https://jobright.ai/jobs/info/6ac70a490e027c0f3b3b5322?utm_campaign=Software%20Engineering&utm_source=1103)**",
+      "key": "canadian security intelligence service csis|||service canadien du renseignement de securite scrs https www canada ca csisjobs",
+      "location": "co op it and engineering https jobright ai jobs info 6ac70a490e027c0f3b3b5322 utm campaign software 20engineering utm source 1103",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:[Canadian Security Intelligence Service (CSIS)|Service canadien du renseignement de s\u00e9curit\u00e9 (SCRS)](https://www.canada.ca/csisjobs)|**[Co-op: IT and Engineering](https://jobright.ai/jobs/info/6ac71584316e89f61e8aec6e?utm_campaign=Software%20Engineering&utm_source=1103)**",
+      "key": "canadian security intelligence service csis|||service canadien du renseignement de securite scrs https www canada ca csisjobs",
+      "location": "co op it and engineering https jobright ai jobs info 6ac71584316e89f61e8aec6e utm campaign software 20engineering utm source 1103",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac715840e027c0f3b3b54d3",
+      "key": "canadian security intelligence service csis|||co op it and engineering",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac71582744463a18c930d3c",
+      "key": "canadian security intelligence service csis|||co op it and engineering",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6f4b20e027c0f3b3b4edd",
+      "key": "caci international inc|||entry level c software engineer",
+      "location": "virginia beach va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac715e2744463a18c930d4e",
+      "key": "lake washington school district|||data services coordinator ii financial systems",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac692d70e027c0f3b3b32c2",
+      "key": "five star bank|||summer associate information technology",
+      "location": "rochester ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac73b1e316e89f61e8af362",
+      "key": "rtx|||embedded software developer i onsite",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6fbbd372c01f6cd73fc12",
+      "key": "barry wehmiller|||entry level software engineer",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7088c0e027c0f3b3b52de",
+      "key": "pure|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab8fd5f81e327c4bf2054e9",
+      "key": "worldquant|||quantitative developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7088d8ff3fb9b3bc8fe6e",
+      "key": "polimorphic|||full stack engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6fa91064da25272e1cfd3",
+      "key": "liveramp|||co op software development engineer observability team",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac6f97c8ff3fb9b3bc8fae1",
+      "key": "ria money transfer|||associate product manager compliance",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
