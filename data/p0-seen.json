@@ -4205,6 +4205,18 @@
       "key": "nvidia|||formal verification engineer new college grad 2026",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6e41cd9621c5b283ab1ee",
+      "key": "apple|||software integrity engineer test engineering engineering efficiency",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a56ce6ce9b77f668bd65ce2",
+      "key": "palantir technologies|||forward deployed software engineer us government",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
