@@ -4217,6 +4217,72 @@
       "key": "palantir technologies|||forward deployed software engineer us government",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac78cc8fcdafb60c6a447b7",
+      "key": "ibm|||qa test developer elh",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac782e951a1b3e4219ed2ef",
+      "key": "ibm|||microservices developer",
+      "location": "lowell ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac77dddfe8f33a85d4fbcf8",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "lowell massachusetts united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac77da951a1b3e4219ed2b7",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "durham nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac77da00e573df8adc72d50",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "durham nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e23a275edfa11b4710631",
+      "key": "ibm|||associate package specialist 2027 oracle cloud",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9e236727c94c3d5a1cb55e",
+      "key": "ibm|||associate developer 2027 adobe",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac774b70e573df8adc72ca1",
+      "key": "ibm|||fullstack developer google cloud",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7741651a1b3e4219ed1ac",
+      "key": "ibm|||application developer it service management",
+      "location": "baton rouge louisiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7740544d6e65604a02ce4",
+      "key": "ibm|||application developer it service management",
+      "location": "baton rouge louisiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a9e29d52c964816f65ebd3d",
+      "key": "ibm|||entry level product experience designer engineer austin tx 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
