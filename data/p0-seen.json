@@ -4283,6 +4283,24 @@
       "key": "ibm|||entry level product experience designer engineer austin tx 2027",
       "location": "austin tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7f6caa444ac5d36f86d0e",
+      "key": "servicenow|||associate software engineer",
+      "location": "kirkland wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7dc9aa444ac5d36f864d1",
+      "key": "amazon|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac7e43bfcdafb60c6a467b2",
+      "key": "ibm|||entry level product manager 2027",
+      "location": "lowell massachusetts united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
