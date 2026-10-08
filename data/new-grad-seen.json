@@ -39179,6 +39179,204 @@
       "key": "mccormick company|||associate product brand manager",
       "location": "hunt valley md united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:30d31584-e527-4263-b462-ed87f955068d",
+      "key": "chalk|||software engineer new grad",
+      "location": "san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ec1b1f5a-50dd-40e3-88f4-c7842d37754c",
+      "key": "barry wehmiller|||entry level software engineer",
+      "location": "5 locationseau claire wi dallas tx raleigh nc st louis mo denver co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cf43075d-b9ba-4cce-b884-1d0b1597dcd4",
+      "key": "applied materials|||software engineer 1 new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0750f5ca-d84f-422e-a917-baccdf94d7b1",
+      "key": "applied materials|||software engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6",
+      "key": "dexcom|||software development engineer 1",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cba61eceefc3d2e1c1a22a7a5b8d7593cb25d253",
+      "key": "pacific northwest national laboratory|||early career software engineer",
+      "location": "richland wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c65c921c8f2cb40704643e16696474743fd4409f",
+      "key": "everlaw|||software engineer 1",
+      "location": "oakland ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6e41cd9621c5b283ab1ee",
+      "key": "apple|||software integrity engineer test engineering engineering efficiency",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6c13b064da25272e1c287",
+      "key": "cvs health|||software development engineer operational analytics",
+      "location": "hartford ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6bd04372c01f6cd73ed88",
+      "key": "ixl learning|||software engineer new grad",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6bd02064da25272e1c179",
+      "key": "ixl learning|||software engineer new grad",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6c5dad9621c5b283aab38",
+      "key": "relativity|||software engineer",
+      "location": "illinois united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6e05cd9621c5b283ab17b",
+      "key": "mob entertainment|||junior gameplay programmer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a56ce6ce9b77f668bd65ce2",
+      "key": "palantir technologies|||forward deployed software engineer us government",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6db38372c01f6cd73f6d7",
+      "key": "lockheed martin|||software engineer asc e1",
+      "location": "fort worth tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6d3d98ff3fb9b3bc8f5d1",
+      "key": "state street|||software developer officer",
+      "location": "quincy ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6c24b4ac55253f5d7be87",
+      "key": "state street|||software developer officer",
+      "location": "quincy ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6cb1bd9621c5b283aade8",
+      "key": "sierra space|||software engineer i ground software",
+      "location": "centennial co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6c9bf8ff3fb9b3bc8f2df",
+      "key": "sierra space|||software engineer i flight software",
+      "location": "centennial co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac69660d9621c5b283a9b15",
+      "key": "abbott|||associate software engineer",
+      "location": "plymouth mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6c64a372c01f6cd73f108",
+      "key": "chalk|||software engineer new grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6bd79064da25272e1c198",
+      "key": "growth|||implementation specialist level i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a509d2b2e2ceb72963b3770",
+      "key": "oratomic|||generalist engineer puzzle solver",
+      "location": "pasadena",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6c1910e027c0f3b3b429f",
+      "key": "clio|||software developer co op",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6c1838ff3fb9b3bc8ee66",
+      "key": "clio|||software developer co op",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6eca58ff3fb9b3bc8f935",
+      "key": "dexcom|||software development engineer 1",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac69737064da25272e1b55a",
+      "key": "boeing|||associate software engineer",
+      "location": "berkeley mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6c117064da25272e1c271",
+      "key": "boeing|||associate enterprise resource planning information technology engineer",
+      "location": "hazelwood mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6ccb7d9621c5b283aaeba",
+      "key": "abbott|||associate software engineer",
+      "location": "plymouth mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa439a1f3aa936e2cdb0564",
+      "key": "vanteon corporation|||embedded engineer jr level",
+      "location": "pittsford ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac6e85e064da25272e1cc85",
+      "key": "madi lane bridal|||hayley paige junior design product development associate",
+      "location": "ramsey nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac6bd040e027c0f3b3b416f",
+      "key": "ixl learning|||associate product manager new grad",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac6f085d9621c5b283ab41f",
+      "key": "echostar corporation|||data product owner i",
+      "location": "littleton co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
