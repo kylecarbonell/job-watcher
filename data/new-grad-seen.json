@@ -40019,6 +40019,192 @@
       "key": "lululemon|||temporary product operations lead woodburn premium outlet",
       "location": "woodburn or united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:30c93264-7b69-4e82-8548-c7eed857c831",
+      "key": "two sigma|||software engineer new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a1a47707-43a0-48d4-97ae-3e9bbfd16000",
+      "key": "sierra nevada corporation|||software engineer 1",
+      "location": "lone tree co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ed89cec3-85af-4dc1-b995-723631cf6b3d",
+      "key": "sierra nevada corporation|||software engineer 1",
+      "location": "lone tree co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e3e9f03d-392a-4114-b8ef-5d1d15894feb",
+      "key": "rtx|||software engineer 1",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1ec1ac3b-fbaa-46db-b0e9-7cef01e932e9",
+      "key": "cencora|||engineer 1 systems software engineering",
+      "location": "pennsylvania",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f51ba512a7b36a198994ea1cfee3726f54997430",
+      "key": "pros holdings inc|||software engineer 1",
+      "location": "houston tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:104f6ab33461ea80acbc826c3aa47da0a34cacbb",
+      "key": "capgemini|||junior frontend developer",
+      "location": "atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a5f16083-08ff-434c-8e15-31d3323e12ef",
+      "key": "roblox|||senior machine learning engineer phd early career",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e2182c1b-5804-476c-b3e7-fd9a76bfa949",
+      "key": "tiktok|||machine learning engineer new grad e commerce user growth",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9703b5c76da1dc40f2aec2ce62b3911b4ca042ed",
+      "key": "safelite|||digital product global early career professional",
+      "location": "columbus oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8249644d6e65604a06597",
+      "key": "lucid motors|||software engineer adas behavior planning and integration",
+      "location": "newark ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7f6a351a1b3e4219ef915",
+      "key": "cadence|||cst application engineer physical systems",
+      "location": "livonia mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7e8a0fcdafb60c6a46926",
+      "key": "cadence|||cst application engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac81513a444ac5d36f87818",
+      "key": "forage|||new grad software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8140d44d6e65604a05f83",
+      "key": "rfa engineering|||software engineer test and validation",
+      "location": "urbandale ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8014d51a1b3e4219efde9",
+      "key": "rtx|||embedded software engineer i onsite",
+      "location": "point mugu ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8013aa444ac5d36f871e7",
+      "key": "rtx|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac80879fcdafb60c6a474ee",
+      "key": "brain corp|||software engineer i firmware",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7d237a444ac5d36f85fde",
+      "key": "bmo|||software developer early career 15",
+      "location": "irving tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac803a6fcdafb60c6a47316",
+      "key": "ibm|||sap billing test analyst",
+      "location": "paramus nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8022f0e573df8adc75a27",
+      "key": "general dynamics|||software engineer intern conversion",
+      "location": "fort wayne in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8285144d6e65604a06654",
+      "key": "av|||software engineer apps i",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8000144d6e65604a058cb",
+      "key": "automation anywhere|||software engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8258da444ac5d36f87e15",
+      "key": "quicken loans|||software developer i",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8045044d6e65604a05b55",
+      "key": "pacific gas and electric company|||associate erp functional analyst service procurement",
+      "location": "oakland ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8072844d6e65604a05ca9",
+      "key": "l3harris technologies|||associate software engineer",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8036cfe8f33a85d4fe991",
+      "key": "johnson johnson|||analyst quality assurance",
+      "location": "raritan nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac81e6144d6e65604a06426",
+      "key": "cisco|||software developer i full time canada",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac81e15fcdafb60c6a47c02",
+      "key": "cisco|||software developer embedded systems i full time canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac82305fe8f33a85d4ff40f",
+      "key": "booz allen hamilton|||full stack software engineer junior",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac805ecfe8f33a85d4feae5",
+      "key": "cintas|||product developer i",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
