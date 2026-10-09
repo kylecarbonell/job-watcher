@@ -4349,6 +4349,18 @@
       "key": "microsoft|||software engineer ctj poly",
       "location": "reston va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac91a0cfcdafb60c6a4acab",
+      "key": "ibm|||entry level software developer 2027 san jose",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a734487e55c73319eb16237",
+      "key": "oracle|||application software engineer 2",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
