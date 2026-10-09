@@ -4343,6 +4343,12 @@
       "key": "snowflake|||software engineer customer experience engineering",
       "location": "menlo park ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8f586c3a8af9c54a0856b",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
