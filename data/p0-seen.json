@@ -4337,6 +4337,12 @@
       "key": "cisco|||software developer i full time canada",
       "location": "ottawa on canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac844d30e573df8adc76b5a",
+      "key": "snowflake|||software engineer customer experience engineering",
+      "location": "menlo park ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
