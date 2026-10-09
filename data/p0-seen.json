@@ -4301,6 +4301,42 @@
       "key": "ibm|||entry level product manager 2027",
       "location": "lowell massachusetts united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:30c93264-7b69-4e82-8548-c7eed857c831",
+      "key": "two sigma|||software engineer new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a5f16083-08ff-434c-8e15-31d3323e12ef",
+      "key": "roblox|||senior machine learning engineer phd early career",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e2182c1b-5804-476c-b3e7-fd9a76bfa949",
+      "key": "tiktok|||machine learning engineer new grad e commerce user growth",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac803a6fcdafb60c6a47316",
+      "key": "ibm|||sap billing test analyst",
+      "location": "paramus nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac81e15fcdafb60c6a47c02",
+      "key": "cisco|||software developer embedded systems i full time canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac81e6144d6e65604a06426",
+      "key": "cisco|||software developer i full time canada",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
