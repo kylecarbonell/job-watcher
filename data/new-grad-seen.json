@@ -40367,6 +40367,210 @@
       "key": "howden|||product governance apprenticeship programme 2027 london",
       "location": "london england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:da2b778d-65f8-4ed5-a654-3acc8baa425a",
+      "key": "amtrust financial|||software engineer 1",
+      "location": "florida",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3c6f3dde-a27b-4f3c-b6a8-fdc22c5627ba",
+      "key": "clark|||junior software engineer",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ba7719b5122809af7ead79627aba65610233394d",
+      "key": "expedia group|||software development engineer 1",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:198f81558b9482ab09365e54eab32959da5657c1",
+      "key": "clay|||early career software engineer",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:85bf8caf547054eb336e6ec57e03f0ae1bdd2534",
+      "key": "rtx|||software engineer 1 test",
+      "location": "tucson az",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8e6c86355f8776ff166ee",
+      "key": "step fusion|||graduate hpc computational engineer",
+      "location": "abingdon england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8d267fe8f33a85d500e97",
+      "key": "uk atomic energy authority|||graduate hpc computational engineer",
+      "location": "abingdon on thames england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac597c28ff3fb9b3bc8a659",
+      "key": "hyundai america technical center inc hatci|||infotainment engineer i north america quality center naqc",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8bdcac3a8af9c54a07930",
+      "key": "ust|||junior full stack developer data coe",
+      "location": "new jersey united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8ba9dfe8f33a85d50099c",
+      "key": "tetrahed inc|||jr software engineer full time",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8ba92fcdafb60c6a4927d",
+      "key": "tetrahed inc|||jr software engineer full time",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8ba8e6355f8776ff15ca1",
+      "key": "tetrahed inc|||jr software engineer full time",
+      "location": "colorado united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8ba896355f8776ff15ca0",
+      "key": "tetrahed inc|||jr software engineer full time",
+      "location": "washington district of columbia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8ba85af788e6ad3b58393",
+      "key": "tetrahed inc|||jr software engineer full time",
+      "location": "washington district of columbia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8ba78c3a8af9c54a0779c",
+      "key": "tetrahed inc|||jr software engineer full time",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8b4a3af788e6ad3b582c1",
+      "key": "booz allen hamilton|||full stack software engineer junior",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8b018fcdafb60c6a4915d",
+      "key": "government of alberta|||junior full stack developer job details government of alberta",
+      "location": "edmonton ab canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8b00ac3a8af9c54a07671",
+      "key": "city of mississauga|||co op student word press developer job details city of mississauga",
+      "location": "mississauga on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8affe6355f8776ff15b59",
+      "key": "city of mississauga|||co op student application developer job details city of mississauga",
+      "location": "mississauga on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8ad70c3a8af9c54a075dd",
+      "key": "national security agency|||development program c2dp cryptanalytic computer scientist entry level maryland",
+      "location": "fort meade md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8a5c3c3a8af9c54a0751b",
+      "key": "navi operations|||founding frontend engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac88df4fcdafb60c6a48cb9",
+      "key": "boeing|||ground software engineer millennium space systems",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8e2d2d4a5a0370740fac5",
+      "key": "rtx|||embedded software engineer i onsite",
+      "location": "fullerton ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8e2d3fcdafb60c6a49bda",
+      "key": "rtx|||web full stack software engineer i onsite",
+      "location": "fullerton ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8e24cc3a8af9c54a08107",
+      "key": "rtx|||full stack software engineer i onsite",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8e2d4fcdafb60c6a49bdb",
+      "key": "rtx|||embedded software engineer i onsite",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8acf3fe8f33a85d5007be",
+      "key": "supermicro|||firmware engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8a93ad4a5a0370740ef3f",
+      "key": "canada life|||software developer student position",
+      "location": "london on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac89d7f6355f8776ff1587d",
+      "key": "arch|||software engineer early careers 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8a921c3a8af9c54a07565",
+      "key": "canada life|||software developer student position",
+      "location": "london on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8c63a6355f8776ff1606c",
+      "key": "nuro|||new grad software engineer product engineering",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8c0cdfcdafb60c6a49453",
+      "key": "nuro|||new grad software engineer product engineering",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac8ced0c3a8af9c54a07c25",
+      "key": "verse|||product manager fleet telemetry controls optimization",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac8d9c3af788e6ad3b58a7f",
+      "key": "cwill|||order tracking product management trainee bilingual mandarin required",
+      "location": "cary nc united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
