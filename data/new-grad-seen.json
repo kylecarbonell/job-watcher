@@ -40205,6 +40205,168 @@
       "key": "cintas|||product developer i",
       "location": "chicago il united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7aabe808-d12f-4399-b2f0-e348094fa171",
+      "key": "aurelian|||software engineer new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b6cfb1a4-f1f9-4894-a725-982afa329551",
+      "key": "forge nano|||software engineer 1",
+      "location": "thornton co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d2f4c18d-c287-4a3d-bfdd-f8fa7dfe7c6f",
+      "key": "aerovironment|||software engineer 1 apps",
+      "location": "san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a7c142e9-aed8-4191-ae81-16bfd8c59d8f",
+      "key": "two circles|||marketing analyst early careers programme",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ccdfdeb97902ebf62978ff2cb66945a439d399ff",
+      "key": "seatgeek|||data analyst new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac844d30e573df8adc76b5a",
+      "key": "snowflake|||software engineer customer experience engineering",
+      "location": "menlo park ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8393d0e573df8adc769eb",
+      "key": "rocket|||software developer i",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac855ac0e573df8adc76caa",
+      "key": "hewlett packard enterprise|||storage systems software engineer",
+      "location": "andover ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac66b73d9621c5b283a8a73",
+      "key": "northrop grumman|||software engineer level 1 2",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8382e44d6e65604a06a0f",
+      "key": "av|||software engineer",
+      "location": "albuquerque nm united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac888bcfe8f33a85d5002f4",
+      "key": "boeing|||ground software engineer millennium space systems",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac84c9351a1b3e4219f102b",
+      "key": "oneimaging|||full stack associate software engineer umiami only",
+      "location": "miami fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8373dfcdafb60c6a481bb",
+      "key": "aurelian|||software engineer new grad",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8430ffcdafb60c6a4838e",
+      "key": "mood content|||junior crm developer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac836c9a444ac5d36f8820e",
+      "key": "forge nano inc|||software engineer i",
+      "location": "thornton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac83471fcdafb60c6a48113",
+      "key": "lockheed martin|||software engineer e2",
+      "location": "herndon va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac832530e573df8adc76836",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7c91b0e573df8adc742fe",
+      "key": "rtx|||embedded software engineer i onsite",
+      "location": "mckinney tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac82ed1a444ac5d36f87fd3",
+      "key": "canada life|||software developer student position",
+      "location": "regina sk canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac80e10a444ac5d36f876af",
+      "key": "conflux systems|||oracle apex developer database specialist",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac869056355f8776ff150b5",
+      "key": "a3 technology inc|||test engineer",
+      "location": "atlantic city nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8220351a1b3e4219f0913",
+      "key": "tixtrack|||software engineer remote us",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac88c76fe8f33a85d50038f",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac877d8af788e6ad3b5793c",
+      "key": "pacific gas and electric company|||associate erp functional analyst service procurement",
+      "location": "oakland ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac84ef9fe8f33a85d4ffb6c",
+      "key": "tixtrack|||software engineer remote us",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac7f41efe8f33a85d4fe2ca",
+      "key": "advanced sterilization products|||gldp associate product development track",
+      "location": "irvine ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac82eacfcdafb60c6a47f3a",
+      "key": "howden|||product governance apprenticeship programme 2027 london",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
