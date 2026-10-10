@@ -43049,6 +43049,66 @@
       "key": "lee valley tools|||associate category manager",
       "location": "ottawa on canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac90c12fe8f33a85d501eb8",
+      "key": "ford motor company|||full stack software engineer",
+      "location": "dearborn mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7e8af44d6e65604a050e2",
+      "key": "cadence|||cst application engineer physical systems",
+      "location": "livonia mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a996f4690a313642c650489",
+      "key": "bobcat company|||product management student experience spring 2027 job details doosan corp",
+      "location": "bismarck nd united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a58f9bf686b4755d1e0d94b",
+      "key": "acosta|||product demonstrator part time",
+      "location": "south jordan ut united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a53ab06c8eb0843027ad57d",
+      "key": "acosta|||product demonstrator part time",
+      "location": "sacramento ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a586b6168d16a30e24130f9",
+      "key": "acosta|||product demonstrator part time",
+      "location": "las vegas nv united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5529bfae07d60a8d00f49b",
+      "key": "acosta|||product demonstrator part time",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a519c11ae4052672fe98821",
+      "key": "acosta|||product demonstrator part time",
+      "location": "white bear lake mn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5ae7d6856af468ab00acac",
+      "key": "acosta|||product demonstrator part time",
+      "location": "roseville ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5919fec8e3a473cb8a4f8c",
+      "key": "acosta|||product demonstrator part time",
+      "location": "san antonio tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
