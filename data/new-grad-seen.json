@@ -41279,6 +41279,66 @@
       "key": "the upper deck company|||uda associate product development specialist",
       "location": "carlsbad ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c0e68386-5f91-485f-86a7-c92db1919740",
+      "key": "shield ai|||software engineer 1 factory team",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bdc069d8-947d-4e4c-8a1c-78356f9b366f",
+      "key": "vigil labs|||founding software engineer",
+      "location": "palo alto ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9359e6355f8776ff18057",
+      "key": "yext|||software engineer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9a148b359df915566aa9f",
+      "key": "ea sports|||c gameplay software engineer co op fc vancouver summer 2027 8 months undergrad",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9c9ac596512b823d8ada7",
+      "key": "san diego blood bank|||software engineer i",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9a342b51e7a444b6a97ff",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "richardson tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9b238896bdc43a05ac708",
+      "key": "the tjx companies inc|||frontend coordinator",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac99a0448c3d015e4212b29",
+      "key": "bd|||software engineer i",
+      "location": "sparks md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac9ed6a2f7822ba82f8fb1e",
+      "key": "new era cap|||coordinator global sourcing",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac99f4da3291db11df04820",
+      "key": "balineum|||product administrator",
+      "location": "hampstead london united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
