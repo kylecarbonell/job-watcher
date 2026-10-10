@@ -4361,6 +4361,18 @@
       "key": "oracle|||application software engineer 2",
       "location": "united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1945c4fb-7c66-4e18-8f44-a04eebc1742f",
+      "key": "tiktok|||research scientist new grad conversational ai",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac975c3d4a5a037074126e9",
+      "key": "databricks|||evergreen product design new grad 2027 start",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
