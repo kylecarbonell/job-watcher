@@ -41135,6 +41135,150 @@
       "key": "allstate|||provincial product analyst",
       "location": "toronto on canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:82fb089b-e0cb-414d-9953-9f5d35538486",
+      "key": "nvidia|||c software engineer new grad infrastructure tools",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:98c33fd8-dca1-426d-a419-74413b56996d",
+      "key": "becton dickinson|||software engineer 1",
+      "location": "sparks md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac98c51d4a5a03707412b37",
+      "key": "colsa|||python software developer data analytics ncaps",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9859fc3a8af9c54a0b068",
+      "key": "hitachi rail|||software analyst",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac985366355f8776ff19499",
+      "key": "boulder connect|||online casino experience tester",
+      "location": "michigan united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac981386355f8776ff193eb",
+      "key": "carfax|||associate software engineer",
+      "location": "london on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac96bad6355f8776ff18f79",
+      "key": "roblox|||software engineer ros",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac965cefe8f33a85d503b9b",
+      "key": "carfax|||associate software engineer",
+      "location": "london on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9713dd4a5a0370741262e",
+      "key": "gallatin ai inc|||backend engineer",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac96645af788e6ad3b5b585",
+      "key": "university of arizona|||computing sciences researcher i",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac95f82c3a8af9c54a0a89c",
+      "key": "ohio bwc official|||programmer it applications",
+      "location": "columbus oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac991976355f8776ff19685",
+      "key": "general dynamics mission systems|||software engineer junior level for cross domain solutions",
+      "location": "taunton ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac97e09fe8f33a85d50413c",
+      "key": "nvidia|||c software engineer infrastructure tools new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac96aefaf788e6ad3b5b6b2",
+      "key": "leidos|||embedded firmware engineer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac98a62d4a5a03707412aee",
+      "key": "canada life|||software developer student position",
+      "location": "london on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abc97e72aed40a9546752b4",
+      "key": "metropolitan transportation authority|||computer associate software level 1",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac975c3d4a5a037074126e9",
+      "key": "databricks|||evergreen product design new grad 2027 start",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac9788afe8f33a85d503fec",
+      "key": "allstate canada|||provincial product analyst",
+      "location": "ontario canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac977bcfe8f33a85d503f95",
+      "key": "avidity careers|||product advisor",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a74f5f8b17cba56903589e0",
+      "key": "eliseai|||product solutions analyst housing",
+      "location": "toronto on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac97977af788e6ad3b5b9e5",
+      "key": "new era cap|||coordinator global sourcing",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac948fdfe8f33a85d5031f2",
+      "key": "hp|||revenue ops analyst",
+      "location": "spring tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac968c2fcdafb60c6a4c48f",
+      "key": "beauty baby gifts|||coordinator global sourcing",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac9633cfcdafb60c6a4c37f",
+      "key": "the upper deck company|||uda associate product development specialist",
+      "location": "carlsbad ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
