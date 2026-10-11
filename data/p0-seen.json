@@ -4385,6 +4385,12 @@
       "key": "nvidia|||c software engineer infrastructure tools new college grad 2027",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acb7cf3e7a1d9333210ca76",
+      "key": "qualcomm|||wireless s w engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
