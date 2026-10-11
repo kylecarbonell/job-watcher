@@ -43109,6 +43109,42 @@
       "key": "acosta|||product demonstrator part time",
       "location": "san antonio tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acacc0cd113c967e3c782cd",
+      "key": "lseg|||engineering graduate programme norwell",
+      "location": "norwell ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7f69cfcdafb60c6a46cd2",
+      "key": "cadence|||cst application engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5457c6e726ec56126a9f4e",
+      "key": "acosta|||product demonstrator part time",
+      "location": "houston tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5519b8ae07d60a8d00ee1f",
+      "key": "acosta|||product demonstrator part time",
+      "location": "fort worth tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a591a04686b4755d1e0e5ce",
+      "key": "acosta|||product demonstrator part time",
+      "location": "amarillo tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5457c5e726ec56126a9f4c",
+      "key": "acosta|||product demonstrator part time",
+      "location": "port saint lucie fl united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
