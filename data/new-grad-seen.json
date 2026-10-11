@@ -43235,6 +43235,30 @@
       "key": "torentify|||full stack engineer remote",
       "location": "united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acb972bd113c967e3c78e1e",
+      "key": "intezra inc|||infrastructure engineer",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aca6ab1d113c967e3c77acb",
+      "key": "elemental machines|||embedded software engineer",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acbc4453c831dc4086bd736",
+      "key": "clyvra|||associate product analyst",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acb9c2a3c831dc4086bd542",
+      "key": "veeva crossix|||product manager director crossix",
+      "location": "manhattan ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
