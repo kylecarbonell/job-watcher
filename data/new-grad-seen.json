@@ -43145,6 +43145,78 @@
       "key": "acosta|||product demonstrator part time",
       "location": "port saint lucie fl united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a468a31c314345dc9edcd2aab9b6ece9944a693d",
+      "key": "sierra nevada corporation|||software engineer 1",
+      "location": "dayton oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acb2337a56e5406e57bbfd7",
+      "key": "torentify|||software engineer wfh",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acb029fddd23cce28a0cf64",
+      "key": "kuka systems gmbh branch office paris|||software engineer sustaining engineering",
+      "location": "broomfield co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acae7ff3c831dc4086bcb97",
+      "key": "highmark health|||associate software engineer",
+      "location": "pennsylvania united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acae27d3c831dc4086bcb14",
+      "key": "hader solutions|||remote online casino tester",
+      "location": "greater saginaw midland bay city area michigan united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acae19bddd23cce28a0ccc0",
+      "key": "coulter services|||online casino experience tester",
+      "location": "michigan united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acae086ddd23cce28a0cc7c",
+      "key": "tsp talent|||remote online casino tester",
+      "location": "michigan united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acadc5eddd23cce28a0cc1e",
+      "key": "hitachi rail|||software analyst",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acaf4f4d113c967e3c785b5",
+      "key": "tetrahed inc|||jr software engineer full time",
+      "location": "georgia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acae022a56e5406e57bbb0c",
+      "key": "bectran inc|||software engineer",
+      "location": "schaumburg il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a58c9a063a8f619507be40d",
+      "key": "acosta|||product demonstrator part time",
+      "location": "springfield mo united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a591a023ac7627fe9ffd4bc",
+      "key": "acosta|||product demonstrator part time",
+      "location": "houston tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
