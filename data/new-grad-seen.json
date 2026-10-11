@@ -43259,6 +43259,18 @@
       "key": "veeva crossix|||product manager director crossix",
       "location": "manhattan ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acbdce2ddd23cce28a0db43",
+      "key": "loblaw companies limited|||associate product manager",
+      "location": "brampton on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5ec4e2270e3033b045fbc9",
+      "key": "acosta|||product demonstrator part time",
+      "location": "pittsburgh pa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
