@@ -43217,6 +43217,24 @@
       "key": "acosta|||product demonstrator part time",
       "location": "houston tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac8fc17d4a5a037074100b4",
+      "key": "serco|||power platforms junior engineer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acb7cf3e7a1d9333210ca76",
+      "key": "qualcomm|||wireless s w engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acb23b53c831dc4086bcf0f",
+      "key": "torentify|||full stack engineer remote",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
