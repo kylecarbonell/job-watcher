@@ -43283,6 +43283,36 @@
       "key": "general atomics aeronautical systems|||software developer",
       "location": "poway ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8a83e33cfc32a388bdfd4009ec4fd2c78fac79c6",
+      "key": "intact|||tech development program new grad software development cloud stream",
+      "location": "montreal qc canada toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acc633ca56e5406e57bd843",
+      "key": "raydar|||hardware embedded engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac3190f8ff3fb9b3bc809ff",
+      "key": "metropolitan transportation authority|||it assets software and mobile tech engineering fellow spring",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acc5d743c831dc4086be6d1",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acc441dd113c967e3c79d38",
+      "key": "the global institute for health and human rights|||assortment planner",
+      "location": "dollar scotland united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
