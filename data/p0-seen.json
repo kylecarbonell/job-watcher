@@ -4397,6 +4397,12 @@
       "key": "nvidia|||software engineer new grad dl kernel libraries",
       "location": "santa clara ca",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acc5d743c831dc4086be6d1",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
