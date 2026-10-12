@@ -4403,6 +4403,36 @@
       "key": "microsoft|||software engineer ctj poly",
       "location": "reston va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acce80f002e496d4beef83b",
+      "key": "h r block|||seasonal quality assurance analyst",
+      "location": "missouri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accb9893c831dc4086bf1b9",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accb983e7a1d9333210e91a",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd0677a56e5406e57bf347",
+      "key": "amazon|||software development engineer i aws iot fleet management",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6accef32002e496d4beefa08",
+      "key": "google|||partner developer youtube",
+      "location": "toronto on canada",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
