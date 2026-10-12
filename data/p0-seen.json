@@ -4391,6 +4391,12 @@
       "key": "qualcomm|||wireless s w engineer",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8944e3f6-18d2-4e20-b86a-23223ceba88f",
+      "key": "nvidia|||software engineer new grad dl kernel libraries",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
