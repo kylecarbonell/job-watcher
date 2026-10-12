@@ -43313,6 +43313,162 @@
       "key": "the global institute for health and human rights|||assortment planner",
       "location": "dollar scotland united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1935c5df-770d-45f2-bbde-4d4a462ad5cb",
+      "key": "wolverine trading|||early career c software engineer",
+      "location": "chicago il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2871ce21cecdfddcdbf462bd7dd919d0ac7125cf",
+      "key": "lseg|||real time software engineer early career",
+      "location": "st louis mo",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dd0b95aa7f67047b877e9d5fa5904bac0e4e0c83",
+      "key": "rtx|||software developer engineer 1",
+      "location": "huntsville al",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd0f023c831dc4086c052a",
+      "key": "john deere|||embedded software engineer job details john deere",
+      "location": "dubuque ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd0e46002e496d4bef049e",
+      "key": "california correctional health care services|||software application developer",
+      "location": "rancho cordova ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accfeebe7a1d9333210f69f",
+      "key": "trinet|||software engineer",
+      "location": "dunwoody ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accfcc9d113c967e3c7b818",
+      "key": "smateso gmbh|||atlassian app entwickler",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aba84e6ee0b348be7299ee2",
+      "key": "infinitesima|||software engineer talent pool all grades",
+      "location": "abingdon england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accf5cce7a1d9333210f37f",
+      "key": "wolverine trading|||c software engineer early career",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accf1bed113c967e3c7b469",
+      "key": "allergan aesthetics an abbvie company|||associate engineer technology i",
+      "location": "north chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acce80f002e496d4beef83b",
+      "key": "h r block|||seasonal quality assurance analyst",
+      "location": "missouri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4260fd6faf756060966ab6",
+      "key": "c scale|||growth engineer",
+      "location": "san francisco bay area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acccbd0d113c967e3c7ac27",
+      "key": "clark associates|||quality assurance specialist weekend day shift",
+      "location": "lebanon tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accb9893c831dc4086bf1b9",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accb983e7a1d9333210e91a",
+      "key": "bytedance|||backend software engineer graduate platform 2027 start",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd0c0bd113c967e3c7bd3d",
+      "key": "raydar|||full stack software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd0c0ed113c967e3c7bd3e",
+      "key": "raydar|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accf631002e496d4beefc12",
+      "key": "barclays investment bank|||full stack developer",
+      "location": "whippany nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accdf4e3c831dc4086bf687",
+      "key": "talentpluto|||software engineer strala",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accdf04d113c967e3c7af6d",
+      "key": "talentpluto|||forward deployed engineer strala",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accdec3e7a1d9333210ed91",
+      "key": "intezra inc|||infrastructure engineer",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6accadaea56e5406e57be030",
+      "key": "panasonic energy corporation of north america|||software engineer i embedded systems",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd0677a56e5406e57bf347",
+      "key": "amazon|||software development engineer i aws iot fleet management",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6accef32002e496d4beefa08",
+      "key": "google|||partner developer youtube",
+      "location": "toronto on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6accf4a4ddd23cce28a0fd52",
+      "key": "aligned ai|||product manager",
+      "location": "salt lake city ut united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6accadcc002e496d4beeeee1",
+      "key": "panasonic energy corporation of north america|||sr associate product specialist",
+      "location": "newark nj united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
