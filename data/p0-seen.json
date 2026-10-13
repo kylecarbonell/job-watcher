@@ -4457,6 +4457,18 @@
       "key": "apple|||os software engineer evaluation",
       "location": "cupertino ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c44348ab-171d-4478-a512-7114f6e00ca0",
+      "key": "tiktok|||research scientist new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb10603db4ca81fc7c5b41",
+      "key": "spacex|||new graduate engineer software starfall",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
