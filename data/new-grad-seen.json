@@ -44243,6 +44243,402 @@
       "key": "leaf home|||product demonstrator 18 hr commission",
       "location": "1622 madison st clarksville tn 37043 usa",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e2bb15f7-a843-4eb7-8a5e-5d2850c3e348",
+      "key": "rtx|||software engineer 1",
+      "location": "marlborough ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:220ebe6a-b4c3-4df9-ae47-b15716b1b0b3",
+      "key": "northrop grumman|||associate cloud software engineer 1",
+      "location": "redondo beach ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9f0b7c79-fd1e-4e6a-9acf-5e8be3d0ad01",
+      "key": "kla|||software engineer 1",
+      "location": "ann arbor mi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:819fceb703f7f20d6d66d4c3dcd6cb09ded6d3a0",
+      "key": "dexcom|||software development engineer 1",
+      "location": "california",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3375330b94862e1b9ccd23735901085bb6a75c6e",
+      "key": "ecolab|||junior quality control software developer",
+      "location": "calgary ab canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:352106287cdb1b5b3f16aca43f2727218faf4b80",
+      "key": "kla|||software engineer 1",
+      "location": "ann arbor mi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ea3a75275ed4ae7350b3998ae214d5541e59596b",
+      "key": "zip|||software engineer new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bcc91df9-d56a-4c97-8198-0031f237b497",
+      "key": "medpace|||junior business intelligence analyst",
+      "location": "cincinnati oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8dc14391691a335ad64b",
+      "key": "southwest airline career page|||operations research developer",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace9d40680c80c8753bddbd",
+      "key": "h r block|||quality assurance analyst",
+      "location": "missouri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9b7de10b1cd4f41607422",
+      "key": "vestmark|||software engineer co op",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace96444391691a335ad8e6",
+      "key": "kla|||software engineer embedded software firmware development embedded image processing",
+      "location": "ann arbor mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace9b194f3229123da3d2d2",
+      "key": "quadient|||junior software quality engineer",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace6b27680c80c8753bc8e8",
+      "key": "starkey mexico|||software engineer acoustics",
+      "location": "eden prairie mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7c7dba99f15ef41250db",
+      "key": "iqt|||technology architect fellow",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace97c1bb78de94580d721c",
+      "key": "us pharmacopeia|||associate software engineer",
+      "location": "rockville md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace95a2bb78de94580d711d",
+      "key": "oneimaging|||full stack associate software engineer uf only",
+      "location": "miami fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7c1f4391691a335accd0",
+      "key": "ibm|||mainframe system verification tester apprentice",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace91ebba99f15ef4125bd5",
+      "key": "ontario power generation|||management and professional trainee software engineering",
+      "location": "oshawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace77f7a0453f9ba6248c35",
+      "key": "zefr|||software development engineer in test sdet",
+      "location": "marina del rey ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8fdf4391691a335ad713",
+      "key": "act|||infrastructure engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8f8d4391691a335ad6ec",
+      "key": "quadient|||junior software quality engineer",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8e884f3229123da3ce64",
+      "key": "peec ai|||associate gtm engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8970ba99f15ef4125923",
+      "key": "general atomics aeronautical systems|||associate software developer",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace87df680c80c8753bd6f5",
+      "key": "galatea associates|||experienced financial software engineer",
+      "location": "somerville ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace847b4391691a335ad28b",
+      "key": "together ai|||software engineer new grad 2027",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace814dba99f15ef41254de",
+      "key": "lockheed martin|||test engineer e2",
+      "location": "ocala fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8128a0453f9ba6249292",
+      "key": "lockheed martin|||dev sec engineering asc e1",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7ff1a0453f9ba624900e",
+      "key": "american systems|||navair software engineer developer",
+      "location": "california md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace78cf4f3229123da3c2aa",
+      "key": "saralux|||associate solution designer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:NTT DATA AIVista|[Member of Technical Staff - Enterprise Engineering I [Bay Area]](https://jobright.ai/jobs/info/6ace787abb78de94580d62fe?utm_campaign=Software%20Engineering&utm_source=1103)|Palo Alto, CA, United States",
+      "key": "ntt data aivista|||member of technical staff enterprise engineering i bay area https jobright ai jobs info 6ace787abb78de94580d62fe utm campaign software 20engineering utm source 1103",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7053ba99f15ef4124c1b",
+      "key": "connexall|||solutions delivery engineer i",
+      "location": "north york on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace74b14391691a335ac995",
+      "key": "id me|||software engineer ii developer portal new grad early career",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace9eb0bb78de94580d74af",
+      "key": "saralux|||solution designer",
+      "location": "texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace69b74f3229123da3be90",
+      "key": "murphy door|||full stack software developer utah onsite",
+      "location": "ogden ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95c3b94c22023a07935a07",
+      "key": "broadcom|||firmware engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace3d27bb78de94580d4e2e",
+      "key": "ericsson|||5g software developer co op",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace6cd84391691a335ac772",
+      "key": "taxrise|||junior software developer",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7a7ba0453f9ba6248d7e",
+      "key": "exact it resources|||junior intermediate full stack",
+      "location": "northern ireland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7cbeba99f15ef4125106",
+      "key": "partner colorado credit union|||software engineer",
+      "location": "arvada co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace6bb4bb78de94580d5f86",
+      "key": "everytown for gun safety|||everytown labs fellow",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8bab4f3229123da3cd75",
+      "key": "schweitzer engineering laboratories sel|||software engineer c c linux security",
+      "location": "boise id united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7689ba99f15ef4124df0",
+      "key": "sierra space|||software engineer i flight software",
+      "location": "louisville colorado united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace92b84391691a335ad7e2",
+      "key": "trane technologies|||controls software test engineer",
+      "location": "clarksville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace6e834f3229123da3bfbb",
+      "key": "leidos|||junior software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7458680c80c8753bcb5a",
+      "key": "boeing|||software systems engineer associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace62a0680c80c8753bc632",
+      "key": "boeing|||entry level software engineer developer",
+      "location": "richardson tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7465bb78de94580d61be",
+      "key": "boeing|||software systems engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace745f4f3229123da3c146",
+      "key": "boeing|||embedded software engineer associate experienced or lead",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8ba870e50ec1b37f0920",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace745ea0453f9ba6248b2b",
+      "key": "boeing|||systems software engineer associate or experienced",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace6fb4680c80c8753bc9eb",
+      "key": "adobe|||2027 university graduate enterprise architecture analyst",
+      "location": "austin texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5bb47d856af468ab00d7aa",
+      "key": "tickpick|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a0f08ae619335383fb28cce",
+      "key": "tickpick|||software engineer",
+      "location": "new york new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace79614f3229123da3c305",
+      "key": "northrop grumman|||2027 digital engineer pathways program baltimore md",
+      "location": "baltimore md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7fee4f3229123da3c639",
+      "key": "qualcomm|||software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abbf4cfa9a644f965689241",
+      "key": "louisiana economic development|||junior java developer",
+      "location": "lafayette los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ace9cfabb78de94580d73ee",
+      "key": "mettler toledo international inc|||jr product manager",
+      "location": "columbia mo united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ace9bbe4f3229123da3d2fe",
+      "key": "ibm|||product manager elh austin 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ace9b9fba99f15ef4125efa",
+      "key": "ascentek|||product specialist",
+      "location": "golden valley mn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ace6f1d4391691a335ac801",
+      "key": "natera|||associate product manager organ health",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ace621bbb78de94580d5c7a",
+      "key": "fortress information security|||fastlane product associate central services",
+      "location": "orlando fl united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab29737326574570a0019d0",
+      "key": "greenheck group|||product application co op",
+      "location": "clearwater fl united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac91e6c6355f8776ff17871",
+      "key": "lakeshore learning materials|||product developer assistant on site",
+      "location": "carson ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ace620fbb78de94580d5c77",
+      "key": "broadridge|||product analyst virtual events and shareholder meetings",
+      "location": "edgewood ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ace7d3b4f3229123da3c522",
+      "key": "gina group|||product development associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
