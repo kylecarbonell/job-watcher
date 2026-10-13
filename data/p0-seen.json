@@ -4487,6 +4487,24 @@
       "key": "microsoft|||software engineer",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7c1f4391691a335accd0",
+      "key": "ibm|||mainframe system verification tester apprentice",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace6fb4680c80c8753bc9eb",
+      "key": "adobe|||2027 university graduate enterprise architecture analyst",
+      "location": "austin texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7fee4f3229123da3c639",
+      "key": "qualcomm|||software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
