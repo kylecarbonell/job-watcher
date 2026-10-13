@@ -4433,6 +4433,30 @@
       "key": "google|||partner developer youtube",
       "location": "toronto on canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f466d67b-9634-442d-ab44-147c27ae3808",
+      "key": "duolingo|||ai research engineer new grad",
+      "location": "pittsburgh pa new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ba43adfb-cd21-4662-9f8e-7ace578f3cfd",
+      "key": "duolingo|||ai research engineer new grad",
+      "location": "pittsburgh pa new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:34e9778a-347d-4ab1-94fd-8da5c77008be",
+      "key": "nvidia|||deep learning software engineer new grad tensorrt performance",
+      "location": "remote in usa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd5f82a56e5406e57c1184",
+      "key": "apple|||os software engineer evaluation",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
