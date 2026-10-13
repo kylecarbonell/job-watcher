@@ -43787,6 +43787,96 @@
       "key": "applied materials|||product line management i new college grad bachelor s santa clara ca",
       "location": "santa clara ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2704e43aec13d40a1ab40fa90f6c8aeb2dfaf9b7",
+      "key": "cadence design systems|||application software developer new grad",
+      "location": "livonia mi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c44348ab-171d-4478-a512-7114f6e00ca0",
+      "key": "tiktok|||research scientist new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f0dfeab683f8c39d7f661f43f46943842765ce0a",
+      "key": "capital one|||data scientist new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd5e98ddd23cce28a12214",
+      "key": "dexcom|||sw development engineer 1",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a960ae23843db01599092de",
+      "key": "katalyst space|||recent graduate software engineer i",
+      "location": "broomfield co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abb10603db4ca81fc7c5b41",
+      "key": "spacex|||new graduate engineer software starfall",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd74afe7a1d93332111adb",
+      "key": "northrop grumman|||2027 associate digital engineer pathways program baltimore md",
+      "location": "baltimore md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd6dc4a56e5406e57c145a",
+      "key": "north carolina department of agriculture and consumer services|||software engineer i ii gis project analyst resource stewardship",
+      "location": "deland fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd5f82a56e5406e57c1184",
+      "key": "apple|||os software engineer evaluation",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd5f0c002e496d4bef209a",
+      "key": "arc institute|||software engineer lab platform",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd79abd113c967e3c7df67",
+      "key": "northrop grumman|||2027 digital engineer pathways program baltimore md",
+      "location": "baltimore md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd796a3c831dc4086c264b",
+      "key": "nordstrom|||engineer 1 hybrid seattle wa",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd8fed3c831dc4086c2b04",
+      "key": "hewlett packard enterprise|||hpe factory build process devid software engineer quality analysis",
+      "location": "fort collins co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd36b5d113c967e3c7cb65",
+      "key": "boeing|||entry level software engineer test verification",
+      "location": "tinker air force base oklahoma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd7cf8ddd23cce28a12a09",
+      "key": "lockheed martin|||software quality engineer asc e1",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
