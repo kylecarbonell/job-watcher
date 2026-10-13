@@ -4469,6 +4469,24 @@
       "key": "spacex|||new graduate engineer software starfall",
       "location": "hawthorne ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace2966bb78de94580d4ac1",
+      "key": "ibm|||quantum eda software engineer",
+      "location": "yorktown heights ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acd9380002e496d4bef2be7",
+      "key": "amazon|||front end engineer 2026 us",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acde6c3ee9da536dc21b433",
+      "key": "microsoft|||software engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
