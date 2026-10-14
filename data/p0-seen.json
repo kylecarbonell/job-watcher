@@ -4571,6 +4571,18 @@
       "key": "qualcomm|||sensors software engineer engineer or senior",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfa98d78d51ae69ce074ce",
+      "key": "amazon|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf9bf7fe7a9bd5a6b9903a",
+      "key": "robinhood|||software engineer backend",
+      "location": "menlo park ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
