@@ -4517,6 +4517,48 @@
       "key": "ibm|||product manager elh austin 2027",
       "location": "austin tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1d634e6a-9473-4a3b-b0a7-4dcaec951731",
+      "key": "nvidia|||soc software engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:664f484e-e080-4fb3-be9b-ace5f9872240",
+      "key": "nvidia|||soc software engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acec762680c80c8753beb19",
+      "key": "h r block|||quality assurance analyst",
+      "location": "missouri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acec4204391691a335ae824",
+      "key": "nvidia|||soc software engineer new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace903bbb78de94580d6f7e",
+      "key": "amazon|||software development engineer amazon connect",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac53049064da25272e155ad",
+      "key": "nvidia|||formal verification engineer new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aced82c70e50ec1b37f1f64",
+      "key": "nvidia|||asic verification engineer new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
