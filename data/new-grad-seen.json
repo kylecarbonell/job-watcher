@@ -44999,6 +44999,228 @@
       "key": "clera|||founding software engineer",
       "location": "san francisco ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ccf805e9-e970-4b46-bde0-96d9de47c8a6",
+      "key": "signet jewelers|||software engineer 1",
+      "location": "akron oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3b23d87f-05be-4c67-93cf-cb0b4d96bb86",
+      "key": "agilent technologies|||junior full stack r d software developer",
+      "location": "harwell didcot uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d40d3812-f19c-401b-b283-a95fecf03462",
+      "key": "aerovironment|||junior software engineer",
+      "location": "jessup md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfa3ddc0dd9da253cf3b69",
+      "key": "gen ii fund services|||jr full stack developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aceeaea680c80c8753bf2fc",
+      "key": "moody s corporation|||implementation specialist",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf9bf7fe7a9bd5a6b9903a",
+      "key": "robinhood|||software engineer backend",
+      "location": "menlo park ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf988c12303667b989f392",
+      "key": "united states cold storage inc|||java developer i",
+      "location": "camden nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf96502cc4e9d17e9094ef",
+      "key": "institute for defense analyses|||research associate computer science",
+      "location": "alexandria va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf949878d51ae69ce06e04",
+      "key": "general atomics aeronautical systems|||software developer",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf920812303667b989ef72",
+      "key": "apple|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf91c512303667b989ef4e",
+      "key": "institute for defense analyses|||research associate",
+      "location": "alexandria va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf8fd5fe7a9bd5a6b989c5",
+      "key": "veeva systems|||associate qa engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf85ba2cc4e9d17e908e28",
+      "key": "signet jewelers|||software engineer i remote",
+      "location": "akron oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a55f3e6f7517b519ad5225e",
+      "key": "lifted logic|||end user testing",
+      "location": "overland park ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a600d3133ef5c58b40018be",
+      "key": "crown point technologies llc|||junior software engineer",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf7de42cc4e9d17e908bd2",
+      "key": "usable life|||web developer i or ii",
+      "location": "little rock ar united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf7daac9f40bec907fc658",
+      "key": "lockheed martin|||college student technical software",
+      "location": "manassas va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8146bb78de94580d692d",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acec0f370e50ec1b37f1a43",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf7cff2cc4e9d17e908b79",
+      "key": "lockheed martin|||software engineer e2",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace814b680c80c8753bd2e3",
+      "key": "lockheed martin|||project engineer early career",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9644c33843db015990a2ea",
+      "key": "qualcomm|||sensors software engineer engineer or senior",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aab6cf78e1bf0f764af981f",
+      "key": "commonsku|||software development co op",
+      "location": "ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf9b64fe7a9bd5a6b99015",
+      "key": "lightology|||php full stack developer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf8660c0dd9da253cf3030",
+      "key": "new jersey resources|||40333 associate business application developer 1503 application development",
+      "location": "wall township nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf9a2812303667b989f430",
+      "key": "grayce|||mobile software developer android ios",
+      "location": "burgess hill england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf9947c9f40bec907fd16a",
+      "key": "opers|||test requisition full stack developer 1",
+      "location": "columbus oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf9debc0dd9da253cf3a12",
+      "key": "sonos inc|||software engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf962678d51ae69ce06eea",
+      "key": "trane technologies|||embedded software engineer",
+      "location": "clarksville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf7c4e12303667b989e825",
+      "key": "nomura|||software development engineer in test",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf8258c9f40bec907fc7f6",
+      "key": "fresh ready foods|||quality assurance technician full time",
+      "location": "lenexa ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfa3ddc9f40bec907fd406",
+      "key": "gen ii fund services|||jr full stack developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acf9e80c0dd9da253cf3a44",
+      "key": "lululemon|||product operations lead southlake town square",
+      "location": "southlake tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a7b3c77b933773d16be6001",
+      "key": "innovative beauty group ibg|||beauty product developer",
+      "location": "mississauga on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acf9897fe7a9bd5a6b98ed2",
+      "key": "cmic|||associate product manager project controls job costing",
+      "location": "toronto on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acf94f6c9f40bec907fcef0",
+      "key": "elephant insurance|||product business analyst ii",
+      "location": "richmond va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acf7c51c0dd9da253cf2cec",
+      "key": "dollar tree stores|||assortment planner",
+      "location": "chesapeake va united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
