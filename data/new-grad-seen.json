@@ -44639,6 +44639,102 @@
       "key": "gina group|||product development associate",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:606a8e81693ecf829f59ccf495d150ba8ef94637",
+      "key": "applied materials|||software engineer new grad",
+      "location": "gloucester ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acebc5f4391691a335ae620",
+      "key": "taxrise|||junior software developer",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acb84afa56e5406e57bc50a",
+      "key": "naval nuclear laboratory fmp|||software engineer entry level",
+      "location": "west mifflin pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acea80b4391691a335adff6",
+      "key": "kyndryl|||forward deployed engineer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aceaa3b70e50ec1b37f1402",
+      "key": "northrop grumman|||associate cloud software engineer level 1",
+      "location": "redondo beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acea9b44391691a335ae05e",
+      "key": "cwill|||pop up email marketing r d trainee full stack engineer bilingual mandarin",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acea7f6bb78de94580d7870",
+      "key": "accenture federal services|||software installation engineer",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aceba094f3229123da3ddf0",
+      "key": "mm solutions|||software technician",
+      "location": "loveland co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aceaf0bbb78de94580d7aa4",
+      "key": "dxc technology|||analyst i software engineering",
+      "location": "connecticut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8bb8680c80c8753bd7ff",
+      "key": "boeing|||systems software engineer associate or experienced",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8badba99f15ef41259b2",
+      "key": "boeing|||software systems engineer associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aceb2184f3229123da3db0a",
+      "key": "trustwill|||loyalty referrals r d trainee full stack engineer bilingual mandarin",
+      "location": "cary north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aceb21f70e50ec1b37f16d1",
+      "key": "trustwill|||trackingmore r d trainee full stack engineer backend bilingual mandarin",
+      "location": "cary north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aceb217680c80c8753be530",
+      "key": "trustwill|||pop up email marketing r d trainee full stack engineer bilingual mandarin",
+      "location": "cary north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acec2bf70e50ec1b37f1af8",
+      "key": "volaris group|||product associate",
+      "location": "belfast northern ireland united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acea19c680c80c8753bdf93",
+      "key": "blick art materials|||web content associate",
+      "location": "peoria il united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
