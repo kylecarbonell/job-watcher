@@ -4583,6 +4583,42 @@
       "key": "robinhood|||software engineer backend",
       "location": "menlo park ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfdf982cc4e9d17e90ad42",
+      "key": "qualcomm|||compiler toolchain engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfccbac9f40bec907fe428",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfe22d78d51ae69ce088e7",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfd74a12303667b98a08dc",
+      "key": "ibm|||back end developer",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acfcb1312303667b98a058a",
+      "key": "salesforce|||product management specialist",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acfcb1878d51ae69ce082b9",
+      "key": "salesforce|||product management specialist",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
