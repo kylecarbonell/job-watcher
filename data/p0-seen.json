@@ -4565,6 +4565,12 @@
       "key": "robinhood|||associate product manager new grad",
       "location": "menlo park ca new york",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9644c33843db015990a2ea",
+      "key": "qualcomm|||sensors software engineer engineer or senior",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
