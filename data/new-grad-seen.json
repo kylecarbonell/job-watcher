@@ -44735,6 +44735,210 @@
       "key": "blick art materials|||web content associate",
       "location": "peoria il united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1d634e6a-9473-4a3b-b0a7-4dcaec951731",
+      "key": "nvidia|||soc software engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:664f484e-e080-4fb3-be9b-ace5f9872240",
+      "key": "nvidia|||soc software engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:36256110c34bda34a21b8fee2cc5b2f5442b1c31",
+      "key": "sift|||software engineer new grad",
+      "location": "marina del rey ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:465ccfdd5e155f53bbee5c0dc0e4c13de9592540",
+      "key": "robinhood|||associate product manager new grad",
+      "location": "menlo park ca new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acee39aba99f15ef412707e",
+      "key": "lutron electronics|||project application software engineer 2027 boston ma",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acdbc0c77057049844000e4",
+      "key": "capgemini|||java fullstack developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acee3944f3229123da3e4f0",
+      "key": "lutron electronics|||project embedded firmware engineer 2027 boston ma",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aceeb994f3229123da3e91e",
+      "key": "profound medical inc|||software development co op student",
+      "location": "mississauga ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acee39bbb78de94580d8535",
+      "key": "lutron electronics|||spring 2027 embedded firmware engineering co op boston ma",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acee39a4391691a335aecc3",
+      "key": "lutron electronics|||project embedded software engineer 2027 boston ma",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acec95fbb78de94580d823c",
+      "key": "bending spoons|||graduate software engineer us",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acec93770e50ec1b37f1d02",
+      "key": "bending spoons|||graduate software engineer us",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acec8fcbb78de94580d821e",
+      "key": "bending spoons|||graduate software engineer us",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acec88dba99f15ef4126d17",
+      "key": "bending spoons|||graduate software engineer us",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acec4204391691a335ae824",
+      "key": "nvidia|||soc software engineer new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace903bbb78de94580d6f7e",
+      "key": "amazon|||software development engineer amazon connect",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf1010ba99f15ef4127ae5",
+      "key": "northrop grumman|||2027 associate s w embedded engineer annapolis md",
+      "location": "annapolis md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac53049064da25272e155ad",
+      "key": "nvidia|||formal verification engineer new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acec4a4680c80c8753bea78",
+      "key": "cwill|||trackingmore r d trainee full stack engineer backend bilingual mandarin",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acec49e4f3229123da3e042",
+      "key": "cwill|||loyalty referrals r d trainee full stack engineer bilingual mandarin",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf09ca4f3229123da3ee7f",
+      "key": "clera|||founding product engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf0380680c80c8753bf6a8",
+      "key": "semtech|||associate engineer software engineering",
+      "location": "burlington on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aced82c70e50ec1b37f1f64",
+      "key": "nvidia|||asic verification engineer new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aced19fba99f15ef4126e9f",
+      "key": "moody s analytics|||implementation specialist",
+      "location": "chicago illinois united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8babba99f15ef41259af",
+      "key": "boeing|||software systems engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7459bb78de94580d61ba",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aceffa0ba99f15ef41277af",
+      "key": "lockheed martin|||college student technical n3",
+      "location": "mount laurel nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9a4ad355bcebcb69e7d29",
+      "key": "b4corp|||812240 software engineer 300 000 00",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9502efcdafb60c6a4bd62",
+      "key": "ea sports|||software engineer co op summer 2027 8 months sports technology undergraduate",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acf0924680c80c8753bf842",
+      "key": "bertelsmann se co kgaa|||digital supply chain coordinator dk digital product job details apply now",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acec6724391691a335ae8b2",
+      "key": "canadian tire corporation|||product strategy student 4 months winter 2027",
+      "location": "oakville on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acec7ec680c80c8753beb3d",
+      "key": "daesang america inc|||product associate korean bilingual",
+      "location": "city of industry ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ace8de670e50ec1b37f09da",
+      "key": "ascentek|||product specialist",
+      "location": "golden valley mn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a0eeda472b52f7225f3a056",
+      "key": "leaf home|||product demonstrator weekly pay",
+      "location": "1350 springdale road rock hill sc 29730 us",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
