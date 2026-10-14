@@ -4505,6 +4505,18 @@
       "key": "qualcomm|||software engineer",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace9d40680c80c8753bddbd",
+      "key": "h r block|||quality assurance analyst",
+      "location": "missouri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ace9bbe4f3229123da3d2fe",
+      "key": "ibm|||product manager elh austin 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
