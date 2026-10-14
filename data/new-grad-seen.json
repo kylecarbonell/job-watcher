@@ -44939,6 +44939,66 @@
       "key": "leaf home|||product demonstrator weekly pay",
       "location": "1350 springdale road rock hill sc 29730 us",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c7e27fa1-2768-4384-b053-db1c2b5fb36f",
+      "key": "jd com|||software development new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1d39bbb5caaf332b6a0df795f0b2b9d274e895aa",
+      "key": "clark|||junior software engineer",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace7452ba99f15ef4124d4b",
+      "key": "boeing|||entry level software engineer developer",
+      "location": "richardson tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf4bd9b3384bdb2f8878dc",
+      "key": "john deere|||engineer software",
+      "location": "east moline il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8538b6d34f700f87fbc55b",
+      "key": "mapjects|||c asp net doe 85k to 110k start in 1 to 4 weeks",
+      "location": "fairfax va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace8d9bba99f15ef4125a4b",
+      "key": "us pharmacopeia|||associate software engineer",
+      "location": "rockville md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf378a70e50ec1b37f2e12",
+      "key": "cwill|||pop up email marketing r d trainee full stack engineer bilingual mandarin",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf37d9ba99f15ef4127e58",
+      "key": "cwill|||loyalty referrals r d trainee full stack engineer bilingual mandarin",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf38074391691a335afae0",
+      "key": "cwill|||trackingmore r d trainee full stack engineer backend bilingual mandarin",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf3767ba99f15ef4127e06",
+      "key": "clera|||founding software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
