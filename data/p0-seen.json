@@ -4673,6 +4673,18 @@
       "key": "microsoft|||software engineer",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acffe2fc0dd9da253cf5bc1",
+      "key": "amazon|||software development engineer amazon simple email service",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0b00a1db1f75ea46a08b7",
+      "key": "palantir technologies|||meritocracy fellowship",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
