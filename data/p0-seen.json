@@ -4661,6 +4661,18 @@
       "key": "salesforce|||product management specialist",
       "location": "san francisco ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8ff35ce35f90504b285bd3df3f61356764040d5b",
+      "key": "nvidia|||c software engineer new grad infrastructure tools",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad06e15614121de7d94732e",
+      "key": "microsoft|||software engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
