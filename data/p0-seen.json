@@ -4619,6 +4619,30 @@
       "key": "salesforce|||product management specialist",
       "location": "san francisco ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5ffb792a-06f6-4670-b8ba-24c5402f1824",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "5 locationspalo alto ca seattle wa san francisco dallas tx bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9c9d72e2-4773-4a77-b5c5-5776ba645c14",
+      "key": "salesforce|||software engineering amts mts college grad",
+      "location": "4 locationspalo alto ca san francisco bellevue wa seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:be8360f1-7c95-458e-8ada-6f6d4a2a31b8",
+      "key": "tiktok|||research engineer new grad realtime codec optimizations video codec",
+      "location": "san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfcb1ec9f40bec907fe39a",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
