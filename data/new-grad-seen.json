@@ -46241,6 +46241,114 @@
       "key": "gadge usa|||product sourcing coordinator",
       "location": "lake success ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9df61d802aa15dcf2eb45ac39be5bc8d38230d54",
+      "key": "aig|||early careers analyst data office data engineering",
+      "location": "4 locationscharlotte nc jersey city nj new york atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab448477bd0813713316cec",
+      "key": "american express|||campus undergraduate full time engineer 2027 software engineer i enterprise technology services sunrise fl",
+      "location": "sunrise fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad10faca4f99fef8194165e",
+      "key": "serco|||software engineer panama city fl",
+      "location": "panama city beach fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad107e93d3a5aa909b37365",
+      "key": "kiewit|||scheduler kiewit infrastructure engineers job details kiewit",
+      "location": "lone tree co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad107ceae21edea94fd2f4d",
+      "key": "kiewit|||integrative engineering analyst kiewit infrastructure engineers job details kiewit",
+      "location": "lone tree co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad107bf3d3a5aa909b37320",
+      "key": "kiewit|||document controls specialist kiewit infrastructure engineers job details kiewit",
+      "location": "lone tree co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad105f0e2d41540d4a6d7c5",
+      "key": "cognizant|||full stack software developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1047aa4f99fef8194113b",
+      "key": "qualcomm|||compiler toolchain engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad10220256e49282e651ad0",
+      "key": "ibm|||fullstack developer google cloud",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0fff5a4f99fef81940d08",
+      "key": "siemens digital industries software|||strategic student program software development co op ebs spring 2027",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0fdc03d3a5aa909b36b3d",
+      "key": "family innovation corp|||analyst technology",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0f91f3d3a5aa909b36829",
+      "key": "tech jobs for good|||software engineer early career",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0f67118608b6f36f8016f",
+      "key": "accenture federal services|||application developer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0db05256e49282e650610",
+      "key": "general atomics aeronautical systems|||software developer",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad10662ae21edea94fd2e6a",
+      "key": "north freeze dry|||quality assurance tech",
+      "location": "little falls mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad1169be2d41540d4a6e014",
+      "key": "little trees|||product management associate innovation marketing",
+      "location": "syracuse ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aac20e195c707f49dfefa69",
+      "key": "conair llc|||product coordinator accessories and cosmetic bags",
+      "location": "stamford ct united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5bde6663a8f619507cc216",
+      "key": "wakemakers|||product advisor",
+      "location": "bend or united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
