@@ -4703,6 +4703,12 @@
       "key": "ibm|||application developer it service management",
       "location": "baton rouge louisiana united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1334dae21edea94fd45d9",
+      "key": "amazon|||cloud hw development engineer aws nitro ssd",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
