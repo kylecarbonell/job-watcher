@@ -45869,6 +45869,108 @@
       "key": "ascentek|||product specialist",
       "location": "golden valley mn united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5a07cf07-d410-41af-b750-23e449367969",
+      "key": "rtx|||software engineer 1 next gen systems",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8ff35ce35f90504b285bd3df3f61356764040d5b",
+      "key": "nvidia|||c software engineer new grad infrastructure tools",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad059b51db1f75ea469fd5a",
+      "key": "biospace|||associate software engineer",
+      "location": "rockville md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad025552cc4e9d17e90c36a",
+      "key": "sirenopt|||software engineer early career c systems",
+      "location": "san leandro ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad058ddc8ae22bb47ef6b38",
+      "key": "switchboard|||junior software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0261a78d51ae69ce09df0",
+      "key": "dawn foods global|||quality assurance tech i afternoon shift",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a567a7b53b3962b910b062f",
+      "key": "applied systems|||associate software engineer software engineer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad02ae1fe7a9bd5a6b9bca2",
+      "key": "thunderbird|||software engineer firefox desktop integrations",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad05f2b1db1f75ea469fed1",
+      "key": "charles schwab|||associate software engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfc5a412303667b98a02ac",
+      "key": "amazon|||software development engineer i amazon connect customer data insights",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac68cc60e027c0f3b3b2f94",
+      "key": "tata consultancy services|||angular developer",
+      "location": "irving tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad05e9e614121de7d947209",
+      "key": "clera|||founding engineer full stack",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad039b5c0dd9da253cf6a85",
+      "key": "vestis corporation|||quality assurance technician",
+      "location": "minneapolis mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad048ee1db1f75ea469fa5b",
+      "key": "new jersey resources|||40333 associate business application developer 1503 application development",
+      "location": "wall township nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad051bffe4980b99fedc1e8",
+      "key": "rk mechanical|||project engineer software",
+      "location": "phoenix az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad03de9fe7a9bd5a6b9c1a9",
+      "key": "national radio astronomy observatory|||software engineer ii iii",
+      "location": "socorro nm united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad04a39614121de7d946dde",
+      "key": "kbr inc|||junior software engineer",
+      "location": "beavercreek oh united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
