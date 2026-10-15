@@ -4685,6 +4685,24 @@
       "key": "palantir technologies|||meritocracy fellowship",
       "location": "new york ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1047aa4f99fef8194113b",
+      "key": "qualcomm|||compiler toolchain engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad10220256e49282e651ad0",
+      "key": "ibm|||fullstack developer google cloud",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0e740e2d41540d4a6c749",
+      "key": "ibm|||application developer it service management",
+      "location": "baton rouge louisiana united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
