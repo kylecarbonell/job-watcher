@@ -4643,6 +4643,24 @@
       "key": "salesforce|||software engineering amts college grad",
       "location": "san francisco ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad01ea02cc4e9d17e90c253",
+      "key": "apple|||sw engineering program manager imaging and sensing group",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfc5a412303667b98a02ac",
+      "key": "amazon|||software development engineer i amazon connect customer data insights",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acfcce62cc4e9d17e90a8d8",
+      "key": "salesforce|||product management specialist",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
