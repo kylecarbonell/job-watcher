@@ -45971,6 +45971,120 @@
       "key": "kbr inc|||junior software engineer",
       "location": "beavercreek oh united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d99c1e84-901c-49a8-9b2b-7bf6f62850a1",
+      "key": "capgemini|||software engineer new grad",
+      "location": "telford uk hove brighton and hove uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8c9f25151fe0671f817b00e1ab3aef16797b7ec8",
+      "key": "rtx|||full stack software engineer 1",
+      "location": "san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a0817041-bf54-415b-ac26-e4eefb5dc34d",
+      "key": "stantec|||junior environmental data analyst",
+      "location": "calgary ab canada waterloo on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:51ab6f8179f38a081bab24f973253e4c3fddf381",
+      "key": "national software management|||entry level data analyst business analyst",
+      "location": "atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a5b55d67a53b71432f20816c7f9184a2283048c5",
+      "key": "national software management|||entry level data analyst business analyst",
+      "location": "jersey city nj",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4dd3e095-652b-420e-ac75-fd7089db30f1",
+      "key": "id me|||associate product manager new grad",
+      "location": "mclean va mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad09d5cfe4980b99fedca17",
+      "key": "leidos|||quality assurance engineer",
+      "location": "lynnwood wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad090521db1f75ea46a0262",
+      "key": "tiktok|||backend engineer graduate social foundation 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad090651db1f75ea46a0264",
+      "key": "tiktok|||backend engineer graduate account 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0883b1db1f75ea46a01a8",
+      "key": "universal instruments corporation|||software engineer i",
+      "location": "conklin new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0169cfe7a9bd5a6b9b8ee",
+      "key": "itron inc|||firmware engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad09d34614121de7d947760",
+      "key": "prepworld|||quality assurance technologist nights",
+      "location": "northfleet england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad073df614121de7d947377",
+      "key": "raydar|||full stack engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad073e052a37835d5e3fe89",
+      "key": "raydar|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad06e15614121de7d94732e",
+      "key": "microsoft|||software engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad09d5f614121de7d947797",
+      "key": "hm revenue customs|||associate product owner",
+      "location": "salford england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad0737652a37835d5e3fe7d",
+      "key": "lululemon|||product operations lead soho broadway availability until 2am",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad0732c182a457110264eb7",
+      "key": "lululemon|||product operations lead cincinnati 3 month contract",
+      "location": "cincinnati oh united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad07b3b1db1f75ea46a00d4",
+      "key": "axoraq|||product development specialist",
+      "location": "ohio united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
