@@ -45779,6 +45779,96 @@
       "key": "eaton|||product specialist lv mcc aftermarket",
       "location": "airdrie alberta canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a254c38f-5fae-467c-9cff-3dd2e72094f5",
+      "key": "sirenopt|||software engineer early career c systems",
+      "location": "san leandro ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad0206a12303667b98a202a",
+      "key": "sirenopt|||software engineer early career c systems",
+      "location": "san leandro ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad01ea02cc4e9d17e90c253",
+      "key": "apple|||sw engineering program manager imaging and sensing group",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad01baa78d51ae69ce09c7c",
+      "key": "florida state university|||digital platform associate ops remote eligible institute on digital health and innovation idhi",
+      "location": "tallahassee metropolitan area florida united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad01a62c9f40bec907ffcc8",
+      "key": "mozilla|||software engineer firefox desktop integrations",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad005f1c0dd9da253cf5e6b",
+      "key": "ascend analytics|||junior software engineer",
+      "location": "boulder co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad01426c9f40bec907ffb5f",
+      "key": "ferris state university college of business|||it application programmer asst student position",
+      "location": "big rapids mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace40b4a0453f9ba62478b2",
+      "key": "john deere|||engineer software",
+      "location": "waterloo ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad00500fe7a9bd5a6b9b3bf",
+      "key": "keysight technologies|||r d software engineer electronic measurement systems",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfda2012303667b98a0996",
+      "key": "medtronic|||software quality engineer i reliability compliance",
+      "location": "mounds view mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad008cefe7a9bd5a6b9b5b8",
+      "key": "pic the gift|||junior software developer",
+      "location": "wentzville mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad01c65c9f40bec907ffd13",
+      "key": "itron inc|||firmware engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acfbd9f78d51ae69ce07b45",
+      "key": "boeing|||entry level software engineer developer development",
+      "location": "oklahoma city ok united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acfcb1878d51ae69ce082b9",
+      "key": "salesforce|||product management specialist",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ace6dad680c80c8753bc96e",
+      "key": "ascentek|||product specialist",
+      "location": "golden valley mn united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
