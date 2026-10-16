@@ -4709,6 +4709,12 @@
       "key": "amazon|||cloud hw development engineer aws nitro ssd",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad133b03d3a5aa909b389cf",
+      "key": "amazon|||software development engineer aws workspaces",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
