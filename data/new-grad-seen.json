@@ -47075,6 +47075,138 @@
       "key": "camping world|||product specialist",
       "location": "conway nh united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad286c983ada13a9da0653c",
+      "key": "infosys|||java fullstack developer",
+      "location": "richardson tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad282e625289a0b3bf57262",
+      "key": "newport news shipbuilding a division of hii|||engineer software 1",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad282d9810010ec72f58718",
+      "key": "newport news shipbuilding a division of hii|||engineer software 1",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad26fcb25289a0b3bf56c04",
+      "key": "liberty mutual insurance|||software engineer investments technology",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6998bc6fe0dec811a567c",
+      "key": "greenheck group|||application developer co op",
+      "location": "schofield wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad26a02f04335fc70ed55a7",
+      "key": "arup|||its engineer",
+      "location": "seattle washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad26128810010ec72f57b39",
+      "key": "t mobile|||associate engineer software mobile app development",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2676425289a0b3bf56838",
+      "key": "t mobile|||associate engineer software mobile app development",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad25e865290d4375c452a53",
+      "key": "t mobile|||associate engineer software mobile app development",
+      "location": "overland park ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad27298f04335fc70ed59e8",
+      "key": "better direct|||associate software engineer",
+      "location": "tempe az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad275b1c4290cef1412b175",
+      "key": "trident|||software qa engineer",
+      "location": "fairfax va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad273d725289a0b3bf56de6",
+      "key": "hii|||engineer software 1",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad27a3583ada13a9da061c0",
+      "key": "eclipse automation|||applications engineering co op",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad27a3783ada13a9da061c1",
+      "key": "eclipse automation|||software developer co op",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad288515290d4375c45389f",
+      "key": "eclipse automation|||applications engineering co op",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad284d1c4290cef1412b5db",
+      "key": "m t bank|||technology apprentice application developer zdp",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad261cb5290d4375c452b14",
+      "key": "booz allen hamilton|||software engineer",
+      "location": "tampa fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad27b9925289a0b3bf570cd",
+      "key": "booz allen hamilton|||digital transformation specialist junior",
+      "location": "norfolk va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad261cf83ada13a9da05803",
+      "key": "booz allen hamilton|||software engineer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad26f1e25289a0b3bf56bba",
+      "key": "barclays|||full stack developer",
+      "location": "whippany nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad27dfac4290cef1412b450",
+      "key": "at t|||sr specialist solution architect wireless platform",
+      "location": "bothell wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad256065290d4375c4525e0",
+      "key": "msu federal credit union|||product manager",
+      "location": "michigan united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
