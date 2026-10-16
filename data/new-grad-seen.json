@@ -46577,6 +46577,84 @@
       "key": "scilltech professional services|||product specialist",
       "location": "mississauga ontario canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:66d48643b973aa6c4bdcc97274ad002874d4df1e",
+      "key": "intuit|||software engineer 1",
+      "location": "4 locationsnyc mountain view ca atlanta ga san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a74f0537b3417772ade27a9",
+      "key": "mapjects|||c asp net c doe 85k to 110k start in 2 weeks",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad15be0e2d41540d4a7062f",
+      "key": "costar group|||software engineer i bizbuysell san francisco ca",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8fe7e88ffa38557e6ca964",
+      "key": "hewlett packard enterprise|||software engineer",
+      "location": "westford ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8fd5727c32860d14cf6d92",
+      "key": "hewlett packard enterprise|||software engineer",
+      "location": "westford ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad14a3f256e49282e65433e",
+      "key": "boston children s hospital|||applications development specialist i",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad15251ae21edea94fd5551",
+      "key": "panasonic avionics corporation|||mts i software",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1520a256e49282e654665",
+      "key": "odoo|||junior r d software engineer",
+      "location": "brisbane california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad148eba4f99fef8194359d",
+      "key": "johnson johnson innovative medicine|||technology im r d off cycle co op",
+      "location": "raritan nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace478aa0453f9ba6247bb2",
+      "key": "l3harris technologies|||associate software engineering",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad15f29a4f99fef81944239",
+      "key": "tspi|||salesforce developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad158c1a4f99fef81943f63",
+      "key": "oledworks|||oled software systems engineering co op",
+      "location": "rochester ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad158033d3a5aa909b39ee7",
+      "key": "oshkosh corporation|||engineer software",
+      "location": "oshkosh wi united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
