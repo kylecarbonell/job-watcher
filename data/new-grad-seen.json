@@ -46895,6 +46895,186 @@
       "key": "jane street|||strategy and product",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:44cbf6f16833bf46dcdec19fef144b14cbdf6a4f",
+      "key": "qualtrics|||software engineer 1",
+      "location": "provo ut",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6d735cdfdb3ee60906c63d5ac24d675da373aea9",
+      "key": "capital health|||product engineer 1",
+      "location": "pennington nj",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cedd12d3-77e6-4199-a341-b19528cc9f0c",
+      "key": "national bank of canada|||junior analyst data corporate investment banking",
+      "location": "montreal qc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad25d2df04335fc70ed5184",
+      "key": "accenture federal services|||software developer",
+      "location": "hanover md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad25a8c5290d4375c4528b3",
+      "key": "boeing|||software engineer simulation hybrid relocation assistance available",
+      "location": "bingen wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad25a1cf04335fc70ed5047",
+      "key": "t mobile|||associate engineer software mobile app development",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad259e183ada13a9da0552c",
+      "key": "garmin europe limited|||erp application analyst level 1",
+      "location": "southampton england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2587dc4290cef1412a60d",
+      "key": "arup|||its engineer",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad24b53c4290cef14129cb4",
+      "key": "s c electric company|||software engineer co op",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad23e9e25289a0b3bf5520a",
+      "key": "intel|||gpu driver and graphics performance engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad15cbda4f99fef8194412c",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad11c143d3a5aa909b37e65",
+      "key": "lockheed martin|||dev sec engineering asc early career",
+      "location": "herndon va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7e73d0e573df8adc75084",
+      "key": "qualcomm|||software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad23bf8f04335fc70ed3b70",
+      "key": "liberty mutual canada|||associate software developer node js python",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad254485290d4375c4524d8",
+      "key": "siemens healthineers|||software quality assurance specialist co op",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2598d83ada13a9da05506",
+      "key": "northrop grumman|||2027 associate embedded software engineer pathways program baltimore md",
+      "location": "baltimore md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad25aaa810010ec72f578d1",
+      "key": "barclays investment bank|||full stack developer",
+      "location": "whippany nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad24e3083ada13a9da04cdf",
+      "key": "american honda motor company inc|||design quality assurance engineer",
+      "location": "marysville oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad24d61f04335fc70ed47af",
+      "key": "msu federal credit union|||product manager",
+      "location": "michigan united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad2597525289a0b3bf563ac",
+      "key": "keenfinity group|||product coordinator co op",
+      "location": "fairport ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad24b3b25289a0b3bf559e3",
+      "key": "greenshield|||corporate analytics pricing co op student hybrid",
+      "location": "windsor on canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad23e3a25289a0b3bf551a5",
+      "key": "hm revenue customs|||associate product owner",
+      "location": "telford england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad23e2825289a0b3bf55198",
+      "key": "hm revenue customs|||associate product owner",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad23e21c4290cef1412942e",
+      "key": "hm revenue customs|||associate product owner",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad23d5f5290d4375c451533",
+      "key": "hm revenue customs|||associate product owner",
+      "location": "salford england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad23d40f04335fc70ed3cd8",
+      "key": "hm revenue customs|||associate product owner",
+      "location": "leeds england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a76ea85a26ccc369f836a4f",
+      "key": "fortress investment group|||analyst associate product management and investor relations",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad22bad25289a0b3bf547a3",
+      "key": "jpmorganchase|||international private bank digital product analyst gfg latam",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad22bad5290d4375c450c54",
+      "key": "chase|||international private bank digital product analyst gfg latam",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad2459825289a0b3bf55711",
+      "key": "camping world|||product specialist",
+      "location": "conway nh united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
