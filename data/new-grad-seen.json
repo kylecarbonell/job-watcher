@@ -47207,6 +47207,138 @@
       "key": "msu federal credit union|||product manager",
       "location": "michigan united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:984e5620-d97d-4408-9534-5b618ea183b2",
+      "key": "axon|||software engineer 1",
+      "location": "4 locationsboston ma seattle wa scottsdale az atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f2a0d97d-1b21-482a-a6ec-72d3376e8a59",
+      "key": "planview|||software engineer 1",
+      "location": "united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9d5ab9cc-2af9-4430-af63-0d0f31bf19e2",
+      "key": "huntington ingalls industries|||software engineer 1",
+      "location": "newport news va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ffb877b3-213f-40b4-aad9-17cb2cd90278",
+      "key": "huntington ingalls industries|||software engineer 1",
+      "location": "newport news va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7b2a26dd-7916-4ee7-ba75-e35c445c25b0",
+      "key": "dexcom|||software development engineer 1",
+      "location": "california",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1bc634d6-9cdf-426b-bcd4-73ff0d7389a7",
+      "key": "dexcom|||software development engineer 1",
+      "location": "oregon",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:edbda165-162b-46f7-a991-ae76b3547d01",
+      "key": "choice hotels|||software engineer 1",
+      "location": "scottsdale az",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2a4c0596ab27616c423c2bedf327a6c93008372c",
+      "key": "arcfield|||software engineer 1",
+      "location": "rome ny",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6da1ca497cf5477c9c011e1f8a6f53124209b30d",
+      "key": "signet jewelers|||software engineer 1",
+      "location": "akron oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7ee95e54-05ec-41be-a4c0-09b317cd47ff",
+      "key": "skanska|||gis analyst new grad",
+      "location": "united kingdom",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2a562810010ec72f5951a",
+      "key": "the university of kansas|||it assistant programmer",
+      "location": "lawrence ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2a285c4290cef1412c2db",
+      "key": "varite inc|||usa developer",
+      "location": "hartford ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad28e79f04335fc70ed6323",
+      "key": "ust|||software engineer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2a03c83ada13a9da070da",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2677ac4290cef1412ab02",
+      "key": "trident|||software qa engineer",
+      "location": "fairfax va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2990ff04335fc70ed6a44",
+      "key": "fortinet|||software development engineer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad28ccc5290d4375c453a35",
+      "key": "canada life|||software developer student position job details the canada life assurance company",
+      "location": "london on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2885525289a0b3bf5740d",
+      "key": "eclipse automation|||software developer co op",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad28f805290d4375c453b6b",
+      "key": "state of florida|||application systems programmer i 65000553",
+      "location": "tallahassee fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2a6f083ada13a9da0726b",
+      "key": "northrop grumman|||2027 associate software engineer pathways dulles va",
+      "location": "dulles va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad2a4b625289a0b3bf58053",
+      "key": "e2 endovascular engineering|||associate product manager product manager",
+      "location": "menlo park ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aad4ed86956574eac8b4e89",
+      "key": "flinn|||associate product manager 6605",
+      "location": "batavia il united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
