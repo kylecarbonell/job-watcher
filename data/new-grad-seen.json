@@ -46811,6 +46811,42 @@
       "key": "applied materials|||product management ii new college grad master s santa clara ca",
       "location": "santa clara ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:86c5e2e8cc15339f1d3e4fe111b1ed4bbeb5834d",
+      "key": "deloitte|||data scientist ai and data science engineer 1",
+      "location": "jersey city nj",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1de6fac037ffd0b61feb0",
+      "key": "futridge|||technology analyst",
+      "location": "charlotte nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1db3dac037ffd0b61fe2f",
+      "key": "microsoft|||software engineer",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1d846097baf4fb049e28a",
+      "key": "torentify|||software engineer",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1b23771d49939edecc98d",
+      "key": "conduent|||quality assurance associate i",
+      "location": "erlanger ky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad1d2259e2fdc1ecc1c3cab",
+      "key": "amphenol aerospace|||product manager amphenol commercial air",
+      "location": "sidney ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
