@@ -46847,6 +46847,54 @@
       "key": "amphenol aerospace|||product manager amphenol commercial air",
       "location": "sidney ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad214ebf04335fc70ed2bd6",
+      "key": "capgemini|||software engineer c",
+      "location": "milano texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad203ae83ada13a9da02b8a",
+      "key": "gemba advantage|||software engineer",
+      "location": "cheltenham england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad203a727c58afafbb2ffe4",
+      "key": "gemba advantage|||software engineer",
+      "location": "london united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1f882977ae951c8e018ae",
+      "key": "yext|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1e860097baf4fb049e61c",
+      "key": "charles river laboratories|||test engineer i job details charles river laboratories inc",
+      "location": "charleston sc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1f00d9e2fdc1ecc1c4359",
+      "key": "renishaw usa|||analyst programmer",
+      "location": "wotton under edge england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1f167ac037ffd0b62032e",
+      "key": "apogee research llc|||embedded software engineer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aad01823dbb1f8967cebd19",
+      "key": "jane street|||strategy and product",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
