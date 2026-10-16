@@ -46655,6 +46655,162 @@
       "key": "oshkosh corporation|||engineer software",
       "location": "oshkosh wi united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
+      "key": "intuit|||software engineer 1",
+      "location": "5 locationscharlotte nc new york mountain view ca atlanta ga san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9047dd23-9bb9-4503-8b3a-3792489b8b50",
+      "key": "costar group|||software engineer 1",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:80d5322d-a777-4522-99d6-f1589e858077",
+      "key": "applied materials|||product management 2 new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1745d3d3a5aa909b3a882",
+      "key": "rtx|||software engineer i onsite",
+      "location": "mckinney tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad17b0be2d41540d4a70f47",
+      "key": "anysignal|||associate embedded software engineer",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1771ee2d41540d4a70e3b",
+      "key": "bc pension corporation|||application developer co op",
+      "location": "victoria british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad17613e2d41540d4a70da7",
+      "key": "homes com|||software engineer i bizbuysell san francisco ca",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a66fa5ce8d8d22e32930f62",
+      "key": "fortinet|||software developer",
+      "location": "burnaby bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a51b6c5bf63b66c7997b53a",
+      "key": "fortinet|||software developer",
+      "location": "burnaby bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad171a9ae21edea94fd6290",
+      "key": "fortinet|||embedded software developer",
+      "location": "burnaby bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7608cf4817aa43070464d8",
+      "key": "tiktok|||backend software engineer pdpo offense defense pdpo",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad18d16c24514d0596ccf99",
+      "key": "raydar|||forward deployed engineer",
+      "location": "los altos ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1a937c3871fce466de310",
+      "key": "raydar|||product engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1660218608b6f36f83ec8",
+      "key": "gallatin ai inc|||fullstack engineer",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8feb44a19886486675ee09",
+      "key": "hewlett packard enterprise|||software engineer",
+      "location": "westford ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad16adfe2d41540d4a70a68",
+      "key": "odoo|||junior r d software engineer",
+      "location": "brisbane ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad181e2304865221f2f3706",
+      "key": "pierce manufacturing|||engineer software",
+      "location": "oshkosh wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad17439e2d41540d4a70d2a",
+      "key": "intuit|||software engineer 1",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa9e63128e24cb38513d1de",
+      "key": "boeing|||software engineer vehicle management systems associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7519c07b3417772ade36ea",
+      "key": "tempus ai|||quality assurance specialist",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad1aba353547a88ce9eabae",
+      "key": "little trees|||product management associate innovation marketing",
+      "location": "syracuse ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad1aba0c50216c4e1b6b4bf",
+      "key": "little trees|||product management associate innovation marketing",
+      "location": "watertown ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad1a85553547a88ce9eaa10",
+      "key": "clever gear|||assistant product manager",
+      "location": "chadstone victoria australia",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad184332cb8316516bb1982",
+      "key": "revenuecat|||product expert",
+      "location": "united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad169b63d3a5aa909b3a54f",
+      "key": "revenuecat|||product expert",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad164a5ae21edea94fd5f01",
+      "key": "applied materials|||product management ii new college grad master s santa clara ca",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
