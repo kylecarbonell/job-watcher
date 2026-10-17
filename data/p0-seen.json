@@ -4739,6 +4739,30 @@
       "key": "qualcomm|||software engineer",
       "location": "san diego ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2a03c83ada13a9da070da",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2ab655290d4375c454750",
+      "key": "cisco|||software developer embedded systems i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2ab665290d4375c454751",
+      "key": "cisco|||software developer embedded systems ii co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2ab68f04335fc70ed6ec5",
+      "key": "cisco|||software developer full stack backend i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
