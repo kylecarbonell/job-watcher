@@ -47603,6 +47603,36 @@
       "key": "itron inc|||firmware engineer",
       "location": "liberty lake wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6d7d162bb1fbd451dc203",
+      "key": "neuralink|||software engineer hil",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad31c48c4290cef1412df81",
+      "key": "cognizant|||full stack software developer",
+      "location": "plano tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abe39720e027c0f3b398176",
+      "key": "tesco|||ims technology engineering graduate scheme",
+      "location": "edinburgh scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad3689a83ada13a9da09941",
+      "key": "leaf home|||lead product demonstrator 21 hr",
+      "location": "wooster oh united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad35326c4290cef1412e7de",
+      "key": "travel editions ltd|||tour product executive",
+      "location": "england united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
