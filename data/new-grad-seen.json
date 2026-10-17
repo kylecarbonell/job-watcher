@@ -47675,6 +47675,18 @@
       "key": "buywander|||product grading associate",
       "location": "denver co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac96277c3a8af9c54a0a927",
+      "key": "fidelity investments|||january 2027 leap software engineer",
+      "location": "roanoke tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad3b2eef04335fc70ed9f10",
+      "key": "planview|||software engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
