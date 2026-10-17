@@ -47495,6 +47495,66 @@
       "key": "t mobile|||assoc product manager marketing technology",
       "location": "bellevue wa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4fdddd18fe3f5701c9641df05f56c0327ece26fb",
+      "key": "cox|||data engineer 1",
+      "location": "carmel in",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2f58dc4290cef1412d8d2",
+      "key": "abnormal ai|||software engineer 1 cloud infrastructure",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad30417810010ec72f5acf7",
+      "key": "public service company of new mexico pnm|||programmer analyst i sr",
+      "location": "lewisville tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a765579b17cba569035dca4",
+      "key": "amd|||design verification engineer",
+      "location": "markham on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2e2ebc4290cef1412d6b1",
+      "key": "lyft|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2ce55810010ec72f5a099",
+      "key": "laansu incorporated|||junior software developer",
+      "location": "sterling va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad3066e5290d4375c455d82",
+      "key": "apogee research llc|||embedded software engineer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2cde95290d4375c454fa0",
+      "key": "intezra inc|||ios mobile capability developer",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad2e29cf04335fc70ed7f05",
+      "key": "jtb hawaii inc|||hawaii product associate",
+      "location": "honolulu hi united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad2d5a7f04335fc70ed7b6c",
+      "key": "jtb americas ltd|||hawaii product associate",
+      "location": "honolulu hi united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
