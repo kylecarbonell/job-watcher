@@ -4763,6 +4763,30 @@
       "key": "cisco|||software developer full stack backend i co op canada",
       "location": "kanata on canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a765579b17cba569035dca4",
+      "key": "amd|||design verification engineer",
+      "location": "markham on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2e2ebc4290cef1412d6b1",
+      "key": "lyft|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2bd04f04335fc70ed7319",
+      "key": "amazon|||associate startup solution architect sup us east migrate",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2bc67810010ec72f59b77",
+      "key": "microsoft|||software engineer",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
