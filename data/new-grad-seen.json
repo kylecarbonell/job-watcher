@@ -47687,6 +47687,12 @@
       "key": "planview|||software engineer i",
       "location": "united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad3e487810010ec72f5ce7c",
+      "key": "scoutbetter|||software engineer lyft",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
