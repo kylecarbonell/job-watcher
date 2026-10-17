@@ -47555,6 +47555,54 @@
       "key": "jtb americas ltd|||hawaii product associate",
       "location": "honolulu hi united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1e71a3ad-b0cf-4e53-a601-f6e1b737e2a6",
+      "key": "scientific systems|||autonomy software engineer 1",
+      "location": "burlington vt",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5e801b15-781c-4f79-8630-11096eed5278",
+      "key": "cvector|||full stack software engineer 1 or 2",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab69d80d85922de20ce59f8",
+      "key": "deloitte|||frontend developer palantir",
+      "location": "baltimore md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad3222325289a0b3bf59d2c",
+      "key": "center for public partnerships research|||it assistant programmer",
+      "location": "topeka metropolitan area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad31c555290d4375c4560bf",
+      "key": "cognizant|||full stack software developer",
+      "location": "plano tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad33b06f04335fc70ed8cb3",
+      "key": "trident systems llc|||software qa engineer",
+      "location": "fairfax va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2b3a483ada13a9da0772e",
+      "key": "eclipse automation|||software developer co op",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad344f2f04335fc70ed8e5b",
+      "key": "itron inc|||firmware engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
