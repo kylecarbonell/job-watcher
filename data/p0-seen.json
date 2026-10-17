@@ -4787,6 +4787,12 @@
       "key": "microsoft|||software engineer",
       "location": "cambridge ma united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad3a60b83ada13a9da0a415",
+      "key": "ibm|||entry level product experience designer engineer austin tx 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
