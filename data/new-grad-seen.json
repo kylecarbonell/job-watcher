@@ -47633,6 +47633,48 @@
       "key": "travel editions ltd|||tour product executive",
       "location": "england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad3917725289a0b3bf5ade9",
+      "key": "metropolitan transportation authority|||associate infrastructure engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad38a60f04335fc70ed97da",
+      "key": "metropolitan transportation authority|||application developer levels 1 5 revenue applications tcu",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6d7dbba1c25652c610379",
+      "key": "neuralink|||software engineer hil",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad36755c4290cef1412ea7f",
+      "key": "itron inc|||firmware engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad3a60b83ada13a9da0a415",
+      "key": "ibm|||entry level product experience designer engineer austin tx 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a29a802c07d4b6ae1c41fd7",
+      "key": "ixl learning|||associate product manager rosetta stone",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a5ae4cf4da96a42cfd98050",
+      "key": "buywander|||product grading associate",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
