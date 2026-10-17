@@ -47339,6 +47339,162 @@
       "key": "flinn|||associate product manager 6605",
       "location": "batavia il united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:79ff61751608abe5b25722c52bec2ef9de87b817",
+      "key": "nexthop ai|||software engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ec1f0c9c2376262032cdf1983abb7fef888575f1",
+      "key": "roche|||graduate health data analyst new grad access and innovation",
+      "location": "burgess hill uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2bb59f04335fc70ed72e3",
+      "key": "faraday future|||sdk platform engineer",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2c40cf04335fc70ed73c4",
+      "key": "electronic arts ea|||full stack software engineer",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2c0c025289a0b3bf587af",
+      "key": "dexcom|||sw development engineer 1",
+      "location": "portland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2c0c025289a0b3bf587ae",
+      "key": "dexcom|||sw development engineer 1",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2bf6b810010ec72f59bdc",
+      "key": "planview|||software engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2bd04f04335fc70ed7319",
+      "key": "amazon|||associate startup solution architect sup us east migrate",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2bc67810010ec72f59b77",
+      "key": "microsoft|||software engineer",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad10ccda4f99fef81941570",
+      "key": "northrop grumman|||2026 associate embedded software engineer dulles va",
+      "location": "dulles va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad260b8810010ec72f57b2d",
+      "key": "sitime|||associate application engineer",
+      "location": "tempe az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2b1d65290d4375c45497c",
+      "key": "cpos|||software developer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3dffbe78237a036d5e33c3",
+      "key": "conduent|||quality assurance associate i",
+      "location": "erlanger ky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3e11e0882f121f56a396dd",
+      "key": "conduent|||quality assurance associate i",
+      "location": "erlanger kentucky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2ae3a810010ec72f59873",
+      "key": "t mobile|||associate engineer software mobile app development",
+      "location": "overland park ks 66251 united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad273e45290d4375c45328c",
+      "key": "hii|||engineer software 1",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2c1d95290d4375c454bd4",
+      "key": "eclipse automation|||applications engineering co op",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2a91af04335fc70ed6db8",
+      "key": "costar group|||associate software engineer irvine ca",
+      "location": "irvine california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2ab655290d4375c454750",
+      "key": "cisco|||software developer embedded systems i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2ab68f04335fc70ed6ec5",
+      "key": "cisco|||software developer full stack backend i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2ab665290d4375c454751",
+      "key": "cisco|||software developer embedded systems ii co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2aa2f25289a0b3bf5825b",
+      "key": "asplundh tree expert llc|||programmer analyst i sr",
+      "location": "lewisville tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2ac99c4290cef1412c655",
+      "key": "vitu|||software engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2b2a3c4290cef1412c877",
+      "key": "vestis corporation|||quality assurance technician",
+      "location": "minneapolis mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad2ab6c5290d4375c454754",
+      "key": "piping rock health products|||quality assurance inspector 2nd shift",
+      "location": "farmingdale ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad2b39025289a0b3bf585b6",
+      "key": "t mobile|||assoc product manager marketing technology",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
