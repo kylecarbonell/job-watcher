@@ -47819,6 +47819,24 @@
       "key": "torrid|||product development assistant temp",
       "location": "city of industry ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
+      "key": "vtg|||junior software engineer",
+      "location": "hanover md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5342483ada13a9da0dc10",
+      "key": "thales defense security inc|||associate embedded software engineer drt",
+      "location": "germantown md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a50e5b48d7d3e6cf1cbd311",
+      "key": "bti360|||ui react engineer polygraph required",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
