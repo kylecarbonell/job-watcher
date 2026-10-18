@@ -4799,6 +4799,12 @@
       "key": "jane street|||tools and compilers research and development",
       "location": "new york ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad52809c4290cef14132c3a",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
