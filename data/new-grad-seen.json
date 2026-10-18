@@ -47789,6 +47789,12 @@
       "key": "brian bemis toyota of dekalb|||sales customer service product specialist",
       "location": "dekalb il united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad50bb9ebd52f378af8f0ec",
+      "key": "intezra inc|||infrastructure engineer",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
