@@ -47759,6 +47759,18 @@
       "key": "midwayusa|||product specialist guns",
       "location": "columbia mo united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad4bb76f04335fc70edc2fe",
+      "key": "netrolynx ai|||backend engineer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a2fb3c1093df201d07ae412",
+      "key": "instalily ai|||design engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
