@@ -47693,6 +47693,24 @@
       "key": "scoutbetter|||software engineer lyft",
       "location": "san francisco ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad3ff74c4290cef14130586",
+      "key": "leonardo|||graduate test software engineer",
+      "location": "edinburgh scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad3e9efebd52f378af8c882",
+      "key": "scoutbetter|||software engineer i affirm",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad3ebe0810010ec72f5d0c9",
+      "key": "bayland health|||product innovation specialist bilingual mandarin english",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
