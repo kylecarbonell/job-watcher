@@ -47735,6 +47735,30 @@
       "key": "ss c technologies|||product solutions analyst",
       "location": "boston ma united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:029ced158f29fd067eab436fb64586d07cf0089f",
+      "key": "dexcom|||software development engineer 1",
+      "location": "oregon",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad48d42ebd52f378af8dec2",
+      "key": "lululemon|||product operations lead northpark overnight 6p 2a 6 month contract",
+      "location": "dallas tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad4812df04335fc70edbb91",
+      "key": "midwayusa|||product specialist optics",
+      "location": "columbia mo united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad4812c25289a0b3bf5d088",
+      "key": "midwayusa|||product specialist guns",
+      "location": "columbia mo united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
