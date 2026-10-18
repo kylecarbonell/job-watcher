@@ -47795,6 +47795,30 @@
       "key": "intezra inc|||infrastructure engineer",
       "location": "columbia md united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad52809c4290cef14132c3a",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad52c33c4290cef14132ca8",
+      "key": "lululemon|||product operations lead crabtree valley mall seasonal",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad5150083ada13a9da0d7c6",
+      "key": "kearney|||teams product analysis technician",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad50a3bebd52f378af8efb2",
+      "key": "torrid|||product development assistant temp",
+      "location": "city of industry ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
