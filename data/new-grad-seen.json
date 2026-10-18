@@ -47711,6 +47711,30 @@
       "key": "bayland health|||product innovation specialist bilingual mandarin english",
       "location": "bellevue wa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad41c48c4290cef14130997",
+      "key": "leonardo|||graduate software engineer",
+      "location": "edinburgh midlothian united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad41c4c810010ec72f5d9e7",
+      "key": "leonardo|||graduate software engineer",
+      "location": "newcastle upon tyne england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad4491af04335fc70edb60f",
+      "key": "true northon|||associate product analyst",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad44e59ebd52f378af8d924",
+      "key": "ss c technologies|||product solutions analyst",
+      "location": "boston ma united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
