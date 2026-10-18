@@ -47771,6 +47771,24 @@
       "key": "instalily ai|||design engineer",
       "location": "new york ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad4deb225289a0b3bf5dd24",
+      "key": "jane street|||tools and compilers research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad3bd1525289a0b3bf5b578",
+      "key": "the swift group llc|||software engineer",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad4cec8810010ec72f5efc8",
+      "key": "brian bemis toyota of dekalb|||sales customer service product specialist",
+      "location": "dekalb il united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
