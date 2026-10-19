@@ -4811,6 +4811,18 @@
       "key": "microsoft|||software engineer forward deployed engineer",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad64c2d52aa6152bb6937fc",
+      "key": "cisco|||software engineer full stack backend ii full time united states",
+      "location": "research triangle park nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad65cf854bbabbab06f7591",
+      "key": "amazon|||software development engineer ios",
+      "location": "newark nj united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
