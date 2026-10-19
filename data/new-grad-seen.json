@@ -47867,6 +47867,174 @@
       "key": "clera|||founding engineer",
       "location": "san francisco ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c0cce91bdf389bf6184dc0bbf158523d4dc7b6a8",
+      "key": "two circles|||marketing analyst early careers programme",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad60188950ef68d51835634",
+      "key": "northrop grumman uk|||software engineer",
+      "location": "cheltenham england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5f80967bec1d0d9c6a0db",
+      "key": "accenture|||birmingham software engineering graduate programme 2027 2028",
+      "location": "birmingham england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5f6b0950ef68d51834f4d",
+      "key": "uk atomic energy authority|||graduate hpc computational engineer",
+      "location": "abingdon on thames england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5f53e52aa6152bb6904df",
+      "key": "vt group vtg|||junior software engineer",
+      "location": "hanover md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5e933361c015bf0cfd4cc",
+      "key": "step fusion|||graduate hpc computational engineer",
+      "location": "abingdon england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5c270cfd70948fba471e7",
+      "key": "human interest|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5c1cc54bbabbab06ef10f",
+      "key": "accenture|||sunquest information system lis analyst",
+      "location": "albany new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5beaecfd70948fba46c4f",
+      "key": "newport news shipbuilding a division of hii|||engineer software 1",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5b833f04335fc70ede5cb",
+      "key": "allergan aesthetics an abbvie company|||associate cloud engineer i",
+      "location": "north chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5b739f04335fc70ede5b1",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "virginia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5b72c83ada13a9da0edd1",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "colorado united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5b72c810010ec72f60fc9",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5b72aebd52f378af908d3",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5b725ebd52f378af908d1",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5b722ebd52f378af908d0",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "washington district of columbia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5c8ce361c015bf0cfafd2",
+      "key": "hii|||engineer software 1",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5d39ce4b94611ab837233",
+      "key": "deel|||test engineer i",
+      "location": "lakewood nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5f5e4e4b94611ab839c86",
+      "key": "rapiscan systems|||software engineer 1",
+      "location": "billerica ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5dbaccfd70948fba490da",
+      "key": "osi electronics|||software engineer 1",
+      "location": "billerica ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5cfda950ef68d51832003",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5c056cfd70948fba46e44",
+      "key": "hii|||engineer software 1",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5f5b8e4b94611ab839c59",
+      "key": "vt group vtg|||associate software engineer",
+      "location": "manassas va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5f4a467bec1d0d9c69df9",
+      "key": "panasonic appliances refrigeration systems de mexico s a de c v|||mts i software",
+      "location": "irvine ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab326ac78c69ff506c427e3",
+      "key": "zs|||business technology solutions associate",
+      "location": "evanston il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad5f5b6e4b94611ab839c56",
+      "key": "vt group vtg|||associate software engineer",
+      "location": "manassas va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad5eb9ee4b94611ab838d63",
+      "key": "wise|||graduate product analyst",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad5c7cd54bbabbab06efa99",
+      "key": "club demonstration services|||product demonstrator",
+      "location": "orillia on canada",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
