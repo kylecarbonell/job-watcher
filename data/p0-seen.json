@@ -4823,6 +4823,24 @@
       "key": "amazon|||software development engineer ios",
       "location": "newark nj united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
+      "key": "amazon|||software engineer early career",
+      "location": "9 locationsmadison wi boston ma seattle wa austin tx detroit mi santa clara ca arlington county arlington va minneapolis mn denver co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6665d3dc655658d8e59c7",
+      "key": "ibm|||mainframe z system verification tester apprentice",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad67935e4b94611ab83f08b",
+      "key": "amazon|||software development engineer early career 2027 can",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
