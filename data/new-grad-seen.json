@@ -47837,6 +47837,36 @@
       "key": "bti360|||ui react engineer polygraph required",
       "location": "chantilly va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:316c2d00-0f12-44d3-a120-dec7324caeff",
+      "key": "huntington ingalls industries|||software engineer 1",
+      "location": "newport news va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5a59f0ee-1571-4abb-9f4a-04fb4914313a",
+      "key": "osf healthcare|||data engineer 1",
+      "location": "peoria il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad59d0febd52f378af904a6",
+      "key": "siemens|||software engineer",
+      "location": "minnetonka mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad57e66810010ec72f606a9",
+      "key": "sitime|||associate application engineer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad583c2c4290cef14133742",
+      "key": "clera|||founding engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
