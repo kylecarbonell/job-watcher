@@ -4895,6 +4895,18 @@
       "key": "microsoft|||software engineer forward deployed engineer",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7bafc52aa6152bb69ec91",
+      "key": "cisco|||software developer embedded systems i full time canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7b5b254bbabbab0701617",
+      "key": "ibm|||entry level storage product manager 2027 tucson arizona",
+      "location": "tucson az united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
