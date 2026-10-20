@@ -48689,6 +48689,78 @@
       "key": "nex tech|||product development coordinator",
       "location": "dodge city ks united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:35669be8-a2d4-451a-b732-d404c89defe7",
+      "key": "palantir|||software engineer new grad query engines",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:814742fa-a084-4b5c-8a86-88b5c02f9b2f",
+      "key": "palantir|||software engineer new grad query engines",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6aebe67bec1d0d9c71531",
+      "key": "palantir technologies|||software engineer new grad query engines",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6ae9d54bbabbab06fa99b",
+      "key": "docusign|||software engineer",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6ae1f67bec1d0d9c7150f",
+      "key": "settlor|||jr web application developer",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad663fa3dc655658d8e580d",
+      "key": "rivian|||software engineer",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6a9ce67bec1d0d9c713b2",
+      "key": "relativity space|||software development engineer in test i",
+      "location": "long beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad69d1c67bec1d0d9c70ccc",
+      "key": "california correctional health care services|||net developer security specialist",
+      "location": "yolo county united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6b3d852aa6152bb697d89",
+      "key": "vitu|||software engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad6a77de4b94611ab840fff",
+      "key": "nvidia|||technical product marketing engineer robotics simulation new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad6a1f93dc655658d8e817b",
+      "key": "clerkie|||associate product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad6a83b52aa6152bb69796a",
+      "key": "northern trust|||associate product manager private passport",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
