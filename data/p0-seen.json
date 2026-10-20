@@ -4907,6 +4907,30 @@
       "key": "ibm|||entry level storage product manager 2027 tucson arizona",
       "location": "tucson az united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d3b852aa6152bb69fdc8",
+      "key": "lyft|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d00452aa6152bb69fa9f",
+      "key": "ibm|||application developer it service management",
+      "location": "baton rouge louisiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7cffe950ef68d51844227",
+      "key": "ibm|||application developer it service management",
+      "location": "baton rouge louisiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7c54654bbabbab07020cc",
+      "key": "spacex|||space operations training engineer full stack software",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
