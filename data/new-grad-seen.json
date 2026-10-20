@@ -49151,6 +49151,138 @@
       "key": "dollar tree stores|||assortment planner",
       "location": "chesapeake va united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b0739491e54146a927412284155c0ac0a10a3a8d",
+      "key": "uare ai|||software engineer early career",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7a4f667bec1d0d9c77696",
+      "key": "bny|||specialist infrastructure solution engineer",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7b85067bec1d0d9c78455",
+      "key": "key technology|||applications engineering technician 1",
+      "location": "west sacramento ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7b623950ef68d5184302c",
+      "key": "duravant|||applications engineering technician 1",
+      "location": "west sacramento ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a3c00c0d261407de97fbda2",
+      "key": "omnea|||product engineer",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7a42d67bec1d0d9c775fc",
+      "key": "interstate waste services inc|||software engineer on site hybrid role",
+      "location": "teaneck nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7a21f950ef68d518421da",
+      "key": "waam3d|||graduate software developer",
+      "location": "milton keynes england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7a9fb3dc655658d8eeb67",
+      "key": "eclipse automation|||software developer co op",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7a02052aa6152bb69d888",
+      "key": "ottimate|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7aa1367bec1d0d9c77a65",
+      "key": "zeiss group|||software engineer x ray source development",
+      "location": "dublin ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7be493dc655658d8efa1d",
+      "key": "rtx|||software engineer i core services and libraries onsite",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7a4a054bbabbab0700a4e",
+      "key": "procter gamble|||platform quality assurance leader personal health care 1",
+      "location": "cincinnati oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7a3c567bec1d0d9c775b6",
+      "key": "humana|||software engineer 2",
+      "location": "louisville ky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7bafc52aa6152bb69ec91",
+      "key": "cisco|||software developer embedded systems i full time canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7bccf52aa6152bb69ed99",
+      "key": "cvs health|||associate software development engineer conversion",
+      "location": "connecticut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad79e5167bec1d0d9c770ea",
+      "key": "boeing|||software quality engineer associate experienced or senior",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7a31c52aa6152bb69daf6",
+      "key": "amentum|||programmer analyst",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7a99b3dc655658d8eeb3a",
+      "key": "southwest airline career page|||operations research developer",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7a451950ef68d518423db",
+      "key": "espn|||software development engineer in test i sdet",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7b5b254bbabbab0701617",
+      "key": "ibm|||entry level storage product manager 2027 tucson arizona",
+      "location": "tucson az united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7b35a3dc655658d8ef15e",
+      "key": "lululemon|||product operations lead biltmore fashion park",
+      "location": "phoenix az united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7ad84e4b94611ab8478c0",
+      "key": "capital one|||senior associate product manager digital onboarding business cards payments",
+      "location": "mclean va united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
