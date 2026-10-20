@@ -4889,6 +4889,12 @@
       "key": "intel|||cad eda tools software engineer",
       "location": "hillsboro or united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7213b54bbabbab06fcd44",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
