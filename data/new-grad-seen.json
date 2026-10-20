@@ -48863,6 +48863,66 @@
       "key": "the walt disney company|||decision science product graduate associate spring 2027",
       "location": "lake buena vista fl united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a79046f98c6f45f7a03ba7920b48e5f80c1bf80e",
+      "key": "osf healthcare|||data engineer 1",
+      "location": "peoria il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad727db67bec1d0d9c73aa1",
+      "key": "connor clark lunn investment management cc l|||software development engineer",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad727da950ef68d5183e841",
+      "key": "connor clark lunn investment management cc l|||infrastructure software engineer",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7234d67bec1d0d9c73a02",
+      "key": "hmx labs|||graduate hpc software engineer platform automation",
+      "location": "london united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7213b54bbabbab06fcd44",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad73a6b950ef68d5183ed2b",
+      "key": "nasa jet propulsion laboratory|||scientific applications software engineering i",
+      "location": "pasadena ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad70b1c52aa6152bb699d34",
+      "key": "shield consulting solutions inc|||jr java swe",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad70efce4b94611ab843475",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad73c2152aa6152bb69a630",
+      "key": "dublin city university|||trainee analyst programmer",
+      "location": "dublin county dublin ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad74b1be4b94611ab8440fc",
+      "key": "wise|||graduate product designer",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
