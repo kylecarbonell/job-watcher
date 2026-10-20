@@ -48923,6 +48923,234 @@
       "key": "wise|||graduate product designer",
       "location": "london england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d9e469da-03cc-4e75-b815-d57e9036c392",
+      "key": "graphcore|||graduate software engineer new grad ai compute libraries performance",
+      "location": "bristol uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:75cf166e644cfd40f53ca686199427ee0acee0d4",
+      "key": "citizens financial group|||software engineer 1",
+      "location": "johnston ri",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7b2690bc05d77f2bddd2c9",
+      "key": "wd|||software engineer apps",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7b2696ecf5194164fbc31c",
+      "key": "wd|||software engineer apps",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad79492e4b94611ab846610",
+      "key": "infosys|||python developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7948ae4b94611ab84660b",
+      "key": "infosys|||java backend developer",
+      "location": "salt lake city ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7958b3dc655658d8edb61",
+      "key": "geotab|||software developer",
+      "location": "oakville on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad791603dc655658d8ed781",
+      "key": "mcwane|||mcwane ductile new jersey programmer",
+      "location": "phillipsburg nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7905f950ef68d51841398",
+      "key": "aqr capital management|||research portfolio management engineering analyst",
+      "location": "greenwich ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7901567bec1d0d9c7659b",
+      "key": "l3harris technologies|||associate software engineer",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acdba132bd01b08973f1048",
+      "key": "raytheon|||research software engineer i onsite",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7882754bbabbab06ff4ff",
+      "key": "sweti marketing|||front end web specialist hybrid",
+      "location": "bentonville ar united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad76500e4b94611ab844a7d",
+      "key": "nycm insurance|||software developer hybrid",
+      "location": "edmeston ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad680e43dc655658d8e6cbd",
+      "key": "caci international inc|||nasa spacecraft data services web software developer",
+      "location": "houston tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad77ec354bbabbab06feef9",
+      "key": "uk atomic energy authority|||graduate hpc computational engineer",
+      "location": "abingdon on thames england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad705f552aa6152bb699b3a",
+      "key": "mcwane ductile|||mcwane ductile new jersey programmer",
+      "location": "phillipsburg nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad77b0567bec1d0d9c7587f",
+      "key": "lockheed martin|||software engineer configuration management",
+      "location": "liverpool new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9f0b20d836be0507a2c58",
+      "key": "minth north america inc|||sap fico functional analyst",
+      "location": "lewisburg tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad770cd3dc655658d8ec3f9",
+      "key": "hpr|||platform software engineer i",
+      "location": "needham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7681e52aa6152bb69b473",
+      "key": "city science|||graduate software developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad75f8e67bec1d0d9c74ba6",
+      "key": "funnel leasing|||software engineer entry to mid level",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad75e9d3dc655658d8ebbcc",
+      "key": "avanza|||software developer power platform",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad75e4952aa6152bb69b088",
+      "key": "city science|||graduate software developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad75aa767bec1d0d9c7494e",
+      "key": "funnel leasing|||software engineer entry to mid level",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad77c5b3dc655658d8eca32",
+      "key": "general dynamics|||entry level software engineer spring 2027",
+      "location": "manassas va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad777f154bbabbab06fea93",
+      "key": "mimecast|||software engineer i",
+      "location": "minneapolis mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7929a67bec1d0d9c767b1",
+      "key": "capital one|||associate software engineer new grad card expansion",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad77f79e4b94611ab84588f",
+      "key": "cvs health|||full stack engineer training program june 2027 cohort",
+      "location": "connecticut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad786ff52aa6152bb69c69d",
+      "key": "booz allen hamilton|||software developer junior",
+      "location": "aberdeen proving ground md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7988452aa6152bb69d21f",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad78cb467bec1d0d9c7632b",
+      "key": "bmo|||specialist ii ic infrastructure engineering new or recent graduate",
+      "location": "barrie on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7604867bec1d0d9c74bd7",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad76b3b54bbabbab06fe35b",
+      "key": "intezra inc|||ios mobile capability developer",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7923367bec1d0d9c76755",
+      "key": "bulkhead|||junior qa tester",
+      "location": "derby england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a73945d1ce9647cdbca9031",
+      "key": "amphenol rf|||product specialist",
+      "location": "danbury ct united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7919b67bec1d0d9c766e1",
+      "key": "kith|||technical product associate",
+      "location": "brooklyn ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad77098950ef68d5183fff9",
+      "key": "keybank|||senior technical product management or technical product management",
+      "location": "cleveland oh united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad77dc7950ef68d51840776",
+      "key": "dollar tree stores|||assortment planner",
+      "location": "chesapeake va united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
