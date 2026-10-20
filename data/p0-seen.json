@@ -4841,6 +4841,30 @@
       "key": "amazon|||software development engineer early career 2027 can",
       "location": "vancouver bc canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6946d54bbabbab06f9c18",
+      "key": "amazon|||software development engineer early career 2027 us",
+      "location": "madison wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6aebe67bec1d0d9c71531",
+      "key": "palantir technologies|||software engineer new grad query engines",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad69a0752aa6152bb6970e6",
+      "key": "apple|||software engineer is t early career opportunities",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad6a77de4b94611ab840fff",
+      "key": "nvidia|||technical product marketing engineer robotics simulation new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
