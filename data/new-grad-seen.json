@@ -48761,6 +48761,108 @@
       "key": "northern trust|||associate product manager private passport",
       "location": "chicago il united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7001767bec1d0d9c72fa0",
+      "key": "the walt disney company|||software development engineer in test i sdet",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1ad5af84e5d9c7fd2b701",
+      "key": "seagate technology|||software engineer early career",
+      "location": "shakopee mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6c6a254bbabbab06fb136",
+      "key": "pierce manufacturing|||engineer software",
+      "location": "oshkosh wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6d9bd950ef68d5183d232",
+      "key": "b4corp|||812259 software engineer 300 000 00",
+      "location": "bethesda md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6d9b652aa6152bb698afe",
+      "key": "b4corp|||812268 test engineer 205 000 00",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6d8553dc655658d8e957c",
+      "key": "b4corp|||812266 software engineer 145 000 00",
+      "location": "bethesda md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6c46567bec1d0d9c71cfc",
+      "key": "intel|||automated material handling systems amhs software engineer",
+      "location": "chandler az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6cdd7950ef68d5183cd95",
+      "key": "intel|||cad eda tools software engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6bd5c52aa6152bb69814e",
+      "key": "switchboard|||junior software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad63e2ee4b94611ab83c3da",
+      "key": "vermont mutual insurance group|||quality assurance engineer i",
+      "location": "montpelier vt united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6fb633dc655658d8e9ebf",
+      "key": "oshkosh corporation|||engineer software",
+      "location": "oshkosh wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6d111950ef68d5183cf0b",
+      "key": "scg midlands|||graduate software engineer",
+      "location": "melton england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6eb453dc655658d8e9ab8",
+      "key": "espn|||software development engineer in test i sdet",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6bbfe3dc655658d8e8be2",
+      "key": "state of florida|||computer programmer analyst i 64006277",
+      "location": "gainesville fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad6b6c43dc655658d8e89af",
+      "key": "jerry|||product manager 2x yc founder mentorship",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad6b6bde4b94611ab841536",
+      "key": "jerry|||product manager in training yc cofounder ceo led",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad6dfaf52aa6152bb698c49",
+      "key": "the walt disney company|||decision science product graduate associate spring 2027",
+      "location": "lake buena vista fl united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
