@@ -49283,6 +49283,150 @@
       "key": "capital one|||senior associate product manager digital onboarding business cards payments",
       "location": "mclean va united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1fac2631-0a51-44d0-9af9-209c670e1742",
+      "key": "quora|||full stack software engineer new grad",
+      "location": "remote in usa remote in canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bf357e7e-5047-410b-a11a-b939b5f31b63",
+      "key": "wtw|||software developer new grad",
+      "location": "reigate uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6b15ca10-3cd5-4765-9e64-4234045a3ebd",
+      "key": "sierra|||software engineer new grad agent",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a7309900-70f4-42e4-a032-fd7570013f54",
+      "key": "rtx|||software engineer 1",
+      "location": "richardson tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:caf2c40d-930b-4a27-9c3e-b4d2e80026bf",
+      "key": "rtx|||software engineer 1 core services and libraries",
+      "location": "huntsville al",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e85971c7-fc74-4cf9-b661-6b4bde36305a",
+      "key": "rtx|||software engineer 1 embedded linux",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:98a3e335-f0b6-4ecd-b464-77ef59962136",
+      "key": "wsp|||junior data analyst",
+      "location": "newark nj",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d8ef52aa6152bb6a01b4",
+      "key": "intuitive|||full stack software engineer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d5c53dc655658d8f0a77",
+      "key": "cognizant|||cobol developer micro focus",
+      "location": "earth city mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d59f67bec1d0d9c798bb",
+      "key": "esri|||software development engineer in test i sdet arcgis enterprise",
+      "location": "redlands ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7c3373dc655658d8efcee",
+      "key": "becu|||web solutions specialist",
+      "location": "tukwila wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d4efe4b94611ab849498",
+      "key": "ust|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d4af67bec1d0d9c797f0",
+      "key": "frontgrade technologies|||test engineer i",
+      "location": "hauppauge ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d3b852aa6152bb69fdc8",
+      "key": "lyft|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d34e67bec1d0d9c796fb",
+      "key": "state farm|||software engineer",
+      "location": "dunwoody ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d00452aa6152bb69fa9f",
+      "key": "ibm|||application developer it service management",
+      "location": "baton rouge louisiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7cffe950ef68d51844227",
+      "key": "ibm|||application developer it service management",
+      "location": "baton rouge louisiana united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7c54654bbabbab07020cc",
+      "key": "spacex|||space operations training engineer full stack software",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7c39052aa6152bb69f1af",
+      "key": "general atomics aeronautical systems|||associate software developer",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7c50f54bbabbab0702095",
+      "key": "thermo fisher scientific|||digital operations associate tester",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d4e752aa6152bb69fea8",
+      "key": "state of florida|||885931 ops application systems programmer i 40099506",
+      "location": "tallahassee fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad79e3a950ef68d51841e69",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad708b654bbabbab06fc9ec",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7d3ce950ef68d51844577",
+      "key": "premier brands group holdings|||product development associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
