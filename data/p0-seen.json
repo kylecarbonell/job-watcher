@@ -4865,6 +4865,30 @@
       "key": "nvidia|||technical product marketing engineer robotics simulation new college grad 2027",
       "location": "santa clara ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:35669be8-a2d4-451a-b732-d404c89defe7",
+      "key": "palantir|||software engineer new grad query engines",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:814742fa-a084-4b5c-8a86-88b5c02f9b2f",
+      "key": "palantir|||software engineer new grad query engines",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6c46567bec1d0d9c71cfc",
+      "key": "intel|||automated material handling systems amhs software engineer",
+      "location": "chandler az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6cdd7950ef68d5183cd95",
+      "key": "intel|||cad eda tools software engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
