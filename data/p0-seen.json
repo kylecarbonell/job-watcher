@@ -5009,6 +5009,24 @@
       "key": "microsoft|||software engineer ctj poly",
       "location": "reston va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad8ea90b0725dc268dd719f",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad8e3f439284cd52428134d",
+      "key": "amazon|||dc asset doc tech coordinator field engineering",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9001454bbabbab070b2e0",
+      "key": "amazon|||software dev engineer",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
