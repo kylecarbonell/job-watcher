@@ -4991,6 +4991,24 @@
       "key": "bytedance|||3d graphics innovation engineer graduate pico foundation developer technology 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:91ce075740dd4d4bc9286e24bf298024fe8ff975",
+      "key": "citadel securities|||software engineer university graduate",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad8ab1867bec1d0d9c7e728",
+      "key": "microsoft|||software engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad40f21c4290cef14130788",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
