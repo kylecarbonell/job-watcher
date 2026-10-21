@@ -4931,6 +4931,36 @@
       "key": "spacex|||space operations training engineer full stack software",
       "location": "hawthorne ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d848615a-0d50-478c-a92e-2dda9489542c",
+      "key": "nvidia|||software engineer new grad agent performance modeling",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:63d8166841e26ac68d061eb49847c6a69ef9cefb",
+      "key": "nvidia|||software engineer new grad dl kernel libraries",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8a99c29ee19c1e97fa54c5a70098a1b7c547bafb",
+      "key": "nvidia|||deep learning software engineer new grad tensorrt performance",
+      "location": "remote in usa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7ed6e950ef68d5184584b",
+      "key": "ibm|||entry level supply chain hardware developer",
+      "location": "poughkeepsie new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7ed6652aa6152bb6a10ec",
+      "key": "ibm|||entry level supply chain software developer",
+      "location": "poughkeepsie new york united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
