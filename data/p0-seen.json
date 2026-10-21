@@ -4961,6 +4961,30 @@
       "key": "ibm|||entry level supply chain software developer",
       "location": "poughkeepsie new york united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:26d84509-a16b-4556-99f7-18329fa61191",
+      "key": "amazon|||software development engineer 1 ai ml network infrastructure",
+      "location": "cupertino ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:78b7d0afccf9cd0f396966c5f943620cea0c5bf5",
+      "key": "qualcomm|||machine learning engineer new grad ai processors machine learning engineering",
+      "location": "markham on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad83997e4b94611ab84c45f",
+      "key": "ibm|||entry level software developer 2027",
+      "location": "poughkeepsie new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad80cb752aa6152bb6a1fcb",
+      "key": "cisco|||software engineer fullstack backend ii full time united states",
+      "location": "boulder co united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
