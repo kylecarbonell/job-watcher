@@ -49733,6 +49733,48 @@
       "key": "wise|||graduate product designer",
       "location": "london england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a49d736f9cbb100d1ab4459",
+      "key": "true anomaly|||software integration engineer",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad899cb950ef68d5184901d",
+      "key": "ust|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad8988b54bbabbab070775f",
+      "key": "minnesota it services|||it quality analyst tester its1",
+      "location": "saint paul mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad8924e1780f5549d585dc2",
+      "key": "bytedance|||3d graphics innovation engineer graduate pico foundation developer technology 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a4182d216b14939532842f7",
+      "key": "thatch|||software engineer full stack",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7fac954bbabbab070470a",
+      "key": "itron inc|||firmware engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad881ce67bec1d0d9c7db7f",
+      "key": "lululemon|||product operations lead contract the summit sierra",
+      "location": "nevada mo united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
