@@ -5027,6 +5027,24 @@
       "key": "amazon|||software dev engineer",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad93cfb39284cd524285a56",
+      "key": "apple|||software engineer soc level validation engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad91c2467bec1d0d9c83544",
+      "key": "amazon|||adc engineer i amazon dedicated cloud engineering support engineering",
+      "location": "jessup md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9386839284cd5242857cb",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
