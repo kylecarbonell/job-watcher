@@ -49427,6 +49427,210 @@
       "key": "premier brands group holdings|||product development associate",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7654bad4-ebff-466a-bd2d-63a5d167ba11",
+      "key": "brain co|||ai product engineer new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d848615a-0d50-478c-a92e-2dda9489542c",
+      "key": "nvidia|||software engineer new grad agent performance modeling",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:63d8166841e26ac68d061eb49847c6a69ef9cefb",
+      "key": "nvidia|||software engineer new grad dl kernel libraries",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:12de8f0ced0ef1c5710bbd64272e258d4dc6a808",
+      "key": "nexthop ai|||software engineer new grad hardware diagnostics",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1e049ce07899f5597b234c502d0992ba601dc7e4",
+      "key": "ncr voyix|||software engineer 1",
+      "location": "atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a012a300-cb95-495b-9875-a2f2d0a8a1f0",
+      "key": "brain co|||machine learning engineer new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8a99c29ee19c1e97fa54c5a70098a1b7c547bafb",
+      "key": "nvidia|||deep learning software engineer new grad tensorrt performance",
+      "location": "remote in usa santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7f64267bec1d0d9c7b00b",
+      "key": "intuitive|||full stack engineer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7ebc267bec1d0d9c7a8bf",
+      "key": "bierman autism centers|||full stack developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7fdc454bbabbab0704894",
+      "key": "t mobile|||associate engineer software mobile app development",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7fdaa54bbabbab0704884",
+      "key": "t mobile|||associate engineer software mobile app development",
+      "location": "overland park ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab30c8730340229a32315dd",
+      "key": "relativity space|||software engineer i factory platform",
+      "location": "long beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7f63354bbabbab0704563",
+      "key": "intuitive|||full stack software engineer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7e821950ef68d51845400",
+      "key": "fcc fac|||technical analyst saas platforms and third party apps",
+      "location": "regina sk canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7f8d052aa6152bb6a1776",
+      "key": "lockheed martin|||digital embedded software engineer early career",
+      "location": "moorestown nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a6ea3c541b41d325296bcd5",
+      "key": "t rex solutions llc|||web developer",
+      "location": "fort meade md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7ed6e950ef68d5184584b",
+      "key": "ibm|||entry level supply chain hardware developer",
+      "location": "poughkeepsie new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7ed6652aa6152bb6a10ec",
+      "key": "ibm|||entry level supply chain software developer",
+      "location": "poughkeepsie new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7ed2052aa6152bb6a10b1",
+      "key": "quora|||full stack software engineer new grad quora remote",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7e09267bec1d0d9c7a105",
+      "key": "movement mortgage|||qa engineer",
+      "location": "indian land sc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7dd9e950ef68d51844c85",
+      "key": "step fusion|||graduate hpc computational engineer",
+      "location": "abingdon england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a95b34ec8763a3a87ffb845",
+      "key": "avalore ai|||infrastructure engineer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7ecc7e4b94611ab84a630",
+      "key": "tigercat industries|||embedded systems software developer",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7aea367bec1d0d9c77d0d",
+      "key": "eclipse automation|||software developer co op",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7f29fe4b94611ab84ab59",
+      "key": "itron inc|||firmware engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7b23b54bbabbab070138b",
+      "key": "boeing|||software quality engineer associate experienced or senior",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad80793950ef68d5184649b",
+      "key": "lululemon|||product operations lead king of prussia",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7ef38e4b94611ab84a957",
+      "key": "apmex inc|||jr product developer onsite okc",
+      "location": "oklahoma city ok united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7ee6a54bbabbab070409f",
+      "key": "under armour|||associate product development",
+      "location": "baltimore md united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7edce67bec1d0d9c7aaae",
+      "key": "mcgraw hill|||product operations specialist",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7e57e52aa6152bb6a0ace",
+      "key": "clera|||product manager",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7ebfae4b94611ab84a572",
+      "key": "chamberlain group|||associate product manager hybrid oak brook il",
+      "location": "oak brook il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7e71d54bbabbab0703a81",
+      "key": "kraft heinz|||assoc sci r d product dev",
+      "location": "glenview il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad7ddc567bec1d0d9c79eec",
+      "key": "cvs health|||analyst digital product conversion",
+      "location": "texas united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
