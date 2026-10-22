@@ -50453,6 +50453,96 @@
       "key": "stio|||product team coordinator",
       "location": "jackson wy united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9682f39284cd524286d69",
+      "key": "cohere health|||software engineer i integrations",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac6de8f064da25272e1cb27",
+      "key": "harbor wholesale|||wms software developer i",
+      "location": "lacey wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad95ecb67bec1d0d9c85bcc",
+      "key": "national veterinary associates nva|||operating framework associate",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad95e9b950ef68d518507a0",
+      "key": "rgp|||netsuite developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad95071e4b94611ab8551e5",
+      "key": "capgemini|||firmware autosar engineer",
+      "location": "milano texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9409d39284cd524285e43",
+      "key": "applied materials|||algorithm developer masters degree new college grad santa clara",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad96af967bec1d0d9c85f85",
+      "key": "ashby|||software engineer 2027 graduate program august start",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9445639284cd52428610f",
+      "key": "causeway capital management|||software engineer",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad94ac539284cd52428639d",
+      "key": "espn|||product software engineer i",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad94efb39284cd5242864d3",
+      "key": "invenergy|||platform developer i business applications",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad94c4d67bec1d0d9c854e1",
+      "key": "hp|||software quality assurance engineer 1",
+      "location": "vancouver wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad97adf54bbabbab070f9b6",
+      "key": "dollar tree stores|||assortment planner",
+      "location": "chesapeake va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad94a68950ef68d51850065",
+      "key": "wolters kluwer|||content management analyst",
+      "location": "philadelphia pa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad95cab54bbabbab070f059",
+      "key": "koch engineered solutions|||product specialist",
+      "location": "eden prairie minnesota united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad9808a39284cd5242875a1",
+      "key": "the walt disney company|||decision science product graduate associate spring 2027",
+      "location": "lake buena vista fl united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
