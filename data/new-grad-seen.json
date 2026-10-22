@@ -50951,6 +50951,180 @@
       "key": "boeing|||product acceptance specialist associate or experienced",
       "location": "smithfield pa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:47b29f2b251e2758e4e223e37e7adde7e66c8081",
+      "key": "pariveda solutions|||entry level software engineer",
+      "location": "9 locationsseattle wa houston tx san francisco los angeles dallas tx philadelphia pa chicago il new york atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dc5df3f742963c1ad0212938a368b03cd4ae6f6c",
+      "key": "amerisure|||software engineer 1",
+      "location": "southfield mi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7ebdba444ac5d36f86a08",
+      "key": "kev group|||junior software developer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada620a03d2da75289148ba",
+      "key": "nokia|||firmware engineer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:69c42e92d5a1016e98db4221",
+      "key": "cgs federal contact government services|||servicenow architect sna junior",
+      "location": "washington washington",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada6190e4b94611ab85bd74",
+      "key": "the aerospace corporation|||junior full stack engineer",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada5f4de4b94611ab85bc20",
+      "key": "john deere|||product engineer el sw testing",
+      "location": "morrisville nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada5bbb950ef68d5185688b",
+      "key": "siemens|||software engineer c digital logic design",
+      "location": "burlington ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada5b5503d2da75289144a2",
+      "key": "ibm|||solution engineer confluent",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada5981e4b94611ab85b85d",
+      "key": "hive|||client solutions associate",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada5980e4b94611ab85b85c",
+      "key": "hive|||software engineer frontend",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada5979e4b94611ab85b852",
+      "key": "hive|||forward deployed software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada5975e4b94611ab85b850",
+      "key": "hive|||software engineer frontend",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada595ae4b94611ab85b83a",
+      "key": "kellyocg|||infrastructure engineer",
+      "location": "waterloo ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada5951e4b94611ab85b832",
+      "key": "afp cuprum|||software engineer i",
+      "location": "des moines ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada536603d2da7528913fc4",
+      "key": "hpr|||platform software engineer i",
+      "location": "needham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada518954bbabbab0714cd3",
+      "key": "amazon|||asic formal verification engineer i annapurna labs",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a287e1d883c0d3be654272a",
+      "key": "fortinet|||software dev qa specialist",
+      "location": "burnaby bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada4b433a69033df22578be",
+      "key": "abnormal ai|||software engineer 1 cloud infrastructure",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada60014c3adc437cecc33c",
+      "key": "cdk global|||associate software engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada64bbe4b94611ab85bf0e",
+      "key": "fnbo|||associate i cloud engineer omaha ne",
+      "location": "omaha ne united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada5cf24c3adc437cecc14a",
+      "key": "leidos|||entry level software tester",
+      "location": "lawton ok united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada54494c3adc437cecbbfc",
+      "key": "boeing|||entry level software engineer developer development",
+      "location": "oklahoma city ok united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada559d54bbabbab0714f8e",
+      "key": "snugz usa|||quality assurance assistant",
+      "location": "west jordan ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada51e703d2da7528913eab",
+      "key": "microsoft|||software engineer",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada5b49e4b94611ab85b97a",
+      "key": "spacex|||product growth strategy analytics lead starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada5994e4b94611ab85b863",
+      "key": "hive|||product analyst sports media marketing",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada597954bbabbab07151f4",
+      "key": "hive|||associate product manager deploy models",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada614054bbabbab07156fb",
+      "key": "puma group|||junior product line manager sportstyle footwear",
+      "location": "boston ma united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
