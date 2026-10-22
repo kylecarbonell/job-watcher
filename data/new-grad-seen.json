@@ -50705,6 +50705,252 @@
       "key": "siemens|||associate product manager monarch",
       "location": "plano tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e22462515536e86aec9314acd70ffc43d85211bc",
+      "key": "nuro|||software engineer new grad routing",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:92ebbb145d6940fcc8bd908b3d58a63d60faa7a8",
+      "key": "scientific systems|||autonomy software engineer 1",
+      "location": "burlington vt",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada18bbe4b94611ab858edc",
+      "key": "nutanix|||software developer co op",
+      "location": "vancouver british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada485b03d2da75289139bb",
+      "key": "caci international inc|||it analyst software developer",
+      "location": "bethesda md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada1264950ef68d51853cb3",
+      "key": "lime|||software engineer iot",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada416d4c3adc437cecb096",
+      "key": "cvs health|||full stack engineer training program june 2027 cohort",
+      "location": "virginia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada40b254bbabbab07142d9",
+      "key": "principal|||software engineer i",
+      "location": "des moines ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada403a950ef68d5185583f",
+      "key": "principal chile|||software engineer i",
+      "location": "des moines ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada3fea3a69033df225711b",
+      "key": "principal financial group|||software engineer i",
+      "location": "des moines ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada3fcc54bbabbab071424c",
+      "key": "principal global services|||software engineer i",
+      "location": "des moines ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada3f8554bbabbab071422e",
+      "key": "siemens|||software engineer c digital logic design",
+      "location": "burlington ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada3f8054bbabbab0714229",
+      "key": "fortinet|||jr software qa engineer",
+      "location": "union city ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada3f4303d2da7528913374",
+      "key": "principal mexico|||software engineer i",
+      "location": "des moines ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada3f303a69033df22570b7",
+      "key": "spectrum asset management inc|||software engineer i",
+      "location": "des moines ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada3aa954bbabbab0713d01",
+      "key": "raytheon|||software engineer developer i onsite",
+      "location": "woburn ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada31503a69033df22565e5",
+      "key": "redwire|||associate avionics embedded engineer",
+      "location": "san luis obispo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada30e9950ef68d51854cac",
+      "key": "zus health|||platform software engineering co op",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada2c4754bbabbab0713475",
+      "key": "hatch|||forward deployed engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada28304c3adc437cec9ee2",
+      "key": "nask|||software engineer data visualization ui ux with security clearance",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada282d950ef68d51854805",
+      "key": "ns2 mission|||java developer junior mid level with security clearance",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada26874c3adc437cec9dcb",
+      "key": "chaos industries|||forward deployed engineer software",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada26863a69033df2255fd3",
+      "key": "chaos industries|||forward deployed engineer software",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada24ba03d2da7528912179",
+      "key": "rfa engineering|||entry level software engineer",
+      "location": "dubuque ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada208454bbabbab0712d46",
+      "key": "kraun electric inc|||junior software developer",
+      "location": "st catharines on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada206f03d2da7528911ec9",
+      "key": "yext|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada1f5803d2da7528911e39",
+      "key": "fisheye software inc|||junior front end software developer",
+      "location": "massachusetts united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a90253e0bd89e205d2488d4",
+      "key": "thinkcell|||c developer f m d",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada18bc03d2da7528911a0e",
+      "key": "nutanix|||software development tester co op",
+      "location": "vancouver british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada134754bbabbab07126cf",
+      "key": "dev10|||entry level software developer",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada0b193a69033df22551bf",
+      "key": "tsmc|||software engineer new graduate north america software center job details tsmc",
+      "location": "vancouver wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad8b4f5e4b94611ab84e740",
+      "key": "lockheed martin|||software quality engineer associate",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada10354c3adc437cec928a",
+      "key": "rtx|||embedded software developer i onsite",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada2539e4b94611ab8596ac",
+      "key": "capital one|||associate software engineer new grad card expansion",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada22a454bbabbab0712ecf",
+      "key": "clera|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9411467bec1d0d9c84f95",
+      "key": "mastercard|||software engineer i",
+      "location": "o fallon mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada0b7803d2da752891143e",
+      "key": "siemens|||software engineer",
+      "location": "minnetonka mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada36304c3adc437ceca6c1",
+      "key": "upper canada soap|||associate product manager cpg retail",
+      "location": "mississauga ontario canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada22304c3adc437cec9b82",
+      "key": "anduril industries|||product operations analyst",
+      "location": "hudson nh united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada27643a69033df225602f",
+      "key": "booker|||graduate scheme tech product and programme management",
+      "location": "wellingborough england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada2b704c3adc437ceca11f",
+      "key": "camping world|||product specialist advisor",
+      "location": "churchville ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada29984c3adc437cec9fa5",
+      "key": "boeing|||product acceptance specialist associate or experienced",
+      "location": "smithfield pa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
