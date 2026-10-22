@@ -5057,6 +5057,18 @@
       "key": "tesla|||tier 1 network support engineer it network infrastructure engineering",
       "location": "palo alto ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a764ba0bb6ca93ae5611f8f",
+      "key": "amd|||design verification engineer",
+      "location": "markham on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9c9a1950ef68d5185217e",
+      "key": "google|||ux engineer hue futures",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
