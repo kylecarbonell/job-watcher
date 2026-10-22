@@ -50639,6 +50639,72 @@
       "key": "collins aerospace|||software engineer i onsite",
       "location": "cedar rapids ia united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d969d45f6ede03610ba17fc4158754bba5eec707",
+      "key": "aig|||junior data analyst fraud and recovery",
+      "location": "london uk croydon uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9ff9d4c3adc437cec882a",
+      "key": "teg tech|||junior software engineer",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9c9a1950ef68d5185217e",
+      "key": "google|||ux engineer hue futures",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa0adb5a2266b538d231d9a",
+      "key": "fireworks ai|||member of technical staff new grad bs ms",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9ed1103d2da75289106bb",
+      "key": "cvs health|||full stack engineer training program june 2027 cohort",
+      "location": "georgia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aa08252dbc0e60e37e0e299",
+      "key": "garmin|||software engineer 1 android",
+      "location": "yarmouth me united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad95d7139284cd524286a21",
+      "key": "rtx|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a764ba0bb6ca93ae5611f8f",
+      "key": "amd|||design verification engineer",
+      "location": "markham on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad8670c950ef68d5184831c",
+      "key": "mach9|||software engineer 3d graphics",
+      "location": "san francisco",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9e4984c3adc437cec7d3e",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "fulton md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada0b0003d2da75289113d6",
+      "key": "siemens|||associate product manager monarch",
+      "location": "plano tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
