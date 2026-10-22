@@ -5069,6 +5069,30 @@
       "key": "google|||ux engineer hue futures",
       "location": "san francisco ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada5b5503d2da75289144a2",
+      "key": "ibm|||solution engineer confluent",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada518954bbabbab0714cd3",
+      "key": "amazon|||asic formal verification engineer i annapurna labs",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada51e703d2da7528913eab",
+      "key": "microsoft|||software engineer",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada5b49e4b94611ab85b97a",
+      "key": "spacex|||product growth strategy analytics lead starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
