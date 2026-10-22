@@ -50171,6 +50171,288 @@
       "key": "fmx|||technical product manager",
       "location": "united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b57d46f0-383f-4fd8-a530-e5e1c2bb0424",
+      "key": "johns hopkins applied physics laboratory|||software engineer new grad applications analysis and services group",
+      "location": "laurel md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2c4c9dd7-7c52-418f-abff-10a4c150329e",
+      "key": "twitch|||software engineer 1",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:941e3fee-accd-4e6d-9123-561edd7554a4",
+      "key": "akamai technologies|||software engineer 1",
+      "location": "united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7ed5a47d-9d52-4ec3-8b73-90c5f6a726ed",
+      "key": "collier aerospace|||software engineer entry level",
+      "location": "raleigh nc newport news va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e4aa5ca4-b78b-479f-978b-698199dbf50f",
+      "key": "rtx|||software engineer 1",
+      "location": "fulton md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d899f8fd-9b88-4410-8fe0-21f2f0ac1d3d",
+      "key": "ncr voyix|||software engineer 1",
+      "location": "atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:05891430-1723-4b9b-839e-f243696e66ef",
+      "key": "etsy|||software engineer 1 marketplace makers",
+      "location": "brooklyn ny",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d9b632c0-c73f-4641-957d-84ac0cdc4acf",
+      "key": "chewy|||software engineer 1",
+      "location": "boston ma plantation fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:550c0f8a-8e58-4586-9968-9340d5265955",
+      "key": "rtx|||software engineer 1 test solutions",
+      "location": "tucson az",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fc1db66d9f66221dd2d5f71def92c93a4502a61c",
+      "key": "choice hotels|||software engineer 1",
+      "location": "scottsdale az",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a6b479afa55bbed2e8e1d2328ab6c15d50dd0313",
+      "key": "singlestore|||software engineer new grad helios",
+      "location": "united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cfdb0471c4182340d3da6e114673f507042c9e18",
+      "key": "singlestore|||software engineer new grad engine",
+      "location": "united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:47e1d605aa888d4e311a4707f2e5866f21f1efdc",
+      "key": "radiant|||software engineer new grad",
+      "location": "el segundo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9f73a16a9d665beb27c772b7a5d97f5040a6700e",
+      "key": "v2x|||software engineer 1 multiple teams",
+      "location": "indianapolis in",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d1a93d0f16910bc6e5b92cb485a924a89e743ac8",
+      "key": "westinghouse electric company|||safety software engineer 1 c hmi systems",
+      "location": "cranberry twp pa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a06a1856-cdbd-4ca1-a106-b34bbefe114b",
+      "key": "affirm|||analyst early career full stack",
+      "location": "san francisco remote in usa new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:de4b6392-8af5-4df9-8875-82c50964fa98",
+      "key": "globalfoundries|||ai software engineer new grad",
+      "location": "santa clara ca richardson tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:92a80010-86da-474e-b0da-0b7d1a8b556c",
+      "key": "aig|||junior data analyst fraud and recovery",
+      "location": "london uk croydon uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:21a44f0731bbce9819cdefda232dd8057a831881",
+      "key": "wsp|||junior data analyst",
+      "location": "newark nj",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4103b4c793f1a1cbb4435004d3c00bd6a99958af",
+      "key": "national bank of canada|||junior analyst data corporate investment banking",
+      "location": "montreal qc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad93cfb39284cd524285a56",
+      "key": "apple|||software engineer soc level validation engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad917d2b0725dc268dd9ad1",
+      "key": "etsy|||software engineer i marketplace makers",
+      "location": "brooklyn ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9394f950ef68d5184f565",
+      "key": "docusign|||software engineer",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9366867bec1d0d9c847b3",
+      "key": "state of ohio|||programmer it",
+      "location": "columbus oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9328d39284cd52428545d",
+      "key": "ebsco information services|||software dev engineer i",
+      "location": "birmingham al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad925a9b0725dc268dda4c1",
+      "key": "rtx|||software engineer i onsite",
+      "location": "fulton md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad92acf39284cd524284f7e",
+      "key": "tp link systems inc|||quality assurance engineer",
+      "location": "peters pa",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad92836950ef68d5184eb4f",
+      "key": "twitch|||software engineer i",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9256ae4b94611ab8538f2",
+      "key": "uncomn|||software developer 1 junior",
+      "location": "maryland heights mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad922acb0725dc268dda20f",
+      "key": "radicle health|||junior software engineer react",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9222467bec1d0d9c839e7",
+      "key": "radicle health|||junior software engineer sql",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad91c2467bec1d0d9c83544",
+      "key": "amazon|||adc engineer i amazon dedicated cloud engineering support engineering",
+      "location": "jessup md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad91b8d54bbabbab070ca9d",
+      "key": "dev10|||entry level software developer",
+      "location": "milwaukee wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad91b1e54bbabbab070ca40",
+      "key": "dev10|||entry level software developer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad918cf39284cd52428418b",
+      "key": "chewy|||software engineer i",
+      "location": "plantation fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad907bc67bec1d0d9c8246e",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad916c0e4b94611ab852e6d",
+      "key": "drw|||trader",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad922b4e4b94611ab85366c",
+      "key": "keck medicine of usc|||programmer analyst i",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad932d239284cd5242854a3",
+      "key": "vizient|||associate software engineer",
+      "location": "irving tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad92680950ef68d5184ea08",
+      "key": "rtx|||software engineer i onsite",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9261667bec1d0d9c83d59",
+      "key": "rtx|||software engineer developer i onsite",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad933c0e4b94611ab85422b",
+      "key": "rtx|||software engineer i test solutions onsite",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac68328064da25272e1ac93",
+      "key": "saic|||modeling and simulation analyst",
+      "location": "el paso tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9386839284cd5242857cb",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad92f55b0725dc268ddabf4",
+      "key": "ihg hotels resorts|||associate product manager cloud pms",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad922dae4b94611ab853685",
+      "key": "cover genius|||insurance product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad929c954bbabbab070d61f",
+      "key": "stio|||product team coordinator",
+      "location": "jackson wy united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
