@@ -50543,6 +50543,102 @@
       "key": "the walt disney company|||decision science product graduate associate spring 2027",
       "location": "lake buena vista fl united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f0af7b08-4219-47f9-bdb7-9ff2e900dcc8",
+      "key": "amazon|||software development engineer 1 ai ml network infrastructure",
+      "location": "cupertino ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e590ccbea7039e93b578186abaf4fafd29a7e8f5",
+      "key": "momentum engineering|||software engineer 0",
+      "location": "annapolis junction md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0df73706e4a76bd2086c1538927c199590f9c66e",
+      "key": "astera labs|||data analyst new grad",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9b1e554bbabbab071073f",
+      "key": "andrew wommack ministries inc|||software integration specialist",
+      "location": "woodland park co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9b1d6b0725dc268ddd935",
+      "key": "andrew wommack ministries inc|||full stack wordpress developer",
+      "location": "woodland park co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9384167bec1d0d9c8489c",
+      "key": "amazon web services aws|||adc engineer i amazon dedicated cloud engineering support engineering",
+      "location": "jessup md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad939a4b0725dc268ddb218",
+      "key": "amazon web services aws|||adc engineer i amazon dedicated cloud engineering support engineering",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad99c30950ef68d51851a28",
+      "key": "innovision marketing group|||web developer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad998a1950ef68d51851924",
+      "key": "humana|||software engineer 2",
+      "location": "louisville ky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad95f13950ef68d518507ce",
+      "key": "invenergy|||platform developer i business applications",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9900067bec1d0d9c86ae9",
+      "key": "tesla|||tier 1 network support engineer it network infrastructure engineering",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7cbb44a346cb6c8d5efbb2",
+      "key": "northrop grumman|||associate software engineer",
+      "location": "rolling meadows il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9836054bbabbab070fcab",
+      "key": "tp link systems inc|||quality assurance engineer",
+      "location": "peters canyon rd united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9a7db54bbabbab0710551",
+      "key": "innovative defense technologies idt|||associate software engineer jobid 0186",
+      "location": "mount laurel nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad98d5154bbabbab070fed8",
+      "key": "defense contract management agency dcma|||quality assurance specialist keystone",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9ac03e4b94611ab856c42",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
