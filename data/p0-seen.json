@@ -5045,6 +5045,18 @@
       "key": "microsoft|||software engineer forward deployed engineer",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f0af7b08-4219-47f9-bdb7-9ff2e900dcc8",
+      "key": "amazon|||software development engineer 1 ai ml network infrastructure",
+      "location": "cupertino ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9900067bec1d0d9c86ae9",
+      "key": "tesla|||tier 1 network support engineer it network infrastructure engineering",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
