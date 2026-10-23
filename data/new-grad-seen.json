@@ -51311,6 +51311,204 @@
       "key": "boeing|||product acceptance specialist associate or experienced",
       "location": "smithfield pa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2b5665cf-ffeb-4c91-adce-7d9357641676",
+      "key": "amazon|||software development engineer 1 early career annapurna labs",
+      "location": "4 locationsseattle wa austin tx new york cupertino ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d7450d6f-7ade-4e48-a679-77133f787850",
+      "key": "amazon|||software development engineer early career",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0eac749674de5747f2932cfadca2e35262b3d91f",
+      "key": "chewy|||software engineer 1",
+      "location": "boston ma plantation fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fceca0c83c472bbb3c8204096829b3044941b4fb",
+      "key": "centric software|||software engineer 1",
+      "location": "campbell ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4ea9a15d-8827-4c79-a444-9729292915db",
+      "key": "amazon|||data engineer early career",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adacc49f6e3ea82824280ca",
+      "key": "ust|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adab194950ef68d51859d4d",
+      "key": "coforma|||junior software engineer",
+      "location": "az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac804b8a444ac5d36f873e9",
+      "key": "alameda alliance for health|||configuration analyst job req 1040513923",
+      "location": "alameda ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada90c73a69033df225a881",
+      "key": "performance software corporation|||software engineer recent upcoming graduates",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adac1652a12e28317a06078",
+      "key": "microsoft|||design verification engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adaa7a74c3adc437cecee9f",
+      "key": "motorola solutions|||software engineer",
+      "location": "schaumburg il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8a3454bbabbab07175fc",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada9efd54bbabbab0718014",
+      "key": "koniag|||software developer remote",
+      "location": "maryland united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab58ca2d85922de20ce1e8d",
+      "key": "scci|||software tools developer",
+      "location": "king george va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada9fd73a69033df225aef7",
+      "key": "hdr|||software engineer",
+      "location": "omaha ne united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada9198e4b94611ab85e026",
+      "key": "critical environment technologies|||computer science co op",
+      "location": "delta british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada91903a69033df225a962",
+      "key": "critical environment technologies|||embedded tester co op",
+      "location": "delta british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada902854bbabbab0717987",
+      "key": "scoutbetter|||software engineer intel",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada938903d2da7528916dad",
+      "key": "j mack technologies llc|||java software engineer junior level",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada9ecb03d2da7528917184",
+      "key": "lentech inc|||web developer with security clearance",
+      "location": "fort meade md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adaa98d03d2da752891750e",
+      "key": "itron inc|||software quality assurance engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8f0554bbabbab07178b4",
+      "key": "leidos|||mobile device management mdm engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada9f4b4c3adc437cecec18",
+      "key": "kbr inc|||junior digital s w development engineer",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada9df1950ef68d518594d5",
+      "key": "guidehouse|||technical associate application developer campus 2027",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada9b9d950ef68d518593e7",
+      "key": "boeing|||entry level software engineer",
+      "location": "maryland heights mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada9b8503d2da7528917068",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada980c3a69033df225ac43",
+      "key": "applied materials|||software engineer new college grad master s chandler az",
+      "location": "chandler az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adab0e654bbabbab071881d",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "fort worth tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6adaa86d54bbabbab071831c",
+      "key": "drfirst inc|||associate product analyst eprescribing platform",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6adab55b3a69033df225b754",
+      "key": "copart|||associate product manager",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6adaaadb4c3adc437cecefe1",
+      "key": "construction innovations llc|||assistant technical product specialist",
+      "location": "mather ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada03bf950ef68d5185345a",
+      "key": "subsea craft limited|||associate product manager",
+      "location": "portsmouth england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6adab7f83a69033df225b814",
+      "key": "marsh people solutions|||product analyst insurance",
+      "location": "malvern pa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
