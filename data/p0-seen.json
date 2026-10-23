@@ -5183,6 +5183,24 @@
       "key": "tiktok|||research scientist new grad tiktok recommendation",
       "location": "san jose ca",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6ed1bdf1b5f414bd12951d56ef84f77050f1fb4c",
+      "key": "notion|||software engineer early career",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:404a5f5065f577131637551e22c42423f13fa797",
+      "key": "nvidia|||research scientist new grad electronic design automation",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb168baee75c4e7d2e6dd7",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
