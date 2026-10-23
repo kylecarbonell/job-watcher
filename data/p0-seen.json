@@ -5171,6 +5171,18 @@
       "key": "amazon web services aws|||adc engineer i amazon dedicated cloud engineering support engineering",
       "location": "arlington va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1b578066f3c490a3642b6aba5c6a929c9d9d3530",
+      "key": "bytedance|||backend and infrastructure software engineer new grad dev infra",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5d7ae207-e8c4-4562-9e0d-5df316223461",
+      "key": "tiktok|||research scientist new grad tiktok recommendation",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
