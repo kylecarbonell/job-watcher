@@ -5237,6 +5237,30 @@
       "key": "ibm|||entry level product management 2027",
       "location": "poughkeepsie ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6705c8c9d6d2423088b4d29f",
+      "key": "palantir technologies|||forward deployed software engineer intel",
+      "location": "washington d c",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6705c8c9d6d2423088b4d2a4",
+      "key": "palantir technologies|||forward deployed software engineer",
+      "location": "new york ny",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a1de8459111f771d1a1be25",
+      "key": "palantir technologies|||forward deployed software engineer",
+      "location": "new york ny",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a0b55fe538d03366dc8426e",
+      "key": "palantir technologies|||forward deployed software engineer",
+      "location": "new york ny",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
