@@ -5117,6 +5117,36 @@
       "key": "spacex super intelligence|||software engineer ads product",
       "location": "palo alto ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2b5665cf-ffeb-4c91-adce-7d9357641676",
+      "key": "amazon|||software development engineer 1 early career annapurna labs",
+      "location": "4 locationsseattle wa austin tx new york cupertino ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d7450d6f-7ade-4e48-a679-77133f787850",
+      "key": "amazon|||software development engineer early career",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4ea9a15d-8827-4c79-a444-9729292915db",
+      "key": "amazon|||data engineer early career",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adac1652a12e28317a06078",
+      "key": "microsoft|||design verification engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8a3454bbabbab07175fc",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
