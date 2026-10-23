@@ -5261,6 +5261,18 @@
       "key": "palantir technologies|||forward deployed software engineer",
       "location": "new york ny",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4aad94b7-19e6-4d69-8e9d-8fecfc34e591",
+      "key": "bytedance|||research scientist new grad video and edge multimedia lab",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbd0c2389e06bb41ad45ea",
+      "key": "servicenow|||associate software engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
