@@ -5093,6 +5093,30 @@
       "key": "spacex|||product growth strategy analytics lead starlink",
       "location": "redmond wa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b160c2da-eab8-4a59-9b66-181feed9fbdb",
+      "key": "palantir|||forward deployed software engineer new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8c094c3adc437cece333",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8afbe4b94611ab85dbb4",
+      "key": "palantir technologies|||forward deployed software engineer new grad warp speed",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9936ddf6de551aa0aaeec5",
+      "key": "spacex super intelligence|||software engineer ads product",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
