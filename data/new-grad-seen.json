@@ -51125,6 +51125,192 @@
       "key": "puma group|||junior product line manager sportstyle footwear",
       "location": "boston ma united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b160c2da-eab8-4a59-9b66-181feed9fbdb",
+      "key": "palantir|||forward deployed software engineer new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:96b6092b-58e1-4305-a553-4a0f1784d9f2",
+      "key": "the aerospace corporation|||junior full stack engineer associate member of technical staff software architecture engineering and cloud computing architecture",
+      "location": "chantilly va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:12634088-9777-452c-9095-9f2de268d1e0",
+      "key": "the walt disney company|||product software engineer 1",
+      "location": "glendale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8c094c3adc437cece333",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8afbe4b94611ab85dbb4",
+      "key": "palantir technologies|||forward deployed software engineer new grad warp speed",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8ab83a69033df225a4cd",
+      "key": "netrolynx ai|||software developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada894854bbabbab0717565",
+      "key": "metropolitan transportation authority|||application developer analyst levels 1 2",
+      "location": "jamaica ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada85703a69033df225a234",
+      "key": "itron inc|||software quality assurance engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada80fde4b94611ab85d683",
+      "key": "true anomaly|||software engineer i qa new grad",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada6e2f54bbabbab0715e8d",
+      "key": "remitly|||fullstack software development engineer i card",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada7e4b3a69033df2259e21",
+      "key": "formlabs|||software engineer api automation",
+      "location": "somerville ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada7afa54bbabbab0716d71",
+      "key": "mission technologies a division of hii|||software engineer 30476 job details hii s mission technologies division",
+      "location": "pocasset ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada7ae74c3adc437cecd995",
+      "key": "mission technologies a division of hii|||software engineer multiple levels 29775 job details hii s mission technologies division",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada7ac54c3adc437cecd96b",
+      "key": "mission technologies a division of hii|||software engineer junior mid senior sme 28332 job details hii s mission technologies division",
+      "location": "dayton ohio united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada7aafe4b94611ab85d28d",
+      "key": "mission technologies a division of hii|||engineer software 1 job details hii s mission technologies division",
+      "location": "norfolk va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada7a3154bbabbab0716ccb",
+      "key": "scoutbetter|||software engineer i twitch",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada72ce950ef68d518577a7",
+      "key": "imagetrend|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada6fd203d2da7528915184",
+      "key": "integral federal inc|||junior java developer with security clearance",
+      "location": "fort meade md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada699a03d2da7528914cf0",
+      "key": "esri|||product engineer",
+      "location": "redlands ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8e8c3a69033df225a6b4",
+      "key": "weframe|||junior forward deployed engineer",
+      "location": "london united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad53948c4290cef14132e1c",
+      "key": "massachusetts medical society|||quality assurance tester and analyst co op nu students only",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada7b7ee4b94611ab85d33d",
+      "key": "rokt|||junior software engineer rokt residency",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada733b03d2da752891544d",
+      "key": "raydar|||founding software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada6dd9e4b94611ab85c474",
+      "key": "humana|||technology solutions professional",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8b12e4b94611ab85dbc7",
+      "key": "booz allen hamilton|||university software developer",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8dc9e4b94611ab85dd44",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8dc3950ef68d51858c96",
+      "key": "boeing|||associate enterprise resource planning information technology engineer",
+      "location": "hazelwood mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8dd103d2da752891695d",
+      "key": "boeing|||entry level software engineer",
+      "location": "maryland heights mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad16885a4f99fef819444c2",
+      "key": "connor clark lunn investment management cc l|||software development engineer",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada72df950ef68d518577bb",
+      "key": "lululemon|||contract product operations lead through january 2027 university park village fort worth",
+      "location": "fort worth tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada15ec3a69033df22556a9",
+      "key": "boeing|||product acceptance specialist associate or experienced",
+      "location": "smithfield pa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
