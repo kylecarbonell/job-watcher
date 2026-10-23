@@ -5147,6 +5147,30 @@
       "key": "citadel|||software engineer university graduate us",
       "location": "new york ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0a14e404-4828-4af4-bb63-2fb23a5a061f",
+      "key": "palantir|||software engineer new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9384167bec1d0d9c8489c",
+      "key": "amazon web services aws|||adc engineer i amazon dedicated cloud engineering support engineering",
+      "location": "jessup md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9deff4c3adc437cec7c57",
+      "key": "amazon web services aws|||adc engineer i amazon dedicated cloud engineering support engineering",
+      "location": "herndon va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad939a4b0725dc268ddb218",
+      "key": "amazon web services aws|||adc engineer i amazon dedicated cloud engineering support engineering",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
