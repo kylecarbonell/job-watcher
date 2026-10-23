@@ -5201,6 +5201,42 @@
       "key": "microsoft|||software engineer forward deployed engineer",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:56f0f11d08bca2bfc223ab075a3ef0ecad6392e6",
+      "key": "amazon|||software development engineer 1 ai ml network infrastructure",
+      "location": "cupertino ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a80913f5-4817-4c04-9939-019a13698d11",
+      "key": "visa|||associate product manager new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb73d95dc7953215a32b03",
+      "key": "cisco|||software engineer embedded systems i co op united states",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb73e4c5c64fa3d9caf6a7",
+      "key": "cisco|||software engineer full stack backend i co op united states",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada8bed03d2da752891687d",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ada583a54bbabbab07150fb",
+      "key": "ibm|||entry level product management 2027",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
