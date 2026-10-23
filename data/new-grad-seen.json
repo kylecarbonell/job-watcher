@@ -51509,6 +51509,156 @@
       "key": "marsh people solutions|||product analyst insurance",
       "location": "malvern pa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0a14e404-4828-4af4-bb63-2fb23a5a061f",
+      "key": "palantir|||software engineer new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3af86a17-91d4-4605-b65c-f1dc1266af9d",
+      "key": "solerity|||javascript developer software engineer 1",
+      "location": "fort meade md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:80920399-177f-4d44-912d-5777bde423fd",
+      "key": "mytos|||junior mid software engineer",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:39d698054c48c60c5bc15100b412448ee7a6beb5",
+      "key": "rtx|||software engineer 1 embedded linux",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c6bf5fb84c15256541deaedf7d646521931003ba",
+      "key": "american express|||software engineer new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0da2042c2aefb38cb90ca1ea44e25a70430863fd",
+      "key": "american express|||software engineer new grad",
+      "location": "burgess hill uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1b578066f3c490a3642b6aba5c6a929c9d9d3530",
+      "key": "bytedance|||backend and infrastructure software engineer new grad dev infra",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7e244e5ab539498ad693e002d712479b267c50d7",
+      "key": "gliacell technologies|||junior software engineer",
+      "location": "annapolis junction md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5d7ae207-e8c4-4562-9e0d-5df316223461",
+      "key": "tiktok|||research scientist new grad tiktok recommendation",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb17fb9e3e874dbfb9e3d5",
+      "key": "dcca|||sme infrastructure cloud migration with security clearance",
+      "location": "chevy chase md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb146bcb58d64fcd372cdc",
+      "key": "cvs health|||full stack engineer training program june 2027 cohort",
+      "location": "south carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb145fc5c64fa3d9cadae5",
+      "key": "cvs health|||full stack engineer training program june 2027 cohort",
+      "location": "ohio united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adaea179e3e874dbfb9cf42",
+      "key": "cvs health|||full stack engineer training program june 2027 cohort",
+      "location": "east coast united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada3ea14c3adc437cecaeb0",
+      "key": "hewlett packard enterprise|||software engineer",
+      "location": "westford ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adae35691f93f4b05715170",
+      "key": "siemens eda siemens digital industries software|||software engineer c digital logic design",
+      "location": "burlington ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adad30593c3e3e280bd1b56",
+      "key": "apogee research llc|||embedded software engineer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad9deff4c3adc437cec7c57",
+      "key": "amazon web services aws|||adc engineer i amazon dedicated cloud engineering support engineering",
+      "location": "herndon va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada613ae4b94611ab85bd4b",
+      "key": "boeing|||entry level software engineer developer development",
+      "location": "oklahoma city ok united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adaf37391f93f4b057156ea",
+      "key": "aptiv|||associate cloud engineer",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb088d9e3e874dbfb9dd1b",
+      "key": "dialight|||software developer salesforce",
+      "location": "farmingdale nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb168baee75c4e7d2e6dd7",
+      "key": "microsoft|||software engineer forward deployed engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb00565dc7953215a3058e",
+      "key": "happy returns a ups company|||platform software engineer",
+      "location": "georgia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a62b996846162391c9375c2",
+      "key": "epcvip inc|||product analyst",
+      "location": "calabasas california united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a55ce0014f1040fa611c1f9",
+      "key": "epcvip inc|||product manager lead monetization",
+      "location": "calabasas california united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6adae6669e3e874dbfb9ce1b",
+      "key": "walts tv|||product listings specialist",
+      "location": "chandler az united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
