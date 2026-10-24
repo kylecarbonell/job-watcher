@@ -52673,6 +52673,54 @@
       "key": "saga plc|||product executive spanish speaking",
       "location": "folkestone england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c2582b57-89c6-4642-a9f2-b5a0b7e3678a",
+      "key": "micron technology|||new college grad product yield enhancement engineer high bandwidth memory",
+      "location": "boise id",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc7b109e3e874dbfba43e2",
+      "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc7b01389e06bb41ad65ba",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc703c0a4cc7090f977219",
+      "key": "torentify|||software engineer sql",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc69a5389e06bb41ad6294",
+      "key": "torentify|||full stack engineer python node js 100 remote",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc73c15dc7953215a36da7",
+      "key": "itron inc|||software quality assurance engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc73c446a8cabdc1ff7304",
+      "key": "itron inc|||firmware engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6adc7a1246a8cabdc1ff743a",
+      "key": "kearney|||teams product analysis technician",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
