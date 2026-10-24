@@ -5273,6 +5273,18 @@
       "key": "servicenow|||associate software engineer",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc7b109e3e874dbfba43e2",
+      "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc7b01389e06bb41ad65ba",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
