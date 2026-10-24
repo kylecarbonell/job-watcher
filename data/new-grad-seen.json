@@ -52721,6 +52721,42 @@
       "key": "kearney|||teams product analysis technician",
       "location": "chicago il united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:eff6e46f-68bb-46cd-b491-ae901b415a6d",
+      "key": "rtx|||engineer 1 software engineer test engineering",
+      "location": "burnsville mn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acdbc9b3e2155b545aa1bcf",
+      "key": "whiteoptics llc|||specialist software engineering build program",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada80b24c3adc437cecdd38",
+      "key": "l3harris technologies|||associate software engineer",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbd927c5c64fa3d9cb1d45",
+      "key": "l3harris technologies|||associate software engineer",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad561ce25289a0b3bf5ee9c",
+      "key": "bytedance|||software engineer graduate traffic infrastructure 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d9ce3dc655658d8f0da0",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
