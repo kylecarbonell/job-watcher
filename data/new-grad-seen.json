@@ -52475,6 +52475,102 @@
       "key": "nestle|||associate product development",
       "location": "arlington va united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0a60dc2a0d54fa3c9bd0856aadf40fa5a7b7b344",
+      "key": "u s bank|||software engineer 1 python",
+      "location": "minneapolis mn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:476ef63c962c21e437fb5e8f092c2d374cfedd7f",
+      "key": "rtx|||software engineer 1 core services and libraries",
+      "location": "huntsville al",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:422f58f50b065dbc2e23f2994eecfd24f9b1f198",
+      "key": "kla corporation|||software engineer 1",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc1db846a8cabdc1ff6299",
+      "key": "ust|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc181f5dc7953215a35cb8",
+      "key": "hud|||design engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9864a6355f8776ff194e7",
+      "key": "icatalyst inc|||jr software developer",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbe832c5c64fa3d9cb220b",
+      "key": "mercury|||frontend engineer design systems",
+      "location": "san francisco california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbf2099e3e874dbfba2c28",
+      "key": "ohr|||creationary hackathon",
+      "location": "colorado united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbe53246a8cabdc1ff5a95",
+      "key": "delta pipeline inc|||associate application developer",
+      "location": "long beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbfe85c5c64fa3d9cb256b",
+      "key": "hdr|||software engineer",
+      "location": "omaha ne united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc1d8e0a4cc7090f97624c",
+      "key": "citi|||technology application development full time analyst jacksonville usa 2027",
+      "location": "jacksonville fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbf2ea46a8cabdc1ff5c8f",
+      "key": "boeing|||entry level software engineer",
+      "location": "maryland heights mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc20530a4cc7090f9762eb",
+      "key": "fisheye software inc|||jr front end developer with security clearance",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbfcd99e3e874dbfba2db9",
+      "key": "databank|||jr critical infrastructure engineer",
+      "location": "red oak tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6adc1fc89e3e874dbfba32d2",
+      "key": "trustage|||annuity product analyst",
+      "location": "madison wi united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac4f0090e027c0f3b3abf7d",
+      "key": "price industries|||product designer",
+      "location": "woodbridge on canada",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
