@@ -52757,6 +52757,90 @@
       "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bcf39a4d1894e99c232d4fa4f3a91c04de8c7320",
+      "key": "amtrust financial|||software engineer 1",
+      "location": "florida",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c0f78a028a114b553c055eb9ad721a323262da3e",
+      "key": "d addario|||junior full stack engineer",
+      "location": "farmingdale ny",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c6411e85af04f97eb15cb18c03ffe7030712a95c",
+      "key": "southern star central gas pipeline|||software engineer 1",
+      "location": "owensboro ky",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5e0786fc8319c8bc863cbe4a373440db7494a7fc",
+      "key": "decisionpoint|||junior software developer",
+      "location": "scott afb il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9f19b43fb44f3705a5411c2d730f1ce09aaa7696",
+      "key": "riverside research|||junior research scientist formal methods",
+      "location": "lexington ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c280a736a74c531ca91e354b9e0366d90de8ba08",
+      "key": "atlassian|||software engineer new grad 2027 graduate",
+      "location": "burnaby bc canada vancouver bc canada richmond bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2f403548d762b953c671a6893f58cadc5549e6f5",
+      "key": "general dynamics mission systems|||software engineer entry level",
+      "location": "manassas va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1861c275b4bff763f16b45668fa265b7e7ccb524",
+      "key": "atlassian|||data engineer new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6e703f84af04bb313b9051e319a2cf48473d0468",
+      "key": "frontier technology|||early career associate data scientist",
+      "location": "norfolk va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7e0a4be997196c3b245cdce5c70a6e5a18566659",
+      "key": "nakupuna companies|||junior knowledge management analyst",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:07b21e22ce6969eb0c8927bdb08c4f66eae80577",
+      "key": "apogee engineering|||junior technical intelligence analyst",
+      "location": "wright patterson afb oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acde6234028aee69ce11ae0",
+      "key": "ey|||back end net developer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac006904ac55253f5d67242",
+      "key": "harvey|||software engineer new grad 2027",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adcd5bd46a8cabdc1ff8532",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
