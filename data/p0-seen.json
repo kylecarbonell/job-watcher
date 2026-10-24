@@ -5285,6 +5285,18 @@
       "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad561ce25289a0b3bf5ee9c",
+      "key": "bytedance|||software engineer graduate traffic infrastructure 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d9ce3dc655658d8f0da0",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
