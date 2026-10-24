@@ -52841,6 +52841,18 @@
       "key": "boeing|||software engineer associate or experienced",
       "location": "chantilly va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6add32b80a4cc7090f97944e",
+      "key": "sweetag|||junior product engineer fintech",
+      "location": "montreal quebec canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6add32b70a4cc7090f97944d",
+      "key": "sweetag|||associate platform engineer fintech",
+      "location": "montreal quebec canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
