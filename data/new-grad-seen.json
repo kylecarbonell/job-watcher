@@ -52337,6 +52337,144 @@
       "key": "mawi dna technologies|||product manager r d marketing regulatory",
       "location": "pleasanton ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ec3e9690-f766-4512-af30-a7ff06ba310d",
+      "key": "meijer|||software engineer 1 ai",
+      "location": "grand rapids mi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4f9778d0-63a0-48b6-a131-8e89364ea80b",
+      "key": "citi|||software developer new grad application development",
+      "location": "jacksonville fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:43b8e015-cd30-4fd8-888c-7a2f618cb919",
+      "key": "citi|||application development analyst new grad",
+      "location": "jersey city nj new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:850876ae-8b94-413e-b8a4-a0ffdc45be3a",
+      "key": "affirm|||software engineer new grad instruments team",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4aad94b7-19e6-4d69-8e9d-8fecfc34e591",
+      "key": "bytedance|||research scientist new grad video and edge multimedia lab",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f7981568-cea1-46d1-a9bc-e93bccdbe4c3",
+      "key": "hntb|||gis analyst 1 new grad",
+      "location": "tallahassee fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a3c08b27-b3c5-48e9-bcfa-73d319e979a0",
+      "key": "hntb|||gis analyst 1 new grad",
+      "location": "tallahassee fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbd81ec5c64fa3d9cb1d17",
+      "key": "vizient|||associate software engineer",
+      "location": "irving tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbd0c2389e06bb41ad45ea",
+      "key": "servicenow|||associate software engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad6bcce950ef68d5183c8aa",
+      "key": "raytheon|||software engineer i onsite",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac95503d4a5a03707411f75",
+      "key": "raytheon|||software engineer i onsite",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aba66d41acb8fc6f09bf78e",
+      "key": "assa abloy group|||associate engineer job details assa abloy",
+      "location": "berlin ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbc2f19e3e874dbfba1954",
+      "key": "agility pr solutions|||junior software developer content integration data pipelines",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbc7cd389e06bb41ad3cbb",
+      "key": "campus4tech|||salesforce developer",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbbf9ec5c64fa3d9cb0fa3",
+      "key": "jabil|||software test development engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbcc31389e06bb41ad44a8",
+      "key": "ameren|||engineering project management spring co op",
+      "location": "collinsville il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbc8e85dc7953215a34794",
+      "key": "seagate technology|||embedded software engineer i",
+      "location": "shakopee mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbc749c5c64fa3d9cb1223",
+      "key": "rtx|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbc8e646a8cabdc1ff4bf7",
+      "key": "omnicom|||credera technology solutions analyst",
+      "location": "addison tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbd22e389e06bb41ad4638",
+      "key": "agilent technologies|||application engineer",
+      "location": "illinois united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adbda510a4cc7090f97560c",
+      "key": "barracuda|||quality assurance technician 1",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6adbc8aa46a8cabdc1ff4bbf",
+      "key": "stanley black decker inc|||software product manager fab field dewalt",
+      "location": "towson md united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6adbcafc389e06bb41ad3e62",
+      "key": "nestle|||associate product development",
+      "location": "arlington va united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
