@@ -5297,6 +5297,18 @@
       "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c280a736a74c531ca91e354b9e0366d90de8ba08",
+      "key": "atlassian|||software engineer new grad 2027 graduate",
+      "location": "burnaby bc canada vancouver bc canada richmond bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1861c275b4bff763f16b45668fa265b7e7ccb524",
+      "key": "atlassian|||data engineer new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
