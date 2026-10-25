@@ -53063,6 +53063,24 @@
       "key": "microsoft|||software engineer ctj poly",
       "location": "reston va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6addb2b39e3e874dbfba71fb",
+      "key": "boeing|||software engineer simulation hybrid relocation assistance available",
+      "location": "bingen wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad1f87d9e2fdc1ecc1c4545",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ade36179e3e874dbfba81cd",
+      "key": "synerga partners|||associate product analyst",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
