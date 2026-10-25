@@ -53111,6 +53111,12 @@
       "key": "abb|||discovery information systems track 2027",
       "location": "cary nc united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ade785ac5c64fa3d9cb81b5",
+      "key": "guidehouse|||technical associate application developer campus 2027",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
