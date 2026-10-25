@@ -53081,6 +53081,36 @@
       "key": "synerga partners|||associate product analyst",
       "location": "austin tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ade5ede5dc7953215a3b1d6",
+      "key": "sisense|||solutions engineer",
+      "location": "east coast united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ade5318c5c64fa3d9cb7c96",
+      "key": "precise systems inc|||ts quality assurance analyst tester with security clearance",
+      "location": "lexington park md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ade442e5dc7953215a3ae81",
+      "key": "vtg|||web developer with security clearance",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ade5ecb9e3e874dbfba8717",
+      "key": "northrop grumman|||2027 associate embedded software engineer morrisville nc",
+      "location": "morrisville nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ade55315dc7953215a3b10e",
+      "key": "abb|||discovery information systems track 2027",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
