@@ -52853,6 +52853,18 @@
       "key": "sweetag|||associate platform engineer fintech",
       "location": "montreal quebec canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6add402d9e3e874dbfba64d4",
+      "key": "anduril industries|||software engineer infrastructure",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc7737389e06bb41ad649f",
+      "key": "itron inc|||software quality assurance engineer",
+      "location": "liberty lake wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
