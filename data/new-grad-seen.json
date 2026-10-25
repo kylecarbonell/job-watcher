@@ -53045,6 +53045,24 @@
       "key": "lockheed martin|||embedded software engineer level 2",
       "location": "orlando fl united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ade181446a8cabdc1ffaeb6",
+      "key": "ust|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6addde239e3e874dbfba769d",
+      "key": "clera|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adcbd5a0a4cc7090f9781c7",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
