@@ -5309,6 +5309,12 @@
       "key": "atlassian|||data engineer new grad",
       "location": "seattle wa",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6addb8e4c5c64fa3d9cb69ef",
+      "key": "microsoft|||design verification engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
