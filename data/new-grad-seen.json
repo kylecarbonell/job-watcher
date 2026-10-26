@@ -53249,6 +53249,42 @@
       "key": "tiktok|||product manager graduate tiktok live platform trust and ecosystem 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6d8f6e4117bfe42af5dfd7eb3aad55f2479f13c5",
+      "key": "ncr voyix|||junior devops engineer",
+      "location": "bath uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adf46df065c4e77efaf6385",
+      "key": "netrolynx ai|||net developer",
+      "location": "newcastle upon tyne tyne and wear united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adf43bbc5c64fa3d9cba3f0",
+      "key": "adyen|||full stack developer junior docs experience engineering team",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adeefce0a4cc7090f97cf01",
+      "key": "capgemini|||firmware autosar engineer",
+      "location": "milano texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adeee5ac5c64fa3d9cb951f",
+      "key": "microsoft|||design verification engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa5e379654b2a9424cf5b29",
+      "key": "lloyds banking group|||product partnerships industrial placement cardiff",
+      "location": "john street cardiff wales united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
