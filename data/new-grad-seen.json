@@ -53117,6 +53117,18 @@
       "key": "guidehouse|||technical associate application developer campus 2027",
       "location": "chicago il united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ade9a1f5dc7953215a3bbf9",
+      "key": "s p global|||product specialist indices etf s",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ade868a5dc7953215a3ba36",
+      "key": "lululemon|||seasonal night product operations lead richmond short pump",
+      "location": "richmond va united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
