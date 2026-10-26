@@ -5333,6 +5333,12 @@
       "key": "tiktok|||product manager new grad platform trust and ecosystem",
       "location": "san jose ca",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adeee5ac5c64fa3d9cb951f",
+      "key": "microsoft|||design verification engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
