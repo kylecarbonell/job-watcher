@@ -5327,6 +5327,12 @@
       "key": "microsoft|||software engineer ctj poly",
       "location": "reston va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d6a611ad-6577-4727-bad6-a4aa05ad24ec",
+      "key": "tiktok|||product manager new grad platform trust and ecosystem",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
