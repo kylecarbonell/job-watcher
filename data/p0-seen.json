@@ -5339,6 +5339,18 @@
       "key": "microsoft|||design verification engineer",
       "location": "hillsboro or united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adf9105065c4e77efaf8f41",
+      "key": "oracle|||platform software engineer ii us citizenship required",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adf90f95dc7953215a4051d",
+      "key": "oracle|||platform software engineer ii us citizenship required",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
