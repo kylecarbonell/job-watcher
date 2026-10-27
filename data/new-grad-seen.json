@@ -54317,6 +54317,84 @@
       "key": "l3harris technologies|||senior associate product management job details l3hhcm20",
       "location": "rochester ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6c7f3e00-a634-46ac-9d87-ab5df240dfe2",
+      "key": "swarm aero|||software engineer early career real time systems",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b5bf5620adda5e5fba0c9f94cf894b313e7a6e42",
+      "key": "electronic arts|||software engineer 1",
+      "location": "orlando fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:24048f11a065665f45ef197d0709fa002e494f01",
+      "key": "whoop|||software engineer 1 frontend ai platform",
+      "location": "boston ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae099a3c5c64fa3d9cc44b4",
+      "key": "netrolynx ai|||software developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae097400a4cc7090f987d15",
+      "key": "northrop grumman|||2027 associate software engineer software engineer colorado springs co",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae0668e5dc7953215a46e03",
+      "key": "siemens|||software engineer",
+      "location": "charlotte nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae04b105dc7953215a46641",
+      "key": "eaton|||software engineer early career huntsville al",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae092c1c5c64fa3d9cc42eb",
+      "key": "medtronic|||software cloud engineer i cloud infrastructure",
+      "location": "galway county galway ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae06e215dc7953215a47007",
+      "key": "general dynamics mission systems|||software engineer entry level",
+      "location": "bloomington mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae07c027b815b23fd26cd46",
+      "key": "collins aerospace|||engineer i software engineer test engineering onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae099467b815b23fd26d3d7",
+      "key": "lululemon|||product operations lead rivermarket",
+      "location": "fort lauderdale fl united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae080d35dc7953215a474ea",
+      "key": "b braun medical inc us|||associate product manager i",
+      "location": "bethlehem pa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae076c6c5c64fa3d9cc3cb4",
+      "key": "gap|||assistant manager product operations 301 n san fernando",
+      "location": "burbank ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
