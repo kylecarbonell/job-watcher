@@ -5399,6 +5399,48 @@
       "key": "ibm|||application developer",
       "location": "armonk ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6229e804-43a5-47a4-882c-c7bf3dc4968f",
+      "key": "databricks|||software engineer new grad",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:992ceb83-2b59-4901-b82d-8ca2b8edc498",
+      "key": "databricks|||software engineer new grad distributed data systems",
+      "location": "bellevue wa mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9a6685e2-0aaf-400a-92b9-ec98a727cbf4",
+      "key": "amazon|||software developer engineer 1 graviton software annapurna labs",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
+      "key": "servicenow|||software engineer new grad ai ml",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1082567c31ab34899fca3",
+      "key": "databricks|||software engineer new grad distributed data systems 2027 start",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae103906679108488c400e1",
+      "key": "databricks|||software engineer new grad 2027 start",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae0f1f267c31ab34899edb4",
+      "key": "snowflake|||software engineer customer experience engineering",
+      "location": "menlo park ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
