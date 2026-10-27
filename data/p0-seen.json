@@ -5351,6 +5351,18 @@
       "key": "oracle|||platform software engineer ii us citizenship required",
       "location": "united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adfe9bb5dc7953215a44316",
+      "key": "atlassian|||software engineer 2027 graduate u s",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adfe2799a8c91d5c358a419",
+      "key": "ibm|||entry level software developer 2027 lowell",
+      "location": "lowell massachusetts united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
