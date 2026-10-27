@@ -5375,6 +5375,30 @@
       "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae0bad0de23f466ec8b7f5e",
+      "key": "ibm|||software engineer",
+      "location": "armonk ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adf989d065c4e77efaf94e6",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a34a336649fdf16292f6b17",
+      "key": "two sigma|||two sigma securities software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac774020e573df8adc72c49",
+      "key": "ibm|||application developer",
+      "location": "armonk ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
