@@ -5363,6 +5363,18 @@
       "key": "ibm|||entry level software developer 2027 lowell",
       "location": "lowell massachusetts united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adfb3c49e3e874dbfbaf3f7",
+      "key": "amazon|||software development engineer i aws iot fleet management",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad65828e4b94611ab83da35",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
