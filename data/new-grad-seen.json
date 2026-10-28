@@ -55643,6 +55643,132 @@
       "key": "boeing|||product acceptance specialist product acceptance",
       "location": "fort walton beach fl united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b0f48ab2-fa93-4288-9a16-412d0dfbc180",
+      "key": "leidos|||junior software engineer",
+      "location": "bethesda md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2e0587387ac3b0beb26211133cbfbaf6435429b6",
+      "key": "nvidia|||software engineer new grad agent performance modeling",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:397937cb5a4eb019ef93f13a6b13ba681b9ea9a4",
+      "key": "mimecast|||software engineer 1 endpoint sensor",
+      "location": "minneapolis mn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4d284738-4d7d-4b47-b60d-aaeda221fb75",
+      "key": "tyson foods|||data engineer 1",
+      "location": "springdale ar",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f30fdc275e60beafafd1eff5a3a4c6e4ecb76a26",
+      "key": "true anomaly|||data engineer 1",
+      "location": "long beach ca denver co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d94a2193-8699-40c5-be9a-8da2eec5a932",
+      "key": "lseg|||product market planning new grad risk intelligence",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1f1fd05a39c3e2c714dd0",
+      "key": "ust healthproof|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1ee1aeb7e8f715a608587",
+      "key": "freshedge|||quality assurance technician",
+      "location": "noblesville in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a55d056fdf4fa71202b5baa",
+      "key": "arista networks|||software test engineer",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae0bcbdde23f466ec8b804d",
+      "key": "caci international inc|||software developer and it tech professional",
+      "location": "bethesda md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1c35c6679108488c44f7f",
+      "key": "booz allen hamilton|||university full stack developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae19b001f9d9308370ab166",
+      "key": "torentify|||software engineer usa remote",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1eaf8de23f466ec8c0ce4",
+      "key": "usaa|||software engineer entry level",
+      "location": "san antonio tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1eaff1f9d9308370ac45c",
+      "key": "northrop grumman|||2027 associate software engineer software engineer huntsville al",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae0d9341f9d9308370a4d84",
+      "key": "ey|||sdc wamt back end engineer analyst dallas raleigh san antonio",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1acc9de23f466ec8bfd4f",
+      "key": "intezra inc|||infrastructure engineer",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1bf131f9d9308370ab8b3",
+      "key": "intezra inc|||ios mobile capability developer",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1acc3eb7e8f715a60740e",
+      "key": "clera|||product engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae145fa67c31ab3489a1f8f",
+      "key": "wipro|||test engineer l1",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae18f9f829a3bada15fddc4",
+      "key": "boeing|||entry level software engineer",
+      "location": "maryland heights mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae1da786679108488c454d3",
+      "key": "shiseido|||analyst it digital",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
