@@ -55265,6 +55265,168 @@
       "key": "navitus health solutions|||associate product manager",
       "location": "alabama united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4ae0b156-0dee-4cd8-9586-be6ccba61655",
+      "key": "amplitude|||software engineer 1",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:366fbb61-7a96-4f27-b9bd-bf5aa16fea31",
+      "key": "viggle ai|||full stack software engineer new grad ai 3d creator tools",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:63acbea3-5828-4315-8daa-d1b33d6b868c",
+      "key": "hyphenate|||software engineer new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d748fe65-2e87-4157-a947-98b7a43888eb",
+      "key": "old mission|||software engineer new grad",
+      "location": "chicago il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6ee2c18b7cf10db8bb732b13cedd58b13876a93e",
+      "key": "servicenow|||software engineer new grad ai ml",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bdbced01f5b86b8e3ecef724437616cde51a3494",
+      "key": "nvidia|||soc software engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b239b64e-30e5-4f51-b91a-8e3aae1ced66",
+      "key": "relling|||robotics software engineer new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:adde2d06-7fa6-434d-8ec2-7c83bdd99c41",
+      "key": "goaly|||founding senior ai infrastructure engineer",
+      "location": "palo alto ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6e17f37b-bf04-4365-bb04-224484e6f616",
+      "key": "goaly|||ai research scientist early career",
+      "location": "palo alto ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae13bfc829a3bada15fbb9e",
+      "key": "wayfair|||software engineer i",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae139a967c31ab3489a19f0",
+      "key": "torentify|||full stack engineer wfh",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae126bf67c31ab3489a0f1c",
+      "key": "itron inc|||firmware engineer",
+      "location": "west union sc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae133191f9d9308370a895c",
+      "key": "strategy|||associate cloud support engineer",
+      "location": "tysons corner va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae12ffe05a39c3e2c710db4",
+      "key": "north carolina state university|||temporary full stack developer",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae12c2567c31ab3489a132e",
+      "key": "linkedin|||software engineer systems and infrastructure",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae129c767c31ab3489a11d3",
+      "key": "excel driver services llc|||unity developer",
+      "location": "wheat ridge co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1248905a39c3e2c710646",
+      "key": "western union|||external uat1 test",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae120bf829a3bada15fad02",
+      "key": "nutanix|||software developer co op",
+      "location": "vancouver british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae12037de23f466ec8bc817",
+      "key": "sambanova|||design verification engineer new grad",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae11cc667c31ab3489a0a96",
+      "key": "viasat|||embedded software engineer early career",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adfd4f7c5c64fa3d9cc00c4",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae0d6bf5a5afc94bd2c7dd1",
+      "key": "rtx|||embedded software engineer i onsite",
+      "location": "mckinney tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae122a31f9d9308370a7f18",
+      "key": "intel|||gpu driver and graphics performance engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae0eddd1f9d9308370a5b9d",
+      "key": "cadence|||lead software engineer mesh generation",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae121b91f9d9308370a7eb5",
+      "key": "nvidia|||formal verification engineer new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae1325c05a39c3e2c710f17",
+      "key": "capelli new york|||product development assistant",
+      "location": "new york city metropolitan area united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae11d35829a3bada15fab4b",
+      "key": "tricorbraun|||product data associate",
+      "location": "chicago illinois united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
