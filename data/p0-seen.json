@@ -5441,6 +5441,36 @@
       "key": "snowflake|||software engineer customer experience engineering",
       "location": "menlo park ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6ee2c18b7cf10db8bb732b13cedd58b13876a93e",
+      "key": "servicenow|||software engineer new grad ai ml",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bdbced01f5b86b8e3ecef724437616cde51a3494",
+      "key": "nvidia|||soc software engineer new grad",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae12c2567c31ab3489a132e",
+      "key": "linkedin|||software engineer systems and infrastructure",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae122a31f9d9308370a7f18",
+      "key": "intel|||gpu driver and graphics performance engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae121b91f9d9308370a7eb5",
+      "key": "nvidia|||formal verification engineer new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
