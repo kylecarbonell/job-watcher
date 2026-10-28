@@ -5489,6 +5489,12 @@
       "key": "nvidia|||deep learning performance architect new college grad 2027",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2e0587387ac3b0beb26211133cbfbaf6435429b6",
+      "key": "nvidia|||software engineer new grad agent performance modeling",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
