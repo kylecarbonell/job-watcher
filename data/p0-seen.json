@@ -5471,6 +5471,24 @@
       "key": "nvidia|||formal verification engineer new college grad 2027",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae15d491f9d9308370a9f28",
+      "key": "intel|||compiler engineer triton and dsls",
+      "location": "toronto ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae145ed67c31ab3489a1f84",
+      "key": "tesla|||software engineer",
+      "location": "fremont ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae1218a6679108488c4149e",
+      "key": "nvidia|||deep learning performance architect new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
