@@ -5495,6 +5495,30 @@
       "key": "nvidia|||software engineer new grad agent performance modeling",
       "location": "santa clara ca",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:acf63671-cd3d-494b-bf84-c31eb6ae78e5",
+      "key": "samsara|||software engineer 1 new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae25e5cde23f466ec8c5bc4",
+      "key": "ibm|||entry level qa test engineer tucson az",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae23d0a1f9d9308370afd1d",
+      "key": "amd|||distributed systems software engineer collectives",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae23d7ceb7e8f715a60bcdf",
+      "key": "nvidia|||formal verification engineer new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
