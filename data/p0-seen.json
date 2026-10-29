@@ -5519,6 +5519,18 @@
       "key": "nvidia|||formal verification engineer new college grad 2026",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae23c5105a39c3e2c71826b",
+      "key": "amd|||distributed systems software engineer collectives",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2a31deb7e8f715a60f6bb",
+      "key": "intel|||eda tools software engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
