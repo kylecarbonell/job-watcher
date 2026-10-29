@@ -56633,6 +56633,174 @@
       "key": "munich re|||associate product manager integrated analytics job details munich re careers",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:756f5acb-ee83-4d78-8f4b-7cbbdaff4b18",
+      "key": "thoughtworks|||software developer new grad",
+      "location": "chicago il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fcd88c67-d6d6-41a6-9f32-1b0db5954dd6",
+      "key": "salesforce|||software engineer new grad",
+      "location": "indianapolis in dallas tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e8c065bb-38a4-449d-a3c5-01e4519c1fef",
+      "key": "quantiq|||software developer new grad",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9a5b3491-8814-46d6-a763-011f3dcbc487",
+      "key": "tobogganlabs|||junior data scientist",
+      "location": "quebec city qc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae36209d7424a2a828df3f2",
+      "key": "infineon technologies|||graduate product engineer",
+      "location": "leominster ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae36101d7424a2a828df37a",
+      "key": "caci international inc|||front end software developer",
+      "location": "sterling va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae35f54eab1f96730973716",
+      "key": "ust healthproof|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae35f1b77c09cb3bd4a54d2",
+      "key": "north south consulting group llc|||jr salesforce developer",
+      "location": "elizabethtown ky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae35c26d7424a2a828df0ae",
+      "key": "smateso gmbh|||atlassian app entwickler",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae34520c3139b475b5abaa4",
+      "key": "coinflow|||software engineer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae358b177c09cb3bd4a5122",
+      "key": "infineon technologies|||graduate product engineer",
+      "location": "leominster ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae354cbeab1f96730973189",
+      "key": "torentify|||node js developer wfh",
+      "location": "anchorage ak united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae35384c3139b475b5ac0ea",
+      "key": "tyler technologies|||software developer",
+      "location": "orono me united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad039c4c9f40bec90800338",
+      "key": "york space systems|||embedded flight software engineer early career",
+      "location": "greenwood village co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad039bfc9f40bec9080032d",
+      "key": "york space systems|||flight software platform engineer",
+      "location": "greenwood village co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad93f9d950ef68d5184f9e1",
+      "key": "clio|||software developer co op",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae341c3d7424a2a828de599",
+      "key": "siemens|||sw qa engineer",
+      "location": "wilsonville or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae3410c77c09cb3bd4a46e4",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae33ca0d7424a2a828de3ca",
+      "key": "cgi|||stage cooperatif hiver 2027 developpeur bi 4 mois",
+      "location": "saguenay qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac68333d9621c5b283a92f6",
+      "key": "matx|||methodology engineer silicon",
+      "location": "mountain view",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae32feed45dc30fb7d27b30",
+      "key": "hatch|||forward deployed engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae3203cfb2cd420ace4efc2",
+      "key": "google|||ux engineer hue futures",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae351cf77c09cb3bd4a4de3",
+      "key": "northrop grumman|||2027 associate embedded software engineer beavercreek ohio",
+      "location": "beavercreek oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae35a22c3139b475b5ac422",
+      "key": "general motors|||early career software test developer propulsion thermal management",
+      "location": "markham on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae35ce4c3139b475b5ac5d5",
+      "key": "cisco|||software engineer",
+      "location": "galway ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae367ed77c09cb3bd4a5971",
+      "key": "capital one|||associate product operations flights fulfillment",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae3679cc3139b475b5acbe2",
+      "key": "formula|||associate growth product manager contract",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae34f32eab1f96730972e98",
+      "key": "sbt global|||solution business analyst korean bilingual required",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
