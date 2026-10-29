@@ -56537,6 +56537,102 @@
       "key": "arch|||associate product manager summer 2027",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6f6e177e-6489-412b-b087-1cdcceb47a7a",
+      "key": "capital de recherche tower|||c software developer new grad",
+      "location": "montreal qc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0798c35c-4866-4fe4-8dd1-65d91ad52e42",
+      "key": "nuclear graduates|||graduate software engineer new grad",
+      "location": "united kingdom",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac64bbf372c01f6cd73c66b",
+      "key": "carefirst bluecross blueshield|||software engineer associate remote",
+      "location": "maryland united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae30b2bd7424a2a828dd957",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "new jersey united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2e46f0adb76f2a7a7a945",
+      "key": "a full renovation project services|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2e46c63f9f9b4b24bf1d8",
+      "key": "a full renovation project services|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2e2f1e37c39926d3b4159",
+      "key": "instrumental inc|||backend engineer",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2dc12e37c39926d3b4079",
+      "key": "torentify|||full stack engineer node js react wfh",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2a926829a3bada16066e8",
+      "key": "abbott|||bioinformatics quality engineer i",
+      "location": "los angeles jolla ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2d684a33a3dfa7359350c",
+      "key": "t mobile|||associate software engineer billing platform",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2d61c0adb76f2a7a7a6d1",
+      "key": "torentify|||web developer i work from home",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae19317de23f466ec8bf8cf",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adfd50d5dc7953215a43635",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adfd5065dc7953215a4362f",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae31a8cc3139b475b5ab04d",
+      "key": "snail games usa|||devops backend engineer junior to mid level egofold",
+      "location": "culver city ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae308e0684c93aab88cbd12",
+      "key": "munich re|||associate product manager integrated analytics job details munich re careers",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
