@@ -5549,6 +5549,12 @@
       "key": "cisco|||software engineer",
       "location": "galway ireland",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae3700cfb2cd420ace50d17",
+      "key": "amazon|||software privacy engineer trust platform automation devices services trust privacy and accessibility tpa",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
