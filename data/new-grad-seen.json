@@ -56129,6 +56129,264 @@
       "key": "capital one|||senior associate product manager global payment network",
       "location": "mclean va united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b20248d4-8618-4218-96d9-6ea9dace4c4b",
+      "key": "priceline|||junior software engineer front end",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:acf63671-cd3d-494b-bf84-c31eb6ae78e5",
+      "key": "samsara|||software engineer 1 new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:848cf1be407efae51347002187b585cc4e8011d7",
+      "key": "rtx|||engineer 1 software engineer test engineering",
+      "location": "burnsville mn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:67d35448e0723ffe3f54581104bf48d7439ed577",
+      "key": "kla|||software engineer 1",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c4d55220aab0a1e242b9a103b0ceaed8e4268e88",
+      "key": "addepar|||product manager early career ai platform",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae26fa0829a3bada1605000",
+      "key": "booz allen hamilton|||digital engineer junior",
+      "location": "wharton nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2618f6679108488c4adb1",
+      "key": "applied intuition|||software engineer autonomy tools sensor sim",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae267a805a39c3e2c71a245",
+      "key": "rubrik|||software engineer entra id",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2663705a39c3e2c71a0eb",
+      "key": "cargill|||software engineer associate technology development program 2027 atlanta ga job details cargill",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae25e5cde23f466ec8c5bc4",
+      "key": "ibm|||entry level qa test engineer tucson az",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae25adc829a3bada1603fe8",
+      "key": "ford motor company|||full stack software engineer",
+      "location": "dearborn mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae25a02829a3bada1603ee8",
+      "key": "major league baseball mlb|||associate software engineer seasonal",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2591a1f9d9308370b0e73",
+      "key": "snail games usa|||devops backend engineer junior to mid level egofold",
+      "location": "culver city ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae25875de23f466ec8c557b",
+      "key": "cimarron inc|||cloud engineer",
+      "location": "schriever space force base colorado united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae256e26679108488c4a267",
+      "key": "trabus technologies|||software test engineer i ii cleared",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae256d905a39c3e2c719251",
+      "key": "trabus technologies|||full stack engineer cleared",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae253df05a39c3e2c719038",
+      "key": "ford pro|||full stack software engineer",
+      "location": "dearborn mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae240da05a39c3e2c71858c",
+      "key": "serco|||junior software engineer remote",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac67d71d9621c5b283a910b",
+      "key": "analog devices|||entry level applications engineer",
+      "location": "wilmington ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae24719829a3bada1603309",
+      "key": "broccoli ai|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acde77d4028aee69ce11b54",
+      "key": "ey|||sdc front end engineer analyst raleigh nc or dallas tx",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae23d0a1f9d9308370afd1d",
+      "key": "amd|||distributed systems software engineer collectives",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae23d7ceb7e8f715a60bcdf",
+      "key": "nvidia|||formal verification engineer new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae0dc6d67c31ab34899ded3",
+      "key": "lockheed martin|||software engineer e2",
+      "location": "fort worth tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae24573de23f466ec8c4a48",
+      "key": "the cadmus group|||jr full stack developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae24e94eb7e8f715a60c766",
+      "key": "light wonder|||software engineer",
+      "location": "las vegas nv united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae25aa1eb7e8f715a60d03d",
+      "key": "tactical engineering and analysis inc|||software developer entry to junior",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae24e9805a39c3e2c718d6b",
+      "key": "sonos inc|||junior ci cd engineer",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae2468805a39c3e2c718991",
+      "key": "epicor|||associate solution engineer saas conversions",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae259bdeb7e8f715a60cf0e",
+      "key": "regeneron|||it applications analyst quality systems",
+      "location": "raheen county limerick ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae26f8805a39c3e2c71a62a",
+      "key": "northrop grumman|||associate software engineer pathways program aurora co",
+      "location": "aurora co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae243096679108488c496c5",
+      "key": "kbr inc|||junior software engineer",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae26d27eb7e8f715a60df5a",
+      "key": "general dynamics information technology|||full stack software developer ts sci with polygraph",
+      "location": "herndon va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae259601f9d9308370b0ee4",
+      "key": "cvs health|||software development engineer operational analytics",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae23d7aeb7e8f715a60bcdd",
+      "key": "cvs health|||associate architect conversion",
+      "location": "texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae269926679108488c4b37f",
+      "key": "barclays investment bank|||full stack developer",
+      "location": "whippany nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae25cf0829a3bada160419f",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae2781e829a3bada160552b",
+      "key": "tiktok|||product strategist graduate tiktok product business analytics 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae2434005a39c3e2c71876b",
+      "key": "rsm us llp|||tax technology associate fall 2027 winter 2028",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae24028de23f466ec8c464b",
+      "key": "zoro com|||product analyst",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae265501f9d9308370b1aaa",
+      "key": "nestle|||associate product development job details nestle operational services worldwide sa",
+      "location": "arlington va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6adfbc389e3e874dbfbafa31",
+      "key": "bny|||associate liquidity product owner",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae2415d6679108488c4958a",
+      "key": "harry david operations corp|||digital product manager post purchase delivery recipient experience",
+      "location": "jericho ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
