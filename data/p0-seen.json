@@ -5531,6 +5531,24 @@
       "key": "intel|||eda tools software engineer",
       "location": "hillsboro or united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fcd88c67-d6d6-41a6-9f32-1b0db5954dd6",
+      "key": "salesforce|||software engineer new grad",
+      "location": "indianapolis in dallas tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae3203cfb2cd420ace4efc2",
+      "key": "google|||ux engineer hue futures",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae35ce4c3139b475b5ac5d5",
+      "key": "cisco|||software engineer",
+      "location": "galway ireland",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
