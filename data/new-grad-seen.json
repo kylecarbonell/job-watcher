@@ -57935,6 +57935,264 @@
       "key": "manulife|||digital product owner",
       "location": "waterloo on canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f96126b1-2518-47bf-8cf3-c60b07118209",
+      "key": "built technologies|||innovation software engineer 1 marketplace",
+      "location": "nashville tn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:487d6bab-a6f6-4568-915e-7058332e43c8",
+      "key": "roblox|||senior software engineer data acquisition phd early career",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:32d3d3e3-69ab-4d15-a0fd-a71e46167a58",
+      "key": "tsc|||software engineer 1",
+      "location": "silver spring md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0405cce9-0d25-4dd2-b6ef-9cfe7bb03f89",
+      "key": "mitel networks|||junior full stack web developer",
+      "location": "ottawa on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4c4a65e7-1bd3-4404-96f6-9c585d5fc314",
+      "key": "superapp|||software engineer early careers",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:51ad75306463f028e9829cfa19349c34cc2709bd",
+      "key": "amplitude|||software engineer 1",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f073acbe3c5403cd38c6a5987fb40e9cb12b45c6",
+      "key": "booz allen|||junior data scientist",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:67829486-24cb-4a4d-bfa0-8fc4db5fadfe",
+      "key": "tiktok|||product solutions and operations new grad global monetization product and technology",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae50bedd7424a2a828eb3ba",
+      "key": "j d irving limited|||quality assurance technician",
+      "location": "wheatley on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae50b60c3139b475b5b8695",
+      "key": "nokia|||software engineer co op",
+      "location": "murray hill nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4ee1477c09cb3bd4b0413",
+      "key": "stanford university|||software developer associate",
+      "location": "stanford ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae50543d45dc30fb7d348fc",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae50533d7424a2a828eaf90",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae50526fb2cd420ace5c1b0",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abad6c0ee0b348be729bd00",
+      "key": "total expert|||senior software engineer",
+      "location": "st louis park mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7cfb7177d5f033c4b91c54",
+      "key": "total expert|||senior software engineer",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae50169eab1f9673097ee44",
+      "key": "multiview financial software|||software developer",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4fff2eab1f9673097ed27",
+      "key": "cgi|||test engineer manual junior",
+      "location": "fairfax va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4fddcd45dc30fb7d343e3",
+      "key": "blue river technology|||embedded software engineer cameras ci",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4f42dd45dc30fb7d33ea2",
+      "key": "zefr|||software engineer",
+      "location": "marina del rey ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4f26bd7424a2a828ea430",
+      "key": "built|||innovation software engineer 1",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5a9cfb3db59402d0fe9d1",
+      "key": "cisco|||graduate software cloud engineer",
+      "location": "galway ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4e71cfb2cd420ace5b019",
+      "key": "1password|||finance systems analyst integrations and automation",
+      "location": "remote united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4d281d7424a2a828e905c",
+      "key": "kairos power|||firmware development engineer",
+      "location": "alameda ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4e09ed7424a2a828e9888",
+      "key": "moxxi digital|||junior optimization specialist",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4d830c3139b475b5b6802",
+      "key": "roblox|||software engineer discovery ux",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4dc3ad45dc30fb7d32fbf",
+      "key": "american express|||infrastructure engineer",
+      "location": "richmond va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4db72c3139b475b5b69e6",
+      "key": "d2l|||software test developer new graduate",
+      "location": "kitchener on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4592d77c09cb3bd4ac13c",
+      "key": "boeing|||software engineer simulation hybrid relocation assistance available",
+      "location": "bingen wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae392d2c3139b475b5ae526",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae3e66ceab1f96730977f6d",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "fort worth tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4f00dd7424a2a828ea29d",
+      "key": "hendler family brewing co|||software engineering and it co op",
+      "location": "framingham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae500dffb2cd420ace5be6a",
+      "key": "olg|||front end developer student",
+      "location": "sault ste marie on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4f0b2d45dc30fb7d33ca7",
+      "key": "allied world|||associate application developer it platform awai",
+      "location": "new jersey united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae50a5d77c09cb3bd4b1622",
+      "key": "motorola solutions|||embedded software engineer",
+      "location": "allen tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4f0a9d45dc30fb7d33c9d",
+      "key": "capital one|||associate software engineer new grad card expansion",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4d59c77c09cb3bd4af549",
+      "key": "booz allen hamilton|||university software developer",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4db99d7424a2a828e95d9",
+      "key": "amentum|||entry level software engineer secret",
+      "location": "dahlgren va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae4fe75fb2cd420ace5bd09",
+      "key": "lululemon|||product operations lead canal place contract",
+      "location": "new orleans louisiana united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae4fc07c3139b475b5b7cd7",
+      "key": "pfu america inc|||associate product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae4fa21d45dc30fb7d341fb",
+      "key": "city home|||digital product associate tamarac fl",
+      "location": "tamarac fl united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae4e30ad45dc30fb7d333d3",
+      "key": "tiktok|||product solutions and operations graduate global monetization product and technology 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae3d145fb2cd420ace5444d",
+      "key": "goldman sachs|||asset wealth management wealth investment solutions wis digital product manager analyst new york",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
