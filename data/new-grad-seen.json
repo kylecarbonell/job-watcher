@@ -57647,6 +57647,132 @@
       "key": "inspired selection|||product development executive",
       "location": "london england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:66e51a105f3dee902dc82db631c3c079b3358780",
+      "key": "firetiger|||product engineer new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae48e12d45dc30fb7d303c0",
+      "key": "house of commons of canada chambre des communes du canada|||full stack developer digital product developer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae48dd0eab1f9673097ac96",
+      "key": "sirna sons produce|||quality assurance technician",
+      "location": "noblesville in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:HelloFresh|[WMS Software Engineer [OPERATIONS TECHNOLOGY]](https://jobright.ai/jobs/info/6ae47c0bc3139b475b5b3a87?utm_campaign=Software%20Engineering&utm_source=1103)|Goodyear, AZ, United States",
+      "key": "hellofresh|||wms software engineer operations technology https jobright ai jobs info 6ae47c0bc3139b475b5b3a87 utm campaign software 20engineering utm source 1103",
+      "location": "goodyear az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:HelloFresh|[WMS Software Engineer [OPERATIONS TECHNOLOGY]](https://jobright.ai/jobs/info/6ae47c0ad7424a2a828e661c?utm_campaign=Software%20Engineering&utm_source=1103)|New York, NY, United States",
+      "key": "hellofresh|||wms software engineer operations technology https jobright ai jobs info 6ae47c0ad7424a2a828e661c utm campaign software 20engineering utm source 1103",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4884277c09cb3bd4acb7c",
+      "key": "intuit|||winter 2027 software developer co op front end 8 months",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a58228a8f51964c0404702e",
+      "key": "netic|||full stack software engineer product new grad 2026 2027",
+      "location": "san francisco",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae479fdeab1f9673097a8dd",
+      "key": "lightfox games|||integration artist unannounced project",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae47649eab1f9673097a818",
+      "key": "mphasis|||associate software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aac2e7b636cddf7396f2b4e",
+      "key": "deloitte|||cyber full stack software engineer",
+      "location": "philadelphia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4640efb2cd420ace57389",
+      "key": "leidos|||quality assurance engineer",
+      "location": "lynnwood wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae46400fb2cd420ace57364",
+      "key": "leidos|||quality assurance engineer",
+      "location": "lynnwood wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae44c7077c09cb3bd4abf78",
+      "key": "frazer nash consultancy|||electrical electronic embedded software engineering graduate",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae44c6cc3139b475b5b316c",
+      "key": "frazer nash consultancy|||electrical electronic embedded software engineering graduate",
+      "location": "glasgow scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae44c6577c09cb3bd4abf6f",
+      "key": "frazer nash consultancy|||electrical electronic embedded software engineering graduate",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae44c60c3139b475b5b3161",
+      "key": "frazer nash consultancy|||electrical electronic embedded software engineering graduate",
+      "location": "burton upon trent england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae44c5fc3139b475b5b315f",
+      "key": "frazer nash consultancy|||electrical electronic embedded software engineering graduate",
+      "location": "leatherhead england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae458dbfb2cd420ace57105",
+      "key": "state of illinois|||web developer information systems analyst i option w",
+      "location": "springfield il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:HelloFresh|[WMS Software Developer [OPERATIONS TECHNOLOGY]](https://jobright.ai/jobs/info/6ae47c00c3139b475b5b3a84?utm_campaign=Software%20Engineering&utm_source=1103)|New York, NY, United States",
+      "key": "hellofresh|||wms software developer operations technology https jobright ai jobs info 6ae47c00c3139b475b5b3a84 utm campaign software 20engineering utm source 1103",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:HelloFresh|[WMS Software Engineer [OPERATIONS TECHNOLOGY]](https://jobright.ai/jobs/info/6ae47bf877c09cb3bd4ac8d9?utm_campaign=Software%20Engineering&utm_source=1103)|Boulder, CO, United States",
+      "key": "hellofresh|||wms software engineer operations technology https jobright ai jobs info 6ae47bf877c09cb3bd4ac8d9 utm campaign software 20engineering utm source 1103",
+      "location": "boulder co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae43e87d45dc30fb7d2f573",
+      "key": "cgi|||angular developer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
