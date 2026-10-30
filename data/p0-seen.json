@@ -5567,6 +5567,24 @@
       "key": "amazon|||front end engineer 2026 us",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:487d6bab-a6f6-4568-915e-7058332e43c8",
+      "key": "roblox|||senior software engineer data acquisition phd early career",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:67829486-24cb-4a4d-bfa0-8fc4db5fadfe",
+      "key": "tiktok|||product solutions and operations new grad global monetization product and technology",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab5a9cfb3db59402d0fe9d1",
+      "key": "cisco|||graduate software cloud engineer",
+      "location": "galway ireland",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
