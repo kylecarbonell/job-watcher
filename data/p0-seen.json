@@ -5561,6 +5561,12 @@
       "key": "cisco|||software qa engineer i full time united states",
       "location": "richardson tx united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae3a8bcd45dc30fb7d2b717",
+      "key": "amazon|||front end engineer 2026 us",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
