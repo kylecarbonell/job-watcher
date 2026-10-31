@@ -5585,6 +5585,24 @@
       "key": "cisco|||graduate software cloud engineer",
       "location": "galway ireland",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dc799011-53dd-40eb-a0b4-033ea01b7cb4",
+      "key": "nvidia|||research scientist new grad ml systems",
+      "location": "4 locationsseattle wa austin tx santa clara ca westford ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cb5c29ed-d3aa-44c6-b0fc-430c82877b0e",
+      "key": "nvidia|||research scientist new grad ai for graphics and gaming",
+      "location": "canada santa clara ca united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae51e70eab1f9673097fd63",
+      "key": "cisco|||software developer embedded systems i full time canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
