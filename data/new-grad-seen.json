@@ -58193,6 +58193,114 @@
       "key": "goldman sachs|||asset wealth management wealth investment solutions wis digital product manager analyst new york",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dc799011-53dd-40eb-a0b4-033ea01b7cb4",
+      "key": "nvidia|||research scientist new grad ml systems",
+      "location": "4 locationsseattle wa austin tx santa clara ca westford ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cb5c29ed-d3aa-44c6-b0fc-430c82877b0e",
+      "key": "nvidia|||research scientist new grad ai for graphics and gaming",
+      "location": "canada santa clara ca united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cf10392f535fe7466567717fc77adc5fdc6b1dd6",
+      "key": "dexcom|||software development engineer 1",
+      "location": "san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7dac890f5f74fc28e8e476a297ffa734acaa3a85",
+      "key": "publicis groupe|||junior digital media analyst",
+      "location": "overland park ks",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae52f26d7424a2a828ec2e6",
+      "key": "mfinite consulting llc|||ibm curam specialist contract raleigh nc",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae52f24d45dc30fb7d35bfc",
+      "key": "mfinite consulting llc|||technical solution architect contract raleigh nc",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae52f19d7424a2a828ec2e2",
+      "key": "mfinite consulting llc|||software developer programmer contract raleigh nc",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae52f17c3139b475b5b965d",
+      "key": "mfinite consulting llc|||qa tester quality assurance analyst contract raleigh nc",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae528ffc3139b475b5b93ae",
+      "key": "optum|||associate full stack software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae51e94c3139b475b5b8f55",
+      "key": "activision blizzard|||rotational engineer central technology",
+      "location": "sherman oaks ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae5242c77c09cb3bd4b21e8",
+      "key": "inductive automation|||software solutions engineer i",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae51d10d45dc30fb7d3549a",
+      "key": "handshake|||software engineer i promotions",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae50f3ad7424a2a828eb51b",
+      "key": "rocket lab|||flight software engineer i",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae514cc77c09cb3bd4b1a5b",
+      "key": "infinity ward|||rotational engineer central technology",
+      "location": "sherman oaks ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae5114ac3139b475b5b88e5",
+      "key": "becu|||web solutions specialist",
+      "location": "tukwila wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae51999d7424a2a828eb949",
+      "key": "kla|||customer engagement applications engineer sfs",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae51e70eab1f9673097fd63",
+      "key": "cisco|||software developer embedded systems i full time canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad28ddec4290cef1412b950",
+      "key": "engineered corrosion solutions llc|||product development co op",
+      "location": "st louis mo united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
