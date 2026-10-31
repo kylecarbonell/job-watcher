@@ -58571,6 +58571,60 @@
       "key": "optimum|||software dev engineer i",
       "location": "bethpage ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae623edc3139b475b5bc1c5",
+      "key": "boeing|||software engineer simulation hybrid relocation assistance available",
+      "location": "bingen wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae38c0cc3139b475b5ae0ea",
+      "key": "the swift group llc|||software engineer",
+      "location": "hanover md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae6174ec3139b475b5bbed6",
+      "key": "lseg|||engineering graduate programme norwell",
+      "location": "norwell ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae60c32eab1f96730982bc2",
+      "key": "pocket yc w26|||firmware engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae60a32d45dc30fb7d38299",
+      "key": "ns2 mission|||java developer junior mid level with security clearance",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae61c2cc3139b475b5bc042",
+      "key": "mfinite consulting llc|||qa tester quality assurance analyst contract raleigh nc",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae61be7d7424a2a828eec4b",
+      "key": "mfinite consulting llc|||technical solution architect contract raleigh nc",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae61a78d45dc30fb7d384b5",
+      "key": "franklin sports|||quality assurance coordinator",
+      "location": "stoughton ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae621bbd7424a2a828eed5a",
+      "key": "growth mesh|||associate product analyst",
+      "location": "dallas tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
