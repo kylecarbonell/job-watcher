@@ -58541,6 +58541,36 @@
       "key": "nvidia|||technical product marketing engineer robotics simulation new college grad 2027",
       "location": "santa clara ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae5e61ceab1f9673098260e",
+      "key": "ust healthproof|||junior full stack developer",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae5d3b8eab1f967309822ae",
+      "key": "thinktek|||software tester with security clearance",
+      "location": "quantico va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae5c718d45dc30fb7d378db",
+      "key": "apogee research llc|||embedded software engineer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aadfc393d96632d741b0335",
+      "key": "aptiv|||associate cloud engineer",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae5a7bb77c09cb3bd4b4062",
+      "key": "optimum|||software dev engineer i",
+      "location": "bethpage ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
