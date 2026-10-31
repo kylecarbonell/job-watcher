@@ -5603,6 +5603,30 @@
       "key": "cisco|||software developer embedded systems i full time canada",
       "location": "kanata on canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae56a7177c09cb3bd4b3720",
+      "key": "nvidia|||asic verification engineer new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae53471fb2cd420ace5d795",
+      "key": "nvidia|||formal verification engineer new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae534c5eab1f967309806ab",
+      "key": "nvidia|||software engineer hardware tools and methodology new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae56a74c3139b475b5ba72f",
+      "key": "nvidia|||technical product marketing engineer robotics simulation new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
