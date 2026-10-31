@@ -58625,6 +58625,48 @@
       "key": "growth mesh|||associate product analyst",
       "location": "dallas tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9a12db359df915566aa99",
+      "key": "ea sports|||c generalist software engineer co op fc vancouver summer 2027 8 months undergrad",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae6388ad45dc30fb7d3897f",
+      "key": "l3harris technologies|||associate software engineer",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae63264fb2cd420ace602f4",
+      "key": "general atomics|||software developer i",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a7aaa8fa26ccc369f83f178",
+      "key": "general atomics|||associate software developer",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae038599e3e874dbfbb33c1",
+      "key": "magnet forensics|||software developer co op winter 2027",
+      "location": "waterloo on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae63e0cc3139b475b5bc4ce",
+      "key": "onto innovation|||senior software engineer",
+      "location": "wilmington ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae64acfeab1f967309834d3",
+      "key": "instrumental inc|||backend engineer",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
