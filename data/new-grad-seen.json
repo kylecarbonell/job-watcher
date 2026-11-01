@@ -58667,6 +58667,12 @@
       "key": "instrumental inc|||backend engineer",
       "location": "palo alto ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a4e1218fc327f422fef1ca6",
+      "key": "lumin digital|||product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
