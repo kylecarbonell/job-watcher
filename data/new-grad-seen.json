@@ -59525,6 +59525,54 @@
       "key": "tempus ai|||quality assurance specialist",
       "location": "chicago il united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae760b4bad9293a40a4222c",
+      "key": "percival engineering|||embedded developer with security clearance",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae73f79fb2cd420ace627d8",
+      "key": "leidos|||quality assurance engineer",
+      "location": "lynnwood wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae73f69fb2cd420ace62780",
+      "key": "leidos|||quality assurance engineer",
+      "location": "lynnwood wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae73f46fb2cd420ace626db",
+      "key": "leidos|||junior software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad90a0e950ef68d5184d68c",
+      "key": "asure software|||associate software engineer net apis terraform",
+      "location": "addison tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae73ac803f4a1104b24ff35",
+      "key": "louisiana economic development|||application developer it service management",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae74860bad9293a40a41fd8",
+      "key": "franklin sports|||quality assurance coordinator",
+      "location": "stoughton ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6acdbe837c7bc52e04f55ba4",
+      "key": "arthrex|||associate product manager global endoscopy",
+      "location": "santa barbara ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
