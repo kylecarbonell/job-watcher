@@ -59573,6 +59573,18 @@
       "key": "arthrex|||associate product manager global endoscopy",
       "location": "santa barbara ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada752c4c3adc437cecd196",
+      "key": "sun west mortgage company inc|||software engineer",
+      "location": "united wv united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae7820ba2a252e219423c08",
+      "key": "cgi|||sap s 4hana abap developer jr u s citizenship required",
+      "location": "fairfax va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
