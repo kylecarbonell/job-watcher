@@ -5627,6 +5627,12 @@
       "key": "nvidia|||technical product marketing engineer robotics simulation new college grad 2027",
       "location": "santa clara ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae686c5fb2cd420ace60ba9",
+      "key": "tesla|||software engineer",
+      "location": "fremont ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
