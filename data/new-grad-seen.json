@@ -59489,6 +59489,42 @@
       "key": "state of missouri|||web developer 0000093",
       "location": "jefferson city mo united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:076e4d7b-c105-4b49-866b-5ac1f12ec7b3",
+      "key": "huntington ingalls industries|||software engineer 1",
+      "location": "newport news va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:329d6cdb34a5485bb86e876d13e0ba82887a0c3a",
+      "key": "american express|||software engineer 1 enterprise technology services",
+      "location": "charlotte nc",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae7255dd7424a2a828f0ebc",
+      "key": "netrolynx ai|||software developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaddcfc0ebc8fb2313ebae1",
+      "key": "aptiv|||associate cloud engineer",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb0b0d5dc7953215a30b94",
+      "key": "mid continent instruments and avionics|||software certification engineer software verification engineer",
+      "location": "wichita ks united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adfa462065c4e77efaf9ebb",
+      "key": "tempus ai|||quality assurance specialist",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
