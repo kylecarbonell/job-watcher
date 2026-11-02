@@ -5639,6 +5639,48 @@
       "key": "google|||software engineer 2 early career",
       "location": "12 locationspalo alto ca madison wi seattle wa los angeles raleigh nc san bruno ca durham nc pittsburgh pa kirkland wa new york sunnyvale ca mountain view ca",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9cd5fde0df8586e7edb9d728417c2eaf23b95c6b",
+      "key": "visa|||associate product manager new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8bcb5a2a252e219428ca8",
+      "key": "ibm|||software developer",
+      "location": "markham ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8bca4a2a252e219428c9a",
+      "key": "ibm|||software developer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8bcc06c51033758f422bc",
+      "key": "ibm|||confluent software developer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8bc9ca2a252e219428c93",
+      "key": "ibm|||software developer",
+      "location": "markham ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8bc9ffb2cd420ace681ec",
+      "key": "ibm|||software developer",
+      "location": "markham ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8bf44777c336eb6d65bdb",
+      "key": "cisco|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
