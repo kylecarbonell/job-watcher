@@ -5633,6 +5633,12 @@
       "key": "tesla|||software engineer",
       "location": "fremont ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:da1ac264-d20e-4ad8-b630-709c0ae8cd5e",
+      "key": "google|||software engineer 2 early career",
+      "location": "12 locationspalo alto ca madison wi seattle wa los angeles raleigh nc san bruno ca durham nc pittsburgh pa kirkland wa new york sunnyvale ca mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
