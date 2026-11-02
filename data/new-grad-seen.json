@@ -59855,6 +59855,234 @@
       "key": "hm revenue customs|||associate product manager",
       "location": "manchester england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5a361146-c417-435f-aa29-21e4fca3ba06",
+      "key": "ocado group|||software engineer new grad",
+      "location": "hatfield uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cce442d3e9c78fc4c32a90754f4cc4b36d55e846",
+      "key": "huntington ingalls industries|||it software engineer 1 robotic process automation",
+      "location": "newport news va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4b5e1430513fcadd5247225875fe3182d11479cf",
+      "key": "homey|||junior software engineer ai native",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a0308a65e04569c66de46b408f32f9de21347f3a",
+      "key": "hipp health|||software engineer new grad",
+      "location": "united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:392c282a14efca89bd1fc4758309c3db782694b1",
+      "key": "rtx|||conversion software engineer 1",
+      "location": "richardson tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dede37bf-07c6-40e1-9c50-541b1cb5d7d1",
+      "key": "integration innovation i3|||junior machine learning engineer",
+      "location": "arlington county arlington va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:10be1db7-3520-4bf0-bf9b-642f5e2f703b",
+      "key": "element solutions|||junior data engineer",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4e85d37b-ff0e-4de1-b619-cf8ea6ac1e74",
+      "key": "thg ingenuity|||graduate junior data scientist",
+      "location": "manchester uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ee9c6075-0a08-4dbf-83ca-218f932bd79e",
+      "key": "phlo|||junior product owner",
+      "location": "glasgow uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9cd5fde0df8586e7edb9d728417c2eaf23b95c6b",
+      "key": "visa|||associate product manager new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8b3bb6c51033758f41bdf",
+      "key": "fortinet|||software dev qa engineer early career npi",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8b3aa03f4a1104b255465",
+      "key": "fortinet|||early careers embedded software developer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad627c63dc655658d8e2bd5",
+      "key": "andrew morgan|||onestream developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae89e63a2a252e2194279e5",
+      "key": "vaultt|||indie game developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8985f061d6d7ff3d7b217",
+      "key": "torentify|||software engineer remote",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a89c573e8b6601d1290a2aa",
+      "key": "peraton|||junior software test engineer flight safety systems",
+      "location": "fort belvoir va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8887a77c09cb3bd4bbb9e",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8895fa2a252e2194272ac",
+      "key": "clark associates|||quality assurance specialist weekend day shift",
+      "location": "lebanon tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae888faa2a252e21942728b",
+      "key": "inflo|||junior software engineer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae880a777c09cb3bd4bb9c0",
+      "key": "netrolynx ai|||software developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae874f9a2a252e219426e2d",
+      "key": "saalex solutions a saalex company|||junior software developer with security clearance",
+      "location": "lexington park md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8724203f4a1104b253c2e",
+      "key": "inflo|||junior software engineer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a58193a9f1f56462cf68994",
+      "key": "netic|||forward deployed engineer fde new grad 2026 2027",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae86d1e061d6d7ff3d7a663",
+      "key": "accenture|||london technology degree apprenticeship 2027",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae84fef03f4a1104b25325d",
+      "key": "mitsubishi electric iconics digital solutions|||quality assurance engineer",
+      "location": "dudley england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae84ea377c09cb3bd4baca5",
+      "key": "knorr bremse lisieux systemes pour vehicules utilitaires|||co op information technology posting job details knorr bremse",
+      "location": "avon oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae88464fb2cd420ace666f5",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae84a77a2a252e21942628f",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae89c28061d6d7ff3d7b369",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "washington district of columbia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8b049061d6d7ff3d7beaf",
+      "key": "onto innovation|||software engineer 3",
+      "location": "wilmington ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae83e99bad9293a40a44c1c",
+      "key": "paypal|||software engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae8ba45a2a252e219428a78",
+      "key": "hm revenue customs|||associate product manager",
+      "location": "edinburgh scotland united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae8b87a777c336eb6d655d8",
+      "key": "jerry|||product manager in training yc cofounder ceo led",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae8b86e03f4a1104b2557cf",
+      "key": "jerry|||product manager 2x yc founder mentorship",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae8b63c6c51033758f41dba",
+      "key": "city home|||digital product associate tamarac fl",
+      "location": "tamarac fl united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae8b272777c336eb6d651ca",
+      "key": "eal|||product coordinator",
+      "location": "england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae8892103f4a1104b254134",
+      "key": "phlo|||junior product owner",
+      "location": "glasgow scotland united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae852bf6c51033758f3f9eb",
+      "key": "arthrex|||associate product manager global endoscopy job details arthrex",
+      "location": "naples fl united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
