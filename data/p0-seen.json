@@ -5747,6 +5747,30 @@
       "key": "nvidia|||soc software engineer new college graduate 2026",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea3fbb913589212b1f4fbc",
+      "key": "amazon|||software development engineer embedded systems early career 2027 us",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea278dfc85f3a394330d1c",
+      "key": "spacex|||software engineer full stack data video analysis",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae43642c3139b475b5b2d16",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea0767fc85f3a39432efa3",
+      "key": "amazon|||quality assurance engineer i amz24481 6",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
