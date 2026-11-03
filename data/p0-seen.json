@@ -5681,6 +5681,48 @@
       "key": "cisco|||software engineer",
       "location": "san francisco ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9910f1e1-3019-4617-bdba-6c5ee8d8396a",
+      "key": "databricks|||software engineer new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:89d470cff47b6b460041b9a5d339976ba41633a2",
+      "key": "salesforce|||software engineer new grad",
+      "location": "indianapolis in dallas tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8f491fb2cd420ace6a780",
+      "key": "spacex|||software engineer starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8d6c903f4a1104b256e03",
+      "key": "apple|||cellular power optimization software engineer wireless technologies ecosystems",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae8d6d5777c336eb6d66c19",
+      "key": "apple|||cellular power optimization software engineer wireless technologies ecosystems",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae919ab03f4a1104b259c12",
+      "key": "qualcomm|||engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae8d985a2a252e21942a188",
+      "key": "ibm|||entry level product manager new york",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
