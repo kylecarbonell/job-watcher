@@ -5801,6 +5801,12 @@
       "key": "servicenow|||software engineer agent eval platform",
       "location": "mountain view ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeac1641ba298c777774b26",
+      "key": "oracle|||platform software engineer 2",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
