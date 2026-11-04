@@ -62027,6 +62027,330 @@
       "key": "gaf|||product management rotational associate",
       "location": "parsippany nj united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b331489d6f15c0692a28a788cd20236772d54869",
+      "key": "boston scientific|||software engineer 1 engineering",
+      "location": "maple grove mn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5712eefd61f11a3a7f69a3fd70c810fdd5223df5",
+      "key": "skyward|||software engineer entry level",
+      "location": "stevens point wi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:21b19d613a10521ebc3a39160efea12285ba8183",
+      "key": "thg ingenuity|||graduate junior data scientist",
+      "location": "manchester uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb92daa0b134121d99c097",
+      "key": "teradata|||software engineer",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb63b965311d97105b8008",
+      "key": "rideco on demand transit|||software engineer in algorithms optimization",
+      "location": "waterloo on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb8dd1f40efa43f4a18823",
+      "key": "charles schwab|||net angular developer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb76f0f40efa43f4a17a0d",
+      "key": "guidewire software|||software engineer",
+      "location": "exton pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb8b6cfbe13dfb53df517a",
+      "key": "mercado eletronico|||forward deployed engineer junior",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb876af40efa43f4a1853a",
+      "key": "third wave systems|||applications engineer i",
+      "location": "eden prairie mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb870665311d97105b98e4",
+      "key": "northrop grumman|||2027 converting associate embedded software engineer roy ut",
+      "location": "roy ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb8676765815f7d746142d",
+      "key": "akima|||web developer junior active secret clearance or able to obtain",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb6bbefbe13dfb53df3d9b",
+      "key": "mercury systems|||software engineer rotational engineering program",
+      "location": "torrance ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb7fdca0b134121d99b615",
+      "key": "rivian|||software engineer",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb7fcba0b134121d99b607",
+      "key": "cotiviti|||associate quality analyst backend",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb7d9582f0ac077443a506",
+      "key": "wabtec corporation|||quality assurance technician",
+      "location": "jackson tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb5cb7765815f7d745f71b",
+      "key": "boston scientific|||urology r d software engineering co op",
+      "location": "maple grove mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb78d665311d97105b8f29",
+      "key": "hardin design and development|||web developer entry level",
+      "location": "madison wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb75ecfbe13dfb53df439b",
+      "key": "bectran inc|||associate software engineer",
+      "location": "schaumburg il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb7266fbe13dfb53df4140",
+      "key": "ambev tech|||quality assurance analyst",
+      "location": "houston tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb6b3ff40efa43f4a172c1",
+      "key": "boston children s hospital|||applications development specialist i",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb672882f0ac077443959a",
+      "key": "corning incorporated|||division digital software engineer job details corning",
+      "location": "concord north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad74796e4b94611ab843f89",
+      "key": "graphcore|||graduate software engineer drivers and utilities 2027",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7535667bec1d0d9c746ab",
+      "key": "graphcore|||graduate firmware engineer 2027",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad75a5667bec1d0d9c74925",
+      "key": "graphcore|||graduate software engineer frameworks 2027",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb6095765815f7d745fa7e",
+      "key": "rwe|||junior software engineer job details rwe",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb589ea0b134121d999794",
+      "key": "information tech consultants|||junior python developer",
+      "location": "london united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb5775fbe13dfb53df2ba6",
+      "key": "draper|||software flight engr",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb5595f40efa43f4a16059",
+      "key": "pearson|||software engineer iii",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb48b7f40efa43f4a15a70",
+      "key": "ust healthproof|||java backend engineer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb437ff40efa43f4a15805",
+      "key": "torentify|||software engineer wfh",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb7b22a0b134121d99b2b6",
+      "key": "vestis corporation|||quality assurance technician",
+      "location": "minneapolis mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb77c165311d97105b8e37",
+      "key": "digital force technologies|||software engineer platform systems",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb7344a0b134121d99ac43",
+      "key": "smith nephew|||co op embedded software engineering",
+      "location": "andover ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb62d782f0ac07744391f3",
+      "key": "quest global|||engineer software support python",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb628ef40efa43f4a16b8e",
+      "key": "quest global|||engineer software support python",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb7ec182f0ac077443a5e2",
+      "key": "cisco|||software engineer",
+      "location": "galway ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad75dace4b94611ab844742",
+      "key": "graphcore|||graduate software engineer analysis tools 2027",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad75b53950ef68d5183f6d6",
+      "key": "graphcore|||graduate software engineer accelerator modelling 2027",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb4dc2fbe13dfb53df2742",
+      "key": "raytheon|||software engineer developer i onsite",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb4dc165311d97105b7126",
+      "key": "raytheon|||software engineer developer i onsite",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb87ee65311d97105b9968",
+      "key": "kkr|||customized portfolio solutions product strategy analyst associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb85a682f0ac077443a993",
+      "key": "versant media|||product specialist privacy",
+      "location": "englewood cliffs nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb6e5af40efa43f4a17489",
+      "key": "dollar tree stores|||assortment planner",
+      "location": "chesapeake va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb686782f0ac07744396ef",
+      "key": "charles schwab|||senior specialist digital product management trading platform team",
+      "location": "westlake tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb67cf82f0ac0774439689",
+      "key": "corning incorporated|||assistant product line manager job details corning",
+      "location": "phoenix az united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb478365311d97105b6e28",
+      "key": "group 1 automotive|||automotive product specialist",
+      "location": "bowie md united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb533782f0ac077443852c",
+      "key": "group 1 automotive|||automotive product specialist",
+      "location": "egg harbor township nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb532ea0b134121d9994bf",
+      "key": "group 1 automotive|||automotive product specialist",
+      "location": "bowie md united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb6044a0b134121d999f1b",
+      "key": "name com|||associate product manager",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a76dceca26ccc369f836751",
+      "key": "bectran inc|||product specialist",
+      "location": "schaumburg il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb5056f40efa43f4a15e18",
+      "key": "s p global|||product specialist indices etf s",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae9d61532411b3e5a2e2599",
+      "key": "radnet|||it product specialist",
+      "location": "owings mills md united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb765965311d97105b8d3e",
+      "key": "identity digital inc|||associate product manager",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeb6e6e765815f7d74604e9",
+      "key": "hunter douglas architectural belgium|||product specialist",
+      "location": "broomfield co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
