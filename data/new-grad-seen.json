@@ -61343,6 +61343,252 @@
       "key": "cvs health|||product decision scientist",
       "location": "austin tx united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:39162d49-754d-45d5-a795-e851860022d0",
+      "key": "boston scientific|||software engineer 1 engineering",
+      "location": "maple grove mn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:35b0df10-483b-41f5-916e-ae22b1d1cdd6",
+      "key": "rocket lab corporation|||ai software engineer 1",
+      "location": "long beach ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ae709a65-f904-4def-8b18-e1e6938af885",
+      "key": "skyward|||software engineer entry level",
+      "location": "stevens point wi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:749eae8a-d5a2-4c41-8526-4a49d4c969d2",
+      "key": "relx|||software engineer 1 new grad software engineer i",
+      "location": "alpharetta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b8b1c86d-5736-41e7-b40d-b0f22da261a6",
+      "key": "lexisnexis risk solutions|||software engineer 1 new grad software engineer i",
+      "location": "alpharetta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:20eef2b5-2b76-436c-be94-9a14b28c9a90",
+      "key": "sambanova systems|||machine learning engineer new grad",
+      "location": "austin tx san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c0a94fb73e661e9bc002cf2c5b214519632b81ec",
+      "key": "peraton|||artificial intelligence machine learning engineer 1 top secret sci w poly",
+      "location": "laurel md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea67dd1ba298c777772a02",
+      "key": "lockheed martin|||dev sec engineering e2",
+      "location": "aguadilla pr united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea64df1ba298c7777727a9",
+      "key": "astrolab|||full stack developer all levels",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea4f92897466e69e31de48",
+      "key": "skyward|||software engineer entry level",
+      "location": "stevens point wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea4dfe1ba298c777771b0a",
+      "key": "sharkninja|||test engineer",
+      "location": "needham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d21367bec1d0d9c795c9",
+      "key": "bytedance|||software engineer seed model infrastructures sre",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d20867bec1d0d9c795bf",
+      "key": "bytedance|||software engineer seed model infrastructures sre",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea6206fc85f3a3943333a5",
+      "key": "spacex|||embedded software engineer satellite antenna starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea61ca1ba298c777772574",
+      "key": "servicenow|||software engineer agent eval platform",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea61c7440b469a1c0ad7dc",
+      "key": "columbia technology partners|||software engineer 1",
+      "location": "alexandria va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea4a22897466e69e31da40",
+      "key": "capgemini|||java developer with snowflake",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea3fbb913589212b1f4fbc",
+      "key": "amazon|||software development engineer embedded systems early career 2027 us",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea5fb4440b469a1c0ad6b9",
+      "key": "pana pacific|||quality assurance technician",
+      "location": "fresno ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea4cba440b469a1c0acbb0",
+      "key": "lexisnexis risk solutions|||tech accelerate graduate program software engineer i",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea5b61fc85f3a394332f72",
+      "key": "nutanix|||member of technical staff 1 core data path",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea55d0440b469a1c0ad0e7",
+      "key": "omnisight|||software integration engineer",
+      "location": "charleston south carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea4f9f4f991d64376cce3f",
+      "key": "global relay|||co op java developer winter 2027",
+      "location": "halifax ns canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea4f281ba298c777771bad",
+      "key": "alexion pharmaceuticals inc|||quality assurance associate",
+      "location": "santa monica ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea4e08913589212b1f5b01",
+      "key": "global relay|||co op java developer winter 2027",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea44ad4f991d64376cc560",
+      "key": "cotiviti|||associate software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea37f9440b469a1c0abcd9",
+      "key": "roblox|||software engineer engine productivity",
+      "location": "san mateo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea5d33897466e69e31e542",
+      "key": "blackberry|||software developer student",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea4a774f991d64376ccacb",
+      "key": "regeneron|||it applications analyst quality systems",
+      "location": "raheen county limerick ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea4a6d913589212b1f581a",
+      "key": "northrop grumman|||2027 associate flight software engineer manhattan beach ca",
+      "location": "manhattan beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea6c674f991d64376cdeab",
+      "key": "m t bank|||2027 technology development program software engineering digital banking applications platforms",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea59ca4f991d64376cd36c",
+      "key": "eli lilly and company|||solution engineer consumer services",
+      "location": "indianapolis in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea475f4f991d64376cc7de",
+      "key": "boston scientific|||software engineer i",
+      "location": "maple grove mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea6a04913589212b1f6b7c",
+      "key": "boeing|||software quality engineer associate mid level or senior",
+      "location": "berkeley mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea38e6440b469a1c0abd75",
+      "key": "astrazeneca|||quality assurance associate",
+      "location": "santa monica ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea39e7440b469a1c0abeae",
+      "key": "ericsson|||junior l1 software developer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aea37f0913589212b1f4acf",
+      "key": "gaf|||product management rotational associate",
+      "location": "parsippany nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aea44a21ba298c7777712f0",
+      "key": "lululemon|||product operations lead mall at millenia",
+      "location": "orlando fl united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aea50b9fc85f3a394332a4b",
+      "key": "buywander|||product grading associate",
+      "location": "kent washington united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aea44e01ba298c777771356",
+      "key": "tapestry|||coordinator product development",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aea51aa1ba298c777771d49",
+      "key": "stanley black decker inc|||product operations planner",
+      "location": "towson md united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
