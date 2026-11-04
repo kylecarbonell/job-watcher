@@ -5771,6 +5771,36 @@
       "key": "amazon|||quality assurance engineer i amz24481 6",
       "location": "austin tx united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea7cb0440b469a1c0ae520",
+      "key": "google|||ads solutions engineer gtech agency and partner engineering",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d21367bec1d0d9c795c9",
+      "key": "bytedance|||software engineer seed model infrastructures sre",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad7d20867bec1d0d9c795bf",
+      "key": "bytedance|||software engineer seed model infrastructures sre",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea6206fc85f3a3943333a5",
+      "key": "spacex|||embedded software engineer satellite antenna starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea61ca1ba298c777772574",
+      "key": "servicenow|||software engineer agent eval platform",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
