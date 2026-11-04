@@ -5807,6 +5807,12 @@
       "key": "oracle|||platform software engineer 2",
       "location": "nashville tn united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb7ec182f0ac077443a5e2",
+      "key": "cisco|||software engineer",
+      "location": "galway ireland",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
