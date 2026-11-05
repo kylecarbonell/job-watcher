@@ -5813,6 +5813,12 @@
       "key": "cisco|||software engineer",
       "location": "galway ireland",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aebac64fbe13dfb53df6558",
+      "key": "amazon|||software dev engineer i security platform",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
