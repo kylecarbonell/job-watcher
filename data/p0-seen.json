@@ -5819,6 +5819,54 @@
       "key": "amazon|||software dev engineer i security platform",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1ebb8945-a47e-48a3-a181-d6bc174efd7d",
+      "key": "amazon|||software developer engineer 1 security platform",
+      "location": "seattle wa san francisco irvine ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aebedf7e82a94109638f34c",
+      "key": "cisco|||software engineer full stack backend i full time united states",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aebdef865311d97105bc783",
+      "key": "spacex|||software engineer telemetry top secret clearance starlink",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aebe495765815f7d7464514",
+      "key": "cisco|||software engineer full stack backend i full time united states",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aebce32a0b134121d99e126",
+      "key": "apple|||cellular power optimization software engineer wireless technologies ecosystems",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aebce30fbe13dfb53df75fb",
+      "key": "apple|||cellular power optimization software engineer wireless technologies ecosystems",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aebcfa7fbe13dfb53df76a9",
+      "key": "snap inc|||ad product quality analyst i",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aebcf98fbe13dfb53df76a5",
+      "key": "snap inc|||ad product quality analyst i",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
