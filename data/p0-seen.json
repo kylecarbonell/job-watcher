@@ -5891,6 +5891,24 @@
       "key": "apple|||design for test engineer",
       "location": "cupertino ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aece2ae3967d67f635a0923",
+      "key": "amazon|||asic formal verification engineer i annapurna labs",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aece2983967d67f635a091c",
+      "key": "amazon|||software development engineer embedded systems amazon leo early career 2027 us",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aecc6b63a3fa7f03ea89079",
+      "key": "amazon|||software development engineer amazon leo early career 2027 us",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
