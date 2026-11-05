@@ -5867,6 +5867,30 @@
       "key": "snap inc|||ad product quality analyst i",
       "location": "los angeles ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fc220677-a2f4-4242-869b-bc904b43547f",
+      "key": "google|||software developer 2 early career",
+      "location": "montreal qc canada waterloo on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dcd6d1c0f3eca5024f6d733bbba6783c1e4dbe58",
+      "key": "waymo|||applied research scientist new grad perception large language model vision language model phd",
+      "location": "san francisco mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeca267ab48a7079381cdbc",
+      "key": "spacex|||space operations software engineer",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aec9321a2661405dc2c4387",
+      "key": "apple|||design for test engineer",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
