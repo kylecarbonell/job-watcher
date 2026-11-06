@@ -5909,6 +5909,24 @@
       "key": "amazon|||software development engineer amazon leo early career 2027 us",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:02f41834-2a2e-4964-8780-2ad1148d6a18",
+      "key": "amazon|||software development engineer early career",
+      "location": "redmond wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aed1b563a3fa7f03ea8c08e",
+      "key": "citadel|||software engineer university graduate us",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aed0e253a3fa7f03ea8bb04",
+      "key": "intel|||cloud software development engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
