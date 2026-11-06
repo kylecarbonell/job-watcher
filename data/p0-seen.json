@@ -5939,6 +5939,42 @@
       "key": "amazon|||software development engineer soc hal",
       "location": "cupertino ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aedfd3ee0c9de7b05f887f1",
+      "key": "amd|||software development engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aedfc25caf8e660b87d9139",
+      "key": "amd|||software development engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee1805caf8e660b87da8c3",
+      "key": "amazon|||solutions architect ags tech early career 2027 us",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aedfd3bc7498922fe0c645f",
+      "key": "amd|||software development engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaab44076707040fb081859",
+      "key": "cisco|||graduate software engineer",
+      "location": "galway ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee14ccbd2f33eea72d6f7f",
+      "key": "amd|||test engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
