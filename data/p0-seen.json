@@ -5927,6 +5927,18 @@
       "key": "intel|||cloud software development engineer",
       "location": "hillsboro or united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aed8b2bc7498922fe0c346c",
+      "key": "amazon web services aws|||software development engineer soc hal",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aed5316401428aac42f8294",
+      "key": "amazon|||software development engineer soc hal",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
