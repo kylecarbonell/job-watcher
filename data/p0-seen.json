@@ -6035,6 +6035,18 @@
       "key": "cisco|||software engineer embedded systems i full time united states",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef242f7bf8e8b9eaf7df0e",
+      "key": "oracle|||configuration test analyst oracle health hybrid kansas city mo office",
+      "location": "kansas city mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aedfd3ebd2f33eea72d5a9b",
+      "key": "amd|||software development engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
