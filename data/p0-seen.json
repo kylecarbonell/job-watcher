@@ -5975,6 +5975,48 @@
       "key": "amd|||test engineer",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee6116bd2f33eea72dbb08",
+      "key": "cisco|||software engineer embedded systems i full time united states",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee60fcc7498922fe0cc4a7",
+      "key": "cisco|||software engineer embedded systems i full time united states",
+      "location": "milpitas ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aedfc2c5c81f621d3110013",
+      "key": "amd|||software development engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aedfc265c81f621d311000c",
+      "key": "amd|||software development engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee6469e0c9de7b05f8e94b",
+      "key": "intel|||software performance engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee5884d20350c7a507c6b5",
+      "key": "cisco|||software developer embedded systems ii co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee5883d20350c7a507c6b3",
+      "key": "cisco|||software developer embedded systems i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
