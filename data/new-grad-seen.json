@@ -65369,6 +65369,72 @@
       "key": "hach|||technical product advisor i",
       "location": "loveland co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4d23bb03894d465cb2fa1843dded36cbc3da3108",
+      "key": "affirm|||software engineer 1 frontend upfunnel",
+      "location": "remote in canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef81819f8e479a8bcfd947",
+      "key": "jb mobility|||software engineer korean speaker only",
+      "location": "costa mesa ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef77b59f8e479a8bcfd7ca",
+      "key": "annapurna labs|||software dev engineer i graviton software annapurna labs",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef77b20fe787d00ed1b6de",
+      "key": "annapurna labs|||software development engineer i annapurna labs early career 2027",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef77af7bf8e8b9eaf7fbe4",
+      "key": "annapurna labs|||software development engineer i annapurna labs early career 2027",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef77af676e3f91d326ca10",
+      "key": "annapurna labs|||software development engineer i annapurna labs early career 2027",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef77a440b5de2d2b311407",
+      "key": "annapurna labs|||software development engineer i annapurna labs early career 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef936e40b5de2d2b311b2c",
+      "key": "louisiana economic development|||associate application developer salesforce 2027",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef93719f8e479a8bcfdecf",
+      "key": "louisiana economic development|||associate application developer azure and microsoft 2027",
+      "location": "baton rouge los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef8e167bf8e8b9eaf801bf",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aef97138022f8ddd319f203",
+      "key": "verisk|||p c claims product manager i",
+      "location": "lehi ut united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
