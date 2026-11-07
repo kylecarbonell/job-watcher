@@ -6047,6 +6047,12 @@
       "key": "amd|||software development engineer",
       "location": "austin tx united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef34ab8022f8ddd319d0c2",
+      "key": "amazon web services aws|||software development engineer platform engineering emerging technology",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
