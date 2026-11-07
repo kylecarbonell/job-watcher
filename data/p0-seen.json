@@ -6017,6 +6017,24 @@
       "key": "cisco|||software developer embedded systems i co op canada",
       "location": "kanata on canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeec0ba40b5de2d2b30e5e4",
+      "key": "amazon|||software development engineer platform engineering emerging technology",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee3446e0c9de7b05f8c40b",
+      "key": "amazon|||software development engineer amazon connect team",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee74f15c81f621d3116a45",
+      "key": "cisco|||software engineer embedded systems i full time united states",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
