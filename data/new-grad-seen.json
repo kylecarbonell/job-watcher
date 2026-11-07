@@ -65315,6 +65315,60 @@
       "key": "cwill|||returns exchanges product management trainee bilingual mandarin requir",
       "location": "cary nc united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef58d340b5de2d2b310567",
+      "key": "whiteoptics llc|||specialist growth transformation software engineering build program job details acuity inc",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef55889f8e479a8bcfc7a8",
+      "key": "swisslog|||software engineer sustaining engineering job details kuka group",
+      "location": "denver new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef4bb440b5de2d2b310181",
+      "key": "salk institute for biological studies|||research software engineer i laboratory of dr talmo pereira",
+      "location": "san diego metropolitan area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef48a90fe787d00ed1a437",
+      "key": "torentify|||software engineer python javascrip",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef34ab8022f8ddd319d0c2",
+      "key": "amazon web services aws|||software development engineer platform engineering emerging technology",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef598a40b5de2d2b3105c0",
+      "key": "intezra inc|||ios mobile capability developer",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef498340b5de2d2b3100b6",
+      "key": "chewy|||software engineer i",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aef58d3676e3f91d326bb85",
+      "key": "whiteoptics llc|||build program business analyst tech product management specialist job details acuity inc",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a99ea9190a313642c653936",
+      "key": "hach|||technical product advisor i",
+      "location": "loveland co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
