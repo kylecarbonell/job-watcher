@@ -64619,6 +64619,258 @@
       "key": "hewlett packard enterprise|||campus switching product manager graduate",
       "location": "roseville ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ac1b1e21-ab83-4904-a0cf-7d1d4ff23c17",
+      "key": "prosync|||software engineer 0 1",
+      "location": "annapolis junction md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3af1c40c-bee2-4e35-b456-9f362654cf4e",
+      "key": "cook group|||software engineer 1 full stack",
+      "location": "indianapolis in west lafayette in bloomington in",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:58a39cbd-4604-4dae-9205-3b5ddd7f8b7a",
+      "key": "chewy|||software engineer 1 full stack promotions",
+      "location": "boston ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6ec3eae2-325c-4d6b-9eed-6f8044285aa2",
+      "key": "charles schwab|||junior software developer",
+      "location": "austin tx omaha ne",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8b389b63-42ed-4984-8afe-1c29b8be4ca4",
+      "key": "rtx|||software engineer 1",
+      "location": "tewksbury ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d214353d-3393-460d-802e-6966a8fbac28",
+      "key": "hewlett packard enterprise|||campus switching product manager new grad",
+      "location": "san jose ca roseville ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e3f2f0aa-f254-467d-a1cb-7b6140686226",
+      "key": "hewlett packard enterprise|||campus switching product manager new grad",
+      "location": "san jose ca roseville ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee6dcb5c81f621d3116741",
+      "key": "maverick power|||junior software developer research and development",
+      "location": "plano tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee6cb4caf8e660b87df96b",
+      "key": "netrolynx ai|||ios developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee67545c81f621d311627f",
+      "key": "stryker|||r d software engineering graduate program september 2027",
+      "location": "cork county cork ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee53e8d20350c7a507bfe5",
+      "key": "new york life|||associate full stack software developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee6116bd2f33eea72dbb08",
+      "key": "cisco|||software engineer embedded systems i full time united states",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee6380bd2f33eea72dbc4e",
+      "key": "engine|||software engineer gtm engineering",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee54d05c81f621d311537c",
+      "key": "tangam systems|||software developer analyst",
+      "location": "waterloo on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee60fcc7498922fe0cc4a7",
+      "key": "cisco|||software engineer embedded systems i full time united states",
+      "location": "milpitas ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee3ee9c7498922fe0cab3b",
+      "key": "phibro animal health|||quality assurance specialist",
+      "location": "quincy il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aedfc2c5c81f621d3110013",
+      "key": "amd|||software development engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aedfc265c81f621d311000c",
+      "key": "amd|||software development engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee5ed3c7498922fe0cc37d",
+      "key": "viasat|||associate embedded software engineer early career",
+      "location": "carlsbad ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee578fbd2f33eea72db2dd",
+      "key": "reyes beverage group|||quality assurance specialist",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee5759bd2f33eea72db263",
+      "key": "martin brower|||quality assurance specialist",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee56585c81f621d31155f9",
+      "key": "charles schwab|||jr software developer",
+      "location": "omaha ne united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee564fd20350c7a507c2cc",
+      "key": "charles schwab|||associate software engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee55a75c81f621d3115532",
+      "key": "reyes holdings|||quality assurance specialist",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee550b5c81f621d311538f",
+      "key": "reyes coca cola bottling|||quality assurance specialist",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee548fc7498922fe0cb7aa",
+      "key": "reyes beverage group|||quality assurance specialist",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee52bdc7498922fe0cb690",
+      "key": "markondo|||software engineer",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee3dd4c7498922fe0caa1d",
+      "key": "highmark health|||associate cobol technical analyst",
+      "location": "pennsylvania united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee3f3bd20350c7a507b3a6",
+      "key": "stratasys|||am programmer i job details stratasys",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee3d08caf8e660b87dd749",
+      "key": "markon|||software engineer",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee3a265c81f621d31142a3",
+      "key": "cgi|||software developer entry level",
+      "location": "lafayette los angeles united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee416f5c81f621d311495b",
+      "key": "audible|||software development engineer early career",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee5091caf8e660b87de391",
+      "key": "stryker|||test engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee6469e0c9de7b05f8e94b",
+      "key": "intel|||software performance engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee417fbd2f33eea72da3d0",
+      "key": "hii|||engineer software 1",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee5884d20350c7a507c6b5",
+      "key": "cisco|||software developer embedded systems ii co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee5883d20350c7a507c6b3",
+      "key": "cisco|||software developer embedded systems i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeddf5ec7498922fe0c547b",
+      "key": "pantherx rare pharmacy|||software engineer",
+      "location": "pittsburgh pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab6919cd85922de20ce555b",
+      "key": "guidehouse|||jr onestream developer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aee6c6fcaf8e660b87df927",
+      "key": "taylormade golf company|||product creation coordinator",
+      "location": "carlsbad ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aee5159d20350c7a507be54",
+      "key": "s p global|||product specialist indices etf s",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aee6c94bd2f33eea72dc125",
+      "key": "tp link systems inc|||product security coordinator",
+      "location": "irvine ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
