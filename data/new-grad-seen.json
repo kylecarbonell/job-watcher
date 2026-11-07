@@ -65207,6 +65207,114 @@
       "key": "outschool|||senior product manager",
       "location": "united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef1c590fe787d00ed199b2",
+      "key": "siemens healthineers|||software engineering co op hoffman estates il",
+      "location": "hoffman estates il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef1a2e8022f8ddd319cacf",
+      "key": "ford motor company|||full stack software engineer",
+      "location": "dearborn mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef10447bf8e8b9eaf7dab7",
+      "key": "netrolynx ai|||software developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef06f49f8e479a8bcfb56d",
+      "key": "saalex solutions a saalex company|||junior software quality assurance analyst tester with security clearance",
+      "location": "china lake ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef242f7bf8e8b9eaf7df0e",
+      "key": "oracle|||configuration test analyst oracle health hybrid kansas city mo office",
+      "location": "kansas city mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeef56c9f8e479a8bcfb081",
+      "key": "ust|||junior full stack developer data coe",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeef1269f8e479a8bcfaf5b",
+      "key": "ust|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aed19fe3a3fa7f03ea8bfee",
+      "key": "eaton|||software engineer",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeedff59f8e479a8bcface1",
+      "key": "a full renovation project services|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeedff58022f8ddd319bf05",
+      "key": "a full renovation project services|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeedff2676e3f91d3269eb7",
+      "key": "a full renovation project services|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef20c98022f8ddd319cc11",
+      "key": "presales collective|||associate solutions engineer",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aedfd3ebd2f33eea72d5a9b",
+      "key": "amd|||software development engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aef006f0fe787d00ed19463",
+      "key": "raytheon|||software engineer i",
+      "location": "tewksbury ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeed1768022f8ddd319bd99",
+      "key": "bectran inc|||software engineer",
+      "location": "schaumburg il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeee3a78022f8ddd319bf7a",
+      "key": "keck medicine of usc|||research programmer i 1 yr fixed term",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aecc58f3a3fa7f03ea88f3d",
+      "key": "osi maritime systems|||software engineering systems test engineer p1",
+      "location": "burnaby british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aeed779676e3f91d3269db3",
+      "key": "cwill|||returns exchanges product management trainee bilingual mandarin requir",
+      "location": "cary nc united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
