@@ -65435,6 +65435,42 @@
       "key": "verisk|||p c claims product manager i",
       "location": "lehi ut united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aefc3337bf8e8b9eaf80dbf",
+      "key": "leidos|||software developer",
+      "location": "maryland heights mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aefc310676e3f91d326da4a",
+      "key": "leidos|||quality assurance engineer",
+      "location": "lynnwood wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aefc310676e3f91d326da4c",
+      "key": "leidos|||quality assurance engineer",
+      "location": "lynnwood wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aefc2fa7bf8e8b9eaf80c1d",
+      "key": "leidos|||software developer",
+      "location": "caseyville il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aefc2d90fe787d00ed1c69f",
+      "key": "leidos|||embedded flight software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aefa55e40b5de2d2b311d41",
+      "key": "general matter|||software engineer new grad",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
