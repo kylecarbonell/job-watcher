@@ -6053,6 +6053,12 @@
       "key": "amazon web services aws|||software development engineer platform engineering emerging technology",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af11edb9f8e479a8bd02303",
+      "key": "spacex|||full stack software engineer internal platforms",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
