@@ -65813,6 +65813,42 @@
       "key": "monarch investment and management group|||junior applications developer",
       "location": "franktown co united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:cb9057c1-ead7-42d2-8535-e6ee376a8005",
+      "key": "shield ai|||software engineer 1 new grad software autonomy capabilities",
+      "location": "united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af10aed676e3f91d3271321",
+      "key": "netrolynx ai|||java developer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af0eebe9f8e479a8bd0179c",
+      "key": "obd experts|||junior software engineer on site vancouver area",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af0ffcb7bf8e8b9eaf842e2",
+      "key": "volunteers of america los angeles|||quality assurance reviewer",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af11789676e3f91d32714bc",
+      "key": "a full renovation interiors design|||product data specialist",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af0fc16676e3f91d3270f85",
+      "key": "name com|||associate product manager",
+      "location": "denver co united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
