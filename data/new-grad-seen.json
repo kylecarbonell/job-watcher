@@ -65849,6 +65849,138 @@
       "key": "name com|||associate product manager",
       "location": "denver co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c65e27cf15b39828c9d02dc5a6db42c1d1d6e768",
+      "key": "verizon communications|||engineer 1 systems engineering generative ai agentic systems",
+      "location": "temple terrace fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af17458e30b2aa57a83dea9",
+      "key": "torentify|||software engineer api s sql",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af16c9cc33baf5d5e21633a",
+      "key": "national grid|||graduate development program associate engineer software engineering",
+      "location": "brooklyn ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af16c9c2a5aac445563fbe4",
+      "key": "national grid|||graduate development program associate engineer software engineering",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af16c96260114b1b45ec997",
+      "key": "national grid|||graduate development program associate technology engineer technology engineering",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af16c8e28441a8d74a89e67",
+      "key": "torentify|||php developer remote opportunity",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af16b175e16e308a1469c9c",
+      "key": "national grid|||graduate development program associate technology engineer technology engineering",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af16b025e16e308a1469c94",
+      "key": "national grid|||graduate development program associate engineer software engineering",
+      "location": "syracuse ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af15affc33baf5d5e21605d",
+      "key": "torentify|||software analyst entry level",
+      "location": "johnston ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af15a5828441a8d74a89b44",
+      "key": "a full renovation project services|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af11edb9f8e479a8bd02303",
+      "key": "spacex|||full stack software engineer internal platforms",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af125cc7bf8e8b9eaf847e8",
+      "key": "m t bank|||2027 technology development program software engineering enterprise wealth application development",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af126fa0fe787d00ed20372",
+      "key": "m t bank|||2027 technology development program software engineering data api engineering",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af16ae5260114b1b45ec94d",
+      "key": "charles schwab|||associate software engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab4f7cee9a8f953ef831384",
+      "key": "lloyds banking group|||software engineering industrial placement manchester",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac7a3950e573df8adc734cf",
+      "key": "lloyds banking group|||software engineering industrial placement bristol",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af135eb40b5de2d2b3162cc",
+      "key": "omnisight|||software integration engineer",
+      "location": "charleston south carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af16c9b28441a8d74a89e6f",
+      "key": "national grid|||graduate development program associate product owner us electric it",
+      "location": "waltham ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af16c962a5aac445563fbe3",
+      "key": "national grid|||graduate development program associate product manager us electric it",
+      "location": "syracuse ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af16b1c260114b1b45ec962",
+      "key": "national grid|||graduate development program associate product owner us electric it",
+      "location": "northborough ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af16b182a5aac445563fbae",
+      "key": "national grid|||graduate development program associate product manager us electric it",
+      "location": "waltham ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af1887f9cd5f643bc5003b5",
+      "key": "comind|||product manager",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
