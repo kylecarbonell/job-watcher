@@ -65981,6 +65981,360 @@
       "key": "comind|||product manager",
       "location": "london england united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0a0e08eba29613f6e18ca474cb11667d7a220938",
+      "key": "leidos|||junior software engineer",
+      "location": "bethesda md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:73724f72969241f1fb6c4e9ebb5ddefbecff0fe7",
+      "key": "wolverine trading|||early career c software engineer",
+      "location": "chicago il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:afa1430278a6bfc40caa05ae5a9be7d2a5f2d84b",
+      "key": "consumer direct care network|||software engineer 1",
+      "location": "missoula mt",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a9edb4520a070c1880671d0190665bb913ddf2c3",
+      "key": "socotec global|||junior software engineer",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3db0606806d57efbec6d6797416ac9a6c4805d0c",
+      "key": "anduril|||early career software engineer",
+      "location": "newport beach ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6f424929-8ec3-4853-902f-a11ffcc2f277",
+      "key": "netholabs|||junior ai ml engineer",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:874c0abe55bb0ccb21e794daed4dda2ea565a573",
+      "key": "element solutions|||junior data engineer",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b6d660a3-34f6-4c5c-be7e-a5f17d6eeb1d",
+      "key": "adidas|||product ranging new grad",
+      "location": "manchester uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:73cf7296da5ce41228ce6f72ff12bb8a62378428",
+      "key": "motorola|||junior product manager product management",
+      "location": "cambridge uk united kingdom",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2177762fb9f5fcd89391d",
+      "key": "nintendo|||assoc digital operations specialist eshop",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adf97c1065c4e77efaf9432",
+      "key": "aquatic capital management|||software engineer early career",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1da890cb834dad9320aa1",
+      "key": "serco|||junior software engineer remote",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2171d0cb834dad9322cab",
+      "key": "wb games boston|||wb games software engineering co op needham ma january may 2027",
+      "location": "needham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af216f8905985ccaa4084d1",
+      "key": "federal express corporation|||computer science engineer co op spring 2027",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af216b962fb9f5fcd89364a",
+      "key": "bytedance|||software engineer graduate traffic infrastructure 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af216b7905985ccaa4083af",
+      "key": "ibm|||entry level cloud developer network services",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af216b362fb9f5fcd89362c",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1f8bf905985ccaa407246",
+      "key": "notion|||software engineer web infrastructure",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af216878cbcfef4a59d7e05",
+      "key": "allete|||programmer analyst i",
+      "location": "duluth mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af208c962fb9f5fcd892fe7",
+      "key": "jacobs|||forward deployed engineer palantir foundry custom development",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1d5a60cb834dad9320834",
+      "key": "m t bank|||software engineer financial crimes",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae83e94fb2cd420ace65494",
+      "key": "paypal|||software engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1fee3905985ccaa4077d3",
+      "key": "hardin design and development|||web developer entry level",
+      "location": "madison wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1fe478cbcfef4a59d7305",
+      "key": "netapp|||entry level software engineer anf azure netapp files job details netapp inc",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1fd688cbcfef4a59d7221",
+      "key": "markondo|||software engineer level 0 level 1 or level 2",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1fbfc62fb9f5fcd892741",
+      "key": "wolverine trading|||new grad c software engineer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1fa4a1116f6f0a0764020",
+      "key": "jane street|||formal methods research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1f7d262fb9f5fcd8923ab",
+      "key": "via|||implementation associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1e6d51aaffa49f737ea06",
+      "key": "john guilfoil public relations|||wordpress specialist",
+      "location": "groveland ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1e2c91116f6f0a0763333",
+      "key": "credence|||junior sap abap developer",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1e90562fb9f5fcd891bc2",
+      "key": "national grid|||graduate software technology engineer it digital warwick",
+      "location": "warwick england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1c55e905985ccaa405d3b",
+      "key": "cdg maui inc|||software developer",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1b5c98cbcfef4a59d54c8",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1a92d905985ccaa405803",
+      "key": "ldms|||junior infrastructure engineer",
+      "location": "cardiff wales united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1fa581aaffa49f737f590",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1a2cf8cbcfef4a59d51e4",
+      "key": "daintta|||software engineer analyst",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1930874116c3dddb2719b",
+      "key": "deloitte|||oracle hcm cloud core hr analyst",
+      "location": "stamford ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af18dd574116c3dddb270b6",
+      "key": "dynamism|||new grad founding engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af216570cb834dad93228b5",
+      "key": "allete|||programmer analyst i",
+      "location": "duluth mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1d29d0cb834dad932075c",
+      "key": "n c department of information technology|||applications systems analyst i",
+      "location": "north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1e2ff62fb9f5fcd8919a4",
+      "key": "credence|||junior sap abap developer",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1f6770cb834dad9321716",
+      "key": "target|||android engineer flagship mobile app",
+      "location": "brooklyn park mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af21c468cbcfef4a59d8eb5",
+      "key": "synchrony|||api software development engineer i",
+      "location": "atlanta georgia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1fcb4905985ccaa4075b2",
+      "key": "national grid|||graduate development program associate engineer software engineering",
+      "location": "brooklyn new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2163962fb9f5fcd893374",
+      "key": "johnson johnson|||software test engineering co op rlm",
+      "location": "danvers ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1e1e40cb834dad9320db1",
+      "key": "intezra inc|||infrastructure engineer",
+      "location": "columbia md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af2171f8cbcfef4a59d8137",
+      "key": "wb games boston|||wb games product management co op needham ma january may 2027",
+      "location": "needham ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af216528cbcfef4a59d7cfe",
+      "key": "avidity careers|||microsoft product advisor",
+      "location": "milton keynes england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af214c40cb834dad9322620",
+      "key": "jpmorganchase|||senior product associate payments",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af20c9c1116f6f0a0764a94",
+      "key": "chase|||senior product associate payments",
+      "location": "chicago il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af1f1ed1aaffa49f737eed6",
+      "key": "jerry|||product manager in training yc cofounder ceo led",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af1f1f38cbcfef4a59d68d0",
+      "key": "jerry|||product manager 2x yc founder mentorship",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af2035d1aaffa49f737fc86",
+      "key": "avidity careers|||microsoft product advisor",
+      "location": "york il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af1f40962fb9f5fcd8920c0",
+      "key": "appgate|||fraud product analyst i",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af1f9400cb834dad932198d",
+      "key": "appgate|||fraud product analyst i",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af18b429cd5f643bc500426",
+      "key": "national grid|||graduate development program associate product manager us electric it",
+      "location": "syracuse ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af18b3428dd2893a99e1c6e",
+      "key": "national grid|||graduate development program associate product owner us electric it",
+      "location": "northborough ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af2071d8cbcfef4a59d77ec",
+      "key": "mufg|||product analyst enterprise data catalog",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af1f1ca905985ccaa406d2f",
+      "key": "dollar tree stores|||assortment planner",
+      "location": "chesapeake va united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
