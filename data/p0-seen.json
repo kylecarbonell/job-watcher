@@ -6059,6 +6059,30 @@
       "key": "spacex|||full stack software engineer internal platforms",
       "location": "hawthorne ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af216b962fb9f5fcd89364a",
+      "key": "bytedance|||software engineer graduate traffic infrastructure 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af216b7905985ccaa4083af",
+      "key": "ibm|||entry level cloud developer network services",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af216b362fb9f5fcd89362c",
+      "key": "bytedance|||software development engineer graduate sdn traffic intelligence control 2026 start phd",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af1fa4a1116f6f0a0764020",
+      "key": "jane street|||formal methods research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
