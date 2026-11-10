@@ -6125,6 +6125,42 @@
       "key": "jane street|||strategy and product",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9b460131e21c60acb0ddacf32c17f1615938be14",
+      "key": "nvidia|||research scientist new grad ai for graphics and gaming",
+      "location": "canada santa clara ca united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af395b2f6053e296fc7e0e0",
+      "key": "jane street|||formal methods research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af395b27c81de7a524c1136",
+      "key": "jane street|||tools and compilers research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af379ab7c81de7a524bfda0",
+      "key": "microsoft|||software engineering",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af371387c81de7a524bfa28",
+      "key": "snowflake|||software engineer customer experience engineering",
+      "location": "menlo park ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af395b5769e9374033c7e05",
+      "key": "jane street|||strategy and product",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
