@@ -66719,6 +66719,204 @@
       "key": "drfirst inc|||associate product analyst eprescribing platform",
       "location": "united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1ad297e0-77dd-4070-947e-d7d32359b808",
+      "key": "rtx|||software engineer 1",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1b06d46c-1d95-462b-a362-76624d029916",
+      "key": "ande|||software engineer early career ai",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4e728954663435315eba22580df7aef6a7b8b017",
+      "key": "dell technologies|||software engineer 1 it",
+      "location": "texas",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2e4a080020ca3a89714b8",
+      "key": "jane street|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2e48e7666e3c5fb715f73",
+      "key": "jane street|||tools and compilers research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2e48e4ac248020e8ccbea",
+      "key": "jane street|||formal methods research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2d95f2ae170adbeb8e582",
+      "key": "swisslog|||software engineer sustaining engineering job details kuka group",
+      "location": "denver new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2d350bff32802f896dbe4",
+      "key": "leonardo drs|||software engineer i ii radar software",
+      "location": "germantown md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a54594fe726ec56126a9f90",
+      "key": "bank of china usa|||america data center application development department application development associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2cc1f56fd115cb6941796",
+      "key": "torentify|||python developer",
+      "location": "conway ar united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af18b2d12d6a5addb2fdfe9",
+      "key": "national grid|||graduate development program associate technology engineer technology engineering",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af23a830cb834dad9325351",
+      "key": "aecom|||digital solutions software developer i",
+      "location": "tallahassee fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ad98370e4b94611ab8562c5",
+      "key": "tp link systems inc|||2026 early career embedded software engineer",
+      "location": "10 mauchly united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af285ba41f4504a0888c8b1",
+      "key": "dornerworks|||embedded engineer new graduate opportunities based in grand rapids mi",
+      "location": "grand rapids mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb5ba8c5c64fa3d9caf02c",
+      "key": "palantir technologies|||forward deployed software engineer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af27b4f8cbcfef4a59dc640",
+      "key": "b4corp|||812246 software engineer 300 000 00",
+      "location": "dulles va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af216900cb834dad93229f8",
+      "key": "zenlayer|||associate cloud network support engineer new graduates welcome",
+      "location": "diamond bar ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af283f3f1ee406a27fde06e",
+      "key": "multi media llc|||software engineer i ii",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af22ed88cbcfef4a59d9fd7",
+      "key": "reyes beverage group|||application developer vip",
+      "location": "rosemont il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2c62b48b371d7c021717e",
+      "key": "apogee research llc|||embedded software engineer",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2c80d48b371d7c0217380",
+      "key": "cwill|||order tracking r d trainee backend engineer go php bilingual mandarin",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af27f8cf1ee406a27fddcf3",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "colorado united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af28cebd622b1b75451a584",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2958b12ea2d46c53e24db",
+      "key": "sale by design homes|||software engineer",
+      "location": "pascoe vale victoria australia",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af27b1c905985ccaa40ca96",
+      "key": "the aerospace corporation|||2027 enterprise kill chain m s staff analyst",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2aaef6d2bd34f89adbd65",
+      "key": "rtx|||research software engineer i onsite",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af257ef62fb9f5fcd89719e",
+      "key": "boeing|||associate software test engineer p 8 mission systems",
+      "location": "kent wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abadcc4be5f1e9325117d46",
+      "key": "rolls royce|||software development infrastructure engineer",
+      "location": "indianapolis in united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af2e48e80020ca3a89714a6",
+      "key": "jane street|||strategy and product",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af2d9792ae170adbeb8e58c",
+      "key": "landis gyr|||product manager job details landis gyr",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af28203c1c5e295b30f7922",
+      "key": "hewlett packard enterprise|||service segment mgr level 1",
+      "location": "andover ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af28546d622b1b75451a250",
+      "key": "hewlett packard enterprise|||service segment mgr level 1",
+      "location": "andover ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af20e6b8cbcfef4a59d7a78",
+      "key": "crate barrel|||assistant site merchant",
+      "location": "northbrook il united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
