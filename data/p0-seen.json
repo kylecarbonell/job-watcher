@@ -6095,6 +6095,30 @@
       "key": "palantir technologies|||forward deployed software engineer",
       "location": "chicago il united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2f3eaf6053e296fc78761",
+      "key": "jane street|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2f3d07666e3c5fb716334",
+      "key": "jane street|||tools and compilers research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2f3c94ac248020e8ccfc3",
+      "key": "jane street|||formal methods research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af2f3c580020ca3a8971888",
+      "key": "jane street|||strategy and product",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
