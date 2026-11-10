@@ -6083,6 +6083,18 @@
       "key": "jane street|||formal methods research and development",
       "location": "new york ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2442c905985ccaa40b25c",
+      "key": "microsoft|||software engineering",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb5ba8c5c64fa3d9caf02c",
+      "key": "palantir technologies|||forward deployed software engineer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
