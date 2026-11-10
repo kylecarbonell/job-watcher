@@ -66917,6 +66917,174 @@
       "key": "crate barrel|||assistant site merchant",
       "location": "northbrook il united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c1ff6cc7-a1ca-4fa9-8175-f705039e837f",
+      "key": "fidelity national information services|||mainframe software engineer 1",
+      "location": "columbus ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1d0612f6-6b43-47c4-9a7f-65017afa789c",
+      "key": "anysphere|||software engineer new grad",
+      "location": "palo alto ca san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a51fd528-2971-4d22-9b34-736913586603",
+      "key": "johns hopkins applied physics laboratory|||engineer analyst new grad isrt and bmc2 applications",
+      "location": "laurel md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af34147f6053e296fc7a863",
+      "key": "jane street|||formal methods research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af341447c81de7a524bd8d5",
+      "key": "jane street|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af341447c81de7a524bd8ce",
+      "key": "jane street|||tools and compilers research and development",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af340197c81de7a524bd80b",
+      "key": "thermo fisher scientific|||quality assurance co op",
+      "location": "mississauga ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af33f8810c7aed7786185b9",
+      "key": "broaden|||it configuration analyst",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af339ed80020ca3a89735fd",
+      "key": "priceline|||associate software developer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3318c7c81de7a524bd009",
+      "key": "l3harris technologies|||associate embedded software developer waterdown can",
+      "location": "waterdown on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3249a10c7aed77861756e",
+      "key": "b4corp|||812298 software engineer 280 000 00",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af319474ac248020e8cdc9d",
+      "key": "torentify|||software developer wfh",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af313b080020ca3a897226a",
+      "key": "auria space|||software engineer sentinel",
+      "location": "ogden ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af311827c81de7a524bc0b7",
+      "key": "new york life|||associate full stack software developer job details new york life insurance co",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af305a2f6053e296fc78d89",
+      "key": "cursor|||software engineer new grad 2027",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a8e85edc137ff2317e693ee",
+      "key": "matx|||firmware engineer platform board management",
+      "location": "mountain view ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af302edf6053e296fc78d1a",
+      "key": "nuttersons|||apprentice web developer",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2fe7580020ca3a8971d23",
+      "key": "reqpedia|||software engineer",
+      "location": "minneapolis mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af2ed9e7666e3c5fb716164",
+      "key": "ion|||developer",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af345e64ac248020e8cf52f",
+      "key": "bae systems inc|||engineer i embedded software",
+      "location": "broomfield co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af319a3769e9374033c2f3c",
+      "key": "dcca|||sme infrastructure cloud migration with security clearance",
+      "location": "chevy chase md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3434b80020ca3a8973af6",
+      "key": "rtx|||embedded software developer i onsite",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af33d394ac248020e8cef7c",
+      "key": "bae systems|||engineer i embedded software",
+      "location": "broomfield co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae4d0eceab1f9673097d11a",
+      "key": "identity digital inc|||software engineer i",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af32fa9769e9374033c3ab5",
+      "key": "abbott|||software test engineer",
+      "location": "pleasanton ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af3452a10c7aed778618a49",
+      "key": "techmendra systems|||associate product analyst",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af34147769e9374033c4419",
+      "key": "jane street|||strategy and product",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af2847bd622b1b75451a1e7",
+      "key": "hewlett packard enterprise|||service segment mgr level 1",
+      "location": "andover ma united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
