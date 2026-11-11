@@ -67649,6 +67649,216 @@
       "key": "shiseido|||analyst it digital",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5d1a3f0e-ab9b-430a-affb-25361ff9d644",
+      "key": "salesforce|||software engineer new grad",
+      "location": "7 locationspalo alto ca seattle wa indianapolis in san francisco dallas tx new york bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c274d687-71f7-4484-8ae0-52884c72e8f8",
+      "key": "salesforce|||software engineering amts new grad",
+      "location": "7 locationspalo alto ca seattle wa indianapolis in san francisco dallas tx new york bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f478f36d-9953-4314-a884-531c56f6ffcf",
+      "key": "rtx|||software engineer 1",
+      "location": "richardson tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6acf9cc878d51ae69ce071c7",
+      "key": "clear|||software development engineer i",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af496019144106c56a1f509",
+      "key": "general atomics aeronautical systems|||software developer",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af493a1cd7be4db20d86516",
+      "key": "caci international inc|||arcgis developer",
+      "location": "scott air force base il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af493851b2c5dcbbcd61ff2",
+      "key": "amazon|||software development engineer platform engineering emerging technology",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af48707cbd2ee75d155a860",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a561f9221f64463ad352a79",
+      "key": "hadrian|||all levels forward deployed engineer",
+      "location": "torrance ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af48a803a9a26aee709e0db",
+      "key": "choco|||solutions engineer integrations",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af48523cd7be4db20d85d56",
+      "key": "smateso gmbh|||atlassian app entwickler",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af48007cbd2ee75d155a49d",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4800ccd7be4db20d85a3b",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "kitchener on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af47a329144106c56a1e672",
+      "key": "the amatriot group|||software developer",
+      "location": "bethesda md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af46cee9144106c56a1e242",
+      "key": "a full renovation interiors design|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af46341cbd2ee75d1559a5e",
+      "key": "progeny|||graduate digital technology",
+      "location": "edinburgh midlothian united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4589a42ec235b83f13e73",
+      "key": "netrolynx ai|||cloud engineer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae9d2ed43826864b0fbac99",
+      "key": "swarm aero|||software engineer real time systems early career",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a83c40f2dbaf907b076a8b1",
+      "key": "havocai|||field software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af446b755dfd18e245c3c2b",
+      "key": "capgemini engineering|||embedded software engineering",
+      "location": "modena ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adb10c091f93f4b05716613",
+      "key": "hidden level|||embedded software engineer",
+      "location": "syracuse ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4928bcbd2ee75d155adb9",
+      "key": "zt systems|||test software developer",
+      "location": "secaucus nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af46e289144106c56a1e285",
+      "key": "blackberry|||qnx graduate systems software developer sensor framework",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af47c32cbd2ee75d155a2a3",
+      "key": "telus|||system quality analyst i",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af49196cd7be4db20d862fa",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af487de1b2c5dcbbcd61a2a",
+      "key": "lloyds banking group|||technology engineering msc placement scheme",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af37cf47c81de7a524c002f",
+      "key": "hp|||performance engineering co op",
+      "location": "fort collins co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aea2ff01ba298c777770624",
+      "key": "l3harris technologies|||associate software engineer",
+      "location": "carlsbad ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af442ba9aac15a56d825267",
+      "key": "collins aerospace|||embedded software engineer",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af442d742ec235b83f138ac",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "richardson tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af490043a9a26aee709e31e",
+      "key": "empowerly|||full stack software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af492652278454e18c3625a",
+      "key": "a full renovation residential remodeling|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af493521b2c5dcbbcd61fd6",
+      "key": "steve madden|||product development assistant almost famous nyc",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af47855cd7be4db20d856ff",
+      "key": "best buy|||category management specialist",
+      "location": "richfield mn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af46ce8cbd2ee75d1559dc8",
+      "key": "a full renovation interiors design|||product data specialist",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
