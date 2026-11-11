@@ -67319,6 +67319,120 @@
       "key": "procore technologies|||associate product manager",
       "location": "dublin ireland",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:43b8e348-e9a9-41b1-9c10-5bc2b4d1cbce",
+      "key": "bask health|||product builder early career",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b66fea62-a88a-49b8-b4b3-8a1e383f3a74",
+      "key": "shield ai|||software engineer 1 new grad software autonomy capabilities",
+      "location": "united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:45c3b7e6-ab17-438a-8639-6e361d0cb2bd",
+      "key": "shield ai|||software engineer 1 new grad internal tools",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:076316f1-2948-47b2-9ff6-f230f7065080",
+      "key": "shield ai|||software engineer 1 new grad software factory team",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b5d78578-847e-43f2-9ade-3b44ae95b38b",
+      "key": "amentum|||junior data engineer",
+      "location": "springfield va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bceb27d0496e206d2d89fba882ddcd5f350c0bdc",
+      "key": "publicis groupe|||junior data analyst social data automation",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fc9a2814-e6ac-4198-a6bd-4f77d7941d78",
+      "key": "bask health|||associate product manager new grad",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d456430e-26c6-4f0f-9034-ee47bfe3d1ab",
+      "key": "bask health|||junior product manager intakes conversion",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3c21c10c7aed77861db64",
+      "key": "ferris state university college of business|||it application programmer asst student position",
+      "location": "big rapids mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3a81610c7aed77861cfe2",
+      "key": "wd|||software engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3b49cf6053e296fc7f664",
+      "key": "infosys|||genesys cloud cx engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3b25980020ca3a8978705",
+      "key": "amazon|||software development engineer amazon dedicated cloud early career 2027 amazon dedicated cloud adc",
+      "location": "jessup md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3aa3580020ca3a897848d",
+      "key": "amentum|||junior software developer",
+      "location": "dahlgren va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af39d0e7c81de7a524c1884",
+      "key": "cybernova technologies inc|||junior outsystems developer",
+      "location": "mississauga ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af39d5c80020ca3a8977a92",
+      "key": "payment source|||software quality assurance tester",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3bb4a10c7aed77861d837",
+      "key": "rtx|||software engineer i onsite",
+      "location": "st petersburg fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3a10bf6053e296fc7ed9a",
+      "key": "johnson johnson|||software engineering co op",
+      "location": "danvers ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3bb9df6053e296fc7fa50",
+      "key": "boeing|||software engineer associate experienced or senior bixby",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af3a05580020ca3a8977e8b",
+      "key": "volexity|||associate product manager cybersecurity washington dc",
+      "location": "silver spring md united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
