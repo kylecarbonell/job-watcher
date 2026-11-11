@@ -6161,6 +6161,18 @@
       "key": "jane street|||strategy and product",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:794be3df-1425-488c-b884-a8d29f0732f1",
+      "key": "amazon|||software development engineer early career amazon dedicated cloud",
+      "location": "5 locationsseattle wa jessup md arlington county arlington va denver co herndon va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3b25980020ca3a8978705",
+      "key": "amazon|||software development engineer amazon dedicated cloud early career 2027 amazon dedicated cloud adc",
+      "location": "jessup md united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
