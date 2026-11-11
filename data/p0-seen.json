@@ -6179,6 +6179,42 @@
       "key": "amazon|||software engineer i commerce",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5d1a3f0e-ab9b-430a-affb-25361ff9d644",
+      "key": "salesforce|||software engineer new grad",
+      "location": "7 locationspalo alto ca seattle wa indianapolis in san francisco dallas tx new york bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c274d687-71f7-4484-8ae0-52884c72e8f8",
+      "key": "salesforce|||software engineering amts new grad",
+      "location": "7 locationspalo alto ca seattle wa indianapolis in san francisco dallas tx new york bellevue wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af48707cbd2ee75d155a860",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af49c3bcbd2ee75d155b63a",
+      "key": "ibm|||entry level software developer",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af49196cd7be4db20d862fa",
+      "key": "salesforce|||software engineering amts college grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af493851b2c5dcbbcd61ff2",
+      "key": "amazon|||software development engineer platform engineering emerging technology",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
