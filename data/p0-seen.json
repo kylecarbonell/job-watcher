@@ -6173,6 +6173,12 @@
       "key": "amazon|||software development engineer amazon dedicated cloud early career 2027 amazon dedicated cloud adc",
       "location": "jessup md united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af3eaa3e841cc0145ad64a5",
+      "key": "amazon|||software engineer i commerce",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
