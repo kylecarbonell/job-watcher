@@ -68669,6 +68669,354 @@
       "key": "shiseido|||analyst it digital job details shiseido",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3a1418759c80947c39b2d74c833edfeb90fec603",
+      "key": "priceline|||junior software engineer front end",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:790c3d58337a986cbe1fc7011976a565351a62aa",
+      "key": "crosscountry consulting|||forward deployed software engineer new grad",
+      "location": "chicago il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:57f2cc60c0bf2f93dcdd3cc88e4a6971da4c71d3",
+      "key": "crosscountry consulting|||forward deployed software engineer new grad",
+      "location": "new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f3bdefa4e6a3a6eb6fa32846c7ea9f89efc4cfcc",
+      "key": "perseus group|||software engineer 1",
+      "location": "sharon pa jacksonville fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ea5da24b8fec31b524c007991ca349d8fac05b38",
+      "key": "amazon|||software development engineer early career",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:202bc822ffe762634b057f5f3cbf02ae08d5296c",
+      "key": "tiktok|||machine learning engineer new grad e commerce search",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5fe3579862a378dcef88d",
+      "key": "cla cliftonlarsonallen|||marketing technology developer remote",
+      "location": "tempe az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5e5bcf10ae27369e14814",
+      "key": "wolters kluwer|||product software engineer",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5e67679862a378dceea21",
+      "key": "wolters kluwer|||enterprise software engineer",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af611f6323c531f31e2f8c3",
+      "key": "trinity services group|||regional implementation analyst",
+      "location": "strongsville oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4b4b9cd7be4db20d87cfc",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "highlands ranch co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aece331465e3d23713828cb",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4b4503a9a26aee709fd4b",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "marietta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aecb9f1465e3d237138109d",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "highlands ranch co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4f3f23a9a26aee70a21a2",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af60fa08cc703bba47af85a",
+      "key": "isaac operations|||full stack developer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af60f83f10ae27369e16383",
+      "key": "granite construction|||regional technology associate",
+      "location": "nampa id united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af60f38a4a5218a07e82d3d",
+      "key": "tekion corp|||account solutions architect i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5f0738cc703bba47ae40f",
+      "key": "rli insurance company|||associate software engineer net peoria il or tempe az",
+      "location": "peoria il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af60d3ef10ae27369e1628d",
+      "key": "accenture federal services|||associate software engineer hire to train program pega",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af60862a4a5218a07e829b1",
+      "key": "military spouse jobs|||java software engineer san diego ca",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af604d880054650a5e7b378",
+      "key": "military spouse jobs|||java software engineer san diego ca",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af60301a4a5218a07e8256f",
+      "key": "siemens|||automation genesis customer solution architect sales specialist track",
+      "location": "mason oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af602aba4a5218a07e82505",
+      "key": "siemens|||automation genesis customer solution architect sales specialist track",
+      "location": "mason oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5fe3c323c531f31e2ea90",
+      "key": "spacex|||aerospace software engineer starfall",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5e6ad8cc703bba47addea",
+      "key": "tetra tech|||full stack developer co op",
+      "location": "pickering on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af61822f10ae27369e16676",
+      "key": "university of galway|||research assistant iot platform developer 1 fte school of engineering 012019",
+      "location": "galway county galway ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5fb80f10ae27369e15471",
+      "key": "siemens|||automation genesis customer solution architect sales specialist track",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5f735f10ae27369e152dc",
+      "key": "contentful|||solution engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5e086a4a5218a07e80e3d",
+      "key": "ercot|||senior mms application developer markets ui",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5f5d7323c531f31e2e61e",
+      "key": "via|||implementation associate",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5f20ef10ae27369e15042",
+      "key": "american express|||campus graduate masters full time engineer 2027 software engineer ii enterprise technology services new york ny",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5f203f10ae27369e15034",
+      "key": "american express|||campus undergraduate full time engineer 2027 software engineer i enterprise technology services new york ny",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5ef8e79862a378dcef06c",
+      "key": "dmc engineering|||entry level software engineer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5e74080054650a5e79ebf",
+      "key": "infosys|||genesys cloud cx engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5e6608cc703bba47addc1",
+      "key": "sierra nevada corporation|||software engineer i for 2026 interns only",
+      "location": "lone tree co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5e50180054650a5e79d27",
+      "key": "the manchester metropolitan university|||junior games developer",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5c15a79862a378dced6e3",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5edbc8cc703bba47ae230",
+      "key": "specialty equipment market association sema|||solutions analyst",
+      "location": "diamond bar ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5e31e323c531f31e2da80",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af60c6280054650a5e7b916",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5fe30323c531f31e2ea78",
+      "key": "trane technologies|||embedded sw engineer",
+      "location": "los angeles crosse wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5e4118cc703bba47adbf5",
+      "key": "northrop grumman|||2027 associate software engineer software engineer",
+      "location": "melbourne fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af61fbca4a5218a07e83672",
+      "key": "boeing|||entry flight software engineer vehicle management systems",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5efd6f10ae27369e14eb4",
+      "key": "bank of america|||software engineer i",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5efe0323c531f31e2e2d4",
+      "key": "bank of america|||software engineer i",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4f73bcd7be4db20d8a26e",
+      "key": "mayo clinic|||software engineer limited tenure hybrid",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af61121323c531f31e2f853",
+      "key": "boeing|||software engineer vehicle management systems associate or experienced",
+      "location": "seal beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af60ad7a4a5218a07e82b62",
+      "key": "ssi shipconstructor shipbuildingplm|||software developer co op",
+      "location": "victoria bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af283f041f4504a0888c7a0",
+      "key": "credence|||junior sap abap developer",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5ffd2f10ae27369e158a0",
+      "key": "ey|||service delivery center full stack developer financial services analyst raleigh dallas san antonio",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af611bf80054650a5e7bbb0",
+      "key": "fanatics|||product manager trading product",
+      "location": "leeds england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af600da79862a378dcefb08",
+      "key": "mediabistro|||digital producer consumer advice remote digital media web production",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af5fcf7a4a5218a07e81f8c",
+      "key": "jd sports canada|||buying coordinator",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af5fa95a4a5218a07e81e01",
+      "key": "lg electronics|||hvac product planning program manager",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af5dd1880054650a5e79794",
+      "key": "renault group|||product management graduate",
+      "location": "maple cross england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af60f3580054650a5e7ba6b",
+      "key": "kiss beauty group|||assistant product manager",
+      "location": "port washington ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af60f3a8cc703bba47af7f8",
+      "key": "kiss beauty group|||assistant product manager nail",
+      "location": "port washington ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
