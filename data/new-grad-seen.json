@@ -68279,6 +68279,240 @@
       "key": "national grid|||graduate development program associate product manager us electric it job details natgridprod",
       "location": "syracuse ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ca8d4e99-7c1a-43f6-9730-cb0083351686",
+      "key": "bask health|||frontend engineer new grad",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:65133053-7ab3-42e5-9646-aac8b273b497",
+      "key": "rtx|||software engineer 1",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:961fe516c518f018684fce68ef00ce03203874b3",
+      "key": "panasonic holdings|||software engineer 1",
+      "location": "irvine ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ee225dca-a07b-42d2-a9dd-82e99bccc652",
+      "key": "medpace|||junior data governance analyst",
+      "location": "cincinnati oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af510fa2278454e18c3ab5b",
+      "key": "viasat|||associate software engineer early career",
+      "location": "carlsbad ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5147f3a9a26aee70a2e08",
+      "key": "viasat|||associate software engineer early career",
+      "location": "carlsbad ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af544c43a9a26aee70a3a58",
+      "key": "rtx|||associate software engineer i cds engine system software onsite",
+      "location": "east hartford ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4ef363a9a26aee70a1ee4",
+      "key": "jamf|||associate software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5445d9144106c56a248e5",
+      "key": "landis gyr|||technical implementation engineer i",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4f6101b2c5dcbbcd65d9e",
+      "key": "jamf|||associate software engineer full stack",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4f2bb1b2c5dcbbcd65be4",
+      "key": "rubrik|||software engineer virtual platform",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4f609cbd2ee75d155ec84",
+      "key": "thinkom solutions inc|||software quality assurance engineer",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4f7ffcd7be4db20d8a2dd",
+      "key": "infosys|||java backend developer",
+      "location": "dallas texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4fb8f1b2c5dcbbcd66057",
+      "key": "infosys|||java backend developer",
+      "location": "dallas texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5033fcbd2ee75d155f162",
+      "key": "american family insurance|||associate technical engineer hybrid",
+      "location": "madison wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5007f2278454e18c3a4ac",
+      "key": "mayo clinic healthcare london|||software engineer limited tenure hybrid",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4ff37cbd2ee75d155eff5",
+      "key": "mayo clinic rochester|||software engineer limited tenure hybrid",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4f7cd1b2c5dcbbcd65e7b",
+      "key": "infosys|||react full stack developer",
+      "location": "dallas texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4eba71b2c5dcbbcd656f3",
+      "key": "materion corporation|||product assurance engineer",
+      "location": "westford ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4f73bcd7be4db20d8a26d",
+      "key": "mayo clinic|||software engineer limited tenure hybrid",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4d3e43a9a26aee70a0d76",
+      "key": "rtx|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4eb812278454e18c399b9",
+      "key": "general atomics aeronautical systems|||software developer",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af54443cd7be4db20d8b947",
+      "key": "john deere|||engineer software job details john deere",
+      "location": "waterloo ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5379acbd2ee75d156007d",
+      "key": "northrop grumman|||2027 associate software engineer boulder co",
+      "location": "boulder co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af515ffcd7be4db20d8adfa",
+      "key": "boeing|||embedded software engineer",
+      "location": "long beach ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4f91ccbd2ee75d155ede7",
+      "key": "boeing|||entry level missions systems software engineer embedded",
+      "location": "berkeley missouri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4bf3b9144106c56a211c9",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af501f41b2c5dcbbcd66242",
+      "key": "accenture|||custom software engineer 6588434",
+      "location": "memphis tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5099dcd7be4db20d8a958",
+      "key": "raydar|||junior frontend engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af548383a9a26aee70a3c86",
+      "key": "teradyne|||software engineer teradyne north reading ma",
+      "location": "north reading ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af548562278454e18c3babe",
+      "key": "national grid|||graduate development program associate business partner technology business partnering",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af544023a9a26aee70a3967",
+      "key": "boston scientific|||urology r d software engineering co op",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5493e3a9a26aee70a3d99",
+      "key": "capgemini|||lead java full stack with react",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af51d142278454e18c3ae55",
+      "key": "cursor|||software engineer new grad 2027",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af548d6cd7be4db20d8bc8d",
+      "key": "national grid|||graduate development program associate technology engineer technology engineering",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af5020b2278454e18c3a536",
+      "key": "keybank|||product manager i",
+      "location": "brooklyn oh united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af50ce49144106c56a23b35",
+      "key": "dreamwear|||product development assistant sleepwear",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af546d4cd7be4db20d8bb44",
+      "key": "caa club group|||product coordinator travel",
+      "location": "ontario canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af548eecbd2ee75d15606f3",
+      "key": "national grid|||graduate development program associate product manager us electric it",
+      "location": "waltham massachusetts united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
