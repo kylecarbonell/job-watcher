@@ -6245,6 +6245,24 @@
       "key": "intel|||design verification engineer",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ea5da24b8fec31b524c007991ca349d8fac05b38",
+      "key": "amazon|||software development engineer early career",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:202bc822ffe762634b057f5f3cbf02ae08d5296c",
+      "key": "tiktok|||machine learning engineer new grad e commerce search",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5fe3c323c531f31e2ea90",
+      "key": "spacex|||aerospace software engineer starfall",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
