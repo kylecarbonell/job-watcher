@@ -69335,6 +69335,138 @@
       "key": "ortelan|||product manager",
       "location": "salt lake city ut united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:dcad63ca-676a-4159-a102-8c42f2d872c5",
+      "key": "shield ai|||software engineer 1 new grad",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af72cb941166cab7564896b",
+      "key": "publix super markets|||associate software engineer finance systems hybrid",
+      "location": "lakeland fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af726b2e3d8d612bf420707",
+      "key": "nightwing|||junior software engineer swe0 with security clearance",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af726ac824228640064234e",
+      "key": "nightwing|||software engineer full stack with security clearance",
+      "location": "sterling va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7238cd0eefb7d11b8937d",
+      "key": "caterpillar inc|||embedded software test engineer",
+      "location": "mossville il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada831154bbabbab0717272",
+      "key": "peraton|||junior level cloud infrastructure engineer",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af71f238242286400641d97",
+      "key": "northrop grumman|||2027 associate software engineer mcclellan ca",
+      "location": "mcclellan ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee5886e0c9de7b05f8e162",
+      "key": "cisco|||software developer full stack backend i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7133041166cab75647cdf",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af710ea3ba46d7b6c163030",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af72b5bc7349029d7092cd1",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af72b1141166cab756488d5",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae48e02eab1f9673097acb5",
+      "key": "house of commons of canada chambre des communes du canada|||full stack developer digital product developer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ada6b9803d2da7528914e13",
+      "key": "rokt|||junior software engineer rokt residency",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af6d7b3d0eefb7d11b87d4f",
+      "key": "akuna capital|||junior quantitative developer strategist 2027 university of chicago",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af6d14f41166cab75646cdb",
+      "key": "good energy|||junior full stack developer",
+      "location": "chippenham wiltshire united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af72524e3d8d612bf420624",
+      "key": "yale university|||research software engineer program analyst",
+      "location": "new haven ct united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af721b73ba46d7b6c1636fa",
+      "key": "telus|||system quality analyst i",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af6e8d7e3d8d612bf41f209",
+      "key": "citi|||junior developer",
+      "location": "mississauga on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af72d4a41166cab756489e3",
+      "key": "cisco|||software engineer compiler i full time united states",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af71d8dc7349029d7092449",
+      "key": "collins aerospace|||software engineer i air traffic solutions onsite",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af72e94e3d8d612bf420b3b",
+      "key": "aaa club alliance|||associate digital product manager travel",
+      "location": "wilmington de united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
