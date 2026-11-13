@@ -6263,6 +6263,18 @@
       "key": "spacex|||aerospace software engineer starfall",
       "location": "hawthorne ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:72738414995bc799a7e137b8a3be4bd214142592",
+      "key": "tiktok|||machine learning engineer new grad data global e commerce search",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af621e4a4a5218a07e837c0",
+      "key": "apple|||software engineer ad platforms",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
