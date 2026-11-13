@@ -6287,6 +6287,24 @@
       "key": "cisco|||software engineer compiler i full time united states",
       "location": "austin tx united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af76b06c7349029d70957a8",
+      "key": "nvidia|||nvidia spring 2027 internships developer and performance technology",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af76e9d8242286400645275",
+      "key": "amazon|||software development engineer bespoke solutions adc hardware software team",
+      "location": "jessup md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af75288d0eefb7d11b8b1fa",
+      "key": "amazon|||product manager technical pmt 2027",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
