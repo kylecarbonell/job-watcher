@@ -69239,6 +69239,102 @@
       "key": "procter gamble|||it software manager",
       "location": "cincinnati oh united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8b086459-985c-4225-b509-facb2dce5e94",
+      "key": "shield ai|||software engineer 1 new grad",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3405de3a-e8dd-40b3-b91f-52185d82ebe8",
+      "key": "rtx|||software engineer 1",
+      "location": "marlborough ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af6a66065254de94e4e0a9d",
+      "key": "kinaxis|||cloud engineer 1 site reliability engineering early career junior level",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af6a4282fa5b7271ab82f35",
+      "key": "netrolynx ai|||software developer",
+      "location": "united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af698068a9bd36b08993d17",
+      "key": "ortelan|||full stack engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af6686079862a378dcf3749",
+      "key": "marmon foodservice technologies|||quality assurance engineer",
+      "location": "charlottesville va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6adc8b440a4cc7090f977792",
+      "key": "switchboard|||junior software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af66d4b8a9bd36b08993327",
+      "key": "boston scientific|||urology r d software engineering co op",
+      "location": "maple grove mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af5f73479862a378dcef4b2",
+      "key": "contentful|||solution engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af660e48cc703bba47b269d",
+      "key": "capgemini|||java fullstack developer job details capgemini",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af69b4680054650a5e7f7b2",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "colorado united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af6965579862a378dcf4230",
+      "key": "rtx|||software engineer i",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af6362ca4a5218a07e84599",
+      "key": "boeing|||entry flight software engineer vehicle management systems",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4fb93cbd2ee75d155ef16",
+      "key": "infosys|||react full stack developer",
+      "location": "dallas texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af68c17af034cc4ddad1631",
+      "key": "broaden|||it configuration analyst",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af69baa8cc703bba47b35c0",
+      "key": "ortelan|||product manager",
+      "location": "salt lake city ut united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
