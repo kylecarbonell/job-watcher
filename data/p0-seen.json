@@ -6275,6 +6275,18 @@
       "key": "apple|||software engineer ad platforms",
       "location": "cupertino ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee5886e0c9de7b05f8e162",
+      "key": "cisco|||software developer full stack backend i co op canada",
+      "location": "kanata on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af72d4a41166cab756489e3",
+      "key": "cisco|||software engineer compiler i full time united states",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
