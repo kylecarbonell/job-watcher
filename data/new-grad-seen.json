@@ -69863,6 +69863,156 @@
       "key": "trane technologies|||product management engineering co op",
       "location": "grand rapids mi united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1c6153b6-21de-4fdf-85d2-b7eab2023840",
+      "key": "accenture|||software engineering new grad",
+      "location": "newcastle upon tyne uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:99faec69-36c3-45b0-b133-b5adf3e845f9",
+      "key": "accenture|||software engineering new grad graduate programme",
+      "location": "birmingham uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c039496a-1e56-45d6-a014-aba00cbbb349",
+      "key": "accenture|||software engineer new grad",
+      "location": "bristol uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a215785a-a17e-4d39-8508-4062629e0681",
+      "key": "accenture|||software engineering new grad",
+      "location": "glasgow uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4f8b6972-afef-4061-9793-31aa2c86495c",
+      "key": "accenture|||software engineering new grad",
+      "location": "edinburgh uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:257cfc8d-99de-4c4a-96a1-d47f3117b265",
+      "key": "accenture|||software engineering new grad",
+      "location": "manchester uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6a046f00b69bac64af1835abc98ab3558215d675",
+      "key": "huntington ingalls industries|||software development engineer 1",
+      "location": "newport news va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af803d135427cce9bb2b5bd",
+      "key": "miraterra technologies corporation|||associate software developer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7e3b834e2d29dcb751dfb",
+      "key": "canadian institute for health information cihi|||co op student quality assurance",
+      "location": "ottawa ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7df56c7349029d7098f7b",
+      "key": "canadian institute for health information cihi|||co op student quality assurance",
+      "location": "ottawa ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7dd0842ae65e2c8f399e8",
+      "key": "leidos|||embedded flight software developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7c701d0eefb7d11b8f5fd",
+      "key": "b4corp|||812307 test engineer 235 000 00",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7c264c7349029d70986d6",
+      "key": "microsoft|||software engineer mbo",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7ca9ecb5a5d4a77fc8761",
+      "key": "jacobs|||forward deployed engineer alluvial",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7ca0916215fdeb90d3820",
+      "key": "jacobs|||forward deployed engineer alluvial",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7c36b34e2d29dcb751586",
+      "key": "jacobs|||forward deployed engineer alluvial",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7d14cd0eefb7d11b8f860",
+      "key": "jacobs|||forward deployed engineer alluvial",
+      "location": "miami fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7db67d0eefb7d11b8f9fe",
+      "key": "jacobs|||forward deployed engineer alluvial",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7f00742ae65e2c8f3a6d4",
+      "key": "raytheon|||software engineer i",
+      "location": "marlborough ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7dcfc4ddfc50167b94622",
+      "key": "ey|||sdc front end engineer analyst raleigh nc or dallas tx",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7cfd616215fdeb90d397c",
+      "key": "interimage|||software engineer with security clearance",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7e73034e2d29dcb751f8d",
+      "key": "landis gyr|||technical implementation engineer i",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af7ee8342ae65e2c8f3a568",
+      "key": "wingz|||technical product manager remote us only",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af7e7f54ddfc50167b94b91",
+      "key": "vestweii|||associate product manager revenue technology",
+      "location": "buffalo niagara falls area united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af7eb9f4ddfc50167b9500b",
+      "key": "smyths toys superstores|||website content administrator galway",
+      "location": "galway ireland",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
