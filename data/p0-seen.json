@@ -6317,6 +6317,12 @@
       "key": "microsoft|||software engineering",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7c264c7349029d70986d6",
+      "key": "microsoft|||software engineer mbo",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
