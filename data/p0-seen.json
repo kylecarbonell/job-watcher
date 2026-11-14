@@ -6305,6 +6305,18 @@
       "key": "amazon|||product manager technical pmt 2027",
       "location": "vancouver bc canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7879ac7349029d7096b93",
+      "key": "microsoft|||software engineer",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af78af5d0eefb7d11b8d97e",
+      "key": "microsoft|||software engineering",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
