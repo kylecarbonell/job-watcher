@@ -70013,6 +70013,138 @@
       "key": "smyths toys superstores|||website content administrator galway",
       "location": "galway ireland",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:788e4fa2-855c-4290-a24e-47ddccdf7692",
+      "key": "edmentum|||software engineer 1",
+      "location": "bloomington mn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1a66699dd5e013cd0c959cb1280c76baa2ff86d9",
+      "key": "shield ai|||software engineer 1 new grad",
+      "location": "washington washington",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:47ffb242-7946-4cbd-832d-ea8e2eb67d2a",
+      "key": "icf international|||junior data scientist",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af87326cb5a5d4a77fcc3c9",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af84b83cb5a5d4a77fcac75",
+      "key": "applied materials|||software engineer bachelors degree new college grad santa clara",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af78ae241166cab7564ca27",
+      "key": "infineon technologies|||graduate engineer digital design",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a88ddba4afae74a0834df16",
+      "key": "american honda motor company inc|||software system dev engineer",
+      "location": "raymond oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af821e542ae65e2c8f3af59",
+      "key": "kiewit|||document controls specialist kiewit infrastructure engineers job details kiewit",
+      "location": "lone tree co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af861c8cb5a5d4a77fcbbcc",
+      "key": "hii|||software development engineer 1",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a51c54c78e364789ca5c8bd",
+      "key": "zip|||software engineer backend all levels",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af85ee786a9b19681af92c4",
+      "key": "dawn foods global|||quality assurance tech i afternoon shift",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af85ceecb5a5d4a77fcb404",
+      "key": "perrigo company plc|||quality assurance technician",
+      "location": "eau claire wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af85e764ddfc50167b97324",
+      "key": "dawn foods global|||quality assurance tech i",
+      "location": "louisville ky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af8445586a9b19681af8612",
+      "key": "sam the concrete man|||junior developer",
+      "location": "centennial co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af82a434ddfc50167b960d0",
+      "key": "l3harris technologies|||associate embedded software developer waterdown can",
+      "location": "waterdown on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af8251d34e2d29dcb753422",
+      "key": "leonardo drs|||software engineer i ii radar software",
+      "location": "germantown md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af821ec34e2d29dcb7530cc",
+      "key": "teradyne|||software engineer teradyne north reading ma",
+      "location": "north reading ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af85eba4ddfc50167b973b5",
+      "key": "national grid|||graduate development program associate business partner technology business partnering",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af861b5cb5a5d4a77fcbbb2",
+      "key": "whiteoptics llc|||specialist growth transformation software engineering build program",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af85e6086a9b19681af91a9",
+      "key": "tsi incorporated|||product specialist i pharma msp",
+      "location": "shoreview mn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af8219ecb5a5d4a77fca02e",
+      "key": "caa club group|||product coordinator travel",
+      "location": "ontario canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af861a542ae65e2c8f3cb7b",
+      "key": "whiteoptics llc|||build program business analyst tech product management specialist",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
