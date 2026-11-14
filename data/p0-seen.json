@@ -6329,6 +6329,12 @@
       "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af89c6b42ae65e2c8f3dba3",
+      "key": "nvidia|||nvidia 2027 summer internships ph d engineering",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
