@@ -70145,6 +70145,30 @@
       "key": "whiteoptics llc|||build program business analyst tech product management specialist",
       "location": "atlanta ga united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af89c6b42ae65e2c8f3dba3",
+      "key": "nvidia|||nvidia 2027 summer internships ph d engineering",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af8848e4ddfc50167b9845a",
+      "key": "fort bend county|||temporary position web development information technology",
+      "location": "richmond tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aee5926d20350c7a507c74a",
+      "key": "rtx|||software engineer i",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af8886742ae65e2c8f3d742",
+      "key": "nightwing|||salesforce software tester with security clearance",
+      "location": "sterling va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
