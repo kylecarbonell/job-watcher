@@ -70169,6 +70169,30 @@
       "key": "nightwing|||salesforce software tester with security clearance",
       "location": "sterling va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:45a2526c-381b-4e2e-95c9-cf132d4dea09",
+      "key": "johnson controls|||nextgen software engineer new grad",
+      "location": "milwaukee wi westford ma glendale wi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b5ef2f0a08de6cb4f16a699b645efac771270ba0",
+      "key": "raydar|||founding product engineer",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af8def2a68705504beb8daa",
+      "key": "activision|||activision 2027 summer internships game systems engineering",
+      "location": "middleton wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af8bff64ddfc50167b98f73",
+      "key": "vive health|||product listing manager",
+      "location": "naples fl united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
