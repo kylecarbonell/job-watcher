@@ -70265,6 +70265,30 @@
       "key": "microsoft|||software engineering",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeda8e6bd2f33eea72d321d",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7f2a4cb5a5d4a77fc9a4c",
+      "key": "ey|||back end net developer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a5fde616e0c3c7c7d3d9a52",
+      "key": "current|||software engineer ios",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af9ea605c0a9086f36158fe",
+      "key": "connection technology center|||full stack developer i",
+      "location": "victor ny united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
