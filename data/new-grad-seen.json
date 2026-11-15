@@ -70289,6 +70289,18 @@
       "key": "connection technology center|||full stack developer i",
       "location": "victor ny united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:16f1708c904d3afd27aad054fdbf6d268a48ae6d",
+      "key": "cybernetic labs|||software engineer new grad agent platform",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af6698b8cc703bba47b29e6",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
