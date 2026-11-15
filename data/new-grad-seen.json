@@ -70193,6 +70193,42 @@
       "key": "vive health|||product listing manager",
       "location": "naples fl united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:57355e9cec1c2ba11f18473cf462f91a6282e9fa",
+      "key": "unity|||software developer new grad u accelerate software developer",
+      "location": "montreal qc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af920d65c0a9086f3614611",
+      "key": "spacex|||full stack software engineer starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af8ef641465de0d45f83711",
+      "key": "t mobile|||associate software engineer billing platform",
+      "location": "frisco tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af924ec48f3528e5a72edd5",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "washington district of columbia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7dd8034e2d29dcb751c88",
+      "key": "ey|||service delivery center full stack developer financial services analyst raleigh dallas san antonio",
+      "location": "raleigh nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af8f8311465de0d45f837cd",
+      "key": "microsoft|||software engineering",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
