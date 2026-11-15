@@ -6335,6 +6335,18 @@
       "key": "nvidia|||nvidia 2027 summer internships ph d engineering",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af920d65c0a9086f3614611",
+      "key": "spacex|||full stack software engineer starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af8f8311465de0d45f837cd",
+      "key": "microsoft|||software engineering",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
