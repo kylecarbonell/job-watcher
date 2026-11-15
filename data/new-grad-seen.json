@@ -70229,6 +70229,42 @@
       "key": "microsoft|||software engineering",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:31dc5de1536e853be8ffe4cfe149d44c4fa78cfc",
+      "key": "shield ai|||software engineer 1 new grad software autonomy capabilities",
+      "location": "united states",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af9845e5c0a9086f3614e4b",
+      "key": "microsoft|||software engineer mbo",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af77cf1e3d8d612bf424156",
+      "key": "tsmc|||software engineer new graduate north america software center",
+      "location": "vancouver wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af98f255c0a9086f3614fc6",
+      "key": "strala|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af98f0c9501ee962015ec4c",
+      "key": "actus consulting group|||japanese bilingual application engineer jr level 13178",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af9a120f015f35e7418daf5",
+      "key": "microsoft|||software engineering",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
