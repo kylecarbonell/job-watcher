@@ -6365,6 +6365,12 @@
       "key": "microsoft|||software engineer ctj poly",
       "location": "reston va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3f12b8ac-a406-4397-9458-ea07e6d144b3",
+      "key": "stripe|||product manager new grad",
+      "location": "seattle wa san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
