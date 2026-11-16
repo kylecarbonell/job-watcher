@@ -6371,6 +6371,30 @@
       "key": "stripe|||product manager new grad",
       "location": "seattle wa san francisco new york",
       "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb45fe5305ed998d91bcc3",
+      "key": "adobe|||2027 university graduate enterprise architecture analyst",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb17437f9ead6668e9e212",
+      "key": "ibm|||application developer cloud fullstack",
+      "location": "paramus nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace5c34680c80c8753bc333",
+      "key": "stripe|||software engineer new grad",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a50a719d5d2a327b664c8a6",
+      "key": "jane street|||strategy and product",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
