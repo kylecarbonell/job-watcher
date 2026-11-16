@@ -70331,6 +70331,384 @@
       "key": "hewlett packard enterprise|||networking mba product manager graduate",
       "location": "roseville ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1f5243e7-418c-45e0-a517-5603c9d3eae6",
+      "key": "american express|||campus undergraduate full time engineer software engineer 1",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:954c1ff7eee21833866364131f7132f616f8b0d7",
+      "key": "relx|||software engineer new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3ac85c1711073cd0680a08f9bacb98c8eded6630",
+      "key": "lexisnexis risk solutions|||software engineer new grad",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bb87d71a2114e8f2dfdc0b2942acdd430bba73f4",
+      "key": "america s tire|||data engineer 1",
+      "location": "south bend in",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e75e2183f61b42850c7f7ee2a7130034f55a42e0",
+      "key": "exacare ai|||data analyst new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb59f37d1820d918c293d3",
+      "key": "fortinet|||early careers software engineer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb59e4484fef921e04a83e",
+      "key": "netrolynx ai|||software engineer",
+      "location": "maryland heights mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb58807d1820d918c2931c",
+      "key": "the university of texas at dallas|||cloud engineer i",
+      "location": "richardson tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb55ab484fef921e04a5ac",
+      "key": "nokia|||firmware engineer",
+      "location": "ottawa on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb5118317abe715a2632a5",
+      "key": "paychex|||software engineer i",
+      "location": "webster ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb50be5305ed998d91c5e4",
+      "key": "esri|||software development engineer in test i sdet arcgis enterprise",
+      "location": "redlands ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb2800317abe715a26113d",
+      "key": "addepar|||addegrad client solutions analyst nyc 2027",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb3e355305ed998d91b832",
+      "key": "fortinet|||early careers embedded software engineer",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb4bed7d1820d918c288d8",
+      "key": "axon|||embedded software engineer i",
+      "location": "seattle washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb1860484fef921e047814",
+      "key": "ellisdon|||software solutions specialist",
+      "location": "mississauga on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb4a7d484fef921e049cac",
+      "key": "sofi tech solutions|||software technical analyst",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb49327f9ead6668ea06f4",
+      "key": "infosys|||genesys cloud cx engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb16c85305ed998d919b4c",
+      "key": "american express|||campus undergraduate full time engineer 2027 software engineer i enterprise technology services toronto ontario canada",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb45fe5305ed998d91bcc3",
+      "key": "adobe|||2027 university graduate enterprise architecture analyst",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb3931484fef921e04908b",
+      "key": "symbotic|||software engineer core systems platform services",
+      "location": "wilmington ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb17437f9ead6668e9e212",
+      "key": "ibm|||application developer cloud fullstack",
+      "location": "paramus nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb1e377d1820d918c26796",
+      "key": "rtx|||embedded software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb39ba484fef921e0490f3",
+      "key": "amentum|||entry level software engineer secret",
+      "location": "dahlgren va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ace5c34680c80c8753bc333",
+      "key": "stripe|||software engineer new grad",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb34f17d1820d918c2798e",
+      "key": "xennial|||associate full stack engineer",
+      "location": "north york on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb2ca57f9ead6668e9f05d",
+      "key": "ahold delhaize usa|||fall software engineer co op",
+      "location": "quincy ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb2b01317abe715a26144b",
+      "key": "onyx point llc|||software engineer 0 1 by aby 07",
+      "location": "hanover md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb27585305ed998d91a43a",
+      "key": "neurotechx|||embedded software engineer implant embedded systems",
+      "location": "south san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb2669317abe715a261050",
+      "key": "passport technology|||software tester",
+      "location": "las vegas nv united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb1f7b317abe715a260c85",
+      "key": "brivo|||engineer embedded",
+      "location": "lehi ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb1a3d317abe715a2609c7",
+      "key": "good energy|||junior full stack developer",
+      "location": "chippenham wiltshire united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb0edb7d1820d918c25f65",
+      "key": "netrolynx ai|||software engineer",
+      "location": "maryland heights mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab715ae62bb1fbd451dd0c4",
+      "key": "hewlett packard enterprise|||cloud engineer graduate",
+      "location": "spring texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac992d3c3a8af9c54a0b23b",
+      "key": "hewlett packard enterprise|||cloud engineer graduate",
+      "location": "spring texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91e324c12c90443efc8a6f",
+      "key": "hewlett packard enterprise|||cloud engineer graduate",
+      "location": "spring tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab715e5ba1c25652c6112d1",
+      "key": "hewlett packard enterprise|||software engineer graduate",
+      "location": "spring texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91dc73c12c90443efc8936",
+      "key": "hewlett packard enterprise|||software engineer graduate",
+      "location": "spring tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac993146355f8776ff196ac",
+      "key": "hewlett packard enterprise|||software engineer graduate",
+      "location": "spring texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91dc4dd18f75674827a869",
+      "key": "hewlett packard enterprise|||firmware engineer graduate",
+      "location": "spring tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ac9931ad4a5a03707412bd0",
+      "key": "hewlett packard enterprise|||firmware engineer graduate",
+      "location": "spring texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ab715e539fd8792cb73d41e",
+      "key": "hewlett packard enterprise|||firmware engineer graduate",
+      "location": "spring texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afaf43f484fef921e0469ac",
+      "key": "arup|||its engineer",
+      "location": "seattle washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afadc977f9ead6668e9cd13",
+      "key": "ncr atleos|||junior software engineer",
+      "location": "dundee scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb2325317abe715a260e36",
+      "key": "fidelity canada|||software developer",
+      "location": "toronto ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb5b86317abe715a26389e",
+      "key": "visa|||sw engineer oracle erp junior level",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb4fa15305ed998d91c4f8",
+      "key": "regeneron|||it applications analyst quality systems",
+      "location": "raheen limerick ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb34005305ed998d91b06f",
+      "key": "food lion|||fall software engineer co op",
+      "location": "quincy ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb397f7d1820d918c27ccc",
+      "key": "harker|||software developer",
+      "location": "liverpool england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb3ef1317abe715a262533",
+      "key": "symbotic|||co op software engineer",
+      "location": "wilmington ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afb50fd04af1c9f075c67ff",
+      "key": "diversified usa|||digital products coordinator",
+      "location": "portland me united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a50a719d5d2a327b664c8a6",
+      "key": "jane street|||strategy and product",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afb3b8d484fef921e049239",
+      "key": "hp|||product planner mobile workstations",
+      "location": "spring tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ad00d94c9f40bec907ffa41",
+      "key": "normal computing|||product manager",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afb2ca2317abe715a26155b",
+      "key": "ahold delhaize usa|||fall product management co op",
+      "location": "quincy ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afb2c94484fef921e048514",
+      "key": "ahold delhaize usa|||fall data product management co op",
+      "location": "salisbury nc united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afb11a7317abe715a260423",
+      "key": "veeva systems|||associate product manager vault crm suite",
+      "location": "pleasanton ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ac99313fcdafb60c6a4cc51",
+      "key": "hewlett packard enterprise|||product management graduate master s mba",
+      "location": "spring texas united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a91e328a27a2d3c9848a81f",
+      "key": "hewlett packard enterprise|||product management graduate master s mba",
+      "location": "spring tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ab7165d62bb1fbd451dd0df",
+      "key": "hewlett packard enterprise|||product management graduate master s mba",
+      "location": "spring texas united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afb12737f9ead6668e9de87",
+      "key": "j crew factory|||associate product manager",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afb33f204af1c9f075c5231",
+      "key": "food lion|||fall data product management co op",
+      "location": "salisbury nc united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afb33f904af1c9f075c5236",
+      "key": "food lion|||fall product management co op",
+      "location": "quincy ma united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afb51a8484fef921e04a306",
+      "key": "boeing|||integrated product team lead",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
