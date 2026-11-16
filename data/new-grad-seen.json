@@ -70301,6 +70301,18 @@
       "key": "lockheed martin|||software engineer early career",
       "location": "king of prussia pa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3f12b8ac-a406-4397-9458-ea07e6d144b3",
+      "key": "stripe|||product manager new grad",
+      "location": "seattle wa san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afa46829501ee962016023c",
+      "key": "viavi solutions|||software engineering co op",
+      "location": "germantown md united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
