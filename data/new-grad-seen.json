@@ -70313,6 +70313,24 @@
       "key": "viavi solutions|||software engineering co op",
       "location": "germantown md united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a905fce617fce5c310472be14ae4778578cc8dff",
+      "key": "rtx|||software engineer 1 next gen systems",
+      "location": "cedar rapids ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afacf9a08edce8b5f75aea6",
+      "key": "ncr atleos|||junior software engineer",
+      "location": "dundee scotland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afa6e3b1465de0d45f864d0",
+      "key": "hewlett packard enterprise|||networking mba product manager graduate",
+      "location": "roseville ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
