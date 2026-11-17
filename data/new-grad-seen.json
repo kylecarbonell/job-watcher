@@ -71087,6 +71087,120 @@
       "key": "buywander|||product grading associate",
       "location": "denver co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:d1eb1835-b3a8-4b81-b754-d7ce73824f78",
+      "key": "kraun electric|||junior software developer",
+      "location": "st catharines on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9e14b17320a8fe6aa695260e27bf82a2e19f9c38",
+      "key": "cox automotive|||software engineer 1",
+      "location": "atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:40ca03e52f0f248ef2863f5df5078708b6a484dc",
+      "key": "caci|||junior software developer",
+      "location": "remote in usa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc2f7529e5a8844e656f71",
+      "key": "bytedance|||software engineer multiple positions",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc259d1e98d304ea7ef47e",
+      "key": "general atomics|||software developer i",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afbe19907bef169f5ffeb8c",
+      "key": "jacobs|||forward deployed engineer alluvial",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb8f34c96cba79575c0435",
+      "key": "citi|||credit trading tool developer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afbb576c96cba79575c151c",
+      "key": "b4corp|||812310 software engineer 300 000 00",
+      "location": "mclean va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc238129e5a8844e656d2e",
+      "key": "rtx|||embedded software developer i onsite",
+      "location": "el segundo ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc1d0b1e98d304ea7ef286",
+      "key": "echostar corporation|||early career software engineer",
+      "location": "englewood co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc1d50755d7cdf657fedd9",
+      "key": "echostar corporation|||early career software engineer",
+      "location": "englewood co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a91e3203603630099195016",
+      "key": "hewlett packard enterprise|||firmware engineer graduate",
+      "location": "spring tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc1ca640b855eb290c9219",
+      "key": "echostar corporation|||early career software engineer",
+      "location": "englewood co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afbf95a40b855eb290c8e42",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afbc5141c71d952627eeb16",
+      "key": "cnh|||software test engineer i",
+      "location": "casa grande az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afbb3f5c96cba79575c14e4",
+      "key": "dell technologies|||inside product specialist early career",
+      "location": "round rock tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afbe81c29e5a8844e65633e",
+      "key": "tiktok|||logistics product strategy operations graduate 2027 start mba",
+      "location": "seattle wa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6a91dc609864261ccd29f607",
+      "key": "hewlett packard enterprise|||product management graduate master s mba",
+      "location": "spring tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afbde9c8074edef8dd60d82",
+      "key": "clasp|||associate product manager clasp talent",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
