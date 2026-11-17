@@ -6431,6 +6431,66 @@
       "key": "bytedance|||software engineer multiple positions",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afca356e8a9612f4e0da140",
+      "key": "atlassian|||full stack software engineer",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc8dca63fb67454cf79af7",
+      "key": "ibm|||application developer zos",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc8d273786d28f2145a1a9",
+      "key": "ibm|||application developer zos",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc8b051e98d304ea7f1d85",
+      "key": "ibm|||application developer open source",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc88e01e98d304ea7f1a91",
+      "key": "ibm|||application developer cloud fullstack",
+      "location": "jefferson city mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc88c23786d28f21459e7a",
+      "key": "ibm|||application developer cloud fullstack",
+      "location": "paramus nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afca493e8a9612f4e0da25c",
+      "key": "stripe|||solutions architect metronome startups",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afca538d86c15318a38cd1e",
+      "key": "stripe|||solutions architect metronome startups",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afc608c40b855eb290ca5b6",
+      "key": "amazon|||category manager i worldwide grocery stores wwgs private brands",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afc74d407bef169f50015ac",
+      "key": "cisco|||technical product management specialist i full time united states",
+      "location": "san jose ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
