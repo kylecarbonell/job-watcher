@@ -6425,6 +6425,12 @@
       "key": "h r block|||assoc product manager",
       "location": "missouri united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afc2f7529e5a8844e656f71",
+      "key": "bytedance|||software engineer multiple positions",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
