@@ -6395,6 +6395,36 @@
       "key": "jane street|||strategy and product",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7ecc58ea-032d-416e-b399-32ebdff54d06",
+      "key": "roblox|||data scientist phd early career safety",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afbac08c2bd7db01b883ca3",
+      "key": "microsoft|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb80c4be8589f0b74be7de",
+      "key": "spacex|||software engineer wireless validation starlink mobile",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb8811c96cba79575bffa9",
+      "key": "cisco|||software developer full stack backend ii full time canada",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afb8d77c5917ce34b5dc329",
+      "key": "h r block|||assoc product manager",
+      "location": "missouri united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
