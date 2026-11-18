@@ -6491,6 +6491,54 @@
       "key": "cisco|||technical product management specialist i full time united states",
       "location": "san jose ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f8eb5b90-15f9-403c-a3df-35919821fb66",
+      "key": "oracle|||software engineer new grad intern",
+      "location": "nashville tn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1d9b837012fcb102a8861eed4e19a05b99f81f9d",
+      "key": "databricks|||associate product manager new grad",
+      "location": "san francisco bellevue wa mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afcd0bbe8a9612f4e0dbd32",
+      "key": "amazon|||software development engineer",
+      "location": "cambridge ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afcf44ed86c15318a38ff26",
+      "key": "ibm|||application developer experience front end",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afcea0094232f5ac42d3301",
+      "key": "linkedin|||software engineer systems and infrastructure",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afccbab94232f5ac42d1ef4",
+      "key": "oracle|||oci intern conversion undergrad software engineer full time nashville tn february 2027",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afcd81e2ac165125e4cd57a",
+      "key": "ibm|||application architect hybrid cloud manage",
+      "location": "tempe az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afccba3e0cdcfc91142fdb7",
+      "key": "oracle|||oci intern conversion undergrad software engineer full time nashville tn february 2027",
+      "location": "nashville tn united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
