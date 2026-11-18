@@ -72101,6 +72101,102 @@
       "key": "eliseai|||associate product manager housing",
       "location": "san francisco ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdd900758942b6422b49e1",
+      "key": "infosys|||java full stack developer",
+      "location": "tempe az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdd8e20cde47528ec0f0b4",
+      "key": "infosys|||java full stack developer",
+      "location": "tempe az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdbc92758942b6422b3737",
+      "key": "general atomics|||software developer i",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdc8fa758942b6422b3daf",
+      "key": "ai security institute aisi|||software engineer red team",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdcb4e758942b6422b3f04",
+      "key": "multi health systems inc mhs|||junior software engineer",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae15cd1de23f466ec8be7e5",
+      "key": "trideum corporation|||software engineer",
+      "location": "fort belvoir va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdae5759ad78b3975788ff",
+      "key": "bhe compression services|||software engineer 1 2 3 bhepg",
+      "location": "omaha ne united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af85e5935427cce9bb2d061",
+      "key": "supermicro|||software engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af85ded42ae65e2c8f3c515",
+      "key": "supermicro|||software engineer",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdd06bf170d82b3966e2eb",
+      "key": "york space systems|||ground software engineer junior",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afd9d5c26d1f35210ca638f",
+      "key": "coast capital|||co op quantitative risk oversight 4 months",
+      "location": "surrey bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdbdb4f170d82b3966d83c",
+      "key": "stryker|||software developer in test",
+      "location": "portage mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdc834f170d82b3966dd96",
+      "key": "bank of america|||analyst i tech delivery",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdd9dbf3e7976cc610959f",
+      "key": "bank of america|||software engineer i",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afd7489cc8c7a4631dde74f",
+      "key": "lionbridge|||video game tester",
+      "location": "boise id united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6af4de27cbd2ee75d155dda0",
+      "key": "shiseido|||analyst it digital",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
