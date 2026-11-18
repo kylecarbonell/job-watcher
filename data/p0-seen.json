@@ -6539,6 +6539,36 @@
       "key": "oracle|||oci intern conversion undergrad software engineer full time nashville tn february 2027",
       "location": "nashville tn united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7c5b35727c8e3ea66889d02eba234933d04ea0d4",
+      "key": "nvidia|||research scientist new grad ml systems",
+      "location": "4 locationsseattle wa austin tx santa clara ca westford ma",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afd64aac287c018be3aaa9f",
+      "key": "bytedance|||software engineer seed model infrastructures sre",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afd118e56aa9772e7d568b0",
+      "key": "ibm|||software engineer fullstack ux focussed observability",
+      "location": "bedford nova scotia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afce9f994232f5ac42d32f6",
+      "key": "linkedin|||software engineer systems and infrastructure",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afd24e9c9f7ca2bdfb20c2f",
+      "key": "microsoft|||software engineer mbo",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
