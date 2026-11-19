@@ -72197,6 +72197,336 @@
       "key": "shiseido|||analyst it digital",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe320b758942b6422b86f5",
+      "key": "adyen|||full stack developer junior docs experience engineering team",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe052a758942b6422b68df",
+      "key": "amentum|||c c software developer",
+      "location": "dahlgren va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdf964f170d82b39670167",
+      "key": "american systems|||java developer l",
+      "location": "lakewood co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe2aa1f170d82b396721c0",
+      "key": "daoai|||junior full stack engineer wemio",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe06600324c008a17e397a",
+      "key": "booz allen hamilton|||university cloud engineer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe0656758942b6422b6994",
+      "key": "booz allen hamilton|||university full stack developer",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe1a4a0cde47528ec11c6b",
+      "key": "nasa jet propulsion laboratory|||engineering applications software engineer level 1",
+      "location": "pasadena california united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe23560324c008a17e497b",
+      "key": "mayo clinic|||software engineer limited tenure hybrid",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe22b10cde47528ec12072",
+      "key": "mayo clinic healthcare london|||software engineer limited tenure hybrid",
+      "location": "rochester mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe2050f3e7976cc610c204",
+      "key": "paystand|||junior fullstack engineer",
+      "location": "santa cruz ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe20440cde47528ec11f36",
+      "key": "kira|||software engineer entry level",
+      "location": "new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdf5f10324c008a17e3056",
+      "key": "roc|||software eng sdk infrastructure associate",
+      "location": "denver co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe0ec80cde47528ec11603",
+      "key": "costco wholesale|||infrastructure engineer ltl fulfillment support and operations",
+      "location": "issaquah wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe0d5f758942b6422b6dfa",
+      "key": "boston scientific|||urology r d software engineering co op",
+      "location": "maple grove mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdfab18cffea7c97c8ef9c",
+      "key": "wyetech llc|||swe0 software engineer",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdf96a8cffea7c97c8ef1f",
+      "key": "american systems|||java developer l",
+      "location": "folsom ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdf963758942b6422b620a",
+      "key": "american systems|||software engineer developer",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af825ea42ae65e2c8f3b2fa",
+      "key": "mission technologies a division of hii|||early career software engineer 30877",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdf3b20cde47528ec104e1",
+      "key": "pd instore|||quality assurance technician",
+      "location": "minneapolis mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af861c2cb5a5d4a77fcbbc3",
+      "key": "mission technologies a division of hii|||software test engineer associate engineer software quality 1 29972",
+      "location": "columbia maryland united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afde3b00cde47528ec0f7f6",
+      "key": "twilio|||software engineer platform access l2",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af9760a1465de0d45f84470",
+      "key": "nvidia|||formal verification engineer new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdf0ff0324c008a17e2cd0",
+      "key": "mcculla ireland ltd|||quality assurance assistant",
+      "location": "lisburn northern ireland united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afde54af3e7976cc6109eb5",
+      "key": "monarch investment and management group|||junior applications developer",
+      "location": "franktown co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afcacafd86c15318a38d0ba",
+      "key": "benchling|||software engineer cdc",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe0d68f170d82b39670d87",
+      "key": "naval nuclear laboratory fmp|||software developer associate entry level",
+      "location": "west mifflin pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afdf2110cde47528ec103cb",
+      "key": "icf|||quality assurance specialist",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe24cd0324c008a17e4a7e",
+      "key": "bose corporation|||software engineer co op",
+      "location": "framingham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afde5c10cde47528ec0fbc2",
+      "key": "state of nebraska|||information technology applications developer webteam java",
+      "location": "lincoln ne united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe1ef1f3e7976cc610c143",
+      "key": "roche|||software engineer i",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe2b170cde47528ec12924",
+      "key": "rtx|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe0e94758942b6422b6ec5",
+      "key": "netapp|||netapp emerging talent entry level software engineer cloud job details netapp inc",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe120d0324c008a17e4085",
+      "key": "netapp|||netapp emerging talent entry level software engineer systems",
+      "location": "research triangle park nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe1200758942b6422b7111",
+      "key": "netapp|||netapp emerging talent entry level software engineer cloud",
+      "location": "research triangle park nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe11fc758942b6422b710c",
+      "key": "netapp|||netapp emerging talent software engineer cloud",
+      "location": "research triangle park nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe2a96f170d82b396721b6",
+      "key": "hewlett packard enterprise|||linux software engineer",
+      "location": "roseville ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe163e0324c008a17e42c9",
+      "key": "hewlett packard enterprise|||linux software engineer",
+      "location": "roseville ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe0c3f0cde47528ec11429",
+      "key": "hewlett packard enterprise|||linux software engineer",
+      "location": "roseville ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe16bf0cde47528ec11a31",
+      "key": "hewlett packard enterprise|||linux software engineer",
+      "location": "roseville ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe1913758942b6422b748e",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe04000324c008a17e380d",
+      "key": "lockheed martin|||embedded software engineer early career",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afe24c7758942b6422b7b30",
+      "key": "amphenol fci|||product specialist",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afe1f160cde47528ec11ead",
+      "key": "club kuma|||product development coordinator beauty",
+      "location": "santa monica ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa1aeca0ffb3d4fea6b67d6",
+      "key": "doordash|||senior associate new verticals fulfillment strategy operations",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afdf0848cffea7c97c8e8de",
+      "key": "circle health group|||associate product manager circle health group",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afde238f3e7976cc6109a11",
+      "key": "independence products ltd|||product specialist south west",
+      "location": "greater bristol area united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afde1840324c008a17e1fae",
+      "key": "procore technologies|||associate product manager",
+      "location": "dublin ireland",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afcf953e8a9612f4e0dd6a5",
+      "key": "club kuma|||product development brand coordinator",
+      "location": "santa monica ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afde513758942b6422b5384",
+      "key": "cupertino electric inc|||assistant product developer modular data center",
+      "location": "edgerton wi united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afe0d6f758942b6422b6e07",
+      "key": "the cigna group|||entry level product management analyst evicore remote",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afe0d76f170d82b39670d96",
+      "key": "the cigna group|||entry level product management analyst evicore remote",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afe26160cde47528ec12280",
+      "key": "transaction network services tns|||associate product manager financial markets",
+      "location": "illinois united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afe163c8cffea7c97c900cc",
+      "key": "keybank|||senior technical product management or technical product management",
+      "location": "cleveland oh united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afe0b04758942b6422b6c60",
+      "key": "cigna healthcare|||entry level product management analyst evicore remote",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afe02e88cffea7c97c8f4c9",
+      "key": "cigna healthcare|||entry level product management analyst evicore remote",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
