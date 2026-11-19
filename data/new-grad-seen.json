@@ -72719,6 +72719,180 @@
       "key": "blackberry|||product management student",
       "location": "ottawa on canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe17e90324c008a17e439e",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "herndon va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe0451758942b6422b687e",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "bethesda md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe042b758942b6422b686e",
+      "key": "lockheed martin|||software engineer flight controls early career",
+      "location": "fort worth tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe04058cffea7c97c8f535",
+      "key": "lockheed martin|||embedded software engineer early career",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb9d19b2e06df2579760cc",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff09f41c42ea8f6b9fc723",
+      "key": "formlabs|||embedded software engineer entry level",
+      "location": "somerville ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff136eb88323bd981bb25a",
+      "key": "rfa engineering|||embedded software engineer",
+      "location": "dubuque ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aaac21e4be87a72913a11c1",
+      "key": "ultra maritime|||embedded software engineer",
+      "location": "victor ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff0e21b88323bd981bb0df",
+      "key": "amewas|||software developer junior",
+      "location": "patuxent river md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff04eb97dcc4fc8dca7e31",
+      "key": "intelliforce it solutions group llc|||junior software engineer prime",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afeef43b88323bd981ba587",
+      "key": "regeneron|||it applications analyst quality systems",
+      "location": "limerick county limerick ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff0936aea17e3f50eaca6d",
+      "key": "insphere ltd|||junior software engineer",
+      "location": "greater bristol area united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff08b1b88323bd981bae07",
+      "key": "birmingham city council|||associate quality assurance test engineer application support",
+      "location": "birmingham england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afedcd1aea17e3f50eabf29",
+      "key": "atlassian|||software engineer 2027 graduate canada",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae675c3d7424a2a828ef7ac",
+      "key": "five star bank|||summer associate information technology",
+      "location": "rochester ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4c049cd7be4db20d88334",
+      "key": "nightwing|||jr computational engineer",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a56ce32f7517b519ad582a1",
+      "key": "lance|||product engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afef17772b9be368528d40a",
+      "key": "hii|||engineer software 1",
+      "location": "newport news va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff1d3ac1c02a9acd808ab6",
+      "key": "assetmark|||front end developer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff1c39aea17e3f50ead56a",
+      "key": "m t bank|||full stack software engineer financial crimes",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff0dfa72b9be368528ddd4",
+      "key": "globalfoundries|||design for test engineer 2027 new college graduate",
+      "location": "richardson tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff1a87aea17e3f50ead3f8",
+      "key": "american family insurance|||associate technical engineer hybrid",
+      "location": "madison wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afedefd97dcc4fc8dca74da",
+      "key": "j t|||software engineer active ts sci with full scope polygraph",
+      "location": "fort meade md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afecd2fb88323bd981b9e4d",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aff0a8b72b9be368528dc55",
+      "key": "american express|||analyst product management",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aff08451c42ea8f6b9fc5ec",
+      "key": "capstone|||associate digital product manager",
+      "location": "eden prairie mn united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afedc2c1c42ea8f6b9fbb19",
+      "key": "hm land registry|||associate product manager",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aff0a8d1c42ea8f6b9fc79e",
+      "key": "the cigna group|||entry level product management analyst evicore remote",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aff19f9aea17e3f50ead360",
+      "key": "cigna healthcare|||entry level product management analyst evicore remote",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
