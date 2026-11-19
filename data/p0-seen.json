@@ -6569,6 +6569,18 @@
       "key": "microsoft|||software engineer mbo",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af9760a1465de0d45f84470",
+      "key": "nvidia|||formal verification engineer new college grad 2027",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aa1aeca0ffb3d4fea6b67d6",
+      "key": "doordash|||senior associate new verticals fulfillment strategy operations",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
