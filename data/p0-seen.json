@@ -6599,6 +6599,18 @@
       "key": "amazon|||software engineer i commerce",
       "location": "seattle wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb9d19b2e06df2579760cc",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afedcd1aea17e3f50eabf29",
+      "key": "atlassian|||software engineer 2027 graduate canada",
+      "location": "vancouver bc canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
