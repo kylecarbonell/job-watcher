@@ -72527,6 +72527,198 @@
       "key": "cigna healthcare|||entry level product management analyst evicore remote",
       "location": "united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe48a30cde47528ec13775",
+      "key": "northwestern mutual|||software engineer i",
+      "location": "milwaukee wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe3e78f3e7976cc610d588",
+      "key": "amazon|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afea239959c7033f184c525",
+      "key": "netrolynx ai|||ios developer",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe9db7959c7033f184c47b",
+      "key": "quanta manufacturing nashville|||test engineer",
+      "location": "fremont ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe97cc0fe3ac852ce528dd",
+      "key": "reflex|||design engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afcbbbdd163750294926110",
+      "key": "naval nuclear laboratory fmp|||associate computer electrical engineer software",
+      "location": "niskayuna ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aed9291e0c9de7b05f85862",
+      "key": "humana|||software engineer 2",
+      "location": "louisville ky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe4baf8cffea7c97c91eca",
+      "key": "spacex|||backend software engineer gnc starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe48478cffea7c97c91d8d",
+      "key": "contexture|||junior software developer",
+      "location": "phoenix arizona united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe63f88cffea7c97c92612",
+      "key": "friedman s home improvement|||application engineer i full time headquarters",
+      "location": "petaluma ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe5a86f3e7976cc610df1f",
+      "key": "amazon|||software engineer i commerce",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe54c5758942b6422b93b7",
+      "key": "northrop grumman|||2027 associate software digital engineer rolling meadows il rolling meadows il",
+      "location": "rolling meadows il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe4caa758942b6422b9231",
+      "key": "caci international inc|||early career nasa space reactor 1 freedom flight software development engineer",
+      "location": "houston tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe40ee8cffea7c97c91a4c",
+      "key": "caci international inc|||early career nasa space reactor 1 freedom flight software development engineer",
+      "location": "houston tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe3e330cde47528ec132b7",
+      "key": "general atomics|||software developer i",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe3cc50cde47528ec131d4",
+      "key": "western virginia water authority|||it software developer trainee",
+      "location": "roanoke va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe3bd18cffea7c97c917c8",
+      "key": "tripoint solutions|||salesforce software developer i",
+      "location": "alabama united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afb6bb5c5917ce34b5daa3f",
+      "key": "naval nuclear laboratory fmp|||software engineer entry level",
+      "location": "west mifflin pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe840f959c7033f184c0a6",
+      "key": "pentair|||2027 engineering leadership development program computer engineering",
+      "location": "delavan wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe645b4ab3081626ab12ed",
+      "key": "california franchise tax board|||enterprise quality assurance specialist",
+      "location": "sacramento ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe5f4a0324c008a17e671e",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe5b2a758942b6422b95ba",
+      "key": "tetrahed inc|||jr software engineer full time strictly opt candidates only",
+      "location": "texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe480b758942b6422b9080",
+      "key": "wipro|||software engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe45e60324c008a17e5f6b",
+      "key": "netapp|||netapp emerging talent entry level software engineer systems job details netapp inc",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afeaa6597dcc4fc8dca6bac",
+      "key": "motorola solutions|||web interface software engineer",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe3e928cffea7c97c91962",
+      "key": "boeing|||software engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe61e74ab3081626ab11db",
+      "key": "boeing|||software systems engineer associate or experienced",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe6314758942b6422b98a9",
+      "key": "game companies|||quality assurance analyst",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe565a758942b6422b9445",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe56510cde47528ec13b91",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "littleton co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afe5a5b758942b6422b954d",
+      "key": "torrid|||product development assistant temp",
+      "location": "city of industry ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6afe5e4f8cffea7c97c923ad",
+      "key": "blackberry|||product management student",
+      "location": "ottawa on canada",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
