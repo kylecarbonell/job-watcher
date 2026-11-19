@@ -6581,6 +6581,24 @@
       "key": "doordash|||senior associate new verticals fulfillment strategy operations",
       "location": "san francisco ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe3e78f3e7976cc610d588",
+      "key": "amazon|||software engineer i",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe4baf8cffea7c97c91eca",
+      "key": "spacex|||backend software engineer gnc starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afe5a86f3e7976cc610df1f",
+      "key": "amazon|||software engineer i commerce",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
