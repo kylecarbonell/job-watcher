@@ -6671,6 +6671,48 @@
       "key": "amazon|||test do not apply t3 08 2026 product manager alexa",
       "location": "kent wa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b00b4410f536e0ba72767f2",
+      "key": "spacex|||superintelligence si engineer supercomputing special programs top secret clearance",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b00b43be0dc961959283822",
+      "key": "spacex|||superintelligence si engineer supercomputing special programs top secret clearance",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b00b43ae0dc961959283821",
+      "key": "spacex|||superintelligence si engineer supercomputing special programs top secret clearance",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b00b436e0dc96195928381c",
+      "key": "spacex|||superintelligence si engineer supercomputing special programs top secret clearance",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b00b2d53a9a0230ab029cf8",
+      "key": "spacex|||software engineer development test starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b008d7189d8ca1e8495733c",
+      "key": "spacex|||full stack software engineer build reliability",
+      "location": "hawthorne ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b007e78dfa58e4c244dbb50",
+      "key": "ibm|||qa test developer elh",
+      "location": "poughkeepsie new york united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
