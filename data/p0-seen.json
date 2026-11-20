@@ -6623,6 +6623,42 @@
       "key": "microsoft|||software engineer ctj poly",
       "location": "reston va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6affebaf89d8ca1e84953ff1",
+      "key": "bytedance|||software engineer multiple positions",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6affeba789d8ca1e84953fef",
+      "key": "bytedance|||test software engineer graduate douyin research and development middle platform 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6affe8fa3a9a0230ab025222",
+      "key": "apple|||ar vr software engineer spatial system ui vision products software",
+      "location": "boulder co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6affe326dd029d798066eebe",
+      "key": "ibm|||entry level supply chain software developer",
+      "location": "research triangle park north carolina united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff9d2572b9be36852937dd",
+      "key": "tesla|||software engineer it infrastructure",
+      "location": "fremont ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aed11d9a9ea762a04094b03",
+      "key": "spacex|||infrastructure engineer enterprise products",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
