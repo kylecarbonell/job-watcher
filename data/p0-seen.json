@@ -6611,6 +6611,18 @@
       "key": "atlassian|||software engineer 2027 graduate canada",
       "location": "vancouver bc canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff73b7dd029d798066c2fc",
+      "key": "amazon|||software development engineer creator marketplace",
+      "location": "culver city ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff572597dcc4fc8dcab128",
+      "key": "microsoft|||software engineer ctj poly",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
