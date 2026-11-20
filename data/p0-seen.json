@@ -6659,6 +6659,18 @@
       "key": "spacex|||infrastructure engineer enterprise products",
       "location": "redmond wa united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aff73bdb47661ae4a62ca54",
+      "key": "amazon|||test do not apply t3 08 2026b product manager alexa",
+      "location": "kent wa united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6aff73b2b47661ae4a62ca41",
+      "key": "amazon|||test do not apply t3 08 2026 product manager alexa",
+      "location": "kent wa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
