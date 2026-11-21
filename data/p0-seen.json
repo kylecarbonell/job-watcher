@@ -6743,6 +6743,12 @@
       "key": "cisco|||software engineer india comsec nccs hybrid",
       "location": "research triangle park nc united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b01be6fdf73191d2e6b1cb6",
+      "key": "ibm|||technical content professional apprentice",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
