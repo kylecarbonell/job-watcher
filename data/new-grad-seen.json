@@ -74081,6 +74081,36 @@
       "key": "ibm|||technical content professional apprentice",
       "location": "poughkeepsie ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b01dd54a512f514bbde3d91",
+      "key": "boeing|||associate software engineer",
+      "location": "albuquerque nm united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b00ae293a9a0230ab02988e",
+      "key": "boeing|||entry level software engineer developer",
+      "location": "richardson tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afbdeb01c71d952627ef2b7",
+      "key": "ats corporation|||junior software developer job details ats automation",
+      "location": "woodbridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b01ce550ae14188d58c4bc0",
+      "key": "secureframe|||software engineer new grad",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b007ab53a9a0230ab0279f5",
+      "key": "amentum|||c c software developer",
+      "location": "dahlgren va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
