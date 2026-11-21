@@ -74051,6 +74051,36 @@
       "key": "jack henry|||go to market product manager apprentice",
       "location": "omaha ne united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af7f34634e2d29dcb752b39",
+      "key": "ey|||sdc java software developer staff analyst st louis",
+      "location": "st louis mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b018717f6ef85c61a50f63d",
+      "key": "optum|||software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0158cfaf6fea8c089b6ea0",
+      "key": "dell technologies|||dell technologies presales academy inside solution architect",
+      "location": "hopkinton ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b01cad20ae14188d58c4b5b",
+      "key": "chicago cubs|||software engineer baseball systems centralized systems",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b01be6fdf73191d2e6b1cb6",
+      "key": "ibm|||technical content professional apprentice",
+      "location": "poughkeepsie ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
