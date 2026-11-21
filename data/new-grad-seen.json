@@ -73973,6 +73973,84 @@
       "key": "davita kidney care|||associate product manager technology",
       "location": "denver co united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b00f916f6ef85c61a50de74",
+      "key": "medtronic|||software engineer i crm",
+      "location": "minneapolis mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b01258aa512f514bbde2890",
+      "key": "cisco|||software engineer india comsec nccs hybrid",
+      "location": "research triangle park nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0125802ad6cde5ef2511f5",
+      "key": "cisco|||software engineer india comsec nccs",
+      "location": "research triangle park nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b010afb2ad6cde5ef250c68",
+      "key": "dev10|||entry level software developer",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b010aaef6ef85c61a50e560",
+      "key": "dev10|||entry level software developer",
+      "location": "pittsburgh pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff55c572b9be3685290b34",
+      "key": "l3harris technologies|||engineering leadership development program software engineer various locations",
+      "location": "melbourne fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff8a09865dbcc3f26fd891",
+      "key": "ust|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b00ae1689d8ca1e84958618",
+      "key": "boeing|||entry level software engineer test verification",
+      "location": "oklahoma city ok united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b00c6e289d8ca1e84959741",
+      "key": "boeing|||embedded software engineer entry level",
+      "location": "hazelwood mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0102502ad6cde5ef250980",
+      "key": "game companies|||software engineer i commerce",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b011b59af6fea8c089b6616",
+      "key": "mytelemedicine|||mobile developer android ios",
+      "location": "mckinney tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b00f392f6ef85c61a50dd9c",
+      "key": "jack henry|||go to market product manager apprentice",
+      "location": "troy mi united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b00f38d0ae14188d58c2a40",
+      "key": "jack henry|||go to market product manager apprentice",
+      "location": "omaha ne united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
