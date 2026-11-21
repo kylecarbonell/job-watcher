@@ -6731,6 +6731,18 @@
       "key": "microsoft|||software engineer ctj top secret",
       "location": "reston va united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0125802ad6cde5ef2511f5",
+      "key": "cisco|||software engineer india comsec nccs",
+      "location": "research triangle park nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b01258aa512f514bbde2890",
+      "key": "cisco|||software engineer india comsec nccs hybrid",
+      "location": "research triangle park nc united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
