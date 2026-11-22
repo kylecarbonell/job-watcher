@@ -6749,6 +6749,30 @@
       "key": "ibm|||technical content professional apprentice",
       "location": "poughkeepsie ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1ce6ada2-5aa1-4d38-be28-f8fe2df04845",
+      "key": "oracle|||software engineer new grad oracle cloud infrastructure",
+      "location": "nashville tn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:226562f5856753f79f0fdc84df07c628f57d7fb3",
+      "key": "databricks|||software engineer new grad",
+      "location": "mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2d51b00192dd3a1e72220a419f4a3a4f0a155f08",
+      "key": "databricks|||software engineer new grad distributed data systems",
+      "location": "bellevue wa mountain view ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:72bbe0160b3e4e578589fbed0a3635aded4c5b28",
+      "key": "roblox|||associate product manager early career",
+      "location": "san mateo ca",
+      "source_key": "simplifyjobs-new-grad"
     }
   ]
 }
