@@ -74465,6 +74465,36 @@
       "key": "rtx|||quality assurance engineer",
       "location": "white sands nm united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:65b1d554-dd51-4c64-beb3-aa0184ed3477",
+      "key": "sierra nevada corporation|||software engineer 1",
+      "location": "lone tree co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0bba7d5f-0e21-4ecf-b1f6-065b75490dbc",
+      "key": "trimble|||junior to mid level front end react engineer",
+      "location": "remote in uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:54a2e01d-6edb-4b24-a780-7cb263d5acaf",
+      "key": "specialized|||early career data engineer",
+      "location": "morgan hill ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7d8ea47b-88e2-4a96-81f6-aec39f336660",
+      "key": "specialized|||early career equipment product launch manager",
+      "location": "morgan hill ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b02adcabf981a045822883b",
+      "key": "birlasoft|||application developer usa job details birlasoft limited",
+      "location": "new jersey united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
