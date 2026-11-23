@@ -74519,6 +74519,30 @@
       "key": "paul davis restoration of metro ny nj|||quality assurance specialist i",
       "location": "united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f1ba0289-d24f-4662-94ca-892ed2c86b56",
+      "key": "calyx containers|||junior software developer print packaging",
+      "location": "west valley city ut",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:87a9cd09-aa80-4a38-b349-50fc6e8c491c",
+      "key": "sanofi|||product analyst new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:20d74fa9-982b-42e3-9d67-9303193f1f23",
+      "key": "sanofi|||digital new grad product analyst",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0384fe5cc15ec1b42c0901",
+      "key": "iicrc|||quality assurance specialist i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
