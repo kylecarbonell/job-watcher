@@ -74543,6 +74543,102 @@
       "key": "iicrc|||quality assurance specialist i",
       "location": "united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0806705f-44b1-4c91-a264-9d64f360e6b8",
+      "key": "lattice semiconductor|||junior bmc firmware engineer",
+      "location": "duluth ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:773f9ad4-5385-43a7-9d8a-0d7589beeeab",
+      "key": "aon|||early careers health analytics specialist",
+      "location": "chicago il atlanta ga",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4080c80c-d1ea-43e0-a258-493945bb1294",
+      "key": "jp morgan chase|||consumer banking financial product analyst new grad consumer community banking financial product focused",
+      "location": "columbus oh new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04188521f0a1e0c8499161",
+      "key": "bytedance|||software engineer multiple positions",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0417c8566251ad7b85ff66",
+      "key": "smartoffice technology|||graduate software engineer",
+      "location": "little island county cork ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b03e02bba759e898387be68",
+      "key": "bytedance|||backend development engineer graduate infrastructure platform delivery 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b03c40fba759e898387b9c8",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b03e722ba759e898387bf09",
+      "key": "northrop grumman|||2027 associate software engineer software engineer colorado springs co",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b03fba4a72582cade08b395",
+      "key": "capital one|||technology graduate",
+      "location": "nottingham england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b03c415adf53adef40e13d7",
+      "key": "synopsys inc|||software engineering industrial placement simulation cae",
+      "location": "canonsburg pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b03b5c9adf53adef40e1276",
+      "key": "hewlett packard enterprise|||embedded software developer entry",
+      "location": "spring tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b03abd6754c32e575312d94",
+      "key": "conduent|||quality assurance associate i",
+      "location": "erlanger ky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b040ddf21f0a1e0c8498d7c",
+      "key": "salesforce|||product manager senior specialist",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b040444a72582cade08b4af",
+      "key": "tableau|||product manager senior specialist",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b03d5105da88988c83fe0fa",
+      "key": "australian broadcasting corporation abc|||product services analyst technology",
+      "location": "sydney new south wales australia",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b03cd555da88988c83fdf8d",
+      "key": "jpmorganchase|||2027 chase leadership development program full time analyst winter cohort consumer community banking consumer bank financial product focused ny metro columbus",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
