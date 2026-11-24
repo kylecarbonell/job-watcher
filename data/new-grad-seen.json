@@ -75017,6 +75017,156 @@
       "key": "m t bank|||2027 management development program commercial product management buffalo ny",
       "location": "buffalo ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:63544628-eb67-4de6-ba3c-597d09cbf355",
+      "key": "serko|||software engineer 1",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:554f65c8-7189-448f-98c8-ddc4539f0066",
+      "key": "dmc engineering|||entry level software engineer",
+      "location": "seattle wa chicago il",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:abb9abecd5b329606d5973ccd642b423cc654fac",
+      "key": "transcore|||software engineer 1 sql development",
+      "location": "nashville tn",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0739e0bb5dc0e2de13ddcc574a0a032f24a845da",
+      "key": "blue origin|||software development engineer 1 early career",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2324a810-93c9-490d-bf45-95f28f9dda1f",
+      "key": "datalab usa|||production programmer entry level sql developer",
+      "location": "germantown md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04e1e32d88b678f117a662",
+      "key": "boston scientific|||software test engineer co op jan aug",
+      "location": "waltham ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0505a57bec27df08f9592f",
+      "key": "bae systems|||software engineer",
+      "location": "hill air force base ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b051f8eb4933fb9f4362ed5",
+      "key": "zachary piper solutions|||cloud support engineer 171830",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b05239713646880439e7064",
+      "key": "serko|||software engineer 1",
+      "location": "seattle washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b05195b7fd2e33bde098dfa",
+      "key": "cgi|||stage cooperatif hiver 2027 developpeur 4 mois",
+      "location": "shawinigan quebec canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04fcd42d88b678f117ac46",
+      "key": "karman industries|||superstar embedded software engineer",
+      "location": "los angeles ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04dafa7fd2e33bde097ec3",
+      "key": "university of michigan information and technology services|||quality assurance analyst associate",
+      "location": "ann arbor mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04f5ce58147eafa29972b2",
+      "key": "matanuska valley federal credit union|||enterprise integration developer",
+      "location": "wasilla ak united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04e44313646880439e62a0",
+      "key": "intuitive|||supply chain it analyst",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b05147e7bec27df08f95c41",
+      "key": "raydar|||product engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04bb7458147eafa2995989",
+      "key": "sorenson communications|||software engineer",
+      "location": "salt lake city ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0532c5627709666ef62c6e",
+      "key": "cwill|||trackingmore r d trainee full stack engineer backend bilingual mandarin",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04e5572d88b678f117a759",
+      "key": "intermountain health|||software engineer staff",
+      "location": "murray ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b03c3d45da88988c83fde75",
+      "key": "hewlett packard enterprise|||embedded software developer entry",
+      "location": "spring tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b050082b4933fb9f4362830",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04dec77fd2e33bde09806e",
+      "key": "stryker|||software developer in test",
+      "location": "portage mi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04fe377fd2e33bde09877c",
+      "key": "lockheed martin|||software engineer application support puerto rico",
+      "location": "aguadilla pr united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b04dd9213646880439e6018",
+      "key": "netgain solutions|||product specialist asset taxation",
+      "location": "lehi ut united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b04da3a2d88b678f117a2e9",
+      "key": "apmex inc|||product development coordinator onsite okc ok",
+      "location": "oklahoma city ok united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b04a6922d88b678f11786ab",
+      "key": "evergreen enterprises|||product development assistant",
+      "location": "richmond va united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
