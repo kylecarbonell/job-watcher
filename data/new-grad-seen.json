@@ -74639,6 +74639,384 @@
       "key": "jpmorganchase|||2027 chase leadership development program full time analyst winter cohort consumer community banking consumer bank financial product focused ny metro columbus",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:84db8e17-900f-400d-8947-fe2a4d952995",
+      "key": "webai|||junior software developer",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fc715e2c-6fea-4801-9eac-1b9b6f433b3e",
+      "key": "shield ai|||software engineer 1 hardware test",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fd49864476edab4d1bd6f84ec5b9088fb690b3df",
+      "key": "american express|||campus undergraduate full time engineer software engineer 1",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9dbfca9af017890f303d512f10c4405dae78f6f8",
+      "key": "shield ai|||software engineer new grad",
+      "location": "seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a5c312a4b06cec7a813ab55926950b31dfbaa00f",
+      "key": "bloom wild group|||junior full stack engineer",
+      "location": "london uk netherlands",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5e921eeb038ae071d7d513f9591cae9e52352148",
+      "key": "nutanix|||software engineer new grad master s bachelor s 2",
+      "location": "vancouver bc canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f83623438fc6f2fcc6a096d2e1293a7d7a8b5d0f",
+      "key": "palantir|||forward deployed software engineer new grad commercial",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f40e5373-6ea4-4692-b638-358366d3f29a",
+      "key": "vanasse hangen brustlin|||entry level transportation safety analyst",
+      "location": "washington washington raleigh nc charlotte nc",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04671f566251ad7b8616a2",
+      "key": "ahold delhaize usa|||fall software engineer distribution transportation co op",
+      "location": "quincy ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04a30013646880439e3e6d",
+      "key": "mantech|||application developer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04c9cc58147eafa29963df",
+      "key": "ibm|||federal associate developer digital product engineering ix",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04a00d58147eafa299448d",
+      "key": "j d irving limited|||computer science student research development summer 2027",
+      "location": "saint john nb canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04b6ed13646880439e4a73",
+      "key": "sorenson communications|||software engineer",
+      "location": "salt lake city ut united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04c2422d88b678f1179869",
+      "key": "milliman|||technical implementation analyst intelliscript remote",
+      "location": "brookfield wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04c9d213646880439e57bc",
+      "key": "ibm|||solution engineer confluent",
+      "location": "lisle il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04c09c13646880439e5187",
+      "key": "aventis solutions|||forward deployed software engineer x3",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04c09813646880439e517c",
+      "key": "prolucid technologies|||junior software engineer developer",
+      "location": "mississauga ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af228d11aaffa49f7382258",
+      "key": "werfen|||software test engineer i",
+      "location": "waukesha wi united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04bd18b4933fb9f4360e34",
+      "key": "delta controls|||junior software qa developer",
+      "location": "surrey british columbia canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04bc617bec27df08f93da1",
+      "key": "indeed|||software engineer i",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04bb88b4933fb9f4360da6",
+      "key": "panthalassa|||computational engineer",
+      "location": "portland or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04b8757bec27df08f93ae7",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04a67658147eafa2994d13",
+      "key": "samdesk|||junior backend engineer features team",
+      "location": "edmonton ab canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04a69b7bec27df08f9314d",
+      "key": "keylogic|||software engineer i",
+      "location": "oak ridge tn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af6033a323c531f31e2f003",
+      "key": "csat solutions lp|||computer test operator",
+      "location": "houston tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04a418b4933fb9f435ff4e",
+      "key": "woodsong technologies llc|||ios savvy cno developer",
+      "location": "fort meade md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04a18b7fd2e33bde095c52",
+      "key": "iridium|||software test engineer i",
+      "location": "chandler az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04a07d2d88b678f1177ea2",
+      "key": "smx|||junior software engineer 5510",
+      "location": "huntsville al united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0498517bec27df08f9253b",
+      "key": "inductive automation|||software solutions engineer i hybrid",
+      "location": "folsom ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0499dd13646880439e3552",
+      "key": "n c department of information technology|||applications systems analyst i information technology division",
+      "location": "wake nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b048dd97fd2e33bde094f24",
+      "key": "ust healthproof|||junior full stack developer data coe",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04701aa72582cade08d83d",
+      "key": "capgemini|||java engineer",
+      "location": "dallas tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b043a4f4c822a415e66f423",
+      "key": "liberty mutual insurance|||software engineer investments technology",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04760621f0a1e0c849b2eb",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "owego ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b044f58566251ad7b860bf5",
+      "key": "american systems|||software tester i",
+      "location": "indian head md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0472e3c8533c23e3c35f1a",
+      "key": "bluestaq australia|||software engineering residency program",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b044be1526905eb2bcf5d0a",
+      "key": "rochester midland corporation|||quality assurance technician",
+      "location": "aurora il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b045edcc8533c23e3c351b5",
+      "key": "culina|||internal only desktop engineer trainee",
+      "location": "warrington england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b044bdfc8533c23e3c348a1",
+      "key": "wyetech llc|||swe 0 software engineer",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b044b5821f0a1e0c8499ba4",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "kitchener on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b044b4321f0a1e0c8499b9e",
+      "key": "pontosense|||junior solutions engineer",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b042ad4526905eb2bcf55bb",
+      "key": "l3harris technologies|||associate software engineering",
+      "location": "yorba linda ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b042735a72582cade08bc16",
+      "key": "vanaways|||junior software engineer",
+      "location": "pill england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a560be2f7517b519ad534aa",
+      "key": "rillet|||design engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0464c421f0a1e0c849a720",
+      "key": "altron inc|||software engineer i",
+      "location": "middletown ri united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b049fb77bec27df08f9291f",
+      "key": "landis gyr|||technical implementation engineer i",
+      "location": "alpharetta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04ac3f2d88b678f1178a29",
+      "key": "delta controls|||junior software qa developer",
+      "location": "surrey bc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04565a566251ad7b860f36",
+      "key": "northrop grumman|||2027 associate software engineer pathways linthicum ma",
+      "location": "linthicum md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b046d0b526905eb2bcf6de9",
+      "key": "food lion|||fall software engineer distribution transportation co op",
+      "location": "quincy ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04b523b4933fb9f4360903",
+      "key": "bae systems|||engineer i ground software",
+      "location": "fairborn oh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0487d5526905eb2bcf7f60",
+      "key": "trustwill|||trackingmore r d trainee full stack engineer backend bilingual mandarin",
+      "location": "cary nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04bb5158147eafa299596c",
+      "key": "scalence l l c|||manual qa tester",
+      "location": "cupertino ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04b89eb4933fb9f4360b55",
+      "key": "lockheed martin|||software engineer early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0465974c822a415e670416",
+      "key": "deloitte|||power platform developer",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b046aa8566251ad7b8618b7",
+      "key": "dollar tree stores|||assortment planner",
+      "location": "chesapeake va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b04b23b58147eafa299544a",
+      "key": "horace mann|||product management analyst",
+      "location": "springfield il united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b04a5602d88b678f117858e",
+      "key": "evergreen enterprises|||product development assistant",
+      "location": "richmond va united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b046df4c8533c23e3c35b57",
+      "key": "ibm|||entry level product manager ibm power austin tx 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b047528c8533c23e3c36005",
+      "key": "jpmorganchase|||2027 chase leadership development program full time analyst winter cohort consumer community banking consumer bank financial product focused ny metro columbus",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b046af34c822a415e67076a",
+      "key": "funnel leasing|||associate product manager",
+      "location": "united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b04559121f0a1e0c849a095",
+      "key": "bny|||senior specialist pom product owner",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b04252b526905eb2bcf54fb",
+      "key": "salesforce|||product manager senior specialist",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b04cb9013646880439e58b5",
+      "key": "m t bank|||2027 management development program commercial product management buffalo ny",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
