@@ -6809,6 +6809,30 @@
       "key": "salesforce|||product manager senior specialist",
       "location": "san francisco ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f83623438fc6f2fcc6a096d2e1293a7d7a8b5d0f",
+      "key": "palantir|||forward deployed software engineer new grad commercial",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04c9cc58147eafa29963df",
+      "key": "ibm|||federal associate developer digital product engineering ix",
+      "location": "washington washington united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b04c9d213646880439e57bc",
+      "key": "ibm|||solution engineer confluent",
+      "location": "lisle il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b046df4c8533c23e3c35b57",
+      "key": "ibm|||entry level product manager ibm power austin tx 2027",
+      "location": "austin tx united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
