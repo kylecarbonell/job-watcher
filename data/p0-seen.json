@@ -6899,6 +6899,12 @@
       "key": "microsoft|||product manager",
       "location": "redmond wa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b06d86ef29eaaf8773f3a45",
+      "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
