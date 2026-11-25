@@ -75677,6 +75677,132 @@
       "key": "olympus corporation|||associate product manager core gi dilation",
       "location": "center valley pa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ec63f9af-9d7b-4d83-859f-b199f9f3c0ac",
+      "key": "appodeal|||junior software engineer",
+      "location": "parkland fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:077e00a6bbd3fb7a9658b38e3dec0a2878f5a68b",
+      "key": "wellabe|||software engineer 1 2 3",
+      "location": "des moines ia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:08ed182c502c61fa05a29e24387d104b9785f159",
+      "key": "united launch alliance|||ground software avionics infrastructure engineer 1",
+      "location": "centennial co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b06d86ef29eaaf8773f3a45",
+      "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b06d35a0cb1362925cf0bfa",
+      "key": "tewkesbury borough council|||digital developer",
+      "location": "tewkesbury england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a56243d53b3962b910ae587",
+      "key": "nooks|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b06832008cc74812e5e9222",
+      "key": "nationwide|||engineer software engineer",
+      "location": "des moines ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b06afb5780d96a5ccba6318",
+      "key": "mj quinn|||junior software engineer",
+      "location": "lancaster england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae9e7f332411b3e5a2e2afe",
+      "key": "parsons corporation|||software engineer i top secret",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6ae15be7829a3bada15fcb86",
+      "key": "brim financial|||junior software engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b067de508cc74812e5e90bd",
+      "key": "identity digital inc|||software engineer i entry level",
+      "location": "bellevue wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b067dd9780d96a5ccba5a98",
+      "key": "identity digital inc|||software engineer i entry level",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b064f7b45a65b5da366f894",
+      "key": "acorn insurance and financial services limited|||backend developer",
+      "location": "liverpool england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b066524780d96a5ccba55af",
+      "key": "tiktok|||backend software engineer data lifecycle management",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b064cd13e56157448ed4ae2",
+      "key": "invoca|||forward deployed engineer",
+      "location": "greater los angeles area",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b05fee045a65b5da366d68e",
+      "key": "eide bailly|||cloud engineer",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b062a7cdbad4c4bd2504d42",
+      "key": "amentum|||software engineer 1",
+      "location": "hanover md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6ae15bed829a3bada15fcb90",
+      "key": "brim financial|||associate product manager",
+      "location": "canada",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b0674f108cc74812e5e8e7f",
+      "key": "rip curl|||rip curl associate product manager",
+      "location": "san clemente ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b045583566251ad7b860ee9",
+      "key": "bny|||senior specialist pom product owner",
+      "location": "jersey city nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b06b4a1fb2f088de7b5c673",
+      "key": "mpb|||product specialist",
+      "location": "brooklyn ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
