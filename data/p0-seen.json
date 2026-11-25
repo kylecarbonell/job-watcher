@@ -6905,6 +6905,18 @@
       "key": "bytedance|||backend and infra software engineer graduate dev infra us 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff7564dd029d798066c48a",
+      "key": "microsoft|||digital cloud solution architect",
+      "location": "ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b073a8bfbcb892eea5e1a0e",
+      "key": "nvidia|||formal verification engineer new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
