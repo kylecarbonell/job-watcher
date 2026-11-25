@@ -75803,6 +75803,282 @@
       "key": "mpb|||product specialist",
       "location": "brooklyn ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:2a123fc0c6ec087759805ac424b984487bc96c3a",
+      "key": "crosscountry consulting|||junior forward deployed software engineer",
+      "location": "mclean va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:b4b753955cb404d44830304017845b1912fb3038",
+      "key": "crosscountry consulting|||junior forward deployed software engineer",
+      "location": "georgia",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c1aae60a6bcdd1d04def48f38c8dfd50ef3426c9",
+      "key": "crosscountry consulting|||junior forward deployed software engineer",
+      "location": "philadelphia pa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:185bb2637a1195b14cc8b6837b922cc333efec91",
+      "key": "appodeal|||junior software engineer",
+      "location": "parkland fl",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c89445487831af48628fddf9b80131515e5a7847",
+      "key": "agave|||full stack software engineer new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0f5182c32d106a3427fea36c91b247a770ef4620",
+      "key": "luxfer mel technologies|||junior data engineer",
+      "location": "swinton manchester uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4d0ba9144106c56a21980",
+      "key": "edmentum|||software engineer i",
+      "location": "bloomington mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0746e1fbcb892eea5e1f3e",
+      "key": "databank|||jr critical infrastructure engineer",
+      "location": "red oak tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b073b3e20135524ca72b1a7",
+      "key": "xpeng|||software engineer computing platform new graduate",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b073a54b624dcc57de78b31",
+      "key": "incorporated research institutions for seismology|||cloud software engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0735c0fbcb892eea5e15df",
+      "key": "vestwell|||associate software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b072ee308b131a5c657868b",
+      "key": "wellstar international trading limited|||junior software developer",
+      "location": "canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b073107b624dcc57de783de",
+      "key": "kiddefenwal|||embedded software engineering co op",
+      "location": "ashland ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b072e0b08b131a5c65785d9",
+      "key": "preferred hotels resorts|||qa tester",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b072dadfbcb892eea5e0f96",
+      "key": "peraton|||redhat cloud engineer jr",
+      "location": "chantilly va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b071d46b624dcc57de778ed",
+      "key": "bae systems|||entry level software engineer",
+      "location": "totowa nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b070e4008b131a5c6577366",
+      "key": "alutiiq llc|||jr programmer draftsman",
+      "location": "colorado springs co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0701a86c5083822fdc5ec1",
+      "key": "arcfield|||software engineer i",
+      "location": "rome ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b06309cdbad4c4bd250506e",
+      "key": "applied materials|||software engineer ii new college grad master s chandler az",
+      "location": "chandler az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07315a6c5083822fdc799c",
+      "key": "dentsu|||messaging developer",
+      "location": "colorado united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b071e78b624dcc57de779a7",
+      "key": "preferred travel group|||qa tester",
+      "location": "chicago il united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b071cfe08b131a5c6577d4b",
+      "key": "baltimore county public schools|||enterprise resource planning business systems software engineer",
+      "location": "towson md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b06ebc62662686ad8e05635",
+      "key": "freetrade|||junior ios engineer",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b05badf707ad7f350539f75",
+      "key": "lockheed martin|||software engineer asc e1",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b070bb12c2b1d2eebe11767",
+      "key": "trideum corporation|||junior software engineer",
+      "location": "fort belvoir va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0549b5627709666ef63223",
+      "key": "l3harris technologies|||associate software engineering",
+      "location": "clifton nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aff7564dd029d798066c48a",
+      "key": "microsoft|||digital cloud solution architect",
+      "location": "ireland",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b05fda20e7eacd1ea64520f",
+      "key": "lockheed martin|||software engineer asc early career",
+      "location": "orlando fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b05c4122835ccc63ff54b05",
+      "key": "lockheed martin|||software engineer associate early career",
+      "location": "king of prussia pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b06ff5f2c2b1d2eebe1123f",
+      "key": "stc an arcfield company|||software engineer i",
+      "location": "rome ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b06fae4fbcb892eea5df4c6",
+      "key": "gridiron it|||business analyst tester",
+      "location": "arlington va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b06dc97f29eaaf8773f3b5f",
+      "key": "city of new york|||design engineer",
+      "location": "long island city ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b073b932c2b1d2eebe1363d",
+      "key": "tigercat industries|||electronic systems software developer",
+      "location": "cambridge on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b071de220135524ca729ee0",
+      "key": "microart services inc|||jr hardware software test developer",
+      "location": "markham on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07487420135524ca72b7b0",
+      "key": "sonos inc|||junior software development engineer web",
+      "location": "boston ma united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0710b220135524ca729658",
+      "key": "rtx|||embedded software engineer",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07494fb624dcc57de7920e",
+      "key": "rtx|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b075075b624dcc57de795f3",
+      "key": "northrop grumman|||2027 associate software quality engineer san diego",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b073a8bfbcb892eea5e1a0e",
+      "key": "nvidia|||formal verification engineer new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07115db624dcc57de7719a",
+      "key": "m t bank|||2027 technology development program software engineering identity risk technology",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b074a6820135524ca72b96e",
+      "key": "m t bank|||2027 technology development program software engineering commercial application development",
+      "location": "buffalo ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b072d5ffbcb892eea5e0f6e",
+      "key": "citi|||technology application development full time analyst mississauga canada 2027",
+      "location": "mississauga on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b05a44bd43f730eab594ba8",
+      "key": "shareforce|||junior front end developer sc cleared",
+      "location": "newcastle upon tyne england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b074a2008b131a5c657964f",
+      "key": "synopsys inc|||asic digital design engineer",
+      "location": "mississauga ontario canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b070f3108b131a5c6577429",
+      "key": "sportradar|||casino meta tagger",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b0748756c5083822fdc86fd",
+      "key": "broadridge|||product analyst proxy meeting services",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
