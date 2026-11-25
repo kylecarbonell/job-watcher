@@ -6881,6 +6881,24 @@
       "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
       "location": "san jose ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0617c371c8f4e3660eb6de",
+      "key": "ibm|||back end software developer tucson az",
+      "location": "tucson az united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b060baa45a65b5da366dc2a",
+      "key": "amazon|||front end engineer 2027 us",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b060b0145a65b5da366db93",
+      "key": "microsoft|||product manager",
+      "location": "redmond wa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
