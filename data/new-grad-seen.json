@@ -76391,6 +76391,84 @@
       "key": "microsoft|||product manager",
       "location": "redmond wa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:bec6f5ffacce9c33066c9d7d9548899393a39bbc",
+      "key": "tiktok|||machine learning engineer new grad search quality",
+      "location": "san jose ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b08720b03dd5bd15ba47691",
+      "key": "boeing|||software engineer developer phantom works weapons associate or experienced",
+      "location": "st charles mo united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b086269cc765a1208d9c22d",
+      "key": "gamemode one|||junior programmer co op",
+      "location": "halifax ns canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0861ae58da992a6cc0c4a6",
+      "key": "bytedance|||software development engineer graduate intent based networking 2027 start",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b084549aa59d5ea1da50fd3",
+      "key": "bytedance|||software engineer seed model infrastructures sre",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b089d3403dd5bd15ba47c7f",
+      "key": "babcock international group|||quality assurance engineer",
+      "location": "plymouth devon united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0831a70bb3d71a6231a55f",
+      "key": "j t|||software engineer active ts sci with full scope polygraph",
+      "location": "fort meade md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b08660358da992a6cc0c595",
+      "key": "capgemini|||associate packaged application test engineer job details capgemini",
+      "location": "atlanta ga united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b083ded0bb3d71a6231a6e8",
+      "key": "microsoft|||software engineer ctj top secret",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b088fd60bd5d5fe945f4e2d",
+      "key": "jerry|||product manager 2x yc founder mentorship",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b086f9658da992a6cc0c791",
+      "key": "sportradar|||casino meta tagger",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b086d7058da992a6cc0c711",
+      "key": "sportradar|||casino meta tagger",
+      "location": "london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b08590358da992a6cc0c2b5",
+      "key": "microsoft|||product manager",
+      "location": "redmond wa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
