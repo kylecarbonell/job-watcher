@@ -76079,6 +76079,234 @@
       "key": "broadridge|||product analyst proxy meeting services",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9c007171-49c7-45fe-ae89-8fbe69996d96",
+      "key": "scout ai|||software engineer new grad core systems",
+      "location": "sunnyvale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:779b777d-ce53-4d90-b231-5b6e23a2a5f7",
+      "key": "wellstar technologies|||junior software developer",
+      "location": "remote in canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:3ef2f622-375f-44e5-a054-a49457ca5a68",
+      "key": "wellstar technologies|||junior software developer",
+      "location": "remote in canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7b405193-1043-4b1d-81b4-45ecafc82cc5",
+      "key": "sonos|||junior software development engineer web",
+      "location": "boston ma seattle wa",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6237ff2d-7436-4949-9292-43ad6ca97359",
+      "key": "parallel web systems|||early career software engineer developer experience",
+      "location": "palo alto ca san francisco new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:32abe7cb-25c6-4d4a-83a5-5f6a2e92ce96",
+      "key": "coderabbit|||software engineer new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ce4b0306-3a42-44c1-8789-44f4d7ba9f45",
+      "key": "scout ai|||ai engineer new grad ai ml and agent harnessing",
+      "location": "sunnyvale ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:65499680-60d8-4f06-a282-494e8dfc0715",
+      "key": "mantech|||junior data analyst",
+      "location": "ashburn va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:5d0adbaf-c34b-4c5b-bcb0-cab03a0c3297",
+      "key": "xpeng motors|||software engineer new grad computing platform",
+      "location": "santa clara ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af4c91b1b2c5dcbbcd6415e",
+      "key": "self financial inc|||associate software engineer",
+      "location": "austin tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07637b6c5083822fdc927b",
+      "key": "can one usa|||assistant programmer assistant erp analyst",
+      "location": "nashua nh united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07860be68b15bbbb5602b7",
+      "key": "scout ai|||new grad software engineer core systems",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0783c7e68b15bbbb56024c",
+      "key": "synergetics|||software engineer cloud platform",
+      "location": "fort collins co united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077e30b624dcc57de7a821",
+      "key": "xnurta|||full stack software engineer level i level ii",
+      "location": "campbell ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077c4d6c5083822fdc9dc5",
+      "key": "spacex|||software engineer high performance computing starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077c4608b131a5c657ac04",
+      "key": "spacex|||software engineer beam planning starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077c12b624dcc57de7a79e",
+      "key": "spacex|||software engineer low latency computing starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077c0920135524ca72ce4d",
+      "key": "spacex|||software engineer high performance computing starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077c04fbcb892eea5e36c0",
+      "key": "spacex|||software engineer starlink network",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077bf420135524ca72ce47",
+      "key": "spacex|||software engineer low latency computing starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077be808b131a5c657abf5",
+      "key": "spacex|||software engineer c starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07714008b131a5c657a975",
+      "key": "runpod|||software engineer full stack multiple levels",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b075a332c2b1d2eebe1437a",
+      "key": "earthscope consortium|||cloud software engineer i",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b076c46fbcb892eea5e31f7",
+      "key": "coderabbit|||software engineer new grad",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07669820135524ca72c636",
+      "key": "mercury insurance|||software engineer i test",
+      "location": "texas united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0767cf2c2b1d2eebe14b74",
+      "key": "xnurta|||full stack software engineer level i level ii",
+      "location": "campbell ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0765d7b624dcc57de79f66",
+      "key": "general atomics|||software developer i",
+      "location": "poway ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b075cea08b131a5c6579d63",
+      "key": "faropoint|||software engineer",
+      "location": "hoboken nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b075c70fbcb892eea5e277b",
+      "key": "rfa engineering|||software engineer test and validation",
+      "location": "dubuque ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b075b0d20135524ca72bf37",
+      "key": "parallel|||early career software engineer developer experience",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b02c4715cc15ec1b42bf516",
+      "key": "databank|||jr critical infrastructure engineer",
+      "location": "red oak tx united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b076a0d6c5083822fdc978a",
+      "key": "mille lacs corporate ventures|||it development engineer 60 000 99 000 annually",
+      "location": "onamia minnesota united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0763372c2b1d2eebe14790",
+      "key": "nvidia|||software engineer hardware tools and methodology new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b078fcac4f040f478a440f2",
+      "key": "intel|||intel foundry device infrastructure development engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0769776c5083822fdc96bf",
+      "key": "humana|||big data software engineer",
+      "location": "louisville ky united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b078d06bdbb485d4ec687a2",
+      "key": "women in tech|||associate product manager",
+      "location": "birmingham england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b07589b20135524ca72be89",
+      "key": "kikoff|||product operations specialist",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b076be820135524ca72c9bb",
+      "key": "plug|||product analyst",
+      "location": "sawtelle los angeles ca united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
