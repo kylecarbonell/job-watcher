@@ -76307,6 +76307,90 @@
       "key": "plug|||product analyst",
       "location": "sawtelle los angeles ca united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:51eeee16621b781cca4ecedb651b0c80053854dc",
+      "key": "monks|||junior data analyst",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a798c5bb17cba5690362eeb",
+      "key": "tiktok usds joint venture|||software engineer graduate e commerce 2027 start",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07d62beb234df35222461d",
+      "key": "cisco|||software engineer",
+      "location": "research triangle park nc united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0817ee0bb3d71a62319e00",
+      "key": "thrivent|||associate engineer qa thrivent asset management",
+      "location": "minneapolis mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb7711fbe13dfb53df44ae",
+      "key": "guidewire software|||software engineer",
+      "location": "exton pa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b080d3503dd5bd15ba45fd5",
+      "key": "waterous|||associate applications developer",
+      "location": "south st paul mn united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afd651222d5c881bd1c0b27",
+      "key": "john deere|||engineer software",
+      "location": "waterloo ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6afcbc6f2ac165125e4cbfef",
+      "key": "fiserv|||android application framework developer device engineering",
+      "location": "sunnyvale ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6a9195633603630099193208",
+      "key": "air apps|||quality assurance analyst",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07a5aee68b15bbbb56092e",
+      "key": "vestweii|||associate software engineer",
+      "location": "buffalo niagara falls area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b07d6920bb3d71a62319020",
+      "key": "vituity|||software engineer i remote nationwide",
+      "location": "united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b0813ea58da992a6cc0b325",
+      "key": "group 1 automotive|||automotive product specialist",
+      "location": "egg harbor nj united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b0813e0aa59d5ea1da5047b",
+      "key": "group 1 automotive|||automotive product specialist",
+      "location": "bowie md united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b08053b0bd5d5fe945f31ea",
+      "key": "microsoft|||product manager",
+      "location": "redmond wa united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
