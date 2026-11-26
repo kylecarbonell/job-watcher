@@ -6983,6 +6983,18 @@
       "key": "microsoft|||product manager",
       "location": "redmond wa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b084549aa59d5ea1da50fd3",
+      "key": "bytedance|||software engineer seed model infrastructures sre",
+      "location": "seattle wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b083ded0bb3d71a6231a6e8",
+      "key": "microsoft|||software engineer ctj top secret",
+      "location": "reston va united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
