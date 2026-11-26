@@ -6917,6 +6917,60 @@
       "key": "nvidia|||formal verification engineer new college grad 2026",
       "location": "santa clara ca united states",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077c4d6c5083822fdc9dc5",
+      "key": "spacex|||software engineer high performance computing starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077c4608b131a5c657ac04",
+      "key": "spacex|||software engineer beam planning starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077c12b624dcc57de7a79e",
+      "key": "spacex|||software engineer low latency computing starlink",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077c0920135524ca72ce4d",
+      "key": "spacex|||software engineer high performance computing starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077c04fbcb892eea5e36c0",
+      "key": "spacex|||software engineer starlink network",
+      "location": "redmond wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077bf420135524ca72ce47",
+      "key": "spacex|||software engineer low latency computing starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b077be808b131a5c657abf5",
+      "key": "spacex|||software engineer c starlink",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0763372c2b1d2eebe14790",
+      "key": "nvidia|||software engineer hardware tools and methodology new college grad 2026",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b078fcac4f040f478a440f2",
+      "key": "intel|||intel foundry device infrastructure development engineer",
+      "location": "hillsboro or united states",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
