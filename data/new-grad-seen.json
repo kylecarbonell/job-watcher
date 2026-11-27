@@ -76505,6 +76505,108 @@
       "key": "isaacmorris|||licensing and product development coordinator",
       "location": "new york ny united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:ca7f77bb2e4d3cf3042f2db70d307d06cf928930",
+      "key": "coderabbit|||software engineer new grad",
+      "location": "san francisco",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b09855cdd884ad2cc58d2e1",
+      "key": "jane street|||software engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0966e1aaf0c31c7c96ea30",
+      "key": "national armaments director group|||digital leadership graduate scheme enterprise architecture",
+      "location": "bristol england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b095c8faaf0c31c7c96e87e",
+      "key": "canfield scientific|||software engineering development cross platform application developer",
+      "location": "parsippany nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b095c6eaaf0c31c7c96e873",
+      "key": "canfield scientific|||software engineering development mobile applications engineer",
+      "location": "parsippany nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b095c53b80cc2b409d843b3",
+      "key": "canfield scientific|||software engineering development 3d graphics software engineer",
+      "location": "parsippany nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b095c485f0c27a3a3ceb50a",
+      "key": "canfield scientific|||software engineering development associate systems test engineer",
+      "location": "parsippany nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b095a520dcf7f64923b3b22",
+      "key": "defence equipment support de s|||digital leadership graduate scheme enterprise architecture",
+      "location": "london england united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b095740aaf0c31c7c96e77d",
+      "key": "deloitte|||oracle hcm cloud core hr analyst",
+      "location": "salt lake city metropolitan area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0956e3dd884ad2cc58cb7f",
+      "key": "deloitte|||oracle hcm cloud core hr analyst",
+      "location": "greater sacramento united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b095488b80cc2b409d84165",
+      "key": "tiktok|||research engineer graduate realtime codec optimizations video codec 2027 start phd",
+      "location": "san diego ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b094d71b694ded56b981b19",
+      "key": "booz allen hamilton|||test engineer",
+      "location": "annapolis junction md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b08ffa05a2fa7070f1902f6",
+      "key": "fujitsu|||duales studium informatik b sc w m d",
+      "location": "greater chicago area united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b097e2bdd884ad2cc58d1b5",
+      "key": "babcock international group|||quality assurance engineer job details babcock",
+      "location": "devonport plymouth united kingdom",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b09856662c6023db302184a",
+      "key": "jane street|||strategy and product specialist",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b0985655f0c27a3a3cebab9",
+      "key": "jane street|||strategy and product",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b0952ba3075e481a8f08929",
+      "key": "vatix|||associate product manager graduate 45k p a",
+      "location": "london united kingdom",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
