@@ -76469,6 +76469,42 @@
       "key": "microsoft|||product manager",
       "location": "redmond wa united states",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4def3c49-c217-4bc0-9d97-163c5f109d02",
+      "key": "orion digital|||junior full stack ai engineer",
+      "location": "remote in canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fc96342b-9d7c-4f3f-a93e-70d935ac86b4",
+      "key": "synectic solutions|||software engineer 1",
+      "location": "norco ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6af60282f10ae27369e15b44",
+      "key": "contentful|||solution engineer",
+      "location": "new york ny united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b08a65703dd5bd15ba47db5",
+      "key": "synectic solutions inc|||software engineer i",
+      "location": "norco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6aeb780082f0ac077443a0c9",
+      "key": "tata consultancy services|||forward deployed engineer",
+      "location": "edison nj united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b08b5e858da992a6cc0d3b0",
+      "key": "isaacmorris|||licensing and product development coordinator",
+      "location": "new york ny united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
