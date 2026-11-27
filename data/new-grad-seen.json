@@ -76607,6 +76607,108 @@
       "key": "vatix|||associate product manager graduate 45k p a",
       "location": "london united kingdom",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a2799120-9f46-4b31-b4da-12df7a0ad473",
+      "key": "tesco|||software development engineer 1",
+      "location": "united kingdom",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b09f3dd0dcf7f64923b5c93",
+      "key": "keywords studios|||video game tester",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b09e939aaf0c31c7c970719",
+      "key": "premier global links llc|||software engineer semiconductor rtl design",
+      "location": "san jose ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b09e751dd884ad2cc58eac1",
+      "key": "connexall|||implementation specialist solutions delivery engineer i",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b09b25862c6023db30223d4",
+      "key": "intercept|||solutions engineering co op",
+      "location": "toronto on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b09c50ddd884ad2cc58e39b",
+      "key": "mercado eletronico|||forward deployed engineer junior",
+      "location": "miami fl united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b09c162aaf0c31c7c96fe52",
+      "key": "carfax canada|||developer co op",
+      "location": "london on canada",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b09bb23aaf0c31c7c96fd91",
+      "key": "vstate filings llc|||jr gtm engineer",
+      "location": "hewlett new york united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b09a8960dcf7f64923b4adb",
+      "key": "wheely|||associate product manager",
+      "location": "west london england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b09c81962c6023db3022921",
+      "key": "jerry|||product manager in training yc cofounder ceo led",
+      "location": "palo alto ca united states",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b09c2205f0c27a3a3cecada",
+      "key": "hm revenue customs|||associate platform product owner",
+      "location": "telford england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b09c1f9dd884ad2cc58e28e",
+      "key": "hm revenue customs|||associate platform product owner",
+      "location": "birmingham england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b09c1f30dcf7f64923b51b1",
+      "key": "hm revenue customs|||associate platform product owner",
+      "location": "manchester england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b09b06e0dcf7f64923b4d15",
+      "key": "lloyds banking group|||assistant product manager",
+      "location": "chester england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b09b7750dcf7f64923b4f28",
+      "key": "hm revenue customs|||associate platform product owner",
+      "location": "leeds england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b09b7485f0c27a3a3cec80c",
+      "key": "hm revenue customs|||associate platform product owner",
+      "location": "newcastle upon tyne england united kingdom",
+      "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b09b2700dcf7f64923b4d79",
+      "key": "intercept|||product co op",
+      "location": "toronto on canada",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
