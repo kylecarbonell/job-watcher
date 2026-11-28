@@ -76871,6 +76871,30 @@
       "key": "keywords studios|||video game tester",
       "location": "montreal qc canada",
       "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:829a57490625c970d5138ed8cd9c66505b783dfb",
+      "key": "sanofi|||product analyst new grad",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0a5955b80cc2b409d87475",
+      "key": "leidos|||quality assurance engineer",
+      "location": "lynnwood wa united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0aa9faaaf0c31c7c971f4e",
+      "key": "collins aerospace|||software engineer i onsite",
+      "location": "cedar rapids ia united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-pm-new-grad:6b0aa778aaf0c31c7c971f13",
+      "key": "iff|||sensory panel leader product experience researcher i",
+      "location": "south brunswick nj united states",
+      "source_key": "jobright-pm-new-grad"
     }
   ]
 }
