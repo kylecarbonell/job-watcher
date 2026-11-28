@@ -76709,6 +76709,168 @@
       "key": "intercept|||product co op",
       "location": "toronto on canada",
       "source_key": "jobright-pm-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:e7a56e11-48f5-48b2-bcd3-6df311579665",
+      "key": "bank of montreal|||software developer new grad",
+      "location": "berkeley heights nj",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:511c6559-6d0c-44d5-8df3-b381fc174aa9",
+      "key": "ciena|||software engineer new grad",
+      "location": "ottawa on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9b05189a-a5ea-4643-bd30-3e3c59a3d9c7",
+      "key": "rtx|||software engineer 1",
+      "location": "binghamton ny",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:285d6dad-a98f-4f84-851a-379844e84930",
+      "key": "rtx|||software engineer 1",
+      "location": "sterling va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:88bd2ae1-e9c5-4a97-ba88-caa1b47e82a9",
+      "key": "applied materials|||software engineer 2 new grad",
+      "location": "chandler az",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:f5dc9e6d-9709-46bb-a327-74e4e2142182",
+      "key": "amentum|||software engineer 1",
+      "location": "hanover md",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9caf7b1f-9df1-45d2-bb43-2b527dfa1135",
+      "key": "sierra nevada corporation|||software engineer 1",
+      "location": "southern pines nc",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:1add0fe7-9c59-469e-a5fc-43d35c7afd20",
+      "key": "sierra nevada corporation|||software engineer 1",
+      "location": "lone tree co",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:41fdc6bf-66b0-47b4-930d-c43bb5409259",
+      "key": "globalfoundries|||analyst new grad data systems and automation",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:a606c133-ef27-45f0-ae38-0ecec64cfee0",
+      "key": "trinzic|||junior software engineer",
+      "location": "beavercreek oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:fd648041-8487-410e-92e0-0bd40514590b",
+      "key": "northwestern mutual|||software engineer 1",
+      "location": "milwaukee wi",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:62e2f602-3291-42e4-898a-a41cefdb0f16",
+      "key": "trinzic|||software engineer 1",
+      "location": "huntsville al",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:8a465eb9-1128-4113-a5cb-04c08382b371",
+      "key": "trinzic|||junior software engineer",
+      "location": "beavercreek oh",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:7ef914c0-ef3d-4be6-978a-8ba60b7f3503",
+      "key": "trinzic|||junior software engineer",
+      "location": "7 locationsking of prussia pa chantilly va san antonio tx clearfield ut columbia md beavercreek oh el segundo ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:c01f81ee899b24a7967134f6eba99715694598cf",
+      "key": "trimble|||junior to mid level front end react engineer",
+      "location": "remote in uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:0bb10b29098c7c6dc7e9fdbbdc13bdd789602902",
+      "key": "citi|||application development analyst new grad",
+      "location": "jersey city nj new york",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:df315241-eb49-45d9-af28-1d1bd4760716",
+      "key": "booz allen|||junior data scientist",
+      "location": "san diego ca",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:9ce6eed2-cad4-48da-bdb7-4d4fdc1c5026",
+      "key": "hitachi|||junior condition monitoring analytics engineer",
+      "location": "london uk",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:4420e94c-e4bd-4f4a-a149-8a281e1fd009",
+      "key": "icf international|||gis analyst entry level",
+      "location": "austin tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:162c0f5d-6857-4d3a-a4af-90820f04e351",
+      "key": "trinzic|||junior data engineer",
+      "location": "reston va",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:315c2499f80632f43c50a1fda8039040349d5b68",
+      "key": "kyndryl|||early career consult program associate data engineer",
+      "location": "frisco tx",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:45578f3a-2615-43e9-b39b-55343edbaa44",
+      "key": "m t bank|||management development program new grad commercial product management",
+      "location": "buffalo ny",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "simplifyjobs-new-grad:6d55d593e08b9479472ade6f632cb6df1a30dbb7",
+      "key": "sanofi|||digital new grad product analyst",
+      "location": "toronto on canada",
+      "source_key": "simplifyjobs-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0a07470dcf7f64923b6171",
+      "key": "allete|||programmer analyst i",
+      "location": "annapolis md united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b0a026662c6023db3023375",
+      "key": "marvell technology|||software firmware engineer early career",
+      "location": "santa clara ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6abde2d84ac55253f5d5f16f",
+      "key": "raydar|||software engineer",
+      "location": "san francisco ca united states",
+      "source_key": "jobright-swe-new-grad"
+    },
+    {
+      "id": "jobright-swe-new-grad:6b09fcdc5f0c27a3a3ced67e",
+      "key": "keywords studios|||video game tester",
+      "location": "montreal qc canada",
+      "source_key": "jobright-swe-new-grad"
     }
   ]
 }
